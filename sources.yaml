@@ -1,0 +1,32 @@
+# Edit this file to manage your source list. One entry per source.
+# After editing, push to GitHub — the next scheduled run picks it up.
+# Adding a new feed = one line (url) + one line (name). No code change needed.
+
+tech_global:
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - name: Hacker News (front page)
+    url: https://hnrss.org/frontpage
+
+tech_japan:
+  - name: ITmedia NEWS
+    url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
+  - name: GIGAZINE
+    url: https://gigazine.net/news/rss_2.0/
+  - name: ASCII.jp
+    url: https://ascii.jp/rss.xml
+  - name: PC Watch
+    url: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
+
+jobs_japan:
+  - name: r/japanlife
+    url: https://www.reddit.com/r/japanlife/.rss
+  - name: r/movingtojapan
+    url: https://www.reddit.com/r/movingtojapan/.rss
+  # Add note.com tag feeds, Wantedly company feeds, YouTube channel
+  # RSS (https://www.youtube.com/feeds/videos.xml?channel_id=...) here
+  # once you've identified specific creators/companies to follow.

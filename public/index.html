@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="NewsKit">
+  <meta name="description" content="Personal news & 就活 feed aggregator">
+  <title>NewsKit</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <h1 class="app-title">NewsKit</h1>
+    <span id="last-updated" class="last-updated"></span>
+  </header>
+
+  <nav class="cat-nav" aria-label="Category filters">
+    <button class="cat-toggle" data-cat="tech_global">Tech Global</button>
+    <button class="cat-toggle" data-cat="tech_japan">Tech Japan</button>
+    <button class="cat-toggle" data-cat="jobs_japan">就活</button>
+  </nav>
+
+  <main id="feed-container">
+    <p class="status-msg">Loading…</p>
+  </main>
+
+  <div id="install-banner" class="install-banner" hidden>
+    <span>Install: Safari → <strong>Share</strong> → "Add to Home Screen"</span>
+    <button id="dismiss-banner" class="dismiss-btn" aria-label="Dismiss">✕</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
