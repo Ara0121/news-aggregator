@@ -23,10 +23,17 @@ tech_japan:
     url: https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf
 
 jobs_japan:
-  - name: r/japanlife
-    url: https://www.reddit.com/r/japanlife/.rss
-  - name: r/movingtojapan
-    url: https://www.reddit.com/r/movingtojapan/.rss
-  # Add note.com tag feeds, Wantedly company feeds, YouTube channel
-  # RSS (https://www.youtube.com/feeds/videos.xml?channel_id=...) here
-  # once you've identified specific creators/companies to follow.
+  - name: Qiita #就活
+    url: https://qiita.com/tags/%E5%B0%B1%E6%B4%BB/feed
+  - name: Qiita #転職
+    url: https://qiita.com/tags/%E8%BB%A2%E8%81%B7/feed
+  - name: Zenn #転職
+    url: https://zenn.dev/topics/%E8%BB%A2%E8%81%B7/feed
+  - name: note #転職
+    url: https://note.com/hashtag/%E8%BB%A2%E8%81%B7/rss
+  - name: note #エンジニア転職
+    url: https://note.com/hashtag/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%BB%A2%E8%81%B7/rss
+  - name: note #就活
+    url: https://note.com/hashtag/%E5%B0%B1%E6%B4%BB/rss
+  # Add Wantedly company feeds or YouTube channel RSS here:
+  # https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID

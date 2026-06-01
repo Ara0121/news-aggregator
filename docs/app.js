@@ -2,10 +2,10 @@
 
 const FEED_URL = 'data/feed.json';
 
-const CATEGORY_LABELS = {
-  tech_global: 'Tech Global',
-  tech_japan: 'Tech Japan（日本）',
-  jobs_japan: '就活 / 転職',
+const CATEGORIES = {
+  tech_global: { label: 'Tech Global',   icon: '🌐' },
+  tech_japan:  { label: 'Tech Japan',    icon: '🇯🇵' },
+  jobs_japan:  { label: '就活 / 転職',   icon: '💼' },
 };
 
 // ── localStorage helpers ──────────────────────────────────────────────────────
@@ -59,7 +59,7 @@ function formatAge(isoStr) {
   if (mins  <  60) return `${mins}m ago`;
   if (hours <  24) return `${hours}h ago`;
   if (days  <  30) return `${days}d ago`;
-  return new Date(isoStr).toLocaleDateString();
+  return new Date(isoStr).toLocaleDateString('ja-JP');
 }
 
 // ── Rendering ─────────────────────────────────────────────────────────────────
@@ -79,9 +79,11 @@ function buildCard(item, readItems) {
       <a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>
     </h3>
     ${item.summary ? `<p class="item-summary">${esc(item.summary)}</p>` : ''}
-    <button class="mark-read-btn" data-id="${esc(item.id)}">
-      ${isRead ? '✓ Read' : 'Mark read'}
-    </button>
+    <div class="item-footer">
+      <button class="mark-read-btn" data-id="${esc(item.id)}">
+        ${isRead ? '✓ 既読' : '既読にする'}
+      </button>
+    </div>
   `;
 
   article.querySelector('.mark-read-btn').addEventListener('click', e => {
@@ -97,7 +99,7 @@ function buildCard(item, readItems) {
     saveReadItems(ids);
     const nowRead = ids.has(id);
     article.classList.toggle('read', nowRead);
-    btn.textContent = nowRead ? '✓ Read' : 'Mark read';
+    btn.textContent = nowRead ? '✓ 既読' : '既読にする';
   });
 
   return article;
@@ -107,7 +109,7 @@ function renderFeed(categories, readItems, toggles) {
   const container = document.getElementById('feed-container');
   container.innerHTML = '';
 
-  for (const [catKey, label] of Object.entries(CATEGORY_LABELS)) {
+  for (const [catKey, { label, icon }] of Object.entries(CATEGORIES)) {
     const items = categories[catKey] || [];
 
     const section = document.createElement('section');
@@ -117,7 +119,7 @@ function renderFeed(categories, readItems, toggles) {
 
     const heading = document.createElement('h2');
     heading.className = 'cat-heading';
-    heading.textContent = label;
+    heading.innerHTML = `<span>${icon}</span> ${esc(label)}`;
     section.appendChild(heading);
 
     if (items.length === 0) {

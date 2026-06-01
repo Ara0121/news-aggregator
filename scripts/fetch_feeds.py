@@ -7,6 +7,7 @@ import hashlib
 import json
 import logging
 import re
+import socket
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -27,6 +28,9 @@ PER_CATEGORY_CAP = 50
 SUMMARY_MAX_CHARS = 280
 FETCH_TIMEOUT = 10
 USER_AGENT = "NewsAggregator/1.0 (personal RSS reader; +https://github.com)"
+
+
+socket.setdefaulttimeout(FETCH_TIMEOUT)
 
 
 def load_sources():
