@@ -2,6 +2,14 @@
   "categories": {
     "jobs_japan": [
       {
+        "id": "329302de19929fbeae4047b8950f5a1093ddd46a",
+        "published": "2026-06-01T04:02:21+00:00",
+        "source": "r/japanlife",
+        "summary": "I’ve been in Osaka (I live in wakayama) for uni stuff this weekend and the hostel I was staying at had some really fun staff who I chatted to for a bit and ended up going out clubbing with. They were surprised I spoke Japanese as many of the hostel goers are international tourist…",
+        "title": "How normal is it to give a Japanese guy your number?",
+        "url": "https://www.reddit.com/r/japanlife/comments/1ttgwgp/how_normal_is_it_to_give_a_japanese_guy_your/"
+      },
+      {
         "id": "e34598ea7ec1db8de8d6e11b133a56c050e4dbd6",
         "published": "2026-06-01T02:24:56+00:00",
         "source": "r/japanlife",
@@ -122,14 +130,6 @@
         "url": "https://www.reddit.com/r/japanlife/comments/1tsrskz/safe_driving_in_tokyo/"
       },
       {
-        "id": "d78d4abef7e4d9dca9c71c8cb90183853f1bc91e",
-        "published": "2026-05-31T09:50:10+00:00",
-        "source": "r/japanlife",
-        "summary": "I was a victim of the same scam this user explains here: https://www.reddit.com/r/japanlife/comments/1lujsnp/heads_up_whatsapp_scam_targeting_japanese_users/?show=original But no one in the comments or the post mentions what to actually do when you get hacked like that. How to re…",
-        "title": "Whatsapp account hacked, how to recover it?",
-        "url": "https://www.reddit.com/r/japanlife/comments/1tsqxak/whatsapp_account_hacked_how_to_recover_it/"
-      },
-      {
         "id": "e57496c6525571ba7b9a3c96440a4b21949861f3",
         "published": "2026-05-31T09:47:10+00:00",
         "source": "r/japanlife",
@@ -167,7 +167,7 @@
         "id": "f5bd2ede9536c90a1efd633bbbc4fd7cb44434bf",
         "published": "2026-06-01T02:03:03+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a Comments URL: https://news.ycombinator.com/item?id=48351858 Points: 27 # Comments: 10",
+        "summary": "Article URL: https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a Comments URL: https://news.ycombinator.com/item?id=48351858 Points: 35 # Comments: 13",
         "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
         "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a"
       },
@@ -199,7 +199,7 @@
         "id": "6b487aade17f52676d611bea29fc40245057e74c",
         "published": "2026-05-31T22:59:50+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ Comments URL: https://news.ycombinator.com/item?id=48350598 Points: 110 # Comments: 102",
+        "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/ Comments URL: https://news.ycombinator.com/item?id=48350598 Points: 110 # Comments: 106",
         "title": "Chuwi Minibook X: the netbook we deserve",
         "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/"
       },
@@ -207,7 +207,7 @@
         "id": "f4dd2d4cc10cd3845658c0665bec2339b4864a8c",
         "published": "2026-05-31T21:57:48+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/ Comments URL: https://news.ycombinator.com/item?id=48350149 Points: 128 # Comments: 94",
+        "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/ Comments URL: https://news.ycombinator.com/item?id=48350149 Points: 132 # Comments: 101",
         "title": "It's Not Just X. It's Y",
         "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/"
       },
@@ -226,6 +226,14 @@
         "summary": "Environmental activist Erin Brockovich has a new mission.",
         "title": "Erin Brockovich takes aim at data center secrecy",
         "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
+      },
+      {
+        "id": "eb5c56210cd4e7980e4de1f2fcb67263d7562590",
+        "published": "2026-05-31T20:35:38+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration Comments URL: https://news.ycombinator.com/item?id=48349487 Points: 107 # Comments: 40",
+        "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration"
       },
       {
         "id": "a4b9705e2ba4c05eec0f471ec988e5195834aad6",
@@ -247,7 +255,7 @@
         "id": "bd8106fbd9c387aff17dd97b2defa07409a0b394",
         "published": "2026-05-31T19:27:44+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 172 # Comments: 99",
+        "summary": "Article URL: https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/ Comments URL: https://news.ycombinator.com/item?id=48348864 Points: 174 # Comments: 104",
         "title": "'Backrooms' Stuns with $81M Debut",
         "url": "https://variety.com/2026/film/box-office/backrooms-box-office-record-opening-weekend-obsession-jumps-star-wars-crumbles-1236763355/"
       },
@@ -255,7 +263,7 @@
         "id": "fcde99fa3b4a6f4bbd7d6c2de9fea6816ec2025f",
         "published": "2026-05-31T19:14:23+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/ Comments URL: https://news.ycombinator.com/item?id=48348737 Points: 39 # Comments: 10",
+        "summary": "Article URL: https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/ Comments URL: https://news.ycombinator.com/item?id=48348737 Points: 40 # Comments: 10",
         "title": "The History of \"Prisencolinensinainciusol\"",
         "url": "https://dirkdeklein.net/2026/02/03/the-fascinating-history-of-prisencolinensinainciusol-the-nonsense-song-that-became-a-global-hit/"
       },
@@ -263,7 +271,7 @@
         "id": "1fcb0ac975cc209a22cd50a53ab4478ecb37301b",
         "published": "2026-05-31T18:57:48+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 410 # Comments: 203",
+        "summary": "Article URL: https://twitter.com/i/status/2060746160558543217 Comments URL: https://news.ycombinator.com/item?id=48348578 Points: 419 # Comments: 207",
         "title": "Codex just found a \"workaround\" of not having sudo on my PC",
         "url": "https://twitter.com/i/status/2060746160558543217"
       },
@@ -271,7 +279,7 @@
         "id": "92a488dd6a72b8c88d20b4158f68a725e31a4ebe",
         "published": "2026-05-31T18:43:05+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 73 # Comments: 13",
+        "summary": "Article URL: https://github.com/viggy28/streambed Comments URL: https://news.ycombinator.com/item?id=48348429 Points: 73 # Comments: 14",
         "title": "Show HN: Streambed – Stream Postgres to Iceberg on S3, Supports Postgres Wire",
         "url": "https://github.com/viggy28/streambed"
       },
@@ -295,7 +303,7 @@
         "id": "0398cad9a45351a85a9aaa3dedb961619574b59e",
         "published": "2026-05-31T17:58:15+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://lwn.net/Articles/104185/ Comments URL: https://news.ycombinator.com/item?id=48347961 Points: 67 # Comments: 51",
+        "summary": "Article URL: https://lwn.net/Articles/104185/ Comments URL: https://news.ycombinator.com/item?id=48347961 Points: 67 # Comments: 52",
         "title": "Re: [PATCH] OOM_pardon, a.k.a. don't kill my xlock (2004)",
         "url": "https://lwn.net/Articles/104185/"
       },
@@ -303,17 +311,9 @@
         "id": "c13e753add11c309fbfb84428b38bb275655749f",
         "published": "2026-05-31T17:02:23+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 142 # Comments: 224",
+        "summary": "Article URL: https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/ Comments URL: https://news.ycombinator.com/item?id=48347354 Points: 147 # Comments: 230",
         "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
         "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/"
-      },
-      {
-        "id": "bdd8a1b799ef0ccf22f82a2da08bb4f9358af104",
-        "published": "2026-05-31T16:37:34+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://darylcecile.net/notes/speed-of-prototyping-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48347153 Points: 125 # Comments: 66",
-        "title": "The Speed of Prototyping in the Age of AI",
-        "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai"
       },
       {
         "id": "1c46f8ee3897fa9c7b2ab26adf59568f650d2b41",
@@ -485,6 +485,22 @@
       }
     ],
     "tech_japan": [
+      {
+        "id": "c9fb5d7b72c514e260ee14fda323c6a5f81e7ac9",
+        "published": "2026-06-01T03:54:01+00:00",
+        "source": "PC Watch",
+        "summary": "さくらインターネットや東京大学ら10者は5月28日、医療業務支援向けとなる高性能な日本語大規模言語モデル(LLM)を開発したと発表した。これは、新エネルギー・産業技術総合開発機構(NEDO)が推進する事業の一環として開発された。",
+        "title": "医療現場の事務作業をLLMで支援、商用レベルに迫る特化型AI登場",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2113333.html"
+      },
+      {
+        "id": "b32a9fbb1bf6d52ec6f1a808aa7938921e851481",
+        "published": "2026-06-01T03:54:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "AIの性能評価と聞くと、問題を解かせて正答率やスコアを見る「ベンチマーク」を思い浮かべる人が多いはず。しかしOpenAIは、AIがツールを使い、複数の手順を踏み、外部環境に働きかけるようになったことで、単純な「質問に回答させるテスト」だけではAIの能力や安全性を正しく測れなくなっていると説明しています。 続きを読む...",
+        "title": "OpenAIが「AIの能力は正しく測れていない可能性がある」と訴える",
+        "url": "https://gigazine.net/news/20260601-openai-third-party-evaluations/"
+      },
       {
         "id": "4ebcaf7d401d64d7037e58ceb344a8266565d8bb",
         "published": "2026-06-01T03:35:00+00:00",
@@ -750,28 +766,12 @@
         "url": "https://gigazine.net/news/20260601-apple-strategy-smart-glasses/"
       },
       {
-        "id": "2024c38e730d7c413bfa2337a9d5925759f3d8f0",
-        "published": "2026-06-01T01:33:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "OpenAIのコーディングエージェント「Codex」にはPCを自動操作できる「Computer Use」という機能が備わっています。これまではComputer UseはmacOSにのみ対応していたのですが、2025年5月29日に実施されたアップデートによりWindowsでも使用可能となりました。 続きを読む...",
-        "title": "CodexがWindowsの自動操作に対応、自動でペイントで絵を描いたりブラウザを操作したりできる",
-        "url": "https://gigazine.net/news/20260601-codex-windows-computer-use/"
-      },
-      {
         "id": "10977b9adc59ef376a022387ca97d32af29fbe71",
         "published": "2026-06-01T01:28:41+00:00",
         "source": "PC Watch",
         "summary": "Amazonは5月27日から6月2日までスマイルSaleを開催中だ。KEEPTIMEのモバイルモニター「S156」が、1万844円引きとなる2万5,155円で購入できる。",
         "title": "【本日みつけたお買い得品】フルHD×2画面のモバイルモニターが1万844円引き！",
         "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113222.html"
-      },
-      {
-        "id": "9692356a1b461bddc859368814cf9e89432b682d",
-        "published": "2026-06-01T00:57:32+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonは5月27日から6月2日までスマイルSaleを開催中だ。レノボのノートPC「IdeaPad Slim 3(83K700H7JP)」が、3万7,980円引きとなる10万4,800円で購入できる。",
-        "title": "【本日みつけたお買い得品】約3万8千円引き！Ryzen搭載ノートPCがお買い得",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113206.html"
       },
       {
         "id": "c666ed6b046b3b3e1d873d1faed80708d68b8911",
@@ -807,5 +807,5 @@
       }
     ]
   },
-  "generated_at": "2026-06-01T03:52:31.504257+00:00"
+  "generated_at": "2026-06-01T04:03:41.370281+00:00"
 }
