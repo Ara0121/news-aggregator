@@ -20,7 +20,7 @@ log = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).parent.parent
 SOURCES_FILE = REPO_ROOT / "sources.yaml"
-OUTPUT_FILE = REPO_ROOT / "public" / "data" / "feed.json"
+OUTPUT_FILE = REPO_ROOT / "docs" / "data" / "feed.json"
 
 PER_SOURCE_CAP = 10
 PER_CATEGORY_CAP = 50

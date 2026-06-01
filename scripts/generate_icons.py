@@ -7,7 +7,7 @@ import struct
 import zlib
 from pathlib import Path
 
-ICONS_DIR = Path(__file__).parent.parent / "public" / "icons"
+ICONS_DIR = Path(__file__).parent.parent / "docs" / "icons"
 
 
 def make_png(width, height, r, g, b):
