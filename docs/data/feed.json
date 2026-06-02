@@ -84,6 +84,222 @@
     ],
     "tech_global": [
       {
+        "id": "be3fb0c6207fb841e518cec9d8d52883d4e5f7f0",
+        "published": "2026-06-02T22:50:56+00:00",
+        "source": "TechCrunch",
+        "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+        "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/"
+      },
+      {
+        "id": "dbefa1f25cb23efec9b7fd6100d3be069c9bbab4",
+        "published": "2026-06-02T22:16:20+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://gleam.run/news/single-file-gleam-beam-programs-with-escript/ Comments URL: https://news.ycombinator.com/item?id=48377080 Points: 32 # Comments: 2",
+        "title": "Gleam v1.17.0 Released",
+        "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/"
+      },
+      {
+        "id": "c61321a4e0cb9f9df26c2b4b2896646bbd38389d",
+        "published": "2026-06-02T22:16:08+00:00",
+        "source": "The Verge",
+        "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica Studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch. T…",
+        "title": "God of War Laufey is coming to the PS5",
+        "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer"
+      },
+      {
+        "id": "d3623f5e6273e2c7000968de611231cdc43b057f",
+        "published": "2026-06-02T21:55:32+00:00",
+        "source": "The Verge",
+        "summary": "Control Resonant, the upcoming sequel to Remedy Entertainment's Control, will be released on September 24th, 2026, according to a trailer that premiered during Tuesday's PlayStation State of Play show. The trailer also gave a preview of the game's story, which stars Dylan Faden,…",
+        "title": "Remedy’s Control sequel launches in September",
+        "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer"
+      },
+      {
+        "id": "11bd72e536727f19b57b9a782937e0a56db6c123",
+        "published": "2026-06-02T21:11:46+00:00",
+        "source": "The Verge",
+        "summary": "At its big State of Play show on Tuesday, Sony shared new look Marvel's Wolverine, the next big title from Insomniac Games that's launching exclusively on PS5 on September 15th. Dressed in the iconic yellow Wolverine outfit, Logan slunk around and stabbed his way through a bunch…",
+        "title": "Heres seven bloody minutes of Wolverine on the PS5",
+        "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026"
+      },
+      {
+        "id": "d14e8f009bf8fb497de75d2041a1e4a12ad35e5f",
+        "published": "2026-06-02T20:47:54+00:00",
+        "source": "Ars Technica",
+        "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+        "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+        "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/"
+      },
+      {
+        "id": "290ac9b512efe7ffaaf77363d967021920fa7954",
+        "published": "2026-06-02T20:40:00+00:00",
+        "source": "The Verge",
+        "summary": "While the majority of Summer Game Fest takes place over the weekend, Sony is getting a jump on things with its next State of Play showcase, which airs on June 2nd at 5PM ET. Its coming at a pivotal time for the PlayStation brand: The PS5 keeps getting more expensive and Sonys big…",
+        "title": "PlayStation State of Play June 2026: All the news and trailers",
+        "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers"
+      },
+      {
+        "id": "3f5a51c4b913520ba5c4329e08df5641e5a449fb",
+        "published": "2026-06-02T20:30:08+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.lumafield.com/scan-of-the-month/byd Comments URL: https://news.ycombinator.com/item?id=48375824 Points: 123 # Comments: 44",
+        "title": "CT scans of BYD car parts",
+        "url": "https://www.lumafield.com/scan-of-the-month/byd"
+      },
+      {
+        "id": "c943eed240df4187b57319712263e7c3d51ede42",
+        "published": "2026-06-02T20:20:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Over the last few months, these DIY hardware communities have exploded in popularity as people on social media show off their solar-powered game emulators, pocket-sized ereaders, and clamshell purse computers.",
+        "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+        "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/"
+      },
+      {
+        "id": "0e2d2563eae040bbf244d31a972154cc7d71f9bf",
+        "published": "2026-06-02T20:19:11+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/ Comments URL: https://news.ycombinator.com/item?id=48375673 Points: 22 # Comments: 4",
+        "title": "RSS is back. AI agents are reading it",
+        "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/"
+      },
+      {
+        "id": "9154f34a26d4ee0a88fa551c80477e5e3a3dc6f2",
+        "published": "2026-06-02T20:17:41+00:00",
+        "source": "Ars Technica",
+        "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
+        "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+        "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/"
+      },
+      {
+        "id": "8684594a10ae9815d79ca8a88d76f2f8afad130a",
+        "published": "2026-06-02T19:56:46+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.acdw.net/clojure/ Comments URL: https://news.ycombinator.com/item?id=48375393 Points: 55 # Comments: 21",
+        "title": "My thoughts after using Clojure for about a month",
+        "url": "https://www.acdw.net/clojure/"
+      },
+      {
+        "id": "38df7fa3885f4b82a0ddd0f9b258e29a405472d5",
+        "published": "2026-06-02T19:56:02+00:00",
+        "source": "The Verge",
+        "summary": "Intel couldn't catch a break. Layoffs. Shakedowns. Crashing CPUs torpedoing its reputation, sending desktop gamers fleeing to AMD. Apple and Qualcomm pushing Intel out of multiple flagship laptops. A gaming graphics card going MIA. But its Panther Lake laptop chip, the first on i…",
+        "title": "I held the next-gen handheld",
+        "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview"
+      },
+      {
+        "id": "7d9c2e0b1b13e19f597d6f7d77fe96519fecab34",
+        "published": "2026-06-02T19:54:14+00:00",
+        "source": "Ars Technica",
+        "summary": "Neanderthals had some wild stuff in their toolkits.",
+        "title": "If I had a hammer... it might actually be a rhino tooth",
+        "url": "https://arstechnica.com/science/2026/06/experiments-reveal-that-neanderthals-used-rhino-teeth-as-hammers/"
+      },
+      {
+        "id": "3dac76452fdbb016920b4b1ce83a20d9374cd0e0",
+        "published": "2026-06-02T19:39:25+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/ Comments URL: https://news.ycombinator.com/item?id=48375175 Points: 100 # Comments: 31",
+        "title": "The advertising cartel coming to your web browser",
+        "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/"
+      },
+      {
+        "id": "9c62493edd2ce77e14002dccaadce2f236c9cbec",
+        "published": "2026-06-02T19:37:10+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://openrepair.org/open-data/open-standard/ Comments URL: https://news.ycombinator.com/item?id=48375150 Points: 67 # Comments: 2",
+        "title": "Open Repair Data Standard – Open Repair Alliance",
+        "url": "https://openrepair.org/open-data/open-standard/"
+      },
+      {
+        "id": "80f591f296513f2ea4db4de1c693763391e9475a",
+        "published": "2026-06-02T19:27:40+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://moddedbear.com/gmail-thinks-im-stupid-so-i-left Comments URL: https://news.ycombinator.com/item?id=48375016 Points: 469 # Comments: 272",
+        "title": "Gmail thinks I'm stupid, so I left",
+        "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left"
+      },
+      {
+        "id": "1317a58a147d30dd0c03a83be67b62d1a096c673",
+        "published": "2026-06-02T19:23:52+00:00",
+        "source": "The Verge",
+        "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn…",
+        "title": "Microsoft Build 2026: The 7 biggest announcements",
+        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements"
+      },
+      {
+        "id": "7f9fddadd6b68c0e2130469975fa8f7c8882262a",
+        "published": "2026-06-02T19:11:48+00:00",
+        "source": "TechCrunch",
+        "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+        "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
+      },
+      {
+        "id": "6446cb1041e4320536933fa6ccfbcefb02a323f4",
+        "published": "2026-06-02T19:02:40+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://hpcalcs.com/product/hp-16c-collectors-edition/ Comments URL: https://news.ycombinator.com/item?id=48374685 Points: 87 # Comments: 58",
+        "title": "HP re-releases classic computer science calculator: The HP-16C",
+        "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/"
+      },
+      {
+        "id": "116f0f9c907cd802cac758ee916adb0d32c341e2",
+        "published": "2026-06-02T19:02:27+00:00",
+        "source": "Ars Technica",
+        "summary": "The National Center for Atmospheric Research won't be losing its supercomputer.",
+        "title": "Feds failing in bid to take a supercomputer from a climate research center",
+        "url": "https://arstechnica.com/science/2026/06/judge-blocks-part-of-trump-admins-effort-to-hurt-colorado-research-center/"
+      },
+      {
+        "id": "908f145551698926c8d9e64079eb5f6e476f96ad",
+        "published": "2026-06-02T19:02:21+00:00",
+        "source": "TechCrunch",
+        "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+        "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+        "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+      },
+      {
+        "id": "26b1d34fd1a9988b3ae202d24f8d68fc2622e6d6",
+        "published": "2026-06-02T18:51:09+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Hi HN, we’re Rishi and Sahil. We’ve developed Rudus ( https://www.rudus.ai/ ), an AI-powered takeoff and estimation platform built for concrete subcontractors. Takeoff is the process of measuring and quantifying materials from concrete plan sheets. Rudus identifies every concrete…",
+        "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
+        "url": "https://news.ycombinator.com/item?id=48374528"
+      },
+      {
+        "id": "616b3e293b580bf5f70a1024be0992d3dc6f2c1c",
+        "published": "2026-06-02T18:47:07+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "https://microsoft.ai/models/mai-code-1-flash/ https://microsoft.ai/pdf/MAI-Code-1-Flash-Model-Card.PDF Launching seven new MAI models: https://microsoft.ai/news/building-a-hillclimbing-machine-la... Comments URL: https://news.ycombinator.com/item?id=48374466 Points: 306 # Comment…",
+        "title": "MAI-Code-1-Flash",
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/"
+      },
+      {
+        "id": "10e299e4765bda70bf1de3f9cba8c0dca4e644a0",
+        "published": "2026-06-02T18:33:42+00:00",
+        "source": "The Verge",
+        "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.…",
+        "title": "Trump signs executive order to review AI models before they’re released",
+        "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order"
+      },
+      {
+        "id": "11537f35ca93fa792d4e5d5b35850d24b890449f",
+        "published": "2026-06-02T18:31:22+00:00",
+        "source": "TechCrunch",
+        "summary": "A new reading subscription from Everand offers access to both e-books and audiobooks, and Fable's book club community.",
+        "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
+        "url": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/"
+      },
+      {
+        "id": "a8e804a146bda4fcb88adc697054b3eb5ee98ad4",
+        "published": "2026-06-02T18:19:06+00:00",
+        "source": "Ars Technica",
+        "summary": "International Mathematical Union endorses warning about tech industry influence.",
+        "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+        "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/"
+      },
+      {
         "id": "075926a9117b5c4a393f88c355dbdc20eb02fa06",
         "published": "2026-06-02T18:16:53+00:00",
         "source": "TechCrunch",
@@ -108,14 +324,6 @@
         "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026"
       },
       {
-        "id": "dfa9263af27bea2edc70f3d8312cc0d5dcb71b10",
-        "published": "2026-06-02T18:09:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/ Comments URL: https://news.ycombinator.com/item?id=48373909 Points: 11 # Comments: 3",
-        "title": "Morningstar values SpaceX at $780B, half its IPO target",
-        "url": "https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/"
-      },
-      {
         "id": "177592f217e36052aab32c747d22495d8f9bb884",
         "published": "2026-06-02T18:05:35+00:00",
         "source": "The Verge",
@@ -136,7 +344,7 @@
         "published": "2026-06-02T18:00:46+00:00",
         "source": "Ars Technica",
         "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-        "title": "Google announces deepfake call detection for Android, new AirDrop device support",
+        "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
         "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/"
       },
       {
@@ -159,25 +367,9 @@
         "id": "693c9d711865a735e36127bdfabb33f2aa18b599",
         "published": "2026-06-02T18:00:00+00:00",
         "source": "TechCrunch",
-        "summary": "The specification lets developer, compliance and security teams define their own policies for agents to follow in portable policy files.",
+        "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
         "title": "Microsoft offers devs a better way to control AI agent behavior",
         "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/"
-      },
-      {
-        "id": "035c903e2c7b0063035af304cd1dfb89c67c2ee0",
-        "published": "2026-06-02T18:00:00+00:00",
-        "source": "The Verge",
-        "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organiz…",
-        "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-        "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw"
-      },
-      {
-        "id": "76f0d9acd80242c78dc6876d831de541952f17dd",
-        "published": "2026-06-02T18:00:00+00:00",
-        "source": "The Verge",
-        "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you ca…",
-        "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-        "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation"
       },
       {
         "id": "6493b21051af001f0f783af0a6fdcf275fd81adb",
@@ -188,124 +380,12 @@
         "url": "https://arstechnica.com/culture/2026/06/the-truth-lies-in-the-past-in-silo-s3-trailer/"
       },
       {
-        "id": "5b9300184c5d14f6baea7ed2b5752ede39788483",
-        "published": "2026-06-02T17:48:33+00:00",
-        "source": "The Verge",
-        "summary": "A glass screen protector is one of a few essential accessories that I strongly recommend to every Switch 2 owner. In fact, it should be a priority to stick one onto the console’s screen as soon as possible to avoid accidental scratches. To test the candidates below, I installed a…",
-        "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
-        "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte"
-      },
-      {
-        "id": "51a6f2f1f6da364110f96980f611bfc4a8adef20",
-        "published": "2026-06-02T17:47:28+00:00",
-        "source": "TechCrunch",
-        "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-        "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-        "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/"
-      },
-      {
-        "id": "dcf96489a383f0e46ddc4abbefaed52f46b66374",
-        "published": "2026-06-02T17:44:05+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/ Comments URL: https://news.ycombinator.com/item?id=48373544 Points: 5 # Comments: 0",
-        "title": "Anthropic scales Claude Mythos to critical infrastructure in 15 countries",
-        "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/"
-      },
-      {
-        "id": "fbea72f656f2ac46efa86b4c2eae81f20487819b",
-        "published": "2026-06-02T17:40:15+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Hi HN, I'm one of the founders of s2.dev. RePlaya ( https://github.com/s2-streamstore/replaya ) is a self-hosted browser session replay tool using rrweb ( https://github.com/rrweb-io/rrweb ). It occurred to me that a durable stream per session would be a much neater architectural…",
-        "title": "Show HN: RePlaya – self-hosted browser session replay with live tailing",
-        "url": "https://github.com/s2-streamstore/replaya"
-      },
-      {
-        "id": "6d92a5f45eaf350af2e366b16cedd97c754c733c",
-        "published": "2026-06-02T17:34:10+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy Comments URL: https://news.y…",
-        "title": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\" (2024)",
-        "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy"
-      },
-      {
-        "id": "b29e52a94a1b31b134535c6c0bc395c316276c9d",
-        "published": "2026-06-02T17:31:02+00:00",
-        "source": "The Verge",
-        "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concep…",
-        "title": "Microsofts Project Solara is an OS for AI agent gadgets",
-        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets"
-      },
-      {
         "id": "e8b0466336873bfebe0635d3266ad1b33f147a1c",
         "published": "2026-06-02T17:10:56+00:00",
         "source": "Ars Technica",
         "summary": "The number of cases falls from 1,100 to 437 with increased testing.",
         "title": "Number of suspected Ebola cases falls by hundreds as testing ramps up",
         "url": "https://arstechnica.com/health/2026/06/number-of-suspected-ebola-cases-falls-by-hundreds-as-testing-ramps-up/"
-      },
-      {
-        "id": "4fd7ea824f3205b45d745406d1fa38d47c1a7c7c",
-        "published": "2026-06-02T17:09:04+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://jasonzweig.com/three-ways-to-get-paid/ Comments URL: https://news.ycombinator.com/item?id=48373054 Points: 81 # Comments: 51",
-        "title": "Three Ways to Get Paid (2018)",
-        "url": "https://jasonzweig.com/three-ways-to-get-paid/"
-      },
-      {
-        "id": "2de5377d40cd16ec147b7195f90d28ec1d558286",
-        "published": "2026-06-02T17:01:17+00:00",
-        "source": "TechCrunch",
-        "summary": "Another fusion startup has raised another a massive round to make this type of power a reality.",
-        "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
-        "url": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/"
-      },
-      {
-        "id": "79732b6ce08e61cd1bc81acc2f6dfb47572fc954",
-        "published": "2026-06-02T16:55:11+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/microsoft/coreutils Comments URL: https://news.ycombinator.com/item?id=48372853 Points: 102 # Comments: 85",
-        "title": "Coreutils for Windows",
-        "url": "https://github.com/microsoft/coreutils"
-      },
-      {
-        "id": "3d288638f72da2ad00c73fcb322e8f2fe0853baf",
-        "published": "2026-06-02T16:35:20+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://research.perplexity.ai/articles/rethinking-search-as-code-generation Comments URL: https://news.ycombinator.com/item?id=48372547 Points: 13 # Comments: 1",
-        "title": "Rethinking Search as Code Generation",
-        "url": "https://research.perplexity.ai/articles/rethinking-search-as-code-generation"
-      },
-      {
-        "id": "88f776c85a454dfd90f0b206113136c236e053ff",
-        "published": "2026-06-02T16:30:00+00:00",
-        "source": "The Verge",
-        "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized…",
-        "title": "Microsoft created the mini Surface dev box that Qualcomm couldnt",
-        "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability"
-      },
-      {
-        "id": "637575882e94a1b2e409f21ed5ed256a850b00db",
-        "published": "2026-06-02T16:30:00+00:00",
-        "source": "The Verge",
-        "summary": "Microsoft is kicking off its Build developer conference today with a promise of making Windows a trusted platform for development. As the company continues to focus on performance and reliability fixes for Windows 11, it's also creating a developer-optimized experience that bundl…",
-        "title": "Microsoft’s new developer-optimized Windows embraces Linux even more",
-        "url": "https://www.theverge.com/news/941314/microsoft-windows-11-developer-optimized-experience-linux"
-      },
-      {
-        "id": "ceba0503a3cd34b8cb45a5758a9b7d881a653b12",
-        "published": "2026-06-02T16:30:00+00:00",
-        "source": "The Verge",
-        "summary": "On the Friday before Memorial Day, on the eve of a long weekend, the Trump administration announced that it was further gutting legal immigration. The Department of Homeland Security didn't use this language. \"This policy allows our immigration system to function as the law inten…",
-        "title": "Trump goes after green cards",
-        "url": "https://www.theverge.com/policy/941734/trump-green-cards-adjustment-of-status-uscis"
-      },
-      {
-        "id": "ec28701a10d3def6fda9d89e5e44c04b63a9acc9",
-        "published": "2026-06-02T16:23:08+00:00",
-        "source": "TechCrunch",
-        "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
-        "title": "Trump signs narrower executive order on AI oversight after industry objections",
-        "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/"
       },
       {
         "id": "20c3797f59732080512c5e602652ec333f88a95e",
@@ -322,89 +402,97 @@
         "summary": "There are sound engineering reasons to use the same approach SpaceX uses with the Falcon 9.",
         "title": "In a surprise launch, China debuts another big rocket designed for reusability",
         "url": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/"
-      },
-      {
-        "id": "31f39eabff831a5c6a8e6a890e09bf6008dbfb54",
-        "published": "2026-06-02T16:00:00+00:00",
-        "source": "TechCrunch",
-        "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow…",
-        "title": "OpenAI launches new Codex tools for white-collar work",
-        "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/"
-      },
-      {
-        "id": "a514644f31f6da0d58a936fb0c2e2c1194cdd070",
-        "published": "2026-06-02T15:56:08+00:00",
-        "source": "TechCrunch",
-        "summary": "Board, the startup building what it calls \"together tech\" designed to bring people into the same room, has closed a Series A led by Union Square Ventures.",
-        "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
-        "url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/"
-      },
-      {
-        "id": "ff4f663f1dcf16c7876f52c0ef0b0afd69d5d228",
-        "published": "2026-06-02T15:16:13+00:00",
-        "source": "Ars Technica",
-        "summary": "\"The propellant farm, oxygen, liquid hydrogen, and LNG tanks are all in good shape.\"",
-        "title": "Blue Origin has set a very aggressive return-to-flight timeline",
-        "url": "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/"
-      },
-      {
-        "id": "48b4874b527ba2023d67e479ba815dc3d17dc2c4",
-        "published": "2026-06-02T14:49:05+00:00",
-        "source": "Ars Technica",
-        "summary": "With no embedded modem, the Slate Truck is the antithesis of today's connected cars.",
-        "title": "Slate Auto gets serious about privacy for its bare-bones EV pickup",
-        "url": "https://arstechnica.com/cars/2026/06/slate-says-its-electric-pickup-will-never-track-you/"
-      },
-      {
-        "id": "42aedc5a8989ba316ea1211c8d28eda46d78a83f",
-        "published": "2026-06-02T14:16:30+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://blog.davidedmundson.co.uk/blog/596/ Comments URL: https://news.ycombinator.com/item?id=48370588 Points: 94 # Comments: 90",
-        "title": "Preparing for KDE Plasma's Last X11-Supported Release",
-        "url": "https://blog.davidedmundson.co.uk/blog/596/"
-      },
-      {
-        "id": "c036d9d83ba8e369159cb95816ea2fdfb3359b06",
-        "published": "2026-06-02T13:53:52+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.fidonet.org/inet92_Randy_Bush.txt Comments URL: https://news.ycombinator.com/item?id=48370291 Points: 103 # Comments: 32",
-        "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-        "url": "https://www.fidonet.org/inet92_Randy_Bush.txt"
-      },
-      {
-        "id": "15c64428f8bceea403da08986f6e6f2e87e1536f",
-        "published": "2026-06-02T13:29:00+00:00",
-        "source": "Ars Technica",
-        "summary": "Switching from fossil fuels to electricity for heating is no longer covered.",
-        "title": "Trump's DOE restarts energy rebate program with dumb conditions",
-        "url": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/"
-      },
-      {
-        "id": "46e185938749cefbb20f89aae069c8979ec332e9",
-        "published": "2026-06-02T13:24:32+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/ Comments URL: https://news.ycombinator.com/item?id=48369980 Points: 227 # Comments: 109",
-        "title": "A walking tour of surveillance infrastructure in Seattle",
-        "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/"
-      },
-      {
-        "id": "9c3489f99d6cb3248217148cdc89e9fcae71fc6b",
-        "published": "2026-06-02T12:00:54+00:00",
-        "source": "Ars Technica",
-        "summary": "\"The market's going to continue to find exciting new things.\"",
-        "title": "Impulse Space raises $500 million as orbital maneuvering race heats up",
-        "url": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/"
-      },
-      {
-        "id": "88d629fd71eeee87cae361ca8fca2710046eadd9",
-        "published": "2026-06-01T22:18:09+00:00",
-        "source": "Ars Technica",
-        "summary": "Some report burning through their whole monthly \"AI credit\" allotment in a single day.",
-        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-        "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
       }
     ],
     "tech_japan": [
+      {
+        "id": "e7d9d6c0f920ad24c9e2a24a2a76f33502edaf69",
+        "published": "2026-06-02T22:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "エレコムが、HD Voice対応のカナル型Bluetoothヘッドセットを6月上旬より発売。高品質な通話と装着感を実現する2モデル、11アイテムが、3,280円からの価格で登場する。",
+        "title": "HD Voice対応のBluetoothヘッドセット登場 騒音下でもクリアな音声通話を実現",
+        "url": "https://ascii.jp/elem/000/004/407/4407472/?rss"
+      },
+      {
+        "id": "215ee39dbfd97d1cbe1fa7451c7521140ecfca85",
+        "published": "2026-06-02T22:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "コックピットは丸見え。プロペラが唸り、計器が光る。バンクーバーのダウンタウンからテイクオフする水上飛行機は、普通の飛行機とは別次元のスリルを味わえるものでした。",
+        "title": "飛行機とは別次元のスリル！水上飛行機に乗ってみた",
+        "url": "https://ascii.jp/elem/000/004/405/4405798/?rss"
+      },
+      {
+        "id": "4d8baf56d2396bdd78c6db30444c4a9093204c7c",
+        "published": "2026-06-02T22:14:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "「電源タップの交換目安は、3～5年」というパナソニックのX投稿が物議を醸している。そこで、推奨している団体として名前が挙がっていた日本配線システム工業会に話を聞いた。",
+        "title": "「電源タップは3～5年で交換推奨」は短すぎ？ 推奨する日本配線システム工業会に聞いてみた",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html"
+      },
+      {
+        "id": "c4aee26939d9696e19549bf9af793b5e3e03848e",
+        "published": "2026-06-02T22:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "チャンネル登録者数1500万人の人気YouTuberであるThe Slow Mo Guysが、ハイスピードカメラを用いて人間の目では識別できないくらい精密に「鏡が割れる瞬間」を捉えた映像を公開しています。 続きを読む...",
+        "title": "鏡は割れる前に曲がるのか？スーパースローモーション映像で検証",
+        "url": "https://gigazine.net/news/20260603-mirror-bend-before-breaks/"
+      },
+      {
+        "id": "a59a95e9d3811912d40f8fade9229c50ad3f978a",
+        "published": "2026-06-02T22:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "エレコムが6月上旬より、USB Type-C対応の有線イヤホンを発売。カナル型とインナーイヤー型の2タイプがあり、断線しにくく高音質。充電不要で遅延もなく、スマホやタブレットでの使用が可能。",
+        "title": "スマホに直接つながるType-C有線イヤホン カナル型とインナーイヤー型を展開",
+        "url": "https://ascii.jp/elem/000/004/407/4407471/?rss"
+      },
+      {
+        "id": "77eedc4ede8e3a42cf65593d0eb2aa65ca8362dc",
+        "published": "2026-06-02T22:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "Wovn Technologies株式会社は5月28日に、同社が提供するWebサイト多言語化AIソリューション「WOVN.io」で多言語化されたページのレイアウト崩れを検出し、修正提案から適用までを自動化する機能「AI レイアウトチェック」ベータ版の提供を開始した",
+        "title": "Webサイト多言語化AIリューション「WOVN.io」、レイアウト崩れを自動修正する「AI レイアウトチェック」ベータ版提供開始",
+        "url": "https://ascii.jp/elem/000/004/407/4407454/?rss"
+      },
+      {
+        "id": "f587f6cb27ddc7c74364ee7569084369865a4473",
+        "published": "2026-06-02T22:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "合同会社ネコリコは5月28日に、高齢者みまもりサービス「まもりこ」のスマートフォンアプリ「まもりこ2」をリリースした。複数センサーの検知結果を一覧で確認できるなど見守り結果をわかりやすくするとともに、安否確認の要否の判断をより手軽にしたという。",
+        "title": "高齢者みまもりサービス「まもりこ」、スマホ新アプリ「まもりこ2」リリース 複数センサーの検知状況一覧など追加",
+        "url": "https://ascii.jp/elem/000/004/407/4407453/?rss"
+      },
+      {
+        "id": "3b9ed76d73c159672318167ff667efa1bf11bf97",
+        "published": "2026-06-02T22:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "2023年ごろからSNSで「ドコモがつながらない」という声が上がり始めた。いまだに不満の声が続いているようだが、先日、NTTドコモが通信品質改善の進捗状況と今後の取り組みを説明した。",
+        "title": "“つながらないドコモ”返上なるか 5G SA無料化で巻き返しへ",
+        "url": "https://ascii.jp/elem/000/004/406/4406933/?rss"
+      },
+      {
+        "id": "5f1d73bc887013ad57eebc0cd35c36b37757ad1e",
+        "published": "2026-06-02T21:41:24+00:00",
+        "source": "ASCII.jp",
+        "summary": "「技術は決して中立ではない」。ローマ教皇レオ14世が2026年5月に発表したAIに関する回勅は、そう説く。政府が規制しきれず企業も信頼できない中、AIを正す責任を担うのは誰か。カトリックの修道者であり社会的責任投資（SRI）の提唱者による寄稿。",
+        "title": "「技術は中立ではない」と説くローマ教皇の回勅、誰がAIを正すのか",
+        "url": "https://ascii.jp/elem/000/004/407/4407475/?rss"
+      },
+      {
+        "id": "501eedd6d52ee59f5958a02cd2255be265345ab3",
+        "published": "2026-06-02T21:12:08+00:00",
+        "source": "ASCII.jp",
+        "summary": "中小企業にとって、いまのAIは秘書業務や事務処理を「十分に使える」水準でこなしてくれる。ロンドンの家庭教師は、Notion AIを「第二の記憶」として記録管理や目標設定、請求書作成に役立てている。とはいえAIが常に最善の道具とは限らず、誤りを犯すこともある。どこまでAIに任せ、何を自分の手に残すか。その見極めが活用の出発点になる。",
+        "title": "中小企業のAI活用ガイド、どこまで任せて何を自分でやるか",
+        "url": "https://ascii.jp/elem/000/004/407/4407470/?rss"
+      },
+      {
+        "id": "c8dbdf3bdfc15c8b7fcdd3f2c3ef319d61c7541a",
+        "published": "2026-06-02T19:50:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "Microsoftは「Build 2026」で、AI特化型デスクトップPC「Surface RTX Spark Dev Box」を発表した。NVIDIAの「RTX Spark」を搭載し、最大1ペタフロップスの演算性能と128GBのメモリにより、1200億パラメータ超のモデルのローカル推論や学習を可能にする。各種開発ツールもプリインストールされる。",
+        "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html"
+      },
       {
         "id": "81535ac17dd20bbc4b639b10523041b38aa5e07a",
         "published": "2026-06-02T16:30:00+00:00",
@@ -454,36 +542,12 @@
         "url": "https://www.itmedia.co.jp/news/articles/2606/02/news128.html"
       },
       {
-        "id": "6d590d95a85466155167cc3882d4a81467f6578e",
-        "published": "2026-06-02T12:15:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026の会場で、台湾のスタートアップ企業Lean Mobilityは、3輪電気自動車（EV）「Lean3」を展示。",
-        "title": "5時間でフル充電できる3輪EVを台湾で見てきました。オートバックスでも売る予定らしい。",
-        "url": "https://ascii.jp/elem/000/004/407/4407456/?rss"
-      },
-      {
         "id": "8172c9224beeda14654b946d753ead359bb4e261",
         "published": "2026-06-02T12:00:00+00:00",
         "source": "GIGAZINE",
         "summary": "ChatGPTのようなAIサービスは超高性能なAIサーバーによって稼働しており、ローカルAIを自宅や手元のサーバーで動かす場合も高性能GPUや大容量メモリを搭載した最新世代PCが必要だと考えがちです。しかし、2016年ごろのIntel Xeon、128GBのDDR3メモリ、GPUなしという古いサーバーで、26B規模のローカルAIを実用的な速度で動かしたという報告が登場しました。 続きを読む...",
         "title": "10年前のXeonサーバーで最新AIが快適動作、GPUなしでも実用速度を実現した手法が解説される",
         "url": "https://gigazine.net/news/20260602-gemma-4-on-2016-xeon/"
-      },
-      {
-        "id": "ecb13243f90300767ac015217159fa954866cca6",
-        "published": "2026-06-02T12:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026の会場で見た、フランスの半導体メーカーSiPearlのプロセッサー「Athena1」を紹介。",
-        "title": "フランスメーカーのプロセッサー「Athena1」どんな製品？",
-        "url": "https://ascii.jp/elem/000/004/407/4407455/?rss"
-      },
-      {
-        "id": "8703426e878b5051f47fc7048f43e15ed58c9bab",
-        "published": "2026-06-02T12:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Amazon.co.jpにて、ASUSの27型フルHDゲーミングディスプレー「VG278QR-J」が販売中だ。参考価格は2万8283円だが、タイムセールにより16％オフの2万3800円で購入できる（6月2日時点）。",
-        "title": "上級者も初心者も満足できるサポート機能が魅力！ 165Hzと0.5msのASUS製27型フルHDゲーミングディスプレーが16％オフ",
-        "url": "https://ascii.jp/elem/000/004/407/4407415/?rss"
       },
       {
         "id": "9774a0b1e6c4d9c44702868a9457a32c7e43b542",
@@ -510,22 +574,6 @@
         "url": "https://gigazine.net/news/20260602-the-pirate-bay-resilient/"
       },
       {
-        "id": "d470ebb40c8651973830a5f5e45b47d9673afae3",
-        "published": "2026-06-02T11:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026の会場で、MSIの「Claw 8 Ex AI+」を見た。",
-        "title": "かなり話題になってるMSIの手持ちゲーム機「Claw 8 Ex AI+」を、台北で見てきたよ！",
-        "url": "https://ascii.jp/elem/000/004/407/4407448/?rss"
-      },
-      {
-        "id": "294927dd8e02c1d989cdc165e23634345fcad6a7",
-        "published": "2026-06-02T11:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Amazon.co.jpにて、Logicoolのハンドルコントローラー「G29」が販売中だ。過去価格は5万500円だが、タイムセールにより31％オフの3万4800円で購入できる（6月2日時点）。",
-        "title": "「Forza Horizon 6」に最適な一台！ Logicoolのハンドルコントローラー「G29」が31％オフ",
-        "url": "https://ascii.jp/elem/000/004/407/4407411/?rss"
-      },
-      {
         "id": "288552ba26c30893d6e0d9f84bf6836d01929cf0",
         "published": "2026-06-02T10:35:00+00:00",
         "source": "ITmedia NEWS",
@@ -534,36 +582,12 @@
         "url": "https://www.itmedia.co.jp/news/articles/2606/02/news123.html"
       },
       {
-        "id": "51946a493239c4df0d2bf13a25681d90fb04829d",
-        "published": "2026-06-02T10:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026の会場で見た、Qisdaのドローンがガチだった。",
-        "title": "100%台湾製造。QisdaのVTOL型ドローンを見た",
-        "url": "https://ascii.jp/elem/000/004/407/4407397/?rss"
-      },
-      {
         "id": "9a178d1ef44f3b5ac183e523c43308d97c7284d4",
         "published": "2026-06-02T10:00:00+00:00",
         "source": "GIGAZINE",
         "summary": "AIツールのClaudeを開発するAnthropicは、AIの倫理や道徳に関する問題について学ぶため、哲学者や宗教団体などと対話する活動に力を入れています。ベンチャーキャピタリストのビル・ガーリー氏が、Anthropicは「自分たちは神を創造できる」と考えているのではないかと指摘しました。 続きを読む...",
         "title": "「自分たちは神を創造できる」とAI開発企業のAnthropicが本気で考えているのではないかとの指摘",
         "url": "https://gigazine.net/news/20260602-anthropic-thinks-building-god/"
-      },
-      {
-        "id": "059e3b8454a4b9f0c5fe9271b8b0a0be80e742b4",
-        "published": "2026-06-02T10:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ヤンマガWebは、楠みちはる氏の人気漫画『湾岸ミッドナイト』を緊急で全話無料公開するとXで発表した。名言の多い名作カーバトル漫画を一気読みできる好機だ。",
-        "title": "「湾岸ミッドナイト」が緊急で全話無料に！ “悪魔のZ”に今から魅入られるチャンスだヨ──",
-        "url": "https://ascii.jp/elem/000/004/407/4407440/?rss"
-      },
-      {
-        "id": "b990a8fd7bc7208bce10eeccb21223cc11b3d5c2",
-        "published": "2026-06-02T10:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Amazon.co.jpにて、 「DualSense ワイヤレスコントローラー」がセールを実施中。2台目やスペアに【純正品】が欲しい人は今がチャンス！",
-        "title": "やはりPSは黒でしょ「DualSense ワイヤレスコントローラー」1万円切りで2台目チャンスが到来",
-        "url": "https://ascii.jp/elem/000/004/407/4407439/?rss"
       },
       {
         "id": "923ec6a7619c95ad95f0d08192beea690f7dd1bf",
@@ -638,14 +662,6 @@
         "url": "https://gigazine.net/news/20260602-sanders-government-take-half-anthropic-openai/"
       },
       {
-        "id": "00eb00097ba2d3f8b65dab02ea8738cf5cdfe5d3",
-        "published": "2026-06-02T05:19:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "AlibabaのAI研究チームであるQwen(Tongyi Lab)がAIモデル「Qwen3.7-Plus」を発表しました。Qwen3.7-Plusは一部のベンチマークテストでClaude Opus4.6のスコアを上回っています。 続きを読む...",
-        "title": "AlibabaがClaude Opus 4.6に匹敵するAIモデル「Qwen3.7-Plus」を発表",
-        "url": "https://gigazine.net/news/20260602-qwen3-7-plus/"
-      },
-      {
         "id": "76782d8e10ba49aef8921d5b117b5e3e4cc8647e",
         "published": "2026-06-02T05:03:00+00:00",
         "source": "ITmedia NEWS",
@@ -708,24 +724,8 @@
         "summary": "日本郵便は6月1日、熱中症対策を強化すると発表した。「熱中症特別警戒アラート」が出た地域では二輪車などによる配達を原則休止するなど、配達業務の運用を見直す。",
         "title": "日本郵便、「熱中症特別警戒アラート」で配達休止に 6月から──サングラス着用や小まめな休憩も",
         "url": "https://www.itmedia.co.jp/news/articles/2606/02/news078.html"
-      },
-      {
-        "id": "5b65bbddb1c1660d0b02080cc6116433db9b03fa",
-        "published": "2026-06-02T02:26:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "CTOの木村俊也氏がCHROとCAIOを兼任。人と組織の運営基盤をAI前提で再設計する。",
-        "title": "メルカリ、AIと人事の責任者を1人に統合 「組織ごとAI前提に」",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/02/news073.html"
-      },
-      {
-        "id": "276a07716b61d570f75ef01cd02ea0af0ecc79a8",
-        "published": "2026-06-02T01:31:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "長女（18）への暴行容疑で、プロ野球巨人の監督だった阿部慎之助さん（47）が逮捕された。きっかけは、長女が対話型の生成AI「ChatGPT」に被害を相談し、回答に基づき児童相談所へ連絡したことだった。長女の行動の是非（ぜひ）とは別に、生成AIは若者の相談相手として定着し、若い女性ほど信頼しているとの調査結果もある。",
-        "title": "生成AIを「悩み相談」に使う10代女性たち 阿部前監督事件を招いた「AI正論」の波紋",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/02/news070.html"
       }
     ]
   },
-  "generated_at": "2026-06-02T18:28:26.201177+00:00"
+  "generated_at": "2026-06-02T22:53:05.718684+00:00"
 }
