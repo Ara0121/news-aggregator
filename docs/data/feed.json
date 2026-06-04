@@ -84,6 +84,78 @@
     ],
     "tech_global": [
       {
+        "id": "46e23b28654d9eab0307f8da5ea83069ed2e2fff",
+        "published": "2026-06-04T00:56:32+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/ Comments URL: https://news.ycombinator.com/item?id=48392343 Points: 37 # Comments: 14",
+        "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+        "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/"
+      },
+      {
+        "id": "b71fc616b0ebbbafb29cd9ed518c7be2e090cdfe",
+        "published": "2026-06-04T00:30:00+00:00",
+        "source": "TechCrunch",
+        "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+        "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+        "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/"
+      },
+      {
+        "id": "97cd97d27d220f15f9bc8a69f1f4b5eea602a9e8",
+        "published": "2026-06-04T00:27:52+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48392082 Points: 37 # Comments: 8",
+        "title": "The ways we contain Claude across products",
+        "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+      },
+      {
+        "id": "bc4d0268064c6e0f0a9a3cc08ca4c9a39ed1d6ff",
+        "published": "2026-06-04T00:04:04+00:00",
+        "source": "The Verge",
+        "summary": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measu…",
+        "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+        "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu"
+      },
+      {
+        "id": "d55a6155a32625c5431ec73c55392fb7829e8e2e",
+        "published": "2026-06-04T00:00:04+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/Panzerschrek/U-00DC-Sprache/ Comments URL: https://news.ycombinator.com/item?id=48391838 Points: 22 # Comments: 13",
+        "title": "The Ü Programming Language",
+        "url": "https://github.com/Panzerschrek/U-00DC-Sprache/"
+      },
+      {
+        "id": "d9e05c0654c03fb93d2bf112bdc2a7410fa9fd17",
+        "published": "2026-06-03T23:37:18+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://maxleiter.com/blog/weights Comments URL: https://news.ycombinator.com/item?id=48391611 Points: 14 # Comments: 2",
+        "title": "\"They're made out of weights\"",
+        "url": "https://maxleiter.com/blog/weights"
+      },
+      {
+        "id": "ed66da0fc4221c958d2ce9e9d1e5896faa84787d",
+        "published": "2026-06-03T22:56:51+00:00",
+        "source": "TechCrunch",
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/"
+      },
+      {
+        "id": "a6c1a907ec1e29b473160b11ffa1b18141d567ec",
+        "published": "2026-06-03T22:09:41+00:00",
+        "source": "Ars Technica",
+        "summary": "Some quantum computing companies we've covered have done recent progress updates.",
+        "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+        "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/"
+      },
+      {
+        "id": "cf3f3d0dee2d0920dc41d02cf4df94a2e0a4e2c9",
+        "published": "2026-06-03T21:55:23+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html Comments URL: https://news.ycombinator.com/item?id=48390688 Points: 37 # Comments: 21",
+        "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+        "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html"
+      },
+      {
         "id": "edad6dec33f8ab803a552aeb556d4caa84caf44a",
         "published": "2026-06-03T21:49:51+00:00",
         "source": "The Verge",
@@ -92,11 +164,19 @@
         "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store"
       },
       {
+        "id": "b00d1561a56d1185cbcf31a357045b59b0ba10af",
+        "published": "2026-06-03T21:32:10+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf Comments URL: https://news.ycombinator.com/item?id=48390400 Points: 33 # Comments: 1",
+        "title": "A Mathematician's Lament – Paul Lockhart (2002) [pdf]",
+        "url": "https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf"
+      },
+      {
         "id": "58847c53687939df72fb2cb034f9935a74887964",
         "published": "2026-06-03T21:31:35+00:00",
         "source": "Ars Technica",
         "summary": "If confirmed, it would be the fly's first breach of the US-Mexico border.",
-        "title": "Flesh-eating screwworm infection detected in South Texas, USDA says",
+        "title": "Possible flesh-eating screwworm infection detected in South Texas, USDA says",
         "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/"
       },
       {
@@ -119,7 +199,7 @@
         "id": "4369c9513f31f7986b67ef4b4462cc65b412a062",
         "published": "2026-06-03T20:39:34+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.ableton.com/en/live/extensions/ Comments URL: https://news.ycombinator.com/item?id=48389681 Points: 25 # Comments: 8",
+        "summary": "Article URL: https://www.ableton.com/en/live/extensions/ Comments URL: https://news.ycombinator.com/item?id=48389681 Points: 65 # Comments: 29",
         "title": "Ableton Extensions SDK",
         "url": "https://www.ableton.com/en/live/extensions/"
       },
@@ -127,7 +207,7 @@
         "id": "bfad9a6a79661e15460458d1edf6df908754745d",
         "published": "2026-06-03T20:32:10+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 16 # Comments: 4",
+        "summary": "Article URL: https://github.com/zaydmulani09/mnemo Comments URL: https://news.ycombinator.com/item?id=48389586 Points: 25 # Comments: 15",
         "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
         "url": "https://github.com/zaydmulani09/mnemo"
       },
@@ -143,7 +223,7 @@
         "id": "9f3e482648f3fb244be661449994831be9fa0e22",
         "published": "2026-06-03T20:08:33+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/ Comments URL: https://news.ycombinator.com/item?id=48389284 Points: 38 # Comments: 17",
+        "summary": "Article URL: https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/ Comments URL: https://news.ycombinator.com/item?id=48389284 Points: 76 # Comments: 52",
         "title": "A Man Who Reads Books for a Living (One Every Two Days)",
         "url": "https://lithub.com/the-man-who-reads-books-for-a-living-one-every-two-days/"
       },
@@ -168,24 +248,16 @@
         "published": "2026-06-03T19:53:14+00:00",
         "source": "Ars Technica",
         "summary": "Security advisory leaves out key details. Dashlane maintains complete silence.",
-        "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+        "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
         "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
       },
       {
         "id": "a1bfb0c91edc170ab1fd5ca8df60f567e67ceac4",
         "published": "2026-06-03T19:43:37+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/tastyeffectco/sandboxes Comments URL: https://news.ycombinator.com/item?id=48388909 Points: 23 # Comments: 3",
+        "summary": "Article URL: https://github.com/tastyeffectco/sandboxes Comments URL: https://news.ycombinator.com/item?id=48388909 Points: 49 # Comments: 10",
         "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
         "url": "https://github.com/tastyeffectco/sandboxes"
-      },
-      {
-        "id": "24e15b9f491f087a36b45d42274962eb8a305a6e",
-        "published": "2026-06-03T19:41:21+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://brume.aftertone.co/ Comments URL: https://news.ycombinator.com/item?id=48388870 Points: 39 # Comments: 14",
-        "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-        "url": "https://brume.aftertone.co/"
       },
       {
         "id": "b1148769570a8037268479479d981911c82a6822",
@@ -228,28 +300,12 @@
         "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
       },
       {
-        "id": "54e78d515d3db99cfe81c18efb0d77ca92959122",
-        "published": "2026-06-03T19:02:26+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ Comments URL: https://news.ycombinator.com/item?id=48388324 Points: 402 # Comments: 132",
-        "title": "Elixir v1.20: Now a gradually typed language",
-        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
-      },
-      {
         "id": "eae3c09dccf02785ff9fa015609ab43e84a766ad",
         "published": "2026-06-03T19:00:00+00:00",
         "source": "The Verge",
         "summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds…",
         "title": "The best Bluetooth trackers for Apple and Android phones",
         "url": "https://www.theverge.com/23769840/best-bluetooth-trackers"
-      },
-      {
-        "id": "d40c38908c1d16a96fe0872ad2bccbcd67ec941f",
-        "published": "2026-06-03T18:58:05+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://rootshell.is Comments URL: https://news.ycombinator.com/item?id=48388253 Points: 37 # Comments: 26",
-        "title": "Rootshell: A new E2EE email service hosted in Iceland",
-        "url": "https://rootshell.is"
       },
       {
         "id": "e4be6027b92b0908bb7417a5f9669b7b21949dc0",
@@ -268,28 +324,12 @@
         "url": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks"
       },
       {
-        "id": "802973af6afba96a9ba647f367defba4f993c875",
-        "published": "2026-06-03T17:50:16+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes Comments URL: https://news.ycombinator.com/item?id=48387251 Points: 39 # Comments: 1",
-        "title": "Embryos shape their limbs: a key discovery of \"genetic brakes\"",
-        "url": "https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes"
-      },
-      {
         "id": "e87461663dd2abd4fd1bd0319c53b4b233622a29",
         "published": "2026-06-03T17:45:35+00:00",
         "source": "The Verge",
         "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even…",
         "title": "As AI gets better, it reveals an empty promise",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
-      },
-      {
-        "id": "cae5f652cb71a02a803d30d9037fd822118becd5",
-        "published": "2026-06-03T17:39:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Hey HN, we’re Shalin & Kanyes, best friends who've been hacking together for 10+yrs, and now founders of Hyper ( https://heyhyper.ai/ ). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately…",
-        "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-        "url": "https://news.ycombinator.com/item?id=48387095"
       },
       {
         "id": "97c0352fa9def7c8431f79be81211d7ed0c8fc4a",
@@ -316,36 +356,12 @@
         "url": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/"
       },
       {
-        "id": "b46ca5453cbe911c191cfea46d693180ae4c130c",
-        "published": "2026-06-03T17:12:27+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/duanebester/gooey Comments URL: https://news.ycombinator.com/item?id=48386725 Points: 117 # Comments: 34",
-        "title": "Gooey: A GPU-accelerated UI framework for Zig",
-        "url": "https://github.com/duanebester/gooey"
-      },
-      {
-        "id": "aaa79f93865eb82b661a26ea938892538949cafc",
-        "published": "2026-06-03T16:12:06+00:00",
-        "source": "TechCrunch",
-        "summary": "Hackers appeared to take over victims’ accounts even after Meta said it fixed its AI-powered support chatbot, which granted hackers access to victims’ accounts.",
-        "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-        "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/"
-      },
-      {
         "id": "45a8d8965f628682bd0857cb3369a4a8ec60cef0",
         "published": "2026-06-03T16:07:31+00:00",
         "source": "The Verge",
         "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-lo…",
         "title": "Amazons search bar will invent AI-generated products you cant buy",
         "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
-      },
-      {
-        "id": "fb832d0c962429ec06581b3f3ba69d74c05c6177",
-        "published": "2026-06-03T15:50:26+00:00",
-        "source": "TechCrunch",
-        "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-        "title": "Amazon will show AI product images when you search for some reason",
-        "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/"
       },
       {
         "id": "4f15239a15408497a13467ac0b403f61c741af35",
@@ -372,14 +388,6 @@
         "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr"
       },
       {
-        "id": "fcd57fc378d78ce10bd8818b4463115b84b35d6f",
-        "published": "2026-06-03T14:53:10+00:00",
-        "source": "The Verge",
-        "summary": "The Dreame L20 Ultra isn’t the companys newest model, but its still a great robovac / mop hybrid that offers strong performance while requiring very little day-to-day maintenance thanks to its included trash bin and AI obstacle avoidance. Verge readers can get for its best-ever p…",
-        "title": "Dreames L20 Ultra robovac is an unbeatable deal for $280",
-        "url": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale"
-      },
-      {
         "id": "bfe3cc52cab82810061b2b8e0ac073293b6faa7b",
         "published": "2026-06-03T13:35:58+00:00",
         "source": "Ars Technica",
@@ -394,17 +402,193 @@
         "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
         "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
         "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/"
-      },
-      {
-        "id": "acced22064d965610596c54cbe0d9ff5709be6e6",
-        "published": "2026-06-03T10:00:07+00:00",
-        "source": "Ars Technica",
-        "summary": "\"Everyone is in a place where it’s no fun to be there.\"",
-        "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
-        "url": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/"
       }
     ],
     "tech_japan": [
+      {
+        "id": "45dfe0eb1753822ce1eaec29c46bc0513e8de7fc",
+        "published": "2026-06-04T02:01:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "世界最大のPC向けゲーム販売プラットフォーム「Steam」はゲーム業界で独占状態にあるとして集団訴訟を起こされています。その中で、他のプラットフォームでゲームを割引販売しようとする開発者にSteamが圧力をかけた疑いが出てきました。 続きを読む...",
+        "title": "Ubisoftが「レインボーシックス シージ」を自社ストアで安く販売しようとしたためSteamが同ゲームを削除しようと試みた疑惑が浮上",
+        "url": "https://gigazine.net/news/20260604-steam-price-antitrust/"
+      },
+      {
+        "id": "a638ed80eda1a6001653ec4e12014ae109332202",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "従業員90名ほどの中小製造業・M社では、大手取引先からの要請で「サプライチェーンセキュリティ対策評価制度（SCS評価制度）」の★3評価取得に取り組むことになった。期限は「3カ月以内」。大あわてで“間に合わせのセキュリティ対策”を行った結果、重大なセキュリティインシデントが発生してしまう。",
+        "title": "SCS評価制度、“形だけの★3取得”が招いた取引停止の危機 どうやったら防げた？",
+        "url": "https://ascii.jp/elem/000/004/407/4407831/?rss"
+      },
+      {
+        "id": "68b842ad4708de0824c0239056a95c423f5ce5ba",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTが30インチVAパネル搭載の湾曲ウルトラワイドゲーミングモニター「JN-VC30G200WF」を35,480円で6月4日に発売。21:9のアスペクト比と200Hzのリフレッシュレートが魅力。",
+        "title": "200Hz×1msで3.5万円台 JAPANNEXTの30インチ湾曲ウルトラワイドモニター登場",
+        "url": "https://ascii.jp/elem/000/004/407/4407692/?rss"
+      },
+      {
+        "id": "75846f75e55a35267da09281d42e98e0cc706ec4",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTは、23.8インチのIPSパネルとピンクのデザインを備えたフルHDゲーミングモニターを6月4日にリリース。165Hzの高速リフレッシュレートと1msの応答速度で滑らかな映像体験を提供する。",
+        "title": "23.8インチIPS・165Hz対応、ピンクカラーのゲーミングモニターをJAPANNEXTが発売",
+        "url": "https://ascii.jp/elem/000/004/407/4407647/?rss"
+      },
+      {
+        "id": "4bc4fc5d7c4de6741d42d7fbf27916878d07ad40",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTが27インチの4Kゲーミングモニター「JN-IPS27G120U2-HSPC6」を発売。性能と多機能スタンドが特徴。",
+        "title": "4K・120Hz・USB-C給電まで搭載 JAPANNEXTの新27型モニターが4万円台",
+        "url": "https://ascii.jp/elem/000/004/407/4407634/?rss"
+      },
+      {
+        "id": "02b6fd9a834f42d055439ed17bdfebbaa245ca4c",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTが27インチの4Kゲーミングモニターを6月4日に発売。高精細な映像と高速応答性を提供し、PS5との接続にも対応。多機能スタンドで使用環境も柔軟に調整可。",
+        "title": "27インチ4K・120Hz対応のゲーミングモニター「JN-IPS27G120U2-HSP」、JAPANNEXTが発売",
+        "url": "https://ascii.jp/elem/000/004/407/4407614/?rss"
+      },
+      {
+        "id": "280beb698966836ebf20004c0c04ff5e1e5c4a12",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTが27インチの4Kゲーミングモニター「JN-iA27G120U2-HSP」を6月4日に発売。120Hzのリフレッシュレート、1msの応答速度、HDR400対応などの機能を備え、Amazon限定で35,980円で提供される。",
+        "title": "JAPANNEXT、120Hz対応の27型4Kモニターを発売 Amazon限定で3万5980円",
+        "url": "https://ascii.jp/elem/000/004/407/4407479/?rss"
+      },
+      {
+        "id": "b4a86185a701ff9f8d5931f8170f77d9c8bab073",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "JAPANNEXTは、165Hz対応のピンクのゲーミングモニター「JN-Ei238G165F-PK」を発売。滑らかな映像とおしゃれなデザインが特徴で、15,980円でECサイト限定販売。",
+        "title": "JAPANNEXT、165Hz対応のピンク色ゲーミングモニター「JN-Ei238G165F-PK」を発売",
+        "url": "https://ascii.jp/elem/000/004/407/4407478/?rss"
+      },
+      {
+        "id": "7d917f98856e75fcd91cc90c8ca64e4395c19d80",
+        "published": "2026-06-04T02:00:00+00:00",
+        "source": "PC Watch",
+        "summary": "PFUは6月4日、通常より軽い押下圧30gのキースイッチや特別デザインのキートップを採用した「HHKB Professional HYBRID Type-S(押下圧30g)」を直販サイトにて数量限定で発売した。HHKB(Happy Hacking Keyboard)シリーズの30周年を記念したモデルとなる。カラーは墨/白/雪、キー配列は英語/日本語を用意し、価格はともに3万9,600円。",
+        "title": "押下圧30gのHHKB 30周年記念モデル。3,000台限定で登場",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114282.html"
+      },
+      {
+        "id": "f842ff717416bb326b06797fda669cc5c79a5cae",
+        "published": "2026-06-04T01:45:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "ほっかほっか亭に天ぷら7品で640円、さっぱり系の「おろし天丼」。6月1日より、「おろし天丼」をはじめとした「おろしシリーズ」を発売。",
+        "title": "天ぷら7品のって640円！ほっかほっか亭「おろし天丼」今年も登場",
+        "url": "https://ascii.jp/elem/000/004/407/4407758/?rss"
+      },
+      {
+        "id": "e5d8e90c6105685afff3e51ddb4808a4d3055e55",
+        "published": "2026-06-04T01:42:05+00:00",
+        "source": "PC Watch",
+        "summary": "Googleは6月3日(米国時間)、メモリ16GBでも動作し、より大規模な上位モデルにも匹敵する性能を実現したLLM「Gemma 4 12B」を公開した。Apache 2.0ライセンスでHugging FaceおよびKaggleで公開しており、無償で入手できる。LM Studio、Ollamaをはじめ、さまざまなソフトウェア上で動作可能。",
+        "title": "メモリ16GBでOK！音声も画像も対応する賢いLLM「Gemma 4 12B」無償公開",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114311.html"
+      },
+      {
+        "id": "303f67705cd83c6edf21cd83d63938353153ba56",
+        "published": "2026-06-04T01:36:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Googleが2026年6月3日にAIモデル「Gemma 4 12B」をオープンモデルとして公開しました。Gemma 4 12Bは16GBのVRAMもしくはユニファイドメモリがあれば実行可能で、ノートPCでも実行可能な高性能モデルとしてアピールされています。 続きを読む...",
+        "title": "GoogleがノートPCで実行可能なAIモデル「Gemma 4 12B」を無料公開、16GBのVRAMがあれば実行可能",
+        "url": "https://gigazine.net/news/20260604-google-ai-gemma-4-12b/"
+      },
+      {
+        "id": "873cf94656e4b5f77a8c71a67a8f4a74f0164ec2",
+        "published": "2026-06-04T01:30:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "アクションカメラメーカー大手のGoProが「事業を今後12か月継続できるかについて重大な疑義がある」とする内容を、2026年6月1日付のアメリカ証券取引委員会提出資料で示しました。資金繰り悪化の背景には売れ行きの鈍化やメモリ関連コストの急上昇があります。 続きを読む...",
+        "title": "GoProの事業継続に「重大な懸念」、世界的なメモリ不足に起因するコストの上昇と売上減少で",
+        "url": "https://gigazine.net/news/20260604-gopro-substantial-doubt/"
+      },
+      {
+        "id": "e1d5d1b689bde1fd69a2c859f7cbd856a2ecdd52",
+        "published": "2026-06-04T01:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "セブン‐イレブンは、6月10日の「スムージーの日」に合わせて、「セブンカフェ スムージー」の半額セールを実施。6月10日限定でセブンのスムージーが全品半額！",
+        "title": "全品半額は太っ腹！セブンのスムージーが50％オフ【6月10日限定】",
+        "url": "https://ascii.jp/elem/000/004/407/4407424/?rss"
+      },
+      {
+        "id": "fc0e35ae834f5c79143d1ea06d301ff64a97ea7d",
+        "published": "2026-06-04T01:27:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "",
+        "title": "日本政府、AI「Mythos」アクセス権を取得 サイバー防衛強化に活用",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html"
+      },
+      {
+        "id": "365225ca54623d7fe2cc160eb40efa7d55a5552c",
+        "published": "2026-06-04T01:24:01+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、15.6型モバイルモニターのXUNDEFINED「PM15.6-60Hz-1080P-W-MX」が4,000円引きクーポンで、1万1,980円にて購入可能だ。",
+        "title": "【本日みつけたお買い得品】ワイヤレス接続対応の15.6型モバイルモニターが4千円引き",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114304.html"
+      },
+      {
+        "id": "04d410418f11efe7aff773da72a72a031632aeb1",
+        "published": "2026-06-04T01:20:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "セブン‐イレブンは6月8日より、「マシッソ！韓国イチ推しグルメ」第2弾を順次展開。クロワッサン生地を使った「クロッチ」や、チヂミ、参鶏湯など全8商品をラインアップ。",
+        "title": "セブン韓国フェアに「チヂミパン」「カムジャチーズボール」気になるグルメ続々",
+        "url": "https://ascii.jp/elem/000/004/407/4407394/?rss"
+      },
+      {
+        "id": "e17a445bb37c4fffde0352b41f05c1a66f839fb4",
+        "published": "2026-06-04T01:17:47+00:00",
+        "source": "PC Watch",
+        "summary": "キオクシアの株価は6月3日、一時8万3,140円の高値をつけ、発行済株式数から算出される時価総額は45兆円と1位のトヨタ自動車を上回った。",
+        "title": "キオクシア、時価総額45兆円で一時トヨタを超え国内トップに",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114300.html"
+      },
+      {
+        "id": "ce52317166a3e1300c7d95f69d83c691ed8249f3",
+        "published": "2026-06-04T01:07:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "Googleは、AI検索機能に自社ページを表示させるか選択できる「Search Console」内の新しいトグル機能のテストを開始した。拒否しても通常の検索結果には残るため、パブリッシャーは検索流入を保ちつつコンテンツ交渉力を確保できる。併せて「生成AIパフォーマンスレポート」も追加。英当局の要請を受け、英国から順次検証する。",
+        "title": "Google、AI検索への表示を拒否できるWebオーナー向けトグル機能のテスト開始",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/04/news071.html"
+      },
+      {
+        "id": "bb8430870014e30240b4e45d10390bb914bed984",
+        "published": "2026-06-04T00:35:06+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、14型ゲーミングノートPCのASUS「TUF Gaming A14 FA401UH」が段階的な値引きとなっており、5月11日の価格から4万9,200円引きで24万4,255円にて購入できる。",
+        "title": "【本日みつけたお買い得品】約4万9千円オフ！ホワイト筐体のGeForceゲーミングノートが大幅値引き",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114295.html"
+      },
+      {
+        "id": "9a57af1e68054fc29b12e10c09f8403660f54d2e",
+        "published": "2026-06-04T00:34:39+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、GetorliのミニPC「GT105」が1万8,000円引きクーポンで、9万1,998円にて購入可能となっている。",
+        "title": "【本日みつけたお買い得品】32GBメモリ/1TB SSDのRyzen搭載ミニPCが1万8千円オフ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114289.html"
+      },
+      {
+        "id": "aee2eae400c41967d117db9e6a2a63250dcf23d3",
+        "published": "2026-06-04T00:32:38+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "RTX SparkはSurface RTの先にあった未来。ArmがAIエージェント時代に躍動",
+        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114279.html"
+      },
+      {
+        "id": "67310f66f77e0a7706fb7ec845867fee09cdffd9",
+        "published": "2026-06-03T23:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "セガのゲーム機・メガドライブとレコードプレイヤーを接続し、レコードに記録したゲームデータを読み込めるかにチャレンジした動画を、レトロゲーム系YouTuberのThroaty Mumbo氏が公開しています。 続きを読む...",
+        "title": "メガドライブのゲームをアナログレコードに記録して実機でプレイすることは可能なのか？",
+        "url": "https://gigazine.net/news/20260604-sega-games-vinyl-record/"
+      },
       {
         "id": "2120816d2a4323f42848d6eb0af2022ed5fa3c7f",
         "published": "2026-06-03T22:16:00+00:00",
@@ -420,38 +604,6 @@
         "summary": "「HWiNFO」はハードウェア情報の取得および監視が可能なWindowsアプリで、CPU・GPU・メモリ・ストレージ・ケースファンなどPCに含まれるほとんどのハードウェアの情報を取得することができます。そんなHWiNFOはNASAの研究でも活用されています。 続きを読む...",
         "title": "CPU温度やクロック周波数などをグラフ化できる定番アプリ「HWiNFO」はNASAの実験にも活用されている",
         "url": "https://gigazine.net/news/20260604-hwinfo-nasa/"
-      },
-      {
-        "id": "d44a77fe277a2f3da3b3818e3072eb2fa5b64892",
-        "published": "2026-06-03T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Forex Robotics株式会社は5月31日に、同社が提供する有害鳥獣捕獲情報管理システム「いのしかレコード」について、5月に大型アップデートを実施したと発表。クマ類と鳥類の捕獲申請に正式対応したほか、大型・中型獣の複数頭数申請が可能になった。自治体における捕獲事務のDXを推進するという。",
-        "title": "自治体向け捕獲アプリ「いのしかレコード」、クマ類・鳥類の捕獲申請に正式対応するなどアップデート実施",
-        "url": "https://ascii.jp/elem/000/004/407/4407784/?rss"
-      },
-      {
-        "id": "907953b2fbd3c34930cc3e733c75a05f2730b316",
-        "published": "2026-06-03T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "株式会社ShipAllは5月29日に、海外配送自動化プラットフォーム「ShipAll」において、店舗事業者向けソリューションパッケージの提供を開始した。訪日外国人が店頭で購入した商品を、その場から海外へ発送できる仕組みを提供する。来店客自身のスマートフォン操作によって配送手続きを完結でき、店舗側の作業負担を抑えながら海外配送対応を実現するという。",
-        "title": "海外配送自動化プラットフォーム「ShipAll」、店舗向けソリューション開始 訪日外国人の購入商品を店頭から海外へ直送",
-        "url": "https://ascii.jp/elem/000/004/407/4407783/?rss"
-      },
-      {
-        "id": "4db41aca6f81c3dde87cadc507b76f5f252fed50",
-        "published": "2026-06-03T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "kintone hive 2026 Osakaの5番手に登壇したのは、地元大阪岸和田の型枠製造メーカーである高洋商会の天堀真紀子さんと稲田千保さん。利用が浸透しない社員たちに愚痴り、プロに頼って、現場と議論し、社内にkintoneを根付かせていく。そこには「なんとかしてあげたい母心」があった。",
-        "title": "岸和田のおかんが語るkintoneの育て方 大事なのは「忍耐と根気」「現場の声」、そして「母心」",
-        "url": "https://ascii.jp/elem/000/004/407/4407410/?rss"
-      },
-      {
-        "id": "f3a1c67f74f62b4fb1526f95aac4d13011c70be6",
-        "published": "2026-06-03T21:49:29+00:00",
-        "source": "ASCII.jp",
-        "summary": "「これはすごい」。2019年、科学者たちは生体分子を鏡写しに反転させた「鏡像生命」の構想に沸いた。だが研究が進むほど、彼らは別の可能性に気づく。天敵も免疫も持たない鏡像生物は、地球の全生命を滅ぼしかねない——。実現性にはなお議論があるが、自らの研究に終末の影を見た科学者はどう向き合うべきなのか。",
-        "title": "鏡像生命に沸いた科学者 「世界の終わり」を見たとき 何をすべきなのか",
-        "url": "https://ascii.jp/elem/000/004/407/4407853/?rss"
       },
       {
         "id": "79dd231370fcd87c78e0c2f5a9583cd4b79fd591",
@@ -476,54 +628,6 @@
         "summary": "約5300年前にアルプス山脈で死亡し、氷河の中で自然にミイラ化した「アイスマン」の体から、パン作りに使える可能性がある酵母が見つかりました。 続きを読む...",
         "title": "「アイスマン」の体から「パン作りに使えそうな酵母」が発見される、研究チームはアイスマン由来の酵母からパン種の作成に成功",
         "url": "https://gigazine.net/news/20260604-otzi-iceman-yeast-bread/"
-      },
-      {
-        "id": "36014cda3aedbe5d29b58104e8dce2935988d16f",
-        "published": "2026-06-03T21:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "中央ヨーロッパ最大級のスタートアップの祭典「ViennaUP」のサイドイベントとして、ウィーンにて「10 Years GIN Connects」が開催された。オーストリアを拠点にスタートアップのグローバル展開を支援する国家イニシアチブ「Global Incubator Network Austria（GIN）」の設立10周年を記念するイベントだ。",
-        "title": "ヨーロッパ進出を狙うならウィーンへ スタートアップ支援プログラム「GIN」10周年記念イベントが開催",
-        "url": "https://ascii.jp/elem/000/004/407/4407788/?rss"
-      },
-      {
-        "id": "13a9301df42615b4a2240dba6ddb8debf4ddd10e",
-        "published": "2026-06-03T20:35:12+00:00",
-        "source": "ASCII.jp",
-        "summary": "画像クレジット:Getty Images",
-        "title": "データセンターの電力不足、グーグルは市民から集める仕組み導入へ",
-        "url": "https://ascii.jp/elem/000/004/407/4407849/?rss"
-      },
-      {
-        "id": "56e283c1d9456ef5b232bdb812975fac3e59b3a3",
-        "published": "2026-06-03T15:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "セブンアールジャパンが6月4日に24時間限定セールを実施。最新ゲーミングPCなどが最大125,000円オフに。注目の商品は「ZEFT G62CA」など、送料無料で提供される。",
-        "title": "RTX 5080・5090搭載PCが特価に、6月4日限定セール開催",
-        "url": "https://ascii.jp/elem/000/004/407/4407477/?rss"
-      },
-      {
-        "id": "3b7fe5498868d0d3c84c6f0100659e46d1aaff40",
-        "published": "2026-06-03T13:45:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026で、KTUが見つけた、面白いPCケースを紹介。",
-        "title": "これ面白いな！ ファンの角度を「傾けて調整」できるPCケース",
-        "url": "https://ascii.jp/elem/000/004/407/4407841/?rss"
-      },
-      {
-        "id": "c64a600e8d345d9cae12e2bb730534de65c611a6",
-        "published": "2026-06-03T13:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026で、KTUが見つけた、とあるPCパーツの潮流とは。",
-        "title": "多様化するPCパーツ。いまPC組むなら「ナチュラルでおしゃれな感じ」もアリですよ？",
-        "url": "https://ascii.jp/elem/000/004/407/4407840/?rss"
-      },
-      {
-        "id": "3a7c0702b7f40ffa547309525dee712c4dcda4db",
-        "published": "2026-06-03T13:20:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "COMPUTEX TAIPEI 2026で、まるで「セーブ地点」のような美しいPCケースを見つけた！",
-        "title": "美しい輝き……。まるで「セーブ地点」のようなPCケースをCOMPUTEXで見つけた！",
-        "url": "https://ascii.jp/elem/000/004/407/4407839/?rss"
       },
       {
         "id": "c6eb44d8d620a48a11413099324adae791c3874c",
@@ -590,52 +694,12 @@
         "url": "https://pc.watch.impress.co.jp/docs/news/2114199.html"
       },
       {
-        "id": "49f90b1c2d63e3636c8a621841e3f10ae1a099f7",
-        "published": "2026-06-03T09:03:55+00:00",
-        "source": "PC Watch",
-        "summary": "",
-        "title": "【新時代到来】NVIDIAの超大物CPU「RTX Spark」初搭載！MSIが放つ最強のAI対応2in1",
-        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114203.html"
-      },
-      {
-        "id": "162d7ea2c55ff45c14089ff7bdd4cd5cd4435fa2",
-        "published": "2026-06-03T08:46:53+00:00",
-        "source": "PC Watch",
-        "summary": "サンワサプライは、キャスター付きPCスタンド「CP-055」を6月下旬に発売する。価格はオープンプライスで、直販価格は8,780円。",
-        "title": "サンワサプライ、直販8,780円でサイズ調整可能なPCスタンド「CP-055」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114196.html"
-      },
-      {
-        "id": "6daf06b70ffedb361fb827551ca072ae145e0e55",
-        "published": "2026-06-03T08:38:26+00:00",
-        "source": "PC Watch",
-        "summary": "Nous Researchは6月3日、自己改善型のAIエージェント「Hermes Agent」のデスクトップアプリ「Hermes Desktop」をプレビューとして公開した。",
-        "title": "使うほど賢くなる人気AIエージェントのアプリ版「Hermes Desktop」登場",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114181.html"
-      },
-      {
-        "id": "d217a6e3e175068825336bdf967c63e97d15bd0c",
-        "published": "2026-06-03T08:20:47+00:00",
-        "source": "PC Watch",
-        "summary": "メディアジーンが運営するクラウドファンディングプラットフォーム「GIZMART」は、キーボードブランドKeychronとの事業連携を強化し、初のトラックボールマウス「Keychron T1 HE」のクラウドファンディングを開始した。執筆時点で製品入手に必要な最低出資額は7,480円。",
-        "title": "あのKeychronが動いた！初のトラックボール「T1 HE」が7,480円で電撃デビュー",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114186.html"
-      },
-      {
         "id": "60abde9e62f98cb383aebd0ab85e2c77c9c966df",
         "published": "2026-06-03T08:05:00+00:00",
         "source": "ITmedia NEWS",
         "summary": "GitHubが6月1日に施行したCopilotの従量課金制を巡り、X上で「クレジットの消費が想定より速い」とする投稿が相次いでいる。",
         "title": "「使い物にならなくなった」──6月1日からの「GitHub Copilot」新料金、SNSで不満続出 他ツールへの移行表明も",
         "url": "https://www.itmedia.co.jp/news/articles/2606/03/news124.html"
-      },
-      {
-        "id": "a80e2bdd7abbb0f8ea696c4dac294fd0b38d8e42",
-        "published": "2026-06-03T08:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "カップ焼きそばの「日清焼そばU.F.O.」から、本格的なスパイスカレー味の「日清焼そばU.F.O.スパイスキーマカレー焼そば」が2026年5月25日に登場しました。2019年に販売した際に大好評だった味わいをスパイシーな料理が食べたくなる夏に向けて再登場させた商品とのことなので、実際に暑くなってきた時節に食べてみました。 続きを読む...",
-        "title": "後がけスパイスで焼きそばに本格的なカレーのうまみとスパイシーさが広がる「日清焼そばU.F.O.スパイスキーマカレー焼そば」試食レビュー",
-        "url": "https://gigazine.net/news/20260603-nissin-ufo-spiced-keema-curry/"
       },
       {
         "id": "fe4bdad8577ed5a3fa9f8952c07098f4fb8f1e8d",
@@ -660,72 +724,8 @@
         "summary": "時価総額は一時45兆円を超え、トヨタ自動車を抜いて国内2位に浮上した。",
         "title": "キオクシアの時価総額、一時トヨタ超え 上場から1年半で50倍以上に",
         "url": "https://www.itmedia.co.jp/news/articles/2606/03/news120.html"
-      },
-      {
-        "id": "7265ad435fd73adbd757e696c2b9102eb264a740",
-        "published": "2026-06-03T07:30:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "「タクシードライバー」や「グッドフェローズ」などの名作で知られるマーティン・スコセッシ監督が、AI企業Black Forest Labsのアドバイザーに就任したことが分かりました。 続きを読む...",
-        "title": "マーティン・スコセッシ監督がAI企業のアドバイザーに就任、イメージを他者へ共有する手段として画像生成AIの活用に意欲的",
-        "url": "https://gigazine.net/news/20260603-martin-scorsese-black-forest-labs/"
-      },
-      {
-        "id": "9f8536e7e776385240297760d51375b1500abdb8",
-        "published": "2026-06-03T07:27:49+00:00",
-        "source": "PC Watch",
-        "summary": "OpenAIは6月2日(現地時間)、AIコーディングエージェントの「Codex」に、作成したWebアプリをすぐにURLで共有できる機能「Site」を追加したと発表した。現在、BusinessおよびEnterpriseプランでプレビュー展開中で、今後さらに広く展開予定。",
-        "title": "OpenAIのCodexに新機能「Site」。作成したWebアプリをURLで即共有",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114159.html"
-      },
-      {
-        "id": "5549349cce8747f4c5622da733d069ed73da657f",
-        "published": "2026-06-03T07:14:01+00:00",
-        "source": "PC Watch",
-        "summary": "米NVIDIAは5月31日(現地時間)、GTC Taipeiにおいて、Windows搭載デスクサイドAIスーパーコンピューター「NVIDIA DGX Station for Windows」を発表した。今年(2026年)第4四半期に、ASUS、Dell Technologies、GIGABYTE、HP、MSI、Supermicroから提供される予定となっている。",
-        "title": "NVIDIA、1兆パラメータが動くWindowsのデスクトップAIスパコン",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114136.html"
-      },
-      {
-        "id": "fffeda44c34f7e57fffe2ba131433dfca558e45c",
-        "published": "2026-06-03T06:28:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "従業員が発行したGitHub認証情報が、個人開発で利用していたサーバに意図せずアップロードされ、第三者に悪用されたことが原因だったという。",
-        "title": "CAMPFIRE「従業員がGitHub認証情報を個人開発サーバに誤アップロード」 不正アクセスの原因公表",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news114.html"
-      },
-      {
-        "id": "003551c3ec038ea974db47d707a9e4eb7cbbb45f",
-        "published": "2026-06-03T06:20:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "Microsoft傘下のGitHubが提供するAIコーディング支援サービス「GitHub Copilot」は、エディタ上でコード補完やチャットによる相談を行える開発者向けツールです。従来のCopilotは数行のコード補完や短い質問に答える使い方が目立っていましたが、近年は複数のファイルを調べながらAIが複数の手順をたどって修正案を作る「エージェント型」の機能も増えています。 続きを読む...",
-        "title": "従量課金になったGitHub Copilotで「クレジット消費が激しすぎる」との声が相次ぐ",
-        "url": "https://gigazine.net/news/20260603-github-copilot-credit-consumption/"
-      },
-      {
-        "id": "27fe1c5648f45d8c0226d84eccf92dae4908be7d",
-        "published": "2026-06-03T05:10:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "GitHubが「GitHub Copilotアプリ」の詳細を2026年6月2日に発表しました。GitHub Copilotアプリは2026年5月にテクニカルプレビュー版がリリースされたデスクトップアプリで、複数のAIエージェントを管理してエージェント実行基盤の中核になることを目指しています。 続きを読む...",
-        "title": "GitHub Copilotが「AIアシスタント」から「AI開発チーム」へ進化、専用アプリの全貌が明らかに",
-        "url": "https://gigazine.net/news/20260603-github-copilot-app/"
-      },
-      {
-        "id": "82a4eb8c6de895b9acc1cde6da1911c00e6e02a7",
-        "published": "2026-06-03T05:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "米OpenAIは6月2日（現地時間）、AIコーディングツール「Codex」の新機能「Sites」を発表した。生成したアイデアや成果物をWebサイトやアプリに変換し、URLでチームに共有できる。",
-        "title": "進捗や目標を投入→AIが分かりやすいWebダッシュボードに、チーム間共有も OpenAI、Codexに新機能「Sites」",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html"
-      },
-      {
-        "id": "12f38f7deffdd16a8509ddfcfd8df54ec547f6e7",
-        "published": "2026-06-03T04:38:46+00:00",
-        "source": "PC Watch",
-        "summary": "Microsoftは6月2日(米国時間)、エージェント型AIを活用して開発された次世代のトポロジカル量子チップ「Majorana 2」を発表した。",
-        "title": "AIでMicrosoft商用量子コンピュータが早期到来。信頼性1,000倍「Majorana 2」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114080.html"
       }
     ]
   },
-  "generated_at": "2026-06-03T22:56:10.793904+00:00"
+  "generated_at": "2026-06-04T02:14:53.054577+00:00"
 }
