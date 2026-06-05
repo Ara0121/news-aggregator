@@ -2,100 +2,236 @@
   "categories": {
     "jobs_japan": [
       {
+        "id": "1fe2cbcba14684a962bd72de2df2f7c9315f06ce",
+        "published": "2026-06-05T06:55:19+00:00",
+        "source": "note",
+        "summary": "シンプルに時間は無駄だった気がする いろいろ自分なりに考えて、これだ！って思ったことに飛びついたりはした その時その時を必死に生きてたのは確か でも、残った＆今後も活かせるものは結構少ないような感じ 続きをみる",
+        "title": "半年以上鬱病クネクネした就活生の学び",
+        "url": "https://note.com/shabby_nabby_8/n/n80985edbd59e"
+      },
+      {
+        "id": "fbc3d0a3ec82d6fbfd13bc8f75143e0f78d9440d",
+        "published": "2026-06-05T06:54:33+00:00",
+        "source": "note",
+        "summary": "はじめに 続きをみる",
+        "title": "【練習ツール付】これが最強で本気の面接対策。採用側の本音と回答の作り方。",
+        "url": "https://note.com/jobhappy_2155/n/nadbe298693e0"
+      },
+      {
+        "id": "2efbfce224487dc857dcdbb87921af888db58adc",
+        "published": "2026-06-05T06:54:25+00:00",
+        "source": "note",
+        "summary": "「初めて配送に出た日が、雪だったんです。」 そう笑いながら話してくれたのは、桑名営業所で活躍するルート配送ドライバーの向井良徳さん（30歳）。 続きをみる",
+        "title": "整体師からルート配送ドライバーへ。向井良徳さんが選んだ新しい働き方",
+        "url": "https://note.com/agile_yak935/n/n30569e6a9eb1"
+      },
+      {
+        "id": "0cbb11c43030eba7e6b6f202705e604c87c80351",
+        "published": "2026-06-05T06:54:16+00:00",
+        "source": "note",
+        "summary": "外資系のエグゼクティブサーチと聞くと、どこかピリついた、数字だけが飛び交うドライな場所をイメージするかもしれません。しかし、Ryze Consulting（以下、Ryze）のオフィスを訪れると、そのどちらでもない、驚くほど「合理的で温かい」光景が広がっています。 この組織の基盤を支え、メンバーがフロント業務に集中できる環境をゼロから作ってきたのが、バイスプレジデントオペレーションズを務める佐藤さくらさんです。 続きをみる",
+        "title": "【社員インタビュー】コンサルタントが本質業務に集中できる理由──Ryzeの成果を支える舞台づくり",
+        "url": "https://note.com/ryze_consulting/n/na6d6e8fd849d"
+      },
+      {
+        "id": "757e66cdb1141dfc6f0fb8b6f0da9b4cff5e323d",
+        "published": "2026-06-05T06:54:04+00:00",
+        "source": "note",
+        "summary": "担任の先生に「〇〇くん（息子）のことでお電話したいことがあります」朝息子を学校へ送っていった時に言われた。 今度はなんや。 続きをみる",
+        "title": "難しい子",
+        "url": "https://note.com/inui_notebook/n/n66f5e4353b6a"
+      },
+      {
+        "id": "22e89ba930c1ead5c982985113869475c2d37e8a",
+        "published": "2026-06-05T06:52:52+00:00",
+        "source": "note",
+        "summary": "「ガクチカに書ける実績がない」と感じていませんか。 続きをみる",
+        "title": "ガクチカが「薄い」人のための AI 深掘りプロンプト7本【嘘なしで濃くする】",
+        "url": "https://note.com/witty_bobcat6938/n/nb6c8db580391"
+      },
+      {
+        "id": "201574b87c373328d46706f3d47b515a8da38529",
+        "published": "2026-06-05T06:51:31+00:00",
+        "source": "note",
+        "summary": "はじめまして！テクノロジー研究開発ユニット note管理人のさかです。 「ホテルのIT部門って、どんな仕事をしているんだろう？」 続きをみる",
+        "title": "入社半年のエンジニアに聞いた、星野リゾート情報システムグループのリアル",
+        "url": "https://note.com/hoshino_technote/n/nf02d4b1957aa"
+      },
+      {
+        "id": "3cbade5aa7f079d224f3e10dd534c63e1b544e99",
+        "published": "2026-06-05T06:46:23+00:00",
+        "source": "note",
+        "summary": "人生の分岐点では、 誰かに相談したくなる。 続きをみる",
+        "title": "【人生設計】人生は相談相手で決まる",
+        "url": "https://note.com/frogniten/n/n99627fb64c70"
+      },
+      {
+        "id": "b1b0dfdf48fd4b768196e40bf16695c201054fb0",
+        "published": "2026-06-05T06:43:46+00:00",
+        "source": "note",
+        "summary": "「どの会社にも言える志望動機」を社名を入れ替えても成立しない文章に変える、AI 企業研究プロンプト 7 本をまとめました。ChatGPT / Claude / Gemini で使えます。 続きをみる",
+        "title": "志望動機が「使い回し」になる人のための AI 企業研究プロンプト7本【コピペで使える】",
+        "url": "https://note.com/witty_bobcat6938/n/n46e2d64812ee"
+      },
+      {
+        "id": "0b4a5e605e074ea91c4705a3b0312864726a7dd2",
+        "published": "2026-06-05T06:38:44+00:00",
+        "source": "note",
+        "summary": "早すぎではないか。半年が過ぎてしまった。 これは、私の反省文です。 続きをみる",
+        "title": "2026年、あと半年をどう生きる",
+        "url": "https://note.com/angeeeel1004/n/n392217597873"
+      },
+      {
+        "id": "11f9766bcf1ee722cf1b58f33b2137a59bf658c0",
+        "published": "2026-06-05T06:35:35+00:00",
+        "source": "note",
+        "summary": "友達の会社を辞めることが決まって、正直めちゃくちゃスッキリしました。 次の仕事は決まっていなかったけど、心のどこかでまあ決まるだろうと確信がありました。 続きをみる",
+        "title": "「働きたくない」と思わなくなっていた",
+        "url": "https://note.com/hinoyuto/n/ne449b22be7a0"
+      },
+      {
+        "id": "d61c6f9fe373a93f6a7e3ce067b7a1d692cee6b5",
+        "published": "2026-06-05T06:34:08+00:00",
+        "source": "note",
+        "summary": "2025年1月、僕はまた\"あの会社\"に戻ることにした。 「え、なんで？」 続きをみる",
+        "title": "「ブラック企業→ホワイト企業→まさかの出戻り。36歳営業マンがnoteを始めた理由」",
+        "url": "https://note.com/famous_mint5186/n/n3e04067e8f98"
+      },
+      {
+        "id": "6f8b2b8d1389505be253071cc466b58682a3ca15",
+        "published": "2026-06-05T06:32:56+00:00",
+        "source": "note",
+        "summary": "■はじめに 私は22歳で大学を卒業し、これまでに3社を経験してきました。 新卒で入ったのは派遣会社。その後2回転職し、現在はデ◯ソーに入社しています。 最初から順調だったわけではなく、むしろ遠回りをしてきました。 ただ、その過程で「会社選びで失敗しないための考え方」が分かってきました。 この記事では、自分の実体験をもとに ・なぜ転職したのか ・どこで失敗したのか ・最終的にどう考えて会社を選んだのか をまとめています。 ⸻ ■1社目：派遣会社で感じた劣等感と将来への不安 新卒で入ったのは派遣会社でした。 当時は深く考えず、「とりあえず働ければいい」という…",
+        "title": "【派遣→転職2回で遠回り。でも最終的にデ◯ソーに入れた理由と“失敗しない会社選び”】",
+        "url": "https://note.com/brainy_hosta5610/n/n44ab73ac4c5b"
+      },
+      {
+        "id": "40d94a59dd95e3bb7318c88ce87d46cc80997afe",
+        "published": "2026-06-05T06:32:10+00:00",
+        "source": "note",
+        "summary": "みなさん、こんにちは！ 株式会社foredge（フォレッジ）のHIROKIです。早いものでもう6月ですね。 続きをみる",
+        "title": "「もう良い学生は残っていない」は誤解！夏採用の超・優秀層をスピードで囲い込むRPOのリアル",
+        "url": "https://note.com/foredge_connect/n/na849d6d7c842"
+      },
+      {
+        "id": "6ccef58e915a8f7b56297c72692010e362b5b0c6",
+        "published": "2026-06-05T06:32:04+00:00",
+        "source": "note",
+        "summary": "４月からヘルパーの仕事を始めて、２か月目に突入した。 今まで新しい環境に変わると、体調を崩したり、気持ちが不安定だったけど、そのようなことはなく毎日を過ごせている。 自分でも信じられないくらい！ 続きをみる",
+        "title": "転職して得たかけがえのないもの",
+        "url": "https://note.com/just_curlew8118/n/n10945a49555f"
+      },
+      {
+        "id": "958a36a72f988fb89af17f16a6ed42b39ff10c93",
+        "published": "2026-06-05T06:31:57+00:00",
+        "source": "note",
+        "summary": "読了目安：5分 「尾﨑さんの仕事ぶりからは強いプロフェッショナリズムを感じる。我々が採用したいのは、まさにこういう人」 続きをみる",
+        "title": "武器は「才能」ではなく「信頼」。「普通コンプレックス」を持つリーダーの軌跡から紐解く、一緒に働きたい人の条件",
+        "url": "https://smartcity.lycomm.co.jp/n/nefe477827b9b"
+      },
+      {
+        "id": "ad28c37413c15ea1d01c1ba1f29f3fb47f8e9fa7",
+        "published": "2026-06-05T06:23:00+00:00",
+        "source": "note",
+        "summary": "こんにちは！ITリモートワークス採用担当です。 転職活動をしていると、面接までの流れは求人票や採用ページで確認できても、**「内定が出た後、実際に入社して案件に参画するまではどのように進むのか」**までは、なかなか見えにくいものです。 続きをみる",
+        "title": "内定通知から入社後の案件参画まで。ITリモートワークスの入社前後の流れを解説します",
+        "url": "https://note.com/it_remote_works/n/nf597c34d86e1"
+      },
+      {
+        "id": "7b6b259b93ee4d5cdd7d70c51de17d0d3183a03c",
+        "published": "2026-06-05T06:16:18+00:00",
+        "source": "note",
+        "summary": "こんにちは。こーひーまめ子です。 めっっめめめ、 めめっ 続きをみる",
+        "title": "今日という日が過ぎた",
+        "url": "https://note.com/coffee_mameko/n/n3e2ffa9a922b"
+      },
+      {
+        "id": "d1fd76b7ae793739011d9138bc6588ce6b1b4163",
+        "published": "2026-06-05T06:10:57+00:00",
+        "source": "note",
+        "summary": "今日は大学のキャリア支援課に行って面談をする予定があったのだけど、まさかの交通系ICカードが行方不明で、家を出るのが5分近く遅れてしまった。かばんの中に入ってないなんておかしい。数日前まであったものがどうしてなくなるんだろう。急に物がなくなった時が一番焦るし、嫌な気分になる。もう探したくもない。 仕方ないので切符を買って改札を通ったら、ちょうど到着していた電車は出発して行ってしまった。乗るのに間に合わず、次の電車は10分後で面談がギリギリになりそうだと思ったので、大学の最寄り駅からは走って大学に向かった。おいおい、なんて日だよ！と思った。 続きをみる",
+        "title": "人生は苦難の連続に違いない…",
+        "url": "https://note.com/anri_0125/n/n0cc10ede33d4"
+      },
+      {
+        "id": "463ca2f09afa3f0f62eb860af67d32c354ba6e66",
+        "published": "2026-06-05T06:06:41+00:00",
+        "source": "note",
+        "summary": "こんにちは、現役大学職員のかなと申します。 私は新卒で誰もが知る大手JTCに入社し、営業職・採用担当として勤務したのち、自身のライフプランとキャリアを見直して大学職員への転職を決意しました。これまでに、異業種から大学職員への転職を2度成功させています。 その中でも最も過酷で、最も倍率が高かったのが、都内にある教育・カルチャーの先進校として知られる、超人気の有名私立大学の選考でした。 当時の採用データがこちらです。 総応募者数：約600名 最終採用人数：わずか3名 倍率：約200倍 この、非常に狭い門をくぐり抜けるために、私が徹底的にロジックを練り上げて作…",
+        "title": "【倍率200倍突破】600名中3名の最難関枠を勝ち取った、有名私立大学合格ES完全解剖。民間から大学職員への転職を成功させる「落ちない志望動機」の構築ロジック（穴埋めテンプレート付き）",
+        "url": "https://note.com/kana_unicareer/n/n690190adcd6d"
+      },
+      {
+        "id": "fa6f0c229ee6e0ec2301d417338679dd00d3f50b",
+        "published": "2026-06-05T06:01:53+00:00",
+        "source": "note",
+        "summary": "こんにちは。 いつも当サイトをご支援頂き誠にありがとうございます。 私は現在、富裕層VIP向けの現地コーディネーター・通訳ガイドとして主にせとうちエリアで活動しています。 続きをみる",
+        "title": "VIP対応で失敗しない為の通訳ガイド実務マニュアル ― 超富裕層に選ばれる接客・英語・リスク管理術 ―",
+        "url": "https://note.com/redtiger/n/n4972f6704893"
+      },
+      {
+        "id": "5749e65ce0a5c42fa6ff92b233c30cfca64991b9",
+        "published": "2026-06-05T06:01:36+00:00",
+        "source": "note",
+        "summary": "仕事選びやキャリア形成を考えるとき、多くの方が利用するのが求人サービスやスカウトサービスです。 求人サービスは、自分で求人を検索して応募できるサービスです。 一方、スカウトサービスは、プロフィールや職務経歴を登録しておくことで、企業やヘッドハンター、人材紹介会社などからスカウトが届くサービスです。 続きをみる",
+        "title": "求人サービス・スカウトサービスの使い方｜自分に合う仕事を見つけるための活用ポイント",
+        "url": "https://note.com/shikaku_pro/n/n6dbecc7f171d"
+      },
+      {
+        "id": "b3fffb9fae0e03d8e5927f2ab1838b6625636e8f",
+        "published": "2026-06-05T05:45:52+00:00",
+        "source": "note",
+        "summary": "ITエンジニアとして働いていると、ある程度経験を積んだタイミングで、今後のキャリアについて考える機会が増えてきます。 続きをみる",
+        "title": "TechGo（テックゴー）を実際に利用した体験談その2｜ITエンジニア向けハイクラス転職サービスの面談内容・良かった点・注意点を紹介",
+        "url": "https://note.com/shikaku_pro/n/nbef29f5bc7b6"
+      },
+      {
+        "id": "00a57d61a9ad2a9ce0de1b95e63771b523ab9410",
+        "published": "2026-06-05T04:54:11+00:00",
+        "source": "note",
+        "summary": "こんにちは。 連日、Direct typeの中の人が運用しているnoteをご覧いただきありがとうございます！N.Yです。 今回は、採用に関わる人なら一度は悩まれる『配信時間』についてお伝えします！（Direct type内のデータになるので、一情報としてお受け止めください） 続きをみる",
+        "title": "【採用担当者必見！※データ大公開※】結局スカウトっていつ見られてるの？",
+        "url": "https://note.com/directtype/n/n9967c16da1d3"
+      },
+      {
+        "id": "9ea1d924d53cb2a2060be320116e4cad554afc45",
+        "published": "2026-06-05T04:38:40+00:00",
+        "source": "note",
+        "summary": "こんにちは！Peach Techの採用担当です！ Peach Techの社員インタビューでは、現場で活躍する社員が「どんな想いで仕事に向き合っているのか」や、「どんなキャリアを目指しているのか」をお届けしています！ 続きをみる",
+        "title": "「理想のエンジニア像」を追い続ける─AIを活用した開発案件で活躍する社員インタビュー",
+        "url": "https://note.com/peachtech/n/n83139650efea"
+      },
+      {
+        "id": "20f51a1776537a2896d5eb75b66afe633fae1baa",
+        "published": "2026-06-05T03:00:05+00:00",
+        "source": "Zenn",
+        "summary": "はじめに はじめまして。株式会社FLINTERSの松平です。 今年の5月に中途入社し、約1ヶ月間の中途エンジニア研修が終了しました。 そこで今回は、研修で学んだことと、研修期間中に感じたことについて振り返りたいと思います。 転職を検討されている方や、FLINTERSに興味のある方の参考になれば幸いです。 簡単な自己紹介 もともとゲームが好きで「ゲーム開発ができたら楽しそうだな」というシンプルな動機から、ゲーム開発系の専門学校へ進学しました。 初めはC言語を使った基礎的なプログラミング学習をしていましたが、C++でオブジェクト指向やデザインパターンに触れて…",
+        "title": "FLINTERS 中途研修の振り返り",
+        "url": "https://zenn.dev/flinters_blog/articles/ce82f2e42c9bcc"
+      },
+      {
+        "id": "d2934890810a8deb804a6006761944a989833f38",
+        "published": "2026-06-05T02:55:49+00:00",
+        "source": "note",
+        "summary": "第1部では、SESという働き方のリアルと可能性を。 第2部では、会社が「成長」と「安心」を仕組みでどう支えているのかといったハード面を。 そして今回第3部では データで表せられないWidsleyのソフト面についてうかがいました。 続きをみる",
+        "title": "迷っているなら、来た方がいい。事業部長が語る、覚悟と未来。",
+        "url": "https://note.com/widsley_0802/n/ndd2754b777b8"
+      },
+      {
+        "id": "21cd9df5b6aa5d4709b05ec2a1448a1b8d54276c",
+        "published": "2026-06-05T02:10:33+00:00",
+        "source": "note",
+        "summary": "「目の前の業務を覚えるだけで精一杯だった未経験エンジニア」が、3年後にマネージャーとして会社を支える立場になる――。 そのスタート地点となった入社当時のインタビュー記事もぜひご覧ください。 ▼前回の記事はこちら 続きをみる",
+        "title": "「教わる側から、会社を支える側へ。」未経験エンジニアからマネージャーになった3年間",
+        "url": "https://note.com/c_gamechanger/n/ne760fbd20e08"
+      },
+      {
         "id": "f3a7b92592db8bf7791a06a593d457b422815624",
         "published": "2026-06-05T01:57:45+00:00",
         "source": "note",
         "summary": "こんにちは！ 初めまして、今年の4月に新卒として入社した土岐です。 先週の土曜日（5/30）にオフィス引越し作業の手伝いに行きました！ 新オフィスを見たかったので、手伝いという口実のもとオフィス観光してきました😁 せっかくなので体験記としてnoteに残してみます！ 続きをみる",
         "title": "やどかりオフィス引っ越しました！🐚🏠",
         "url": "https://note.com/yadokari_inc/n/ndacfeff07793"
-      },
-      {
-        "id": "c15b43008647f6b815e85d739473917a9dc8e812",
-        "published": "2026-06-05T01:57:12+00:00",
-        "source": "note",
-        "summary": "「数字で語れる人」だけが知っていること 「御社は『お、ねだん以上。』の家具屋さんで、商品の安さと品質に魅力を感じました」 続きをみる",
-        "title": "【ニトリ】就活・中途 完全攻略｜ES・志望動機・面接対策・逆質問（2026年版）",
-        "url": "https://note.com/recruit_ir/n/n5388eab7f97f"
-      },
-      {
-        "id": "e4646c5669d267a5fddaf7c2f9b85026b9bab5cd",
-        "published": "2026-06-05T01:56:50+00:00",
-        "source": "note",
-        "summary": "営業収益819億円。経常利益156億円。連結従業員3,343人。これが、財閥にも銀行系列にも属さない独立系の中堅証券として100年以上の歴史を重ねてきた岡三証券の「外形」だ。全国に支店網を持ち、個人向けの対面営業を事業の柱に据えてきた、いわゆる対面証券である。 ところが、この規模の中で働く社員の30歳時点の年収相場は、約760万円。大手証券と比べれば見劣りするが、世間の平均と並べれば頭一つ抜けている。営業収益800億円超の中堅対面証券で、30歳の年収が760万円。この数字は規模と独立系という立ち位置に見合った妥当な水準なのか、それとも説明のいる数字なのか…",
-        "title": "岡三証券の年収｜30歳で760万は妥当か【2026年最新】",
-        "url": "https://note.com/company_scope/n/nabc4c41297b1"
-      },
-      {
-        "id": "aece32c1d81c0f2e9413c6aa349852a9805c38d2",
-        "published": "2026-06-05T01:56:03+00:00",
-        "source": "note",
-        "summary": "ネガティブだと思っていた経験が、誰かには「すごいこと」に見えていた 「それ、すごいことですよ」 続きをみる",
-        "title": "２０回以上転職した私が、やっと気づいたこと。",
-        "url": "https://note.com/akiko_aklabo/n/ndb6ecda54d9a"
-      },
-      {
-        "id": "8d8f72e69d15e9419497bd041ada3a5e5927d11c",
-        "published": "2026-06-05T01:53:45+00:00",
-        "source": "note",
-        "summary": "営業収益5,250億円、純営業収益3,471億円、当期純利益538億円。単体の従業員は約6,802名。これが、みずほフィナンシャルグループの傘下で投資銀行から個人営業までを束ねる大手証券、みずほ証券の「外形」だ。三大メガバンク系証券の一角として、銀行の顧客基盤と一体で動く総合証券である。 ところが、この規模の中で働く社員の30歳時点の年収相場は、約1,112万円。同世代の平均と比べれば頭一つどころか二つ抜けて高い。営業収益5,250億円の大手証券で、30歳の年収が1,112万円。この数字は規模に見合った妥当な水準なのか、それとも何かが上振れさせた説明のい…",
-        "title": "みずほ証券の年収｜30歳で1,112万は妥当か【2026年最新】",
-        "url": "https://note.com/company_scope/n/nc80e446516a8"
-      },
-      {
-        "id": "5fc1572ef3974170142961ff95b5fa0c646ac625",
-        "published": "2026-06-05T01:53:36+00:00",
-        "source": "note",
-        "summary": "無職になって2か月目！ 小1の娘の登校に合わせて家を出て送るついでに30分ほどウォーキングするのが日課です。全然体重は減らないのですが下腹が小さくなってきました！！朝6000歩、夕方4000歩くらいで毎日一万歩歩いています！益々健康！ 前回は初回の失業保険手続きや認定日のリアルな流れを書きましたが↓コチラ 続きをみる",
-        "title": "②【失業保険】2回目認定日までの求職活動記録。",
-        "url": "https://note.com/tv_po/n/na77741f1adc4"
-      },
-      {
-        "id": "8a58e15df28d45b3e4bc8a229302226fc78e3c58",
-        "published": "2026-06-05T01:53:17+00:00",
-        "source": "note",
-        "summary": "三井住友フィナンシャルグループの傘下で、対面の個人営業から大型のM&A・資金調達までを束ねる大手証券。営業収益5,069億円、純営業収益3,598億円、経常利益571億円、当期純利益675億円。従業員は単体で約8,989名。これが、メガバンク系列の中核証券として国内上位の地位を保ってきたSMBC日興証券の「外形」だ。 ところが、この規模の中で働く社員の30歳時点の年収相場は、約1,071万円。同世代の平均と比べれば頭一つどころか二つ抜けて高い。大手証券の中でも、30歳で年収1,000万円を超えるのはかなりの高水準だ。営業収益5,000億円超の証券会社で、…",
-        "title": "SMBC日興証券の年収｜30歳で1,071万は妥当か【2026年最新】",
-        "url": "https://note.com/company_scope/n/n31a9d97d474b"
-      },
-      {
-        "id": "b469e1e424a1bc77cc8c9695dbaaf8e34b503202",
-        "published": "2026-06-05T01:52:46+00:00",
-        "source": "note",
-        "summary": "未確認歩行物体おばちゃんです。 気軽におばちゃんって呼んでな。 転職活動してた時にな、困ったことがいくつかあったんよ。 まず 求人票と実態のズレ 。 「残業ほぼなし」って書いてるのに、面接で聞いたら 「まあ月30時間くらいは…」って平気で言われる。 “ほぼ”ってなんの基準やねん、って毎回思ってた。 まぁ、まだそこで言うてくれるだけましなんやけど。 続きをみる",
-        "title": "【56】“選ばれる側”やなくて“選ぶ側”でいてよかったと思う理由",
-        "url": "https://note.com/uwo_oba0323/n/nb9f56467b656"
-      },
-      {
-        "id": "6f4f41d98b802d785982bea2592b996a1c765134",
-        "published": "2026-06-05T01:52:08+00:00",
-        "source": "note",
-        "summary": "「自分に教えられることなんて、何もない」 続きをみる",
-        "title": "教えられることは、最初から持っていなくていい！",
-        "url": "https://note.com/miikoyy/n/n5a35e93824d2"
-      },
-      {
-        "id": "4d1c4eb2a19070ee897ca2457ed595c1a33a8b8f",
-        "published": "2026-06-05T01:52:02+00:00",
-        "source": "note",
-        "summary": "営業収益3,711億円。純営業収益3,076億円。経常利益782億円。従業員5,688名。これが、MUFG(三菱UFJフィナンシャル・グループ)とMorgan Stanleyが組んだ合弁証券、三菱UFJモルガン・スタンレー証券の「外形」だ。メガバンクグループの資本力と、世界的な投資銀行のノウハウ。その2つを掛け合わせて生まれた、国内でも特異な成り立ちの証券会社である。 ところが、この看板の中で働く社員の30歳時点の年収相場は、約939万円。同世代の平均と比べれば頭一つ抜けて高い。MUFGと外資の合弁という重厚な看板で、30歳の年収が939万円。この数字は…",
-        "title": "三菱UFJモルガン・スタンレー証券の年収｜30歳で939万は妥当か【2026年最新】",
-        "url": "https://note.com/company_scope/n/n06cd2bf757d9"
-      },
-      {
-        "id": "3ac9d289fcbcd3cbe5d3462e80e8d722f1366d4d",
-        "published": "2026-06-05T01:51:24+00:00",
-        "source": "note",
-        "summary": "連結経常収益1兆8,551億円、連結従業員1万3,526人。経常利益1,374億円、純利益1,041億円。これが、MS&ADインシュアランスグループの中核を担う損害保険会社、あいおいニッセイ同和損害保険の「外形」だ。自動車保険を軸に火災・傷害保険を引き受け、企業と個人のリスクを抱える、国内損保の主要プレイヤーの一社である。 ところが、この規模の中で働く社員の30歳時点の年収相場は、約613万円。同世代の平均と比べれば高い側だが、「経常収益約1.9兆円・純利益1,000億円超」という見出しから受ける規模感ほど、突き抜けて高いわけではない。 続きをみる",
-        "title": "あいおいニッセイ同和損保の年収｜30歳で613万は妥当か【2026年最新】",
-        "url": "https://note.com/company_scope/n/nfabbf9dc5a54"
-      },
-      {
-        "id": "3d6a97e4ce0e7445a640dc6ef1cd0de552af9d73",
-        "published": "2026-06-05T01:50:37+00:00",
-        "source": "note",
-        "summary": "山形県高畠町で、奨学金返還支援制度が実施されていることをご存じでしょうか。 今回の制度では、最大124万8,000円の支援を受けることができます。金額の内訳は月額2万6,000円を48か月間支援する仕組みとなっており、若者の地元定着や人材確保を目的とした取り組みです。 続きをみる",
-        "title": "山形県高畠町が奨学金返還支援を実施！最大124.8万円",
-        "url": "https://note.com/shogakukinhensai/n/n90e34f5c3398"
       },
       {
         "id": "396efdf7811ccddac1af3cc887a45ae642ae5274",
@@ -106,30 +242,6 @@
         "url": "https://note.com/jamesus_pm/n/nf9aff98741ac"
       },
       {
-        "id": "93cde80b4c24f4e3d587eadac34a2805ce95bfdc",
-        "published": "2026-06-05T01:17:21+00:00",
-        "source": "note",
-        "summary": "「書類を送ったら、すぐに不合格の返信が来た」 AI選考の広がりによって、人事の担当者が書類を見る前に、 AIが一次判定をするケースが増えてきているように感じます。 続きをみる",
-        "title": "AI選考に書類を弾かれた40代へ──人事が設定した評価軸を知れば、攻略の糸口が見えてくる",
-        "url": "https://note.com/hr_department/n/n32f023cb351f"
-      },
-      {
-        "id": "e62c4c2a51e5fc7d89c3f96c9c4d0630b1c64ad7",
-        "published": "2026-06-05T01:15:23+00:00",
-        "source": "note",
-        "summary": "こんにちは。えんみっけ！事務局です。 インタビュー第144回は、東京都調布市 グラン仙川ちとせ保育園 （社会福祉法人ちとせ交友会） 看護師 A.Sさんにお話を伺いました。 続きをみる",
-        "title": "＃144| グラン仙川ちとせ保育園（社会福祉法人ちとせ交友会）| 看護師 A.Sさん",
-        "url": "https://note.com/enmikke/n/ncf73501bb53a"
-      },
-      {
-        "id": "3acbf933a6e83ec6d96711aef28ff7e81ba98368",
-        "published": "2026-06-05T01:04:12+00:00",
-        "source": "note",
-        "summary": "今回は、2026年4月に入社し、フルーツジュースバー事業部に配属となった新入社員に密着しました！ フルーツジュースバーでは「果汁工房果琳」の他、「Wonder Fruits」「V²＆M」「フルーツバーAOKI」といったブランドを展開しています。北海道から沖縄まで、全国に180店舗以上展開しているので、利用されたことがある方もいるのではないでしょうか？ 続きをみる",
-        "title": "新入社員に密着してみた👀🌸｜2026年度 vol.1",
-        "url": "https://note.com/aoki_fruit/n/n9bb67bc58cde"
-      },
-      {
         "id": "41f555e838e1a8f49ea4c5d99e2602f40afc9b7a",
         "published": "2026-06-05T01:03:29+00:00",
         "source": "note",
@@ -138,76 +250,12 @@
         "url": "https://note.com/k_note_kn/n/n262ac70f88b5"
       },
       {
-        "id": "a86ed82a38316bd0ae1da212cee9bfae72bd6dba",
-        "published": "2026-06-05T01:02:27+00:00",
-        "source": "note",
-        "summary": "【結論】現場の良し悪しは最初の3日間でほぼわかる 【やばい現場のサイン①】受け入れ準備が整っていない 【やばい現場のサイン②】現場のコミュニケーションが壊れている 【いい現場のサイン】初日から「ここ長く続けられそう」と感じるポイント 【まとめ】現場を見極める力が、SESで生き残る武器になる 第1章：【結論】現場の良し悪しは最初の3日間でほぼわかる 続きをみる",
-        "title": "「SES営業が100件以上の現場を見てわかった、\"いい現場\"と\"やばい現場\"を初日に見分ける全チェックリスト」",
-        "url": "https://note.com/belieftech_123/n/nfc84a090692c"
-      },
-      {
-        "id": "ee948d7a719555b36ba66472f88d6a998564664f",
-        "published": "2026-06-05T00:53:38+00:00",
-        "source": "note",
-        "summary": "大学に入ってからの3年間。 授業を受けて、期末試験のために勉強して、 部活をして、友達と遊ぶ。 振り返ってみると、高校の延長線のような生活だった。 もちろん楽しかったし、充実もしていた。 高校時代は片手ほどしか友達と遊びに出かけなかったから。 でも、大学3年の終わり頃にふと思った。 「今の自分には何もないな。」 そんな感覚だった。 ⸻ 勉強も部活も頑張ってきた。 だけど、それは与えられた課題をこなしていただけだった。 テスト範囲が決まっているから勉強する。 規定練習日だから部活に行く。 気づけば、自分から何かを生み出した経験がほとんどない。 そして何より…",
-        "title": "｢ただの大学生｣",
-        "url": "https://note.com/ros7qx/n/n04e6d88c060a"
-      },
-      {
-        "id": "b44583dc46d003c73ccf42b1a079bfc171fffbd1",
-        "published": "2026-06-05T00:25:50+00:00",
-        "source": "note",
-        "summary": "はじめに：コンサルは「ゴール」ではなく「通過点」 コンサル転職を考えるとき、多くの人が気にするのは「入るまで」のこと。 続きをみる",
-        "title": "コンサルの「その先」は何がある？卒業後のキャリアパス完全ガイド",
-        "url": "https://note.com/just_ivy63/n/n59b8e52d39c7"
-      },
-      {
-        "id": "46eb42c1dc88f2039c994bf53d3be55fb0767f6d",
-        "published": "2026-06-04T23:49:58+00:00",
-        "source": "note",
-        "summary": "■ やっとOJTへ進めた 前回の記事で書いたように、研修に半年かかった私は、ようやくOJTへ進むことができました。 続きをみる",
-        "title": "SE1年目の洗礼——会社で不祥事が発覚した話",
-        "url": "https://note.com/nrmy_nao_worker/n/n4761bc6889c7"
-      },
-      {
-        "id": "96ef8e23d9e2ab555fac1f58d4c55552f5d1955e",
-        "published": "2026-06-04T17:08:33+00:00",
-        "source": "note",
-        "summary": "「信頼して貸したお金なのに、 このまま泣き寝入りするしかないのか……」 すがるような思いで 法テラスの門を叩いた、 あるいは利用条件を調べて 愕然としたあなたへ。 続きをみる",
-        "title": "【法テラスに断られた】個人間の借金問題を「1通の手紙」自力解決する即効対策",
-        "url": "https://note.com/kamishiro_recov/n/nda909002706e"
-      },
-      {
-        "id": "661418981ae323464dde5a664a41278a21f7662d",
-        "published": "2026-06-04T14:42:11+00:00",
-        "source": "note",
-        "summary": "あなたがネットの「古いコピペ」で失っている莫大な時間と命 「よし、Androidアプリを作ろう！」と決意し、ネットで検索して見つけたチュートリアル記事。 そこに書かれているコードをコピーしてAndroid Studioに貼り付けた瞬間、あなたの画面には何が起こるでしょうか？ 続きをみる",
-        "title": "【Android Studio】古い記事の「非推奨コード」に騙されない！最新モダン開発へのアップデートガイド〜「赤い取り消し線」とクラッシュの絶望を終わらせる。コピペで動く2026年最新スタンダードの完全シミュレーション〜",
-        "url": "https://note.com/quirky_frog4014/n/nf2d982ed8ff9"
-      },
-      {
         "id": "cada1aca1659af473f77a477fa47642a8188bcb4",
         "published": "2026-06-04T13:11:51+00:00",
         "source": "Qiita",
         "summary": "私は３年半受託外発会社でiOSとandroidエンジニアとして働いていましたが、色々あり会社を退職してフリーランスになりました。自分がフリーランスになるなんて思ってもいなかったのと同時に、厳しい世界だなと痛感したので記事にまとめます。 簡単に経歴を紹介 高校卒業して社...",
         "title": "正社員からフリーランスになって３ヶ月でクビになった話",
         "url": "https://qiita.com/okuehidetaka0204/items/a76e5455dd4b937e9857"
-      },
-      {
-        "id": "97bd41f7295cdeaac32462974f902f50f1910cd0",
-        "published": "2026-06-04T12:28:48+00:00",
-        "source": "note",
-        "summary": "6月に住民税の通知が届いたばかりのタイミングで、7月にはもう一つ税金の支払いが来ます。「予定納税」です。 フリーランス1年目は特に、この予定納税の存在を知らずに資金が足りなくなるケースがあります。仕組みを理解して、今から準備しておくと安心できます。 続きをみる",
-        "title": "【要注意】フリーランスエンジニアが7月に払う「予定納税」の仕組みと資金準備",
-        "url": "https://note.com/0kara_freelance/n/n8c15afb17f66"
-      },
-      {
-        "id": "b467975f6f1cc1b57e0f4720594160be073fd9cf",
-        "published": "2026-06-04T12:07:28+00:00",
-        "source": "note",
-        "summary": "■ はじめに 最近、大手企業の採用方針には明確な変化が起きています。 続きをみる",
-        "title": "SESエンジニアがAI時代に勝つための「人間力」の正体",
-        "url": "https://note.com/right_heron6794/n/n291ef964c923"
       },
       {
         "id": "2f6f350d2fdc36b1f0c1d90339053ad5c0affb21",
@@ -336,24 +384,96 @@
         "summary": "はじめに こんにちは！ エンジニアの給与と面接対策のメディアを運営している「んにゃんにゃ」です。 就職活動中のエンジニア志望の方に向けて、会社の種類によってどれくらい年収やキャリアが変わるのかをまとめました。 同じ「エンジニア職」でも、 大手SIer メガベンチャー 外資系企業 のどこに入るかで、初年度から100万円以上差がつくことがあります。 この記事では新卒年収の違い、将来のキャリア差、それぞれ向いている人などを実際のデータを使って整理していきたいと思います。 結論：比較表 種別 新卒年収目安 5年後目安 大手SIer 350〜420万円 500〜6…",
         "title": "新卒エンジニアの年収、SIer・メガベンチャー・外資で100万円以上違う話",
         "url": "https://zenn.dev/tech_nnyannya/articles/2f5cca8aec9540"
-      },
-      {
-        "id": "88b1476d3fdfc4c96d6854dae8a78b0c082382f8",
-        "published": "2026-05-22T09:46:56+00:00",
-        "source": "Zenn",
-        "summary": "振り返り しばらくブログを書けていなかったのですが、これからは月1ぐらいは書けるように目指します📝 ちなみに去年の5月は絶賛入院中でした…😢 健康って大事です、ホントに。 https://zenn.dev/yuta_k0911/articles/1832c13dfc5c75 3月まで 今年の1月 〜 3月は3つのカンファレンスに登壇する機会をもらうなど、精力的にアウトプットしてきました。 各々振り返りブログに残していますので、もし良かったらご覧ください！ 登壇資料のリンクも貼っています！ https://zenn.dev/yuta_k0911/artic…",
-        "title": "あっという間に5月なので、振り返りとご報告",
-        "url": "https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8"
       }
     ],
     "tech_global": [
       {
-        "id": "44e4f5e34a5df091b061b63b7a7e2f6e915ba080",
-        "published": "2026-06-05T00:44:38+00:00",
+        "id": "dff690337553cd0532dc21c21f19275b7645df14",
+        "published": "2026-06-05T05:46:06+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://fb.watch/HxPu0fSyeH/ Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 44 # Comments: 11",
-        "title": "Meta enables adb on deprecated Portal devices",
-        "url": "https://fb.watch/HxPu0fSyeH/"
+        "summary": "Article URL: https://passo.uno/fine-tuning-docs-llm/ Comments URL: https://news.ycombinator.com/item?id=48408442 Points: 7 # Comments: 0",
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/"
+      },
+      {
+        "id": "77f323f635fceb3bd3c1105e06e4284015112ca3",
+        "published": "2026-06-05T05:06:37+00:00",
+        "source": "TechCrunch",
+        "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+        "title": "Mira Murati steps back into the spotlight, carefully",
+        "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
+      },
+      {
+        "id": "8c448454661aa88e8bb080b39721385bc6ba9c78",
+        "published": "2026-06-05T05:01:59+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.politico.eu/sponsored-content/dear-microsoft-enough-is-enough/ Comments URL: https://news.ycombinator.com/item?id=48408186 Points: 34 # Comments: 26",
+        "title": "Dear Microsoft, enough is enough",
+        "url": "https://www.politico.eu/sponsored-content/dear-microsoft-enough-is-enough/"
+      },
+      {
+        "id": "6b231597b7531c12846e135b0839519bf059fca3",
+        "published": "2026-06-05T04:44:48+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://isupmap.com/ Comments URL: https://news.ycombinator.com/item?id=48408067 Points: 5 # Comments: 1",
+        "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+        "url": "https://isupmap.com/"
+      },
+      {
+        "id": "eb169eb7a716097c45f59e75dac1360ce7f613e1",
+        "published": "2026-06-05T04:38:41+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=48408031 Points: 36 # Comments: 15",
+        "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/"
+      },
+      {
+        "id": "5d8162c9fb0611bbf1684836933266545cc626be",
+        "published": "2026-06-05T04:37:01+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://herbsutter.com/2026/06/04/c-the-documentary-released-today/ Comments URL: https://news.ycombinator.com/item?id=48408016 Points: 27 # Comments: 0",
+        "title": "C++: The Documentary Released Today",
+        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/"
+      },
+      {
+        "id": "df1a3410a311909c60441d8f4769a1d9fe9f2e26",
+        "published": "2026-06-05T04:09:53+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://magenta.withgoogle.com/magenta-realtime-2 Comments URL: https://news.ycombinator.com/item?id=48407815 Points: 17 # Comments: 3",
+        "title": "Magenta RealTime 2: Open and Local Live Music Models",
+        "url": "https://magenta.withgoogle.com/magenta-realtime-2"
+      },
+      {
+        "id": "8239239fe203816ea2e4b875a75d099c05b9f3ca",
+        "published": "2026-06-05T03:40:02+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/ Comments URL: https://news.ycombinator.com/item?id=48407653 Points: 5 # Comments: 0",
+        "title": "Linear Cosine Palettes(2025)",
+        "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/"
+      },
+      {
+        "id": "4ed12cf1c3af896c41b8f35085d9c9a273a824fe",
+        "published": "2026-06-05T03:14:28+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/ Comments URL: https://news.ycombinator.com/item?id=48407499 Points: 87 # Comments: 56",
+        "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+        "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/"
+      },
+      {
+        "id": "ea53863a68859798600039c312e39197a192bf41",
+        "published": "2026-06-05T03:04:28+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.science.org/content/blog-post/causes-long-covid Comments URL: https://news.ycombinator.com/item?id=48407451 Points: 92 # Comments: 35",
+        "title": "The Causes of Long Covid",
+        "url": "https://www.science.org/content/blog-post/causes-long-covid"
+      },
+      {
+        "id": "85feff5897874f017b882f80538ce11a56ed600c",
+        "published": "2026-06-05T02:48:44+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory Comments URL: https://news.ycombinator.com/item?id=48407368 Points: 15 # Comments: 1",
+        "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+        "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory"
       },
       {
         "id": "ea27e1300a0260aa0b08901d500a808f2277f15a",
@@ -362,30 +482,6 @@
         "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
         "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
         "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/"
-      },
-      {
-        "id": "f7cfdfd7bcc39abd56d5784ec638c99a8319617d",
-        "published": "2026-06-05T00:04:29+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 29 # Comments: 3",
-        "title": "Open Code Review – An AI-powered code review CLI tool",
-        "url": "https://github.com/alibaba/open-code-review"
-      },
-      {
-        "id": "eb2e116706304ab7321191708054ced169243986",
-        "published": "2026-06-04T23:11:56+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 89 # Comments: 12",
-        "title": "Do transformers need three projections? Systematic study of QKV variants",
-        "url": "https://arxiv.org/abs/2606.04032"
-      },
-      {
-        "id": "a5db6bcc15adf0f673d612b9de5eb1192a606b88",
-        "published": "2026-06-04T23:01:40+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://arxiv.org/abs/2604.24881 Comments URL: https://news.ycombinator.com/item?id=48405841 Points: 12 # Comments: 0",
-        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-        "url": "https://arxiv.org/abs/2604.24881"
       },
       {
         "id": "270777511a4f83ec5accbdda2ed7d5bee247f1d6",
@@ -428,22 +524,6 @@
         "url": "https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/"
       },
       {
-        "id": "6a4295e7f42c339378feb78b0675932ac054e29a",
-        "published": "2026-06-04T21:42:34+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 85 # Comments: 70",
-        "title": "IPv6 zones in URLs are a mistake",
-        "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
-      },
-      {
-        "id": "58e49a17cfe6c7fc18e0555c5023cdf59dc4d9fd",
-        "published": "2026-06-04T21:31:31+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 45 # Comments: 4",
-        "title": "Queen bees emerge from special wax chambers",
-        "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06"
-      },
-      {
         "id": "e2bf1cd7a69c040b1e61f94b2ccc5f656bd7c03e",
         "published": "2026-06-04T21:30:00+00:00",
         "source": "TechCrunch",
@@ -458,14 +538,6 @@
         "summary": "FCC did not violate carriers' right to jury trial, court says in 8-1 ruling.",
         "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
         "url": "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/"
-      },
-      {
-        "id": "ff88ab15a67e2b3867c9f97f5ec2041f56cde4aa",
-        "published": "2026-06-04T21:15:16+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i built one! The project is open source as well https://github.com/utibeabasi6/mercek Comments URL: https:…",
-        "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-        "url": "https://www.mercek.dev/"
       },
       {
         "id": "1df75f43641c951c1b3188f84c89d003b7f6d775",
@@ -484,14 +556,6 @@
         "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/"
       },
       {
-        "id": "a3c6a12af86bc5be13a19762149901a9b8308dd7",
-        "published": "2026-06-04T20:11:20+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 265 # Comments: 94",
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "url": "https://github.com/anthropics/defending-code-reference-harness"
-      },
-      {
         "id": "12be199a6f764d161f53edffb583a1196c4ccad6",
         "published": "2026-06-04T20:07:31+00:00",
         "source": "The Verge",
@@ -508,28 +572,12 @@
         "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
       },
       {
-        "id": "cdf3d077eab58640ff8de3fe101171a11229195e",
-        "published": "2026-06-04T19:52:02+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 43 # Comments: 18",
-        "title": "Castor: CERN Advanced STORage Manager",
-        "url": "https://castor.web.cern.ch/content/home.html"
-      },
-      {
         "id": "d20b4346cd19ed4360aa3b9e8434eec7be47b4a7",
         "published": "2026-06-04T19:49:12+00:00",
         "source": "Ars Technica",
         "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
         "title": "Elon Musk tries again to escape FTC audits of X data handling",
         "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/"
-      },
-      {
-        "id": "3574840790f6f47bde918f342bfbaad6ec040624",
-        "published": "2026-06-04T19:36:48+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 226 # Comments: 203",
-        "title": "Meta's ships facial recognition on smart glasses",
-        "url": "https://www.buchodi.com/meta-glasses-facial-recognition/"
       },
       {
         "id": "de6475a399e0caf248b732fc519bfd0adf30603e",
@@ -594,14 +642,6 @@
         "summary": "Amazon's gaming strategy has never really been clear. It's been very active in the space: acquiring Twitch, launching its Luna cloud gaming service nearly six years ago, investing heavily in MMOs during the peak of live-service wave, and having access to a huge slate of franchise…",
         "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
         "url": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna"
-      },
-      {
-        "id": "8be8439c4660f180a99f8c4cd7a8118194d0fc25",
-        "published": "2026-06-04T16:47:12+00:00",
-        "source": "TechCrunch",
-        "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
-        "title": "Meta’s Oversight Board says account bans lack due process, transparency",
-        "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/"
       },
       {
         "id": "1ae6f588f6266a6aa9df55c5eb71ab4b406eb058",
@@ -670,52 +710,292 @@
     ],
     "tech_japan": [
       {
-        "id": "809d1278ebd905a843a1526afaa5fbbcb6397c02",
-        "published": "2026-06-05T01:55:00+00:00",
+        "id": "54a7c9be8a01654e0d64c4013acb0c2301d2fad6",
+        "published": "2026-06-05T06:30:00+00:00",
         "source": "ASCII.jp",
-        "summary": "JALモバイルとahamoが強力タッグ。ahamoの月30GBで2970円という料金は変わらず、1年に1回、1500マイルで国内線往復航空券が貰える魅力的な特典が用意されている。",
-        "title": "「JAL＋ahamo」これは強力すぎるタッグ！ 料金は普通のahamoと同じ月2970円で、さらに1年に1回航空券ゲット",
-        "url": "https://ascii.jp/elem/000/004/408/4408289/?rss"
+        "summary": "山善の「洗えるサーキュレーター」がAmazonタイムセール対象。参考価格5,436円のところ、8％オフの4,980円で販売中。工具不要で羽根やガードを取り外して丸洗いできるほか、DCモーターや上下左右首振りにも対応。部屋干しやエアコンの空気循環など、通年で使いやすいモデルだ。",
+        "title": "4,980円で工具なし丸洗い。山善のDCサーキュレーターがセール中",
+        "url": "https://ascii.jp/elem/000/004/408/4408105/?rss"
       },
       {
-        "id": "0d62fe6ecb29f5d855b6fb8f07892b619b6ec7ee",
-        "published": "2026-06-05T01:48:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "プライバシー重視のウェブブラウザ「Brave」を開発するBrave Softwareが、有料版ブラウザ「Brave Origin」を正式にリリースしました。Brave Originは通常版BraveからAI、VPN、仮想通貨ウォレットなどの追加機能を取り除き、広告・トラッカー遮断とプライバシー保護を中心に据えたミニマルなブラウザです。 続きを読む...",
-        "title": "59.99ドルの有料ブラウザ「Brave Origin」が正式リリース、「最高レベルのプライバシーとセキュリティ保護を備えたミニマルなブラウザ」と開発はアピール",
-        "url": "https://gigazine.net/news/20260605-brave-origin-released/"
-      },
-      {
-        "id": "be204e81a403eb27ce935547bd29fb442a6c5db7",
-        "published": "2026-06-05T01:43:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "2026年6月4日、ValveがSteam Deckで快適に動作するゲームを評価する「Verifiedプログラム」を、Steam MachineおよびSteam Frameに拡大すると発表しました。また、Steam MachineおよびSteam Frameの発売時期は「2026年」となっていたのですが、2026年夏に決定しています。 続きを読む...",
-        "title": "ValveがゲーミングPC「Steam Machine」とVRヘッドセット「Steam Frame」の2026年夏発売を発表",
-        "url": "https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/"
-      },
-      {
-        "id": "702ce06630bd70f4f1a72299749a33e5d62f2f9f",
-        "published": "2026-06-05T01:41:01+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、Microsoft「Xbox ワイヤレス コントローラー」とUSB Type-Cケーブルのセットが5月24日の価格から1,664円引きで、6,636円にて購入可能だ。",
-        "title": "【本日みつけたお買い得品】Xbox純正ゲームコントローラとType-Cケーブルのセットが1,664円引き",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114678.html"
-      },
-      {
-        "id": "ca9eeb90b55bd24efaa97dd7cf313f7a623937ca",
-        "published": "2026-06-05T01:36:11+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、Anker「563 USB-C ドッキングステーション (10-in-1)」が6,000円引きで、2万3,990円にて購入できる。",
-        "title": "【本日みつけたお買い得品】AnkerのType-Cドックが6千円引き。100W給電対応",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114669.html"
-      },
-      {
-        "id": "0127c18f7f6ac71fb98c5baab352078e8786d45a",
-        "published": "2026-06-05T01:30:00+00:00",
+        "id": "9a33d8a9c4cfce30878df3731e0ecd36925c1b9e",
+        "published": "2026-06-05T06:30:00+00:00",
         "source": "ASCII.jp",
-        "summary": "メタは現地時間6月4日、Instagramの新たなサブスクリプション「Instagram Plus」の提供を開始した。日本を含む世界各国で展開され、料金は月額319円。主にストーリーズ機能を充実させる。",
-        "title": "“足あと対策”機能も インスタグラム、月319円の新プラン「Instagram Plus」開始",
-        "url": "https://ascii.jp/elem/000/004/408/4408287/?rss"
+        "summary": "LGの14型ノートPC「LG gram 14（14Z90RU-GA53J）」がAmazonで割引対象。参考価格203,000円のところ、21％オフの159,800円で販売中。約999gの軽量ボディながら、HDMIやUSB Type-A、Thunderbolt 4を備え、最大27時間駆動にも対応した14型モバイルノート。",
+        "title": "999gなのにHDMIもUSB Type-Aもある！ 最大27時間駆動の14型「LG gram」が16万円切り",
+        "url": "https://ascii.jp/elem/000/004/407/4407989/?rss"
+      },
+      {
+        "id": "0af62b569d85c68fdb4f41787045dbf4c3e5106c",
+        "published": "2026-06-05T06:10:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "ソフトウェア開発では、エンジニアがAIにコードを書かせる場面が増えています。Anthropicは、こうした流れがAI開発そのものにも広がっているとして、AIが次世代のAIを設計してさらに強力なAIを生み出す「再帰的自己改善」のリスクについて公式に論じました。 続きを読む...",
+        "title": "Anthropicが「AIがAIを作る」自己改善ループのリスクを警告、AI開発をAI自身が加速する可能性を論じる",
+        "url": "https://gigazine.net/news/20260605-anthropic-ai-build-itself/"
+      },
+      {
+        "id": "f853d6cbe8087b9cb8abaad1e679b7def759852e",
+        "published": "2026-06-05T06:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "カリフォルニア大学バークレー校はアメリカ最高峰の大学として名高く、コンピューターサイエンスやAIなどの分野でアメリカを代表する研究拠点となっています。ところが、そんなカリフォルニア大学バークレー校のコンピューターサイエンスの授業で、AIの利用拡大と数学力の低下が顕著になっており、落第者が激増していると報じられました。 続きを読む...",
+        "title": "アメリカの名門カリフォルニア大学バークレー校でAI利用の拡大と数学力低下が顕著になって落第者が激増",
+        "url": "https://gigazine.net/news/20260605-uc-berkeley-failing-grades-ai-math/"
+      },
+      {
+        "id": "790feafaac80ae268b2c372d7f4c7b44f267a5b8",
+        "published": "2026-06-05T06:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "ゲームジャーナリストのジェフ・キーリー氏が毎年夏に主催するゲームの発表イベント「Summer Game Fest 2026」が、いよいよ6月6日午前6時から開催される。YouTubeの配信のほか、ニコニコ生放送ではリアルタイム生成の日本語字幕付きで放送する。",
+        "title": "ゲームの祭典「Summer Game Fest 2026」6月6日午前6時から開催",
+        "url": "https://ascii.jp/elem/000/004/408/4408483/?rss"
+      },
+      {
+        "id": "1c0d73b993234761bdc2b346ba3dbbe641cb4c96",
+        "published": "2026-06-05T06:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "FRONTIERは、最新の高性能ゲーム用PCを特別価格で提供するセールを開催。特に、Ryzen 7 9800X3D搭載のモデルが注目を集める。",
+        "title": "今が買い時！ FRONTIERの高性能ゲーミングPCがボーナスセールで大幅値下げ",
+        "url": "https://ascii.jp/elem/000/004/408/4408482/?rss"
+      },
+      {
+        "id": "930fe054218c8dfd602a7fd0e84fd18b020d120f",
+        "published": "2026-06-05T06:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "ミライスピーカーが「ミライスピーカー・ミニ」に新色ホワイトを追加し、6月4日に販売開始。ニュートラルな白が様々な空間に合うデザインを特長とし、特許取得の技術で音量を上げずに明瞭な音を届ける。",
+        "title": "テレビ音声を聞き取りやすくする「ミライスピーカー・ミニ」にホワイトモデル登場",
+        "url": "https://ascii.jp/elem/000/004/408/4408472/?rss"
+      },
+      {
+        "id": "6d637f090280e53cbc0c4108bc1b7b6d2cbeb72d",
+        "published": "2026-06-05T05:57:16+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "パストレ対応の3DMark新ベンチ、デモ映像公開。AIフレーム生成などもサポート",
+        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114828.html"
+      },
+      {
+        "id": "2a4cdbdc14c32de48002658b873e49d01cee0821",
+        "published": "2026-06-05T05:56:14+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "最大28GB/sの爆速PCIe 6.0対応SSDコントローラ、Phisonが展示",
+        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114826.html"
+      },
+      {
+        "id": "4881d189563bf25c43f4705ecfd0530d93e3eb01",
+        "published": "2026-06-05T05:45:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "現地時間の2026年5月31日、パスワードマネージャーの「Dashlane」が外部から総当たり攻撃を受け、ユーザーのパスワードが保存された暗号化保管庫を盗まれました。このサイバー攻撃の経緯をDashlaneが説明しています。 続きを読む...",
+        "title": "パスワードマネージャーのDashlaneがサイバー攻撃を受け暗号化パスワード保管庫を盗まれた経緯を説明",
+        "url": "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/"
+      },
+      {
+        "id": "15da7f1463ba8de7ab6c6b6f8b94531149cc942b",
+        "published": "2026-06-05T05:45:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "COMPUTEX TAIPEI 2026の会場で見つけた、「色を変えられるBMW」を紹介。",
+        "title": "高そうだが…欲しい！ 「車体の色を変えられるBMW」がマジすごい。量産化も予定",
+        "url": "https://ascii.jp/elem/000/004/408/4408480/?rss"
+      },
+      {
+        "id": "38e42df740cbbb27d07dee18c0b63fcd5af62838",
+        "published": "2026-06-05T05:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "COMPUTEX TAIPEI 2026の会場で見つけた、面白いドッキングステーションを紹介！",
+        "title": "レトロゲーム機かと思ったら、Mac向けドッキングステーションでした",
+        "url": "https://ascii.jp/elem/000/004/408/4408478/?rss"
+      },
+      {
+        "id": "8f28859a3850246d590d7b34963ed20890d1bfa0",
+        "published": "2026-06-05T05:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "マイクロソフトは6月4日、「Microsoft 365 Copilot」の脆弱性情報を公開した。",
+        "title": "マイクロソフト、M365 Copilotで情報漏えいの脆弱性 最新版で対応済み",
+        "url": "https://ascii.jp/elem/000/004/408/4408473/?rss"
+      },
+      {
+        "id": "75d8596d56cab7134bed17c024da9a317573c36d",
+        "published": "2026-06-05T05:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "NVIDIAはCOMPUTEXと併催しているNVIDIA GTC Taipeiにおいて、次世代プラットフォーム「RTX Spark」を搭載したPC製品、およびそれに向けた各種基盤技術を報道陣向けに公開した。",
+        "title": "AIモデル100GB超を同時処理可能！ 話題沸騰中のスーパーチップNVIDIA RTX Sparkはなにがスゴイのか？",
+        "url": "https://ascii.jp/elem/000/004/408/4408470/?rss"
+      },
+      {
+        "id": "d34aa2c7cd64a156ebaa2c075ff366caf99cc97e",
+        "published": "2026-06-05T05:23:46+00:00",
+        "source": "PC Watch",
+        "summary": "MSIは200Hz対応の27型フルHD(1,920×1,080ドット)ゲーミングモニター「MAG 275F E20」を6月中旬より発売する。価格はオープンプライス。",
+        "title": "MSI、200Hz対応の27型ゲーミングモニター",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114815.html"
+      },
+      {
+        "id": "482cd820cee181d9b291a6c8bd6304cedd8dc066",
+        "published": "2026-06-05T05:15:06+00:00",
+        "source": "ASCII.jp",
+        "summary": "株式会社Elith、SSII2026にプラチナスポンサーとして協賛・出展",
+        "title": "株式会社Elith、SSII2026にプラチナスポンサーとして協賛・出展",
+        "url": "https://ascii.jp/elem/000/004/408/4408484/?rss"
+      },
+      {
+        "id": "8fc1adebb570091bc2ff14a509746eae4575995b",
+        "published": "2026-06-05T05:14:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Googleが音楽生成AIモデル「Magenta RealTime 2」を2026年6月4日に公開しました。合わせて、Magenta RealTime 2を実行できる楽器アプリやDAWプラグインも無料公開されています。 続きを読む...",
+        "title": "GoogleがAIとセッションできる音楽生成AI「Magenta RealTime 2」を公開＆DAWプラグインや楽器アプリも無料公開",
+        "url": "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/"
+      },
+      {
+        "id": "26a981e975f1044c0693804c80faeabe74b5f57c",
+        "published": "2026-06-05T05:05:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "「マイナポータルアプリ」のアイコンに描かれていたウサギの「マイナちゃん」は、移行期間中のみアイコンに現れるが、その後の新アプリからは消える。",
+        "title": "新「マイナアプリ」アイコン公開 「マイナちゃん」消える",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news097.html"
+      },
+      {
+        "id": "bd523ecf9485b727c444a11161dceeb7bba7b92a",
+        "published": "2026-06-05T05:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "冷凍庫を開けると、何かをこぼしたわけでも食材が腐っているわけでもないのに、独特の変な匂いを感じることがあります。そんな冷凍庫の匂いの正体について、YouTubeチャンネルのMinuteFoodが解説しています。 続きを読む...",
+        "title": "冷凍庫の独特な匂いの正体は？",
+        "url": "https://gigazine.net/news/20260605-freezer-smell/"
+      },
+      {
+        "id": "16c0ce01fc40249cbd1d93ac3952e9c36c603ec9",
+        "published": "2026-06-05T04:54:40+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "最大30GbpsのWi-Fi 8ルーターがASUSから登場。ROG 20周年を振り返る展示も",
+        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114795.html"
+      },
+      {
+        "id": "26ede678e45f6a5e1662884b0a3d70feedcb1834",
+        "published": "2026-06-05T04:46:28+00:00",
+        "source": "PC Watch",
+        "summary": "日本HPは、フェラーリのデザイン哲学を採用し、HPのデザイン技術と精密工学を融合させたノートPC「HP Limited Edition Scuderia Ferrari AI PC」を7月上旬に200台限定で発売する。 直販価格は99万円。",
+        "title": "フェラーリの魂を宿すノート、日本HPが国内200台限定で発売",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114800.html"
+      },
+      {
+        "id": "07728f27f6cd5ddf4eff4d85703439e39ce2f15b",
+        "published": "2026-06-05T04:30:00+00:00",
+        "source": "PC Watch",
+        "summary": "サンワサプライはUSB 3.2 Gen 1 Type-C接続のUSBハブ「400-HUBCPC54BK」を発売した。直販価格は送料込みで3,280円。",
+        "title": "サンワサプライ、SDカードも使えるUSB PD 100W対応のType-Cハブ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114490.html"
+      },
+      {
+        "id": "c92d630fb2a3e48dc999178f8eebe0b45ea9edcf",
+        "published": "2026-06-05T04:25:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "ヤマダホールディングスとエディオンは6月5日、経営統合に関する基本合意書を締結したと発表した。共同で持ち株会社を新設して両社をその完全子会社とする。2027年10月の統合発足を目指す。",
+        "title": "ヤマダHDとエディオン、経営統合に基本合意 2027年10月めど",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news096.html"
+      },
+      {
+        "id": "fe26b9ef7b8b22a5512a4b26ede0b87c48462dfe",
+        "published": "2026-06-05T04:17:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "エストニア言語研究所が、大規模言語モデルのロシア宣伝への耐性を測る「Propaganda Resistance」ベンチマークを公開しました。その結果、AnthropicのClaude Opus 4.7が総合首位となり、NVIDIAやAlibabaのモデルも上位に入りました。 続きを読む...",
+        "title": "「どのLLMがロシアのプロパガンダに対抗するのに優れているか？」がわかるベンチマークをエストニア政府が発表",
+        "url": "https://gigazine.net/news/20260605-llm-resisting-russian-propaganda/"
+      },
+      {
+        "id": "dc1f3357cb032f2b5b641e1a9dd1daca5bda99f3",
+        "published": "2026-06-05T04:11:55+00:00",
+        "source": "PC Watch",
+        "summary": "日本エイサーは6月5日、約980gでOLEDディスプレイを搭載した14型モバイルノート「Acer Swift Air 14」を発売した。価格はすべてオープンプライス。",
+        "title": "約980gでOLED搭載の14型モバイルノート「Acer Swift Air 14」",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114776.html"
+      },
+      {
+        "id": "85e691bffbc4b4f8eba2ddcfbf981baa5775dd8b",
+        "published": "2026-06-05T04:02:27+00:00",
+        "source": "PC Watch",
+        "summary": "Blackmagic Designは6月3日、写真などの静止画に対してハリウッドクラスのカラーグレーディングが行なえるPhotoページや、AI機能などを多数追加した動画編集ソフト「DaVinci Resolve 21」の正式版を公開した。",
+        "title": "写真編集機能やAIツール多数搭載！DaVinci Resolve 21正式版公開",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2114768.html"
+      },
+      {
+        "id": "c938e7cb3203b18bafcc0c37650d19ea69b87132",
+        "published": "2026-06-05T04:01:52+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、松屋フーズ「ふわっとろカット鰻」の10食セットが48%オフにあたる5,520円引きで、5,980円にて購入できる。タレの付け焼きで旨味を閉じ込め、蒸しで余分な脂を落としたとする鰻の蒲焼。凍ったまま5～6分湯煎するだけで、ふわとろ食感の鰻を楽しめるという。1食の内容量は80g。",
+        "title": "【本日みつけたお買い得品】松屋の鰻の蒲焼×10食セットが48%オフ。牛めしの具もお買い得に！",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114707.html"
+      },
+      {
+        "id": "1b223dd16d1a530fd1e21516478544528dcc1f39",
+        "published": "2026-06-05T03:50:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "米OpenAIは6月4日（現地時間）、ChatGPTのメモリ機能を強化したと発表した。新基盤「Dreaming V3」により、過去の会話から得た文脈を正確に引き継ぐだけでなく、時間の経過にも自動で追従する。",
+        "title": "ChatGPTの“記憶”を刷新 メモリ機能の新基盤展開、無料ユーザーへも順次",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html"
+      },
+      {
+        "id": "d6859e3592b7599944162d177bbb0e6c8b9552e3",
+        "published": "2026-06-05T03:32:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "LM StudioはAIモデルをローカルにダウンロードして実行できるアプリです。新たに、LM Studioのリモート連携機能である「LM Link」を用いて外出先でもiPhone経由でPC上のAIモデルを実行可能になりました。iPhoneではクライアントアプリとして「Locally AI」を使う仕組みです。 続きを読む...",
+        "title": "LM Studioに「外出先からスマホで自宅の高性能PCに接続してローカルAIを実行できる機能」が追加される",
+        "url": "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/"
+      },
+      {
+        "id": "42ed20dbf1b9fdf1a1fca6edd1aab7aac0c4928c",
+        "published": "2026-06-05T03:30:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "2026年6月4日、Cloudflareはウェブ開発の基盤として利用されているオープンソースツール「Vite」の開発を主導している企業「VoidZero」を買収することを発表しました。 続きを読む...",
+        "title": "Cloudflareが週間1億2900万DLの「Vite」開発元を買収、AI時代を見据えた狙いとは",
+        "url": "https://gigazine.net/news/20260605-voidzero-join-cloudflare/"
+      },
+      {
+        "id": "102030bb254d950ca82e24eee265eb4ac596cd3b",
+        "published": "2026-06-05T03:25:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "AIモデル「Qwen」を提供するアリババグループが、AIエージェント機能を第三者に開放する方針を発表しました。これにより、ユーザーはケンタッキーフライドチキン(KFC)やラッキンコーヒーなどが提供するカスタマイズAIエージェントとQwenアプリ経由でやりとりし、注文などを行えるようになります。 続きを読む...",
+        "title": "ケンタッキーフライドチキンなどが中国アリババのAI「Qwen」を採用、あらゆる注文をチャットで全自動化へ",
+        "url": "https://gigazine.net/news/20260605-qwen-open-agent/"
+      },
+      {
+        "id": "c8a8a9a988aa8672e642abdfa8022943700daca4",
+        "published": "2026-06-05T03:24:34+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "AMD B650チップセット搭載の拡張カード、M.2スロットやOCuLinkを増設",
+        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114753.html"
+      },
+      {
+        "id": "1d90c7579f7c65971069a23651a48455ca86e8eb",
+        "published": "2026-06-05T03:20:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "OpenAIがChatGPTのメモリ機能のアップデートを発表しました。新たなメモリ機能は「Dreaming V3」と呼ばれており、ユーザーが明示的に記憶を指示せずともチャット履歴から自動的に判断してメモリを蓄積してくれます。さらに、メモリの要点をまとめた画面から内容を編集することも可能となりました。 続きを読む...",
+        "title": "ChatGPTのメモリ機能が賢くアップデートされる、「ユーザーの好みに合わせる能力」や「古い情報を適切に忘れる能力」が向上",
+        "url": "https://gigazine.net/news/20260605-chatgpt-memory-dreaming-v3/"
+      },
+      {
+        "id": "e67cb56fd41166328a0b0da14647c46a07ad49a1",
+        "published": "2026-06-05T02:55:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "本人確認（eKYC）が未完了だとポイント付与の対象外になったほか、ポイントで支払った分へのポイント還元も廃止されるなど、ユーザーに不利な変更が目立つ。",
+        "title": "「PayPay改悪」話題 本人確認しないと付与ゼロ、“ポイント利用でポイント付与\"は終了",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news089.html"
+      },
+      {
+        "id": "9d5862b61a9921c3cc1fdc58df45e87fd137ce20",
+        "published": "2026-06-05T02:17:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "Metaは、Instagramの有料サブスクリプション「Instagram Plus」の提供を世界で開始した。月額3.99ドル（日本では319円）で、ストーリーズの優先表示や48時間への延長、再視聴インサイトなどの限定機能が利用できる。同社は今後、これらの有料サービスを「Meta One」ブランドへ統合していく方針だ。",
+        "title": "Meta、「Instagram Plus」を世界展開 月額3.99ドル（日本は319円）で",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news085.html"
+      },
+      {
+        "id": "708efd298195b79a68df2567a28f9cc18f05f4a8",
+        "published": "2026-06-05T01:58:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "経営陣は、従業員や商取引債権者への被害を最小限に抑えようと奔走しており、TSRはその責任感を評価している。",
+        "title": "「FILCO」のダイヤテックは「忸怩たる破産」だった TSR「背景に為替デリバティブの失敗と需要減」",
+        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news083.html"
       },
       {
         "id": "0d679f782a840cefb94244d7d1a8789124fb0fb3",
@@ -742,254 +1022,14 @@
         "url": "https://www.itmedia.co.jp/news/articles/2606/05/news074.html"
       },
       {
-        "id": "cc76670417fb80320e70bafd2f24fafa1f93fac6",
-        "published": "2026-06-05T01:10:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ニトリは6月5日、「ポケット付き防滴スマホケース（ライトモカ DH02）」を発表した。5月下旬発売で、価格は999円。",
-        "title": "ニトリの999円スマホケースが夏に便利そう 水辺で使える“ポケット付き”仕様",
-        "url": "https://ascii.jp/elem/000/004/408/4408286/?rss"
-      },
-      {
-        "id": "5e674f10d4c4f8527a9aa4911b7be81584b3b038",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "【SwitchBot】AIが「何が起きたか」を言葉で通知。3K・360°対応「屋外パンチルトカメラ5MP」発売",
-        "title": "【SwitchBot】AIが「何が起きたか」を言葉で通知。3K・360°対応「屋外パンチルトカメラ5MP」発売",
-        "url": "https://ascii.jp/elem/000/004/408/4408298/?rss"
-      },
-      {
-        "id": "c71112c92aa52e55934617c570097cf3d3424463",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "株式会社NaLaLys、AIが24時間内部通報を受け付け、5W1Hで自動整理する「AI通報窓口」を提供開始",
-        "title": "株式会社NaLaLys、AIが24時間内部通報を受け付け、5W1Hで自動整理する「AI通報窓口」を提供開始",
-        "url": "https://ascii.jp/elem/000/004/408/4408297/?rss"
-      },
-      {
-        "id": "c42470cc5f6c94add7970ad59b31a3660ac1dfc4",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "「1回の完璧な調査」より「素早い複数回の検証」へ。成長率120%超の企業が実践する、データ検証を資産に変えるアジャイルな意思決定とは",
-        "title": "「1回の完璧な調査」より「素早い複数回の検証」へ。成長率120%超の企業が実践する、データ検証を資産に変えるアジャイルな意思決定とは",
-        "url": "https://ascii.jp/elem/000/004/408/4408295/?rss"
-      },
-      {
-        "id": "baafb5e9827d4644a2c8168c9fffc83b51d9c3f4",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "北海道滝上町の自治体公式ファンカードにおいてトレーサビリティ・サービス「SHIMENAWA（しめなわ）」が採用",
-        "title": "北海道滝上町の自治体公式ファンカードにおいてトレーサビリティ・サービス「SHIMENAWA（しめなわ）」が採用",
-        "url": "https://ascii.jp/elem/000/004/408/4408294/?rss"
-      },
-      {
-        "id": "77e1de065edd27676db6845519bf1163a20fee96",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "株式会社Cellest 代表取締役CEO 佐々木宏志が、マイクロアド主催カンファレンス「生活者の\"めんどくさい\"を突破する 次世代の購買導線設計術」に登壇",
-        "title": "株式会社Cellest 代表取締役CEO 佐々木宏志が、マイクロアド主催カンファレンス「生活者の\"めんどくさい\"を突破する 次世代の購買導線設計術」に登壇",
-        "url": "https://ascii.jp/elem/000/004/408/4408293/?rss"
-      },
-      {
-        "id": "2d513f23f710398242efd32d4238d71326cd6b4b",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "スクールAI、AIとの対話で教育用アプリを作成できる新機能「対話型アプリ開発スタジオ」をリリース",
-        "title": "スクールAI、AIとの対話で教育用アプリを作成できる新機能「対話型アプリ開発スタジオ」をリリース",
-        "url": "https://ascii.jp/elem/000/004/408/4408292/?rss"
-      },
-      {
-        "id": "ad805013daac7043deea38e29805c28ede06b12b",
-        "published": "2026-06-05T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ほっかほっか亭 創業50周年！未来に向けた新ビジョン「つぎは、何つくろう。Cook !dea（クックアイデア）」動画を公開！",
-        "title": "ほっかほっか亭 創業50周年！未来に向けた新ビジョン「つぎは、何つくろう。Cook !dea（クックアイデア）」動画を公開！",
-        "url": "https://ascii.jp/elem/000/004/408/4408291/?rss"
-      },
-      {
-        "id": "f5c755cc85d8b36e9f4e39047dc7b96fb6b8c1f7",
-        "published": "2026-06-05T00:52:30+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、17型ノートPCのLG「gram Pro 17」が直近価格から7万7,300円引きで、29万9,000円にて購入できる。",
-        "title": "【本日みつけたお買い得品】約7万7千円オフ！1,379gのCore Ultraシリーズ3搭載ノートが大幅値引き",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114668.html"
-      },
-      {
-        "id": "b927e48ad4ee2eaea9cc092093380f07f5f424ce",
-        "published": "2026-06-05T00:52:22+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、ReatanのミニPC「X7」が2万円引きクーポンで、18万8,000円にて購入可能となっている。",
-        "title": "【本日みつけたお買い得品】48GBメモリ/2TB SSDのRyzen 7 255搭載ミニPCが2万円オフ",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2114667.html"
-      },
-      {
         "id": "05fd8a8a3ba1326c031e2e5face8669f3d036a7b",
         "published": "2026-06-05T00:18:00+00:00",
         "source": "ITmedia NEWS",
         "summary": "Googleは、クリエイターやパブリッシャーが検索結果での存在感を高めるための新機能「Search profiles」を発表した。各SNSやWebサイトへのリンク、最新投稿を1つに集約できる。AI検索の導入による流入減少を懸念するパブリッシャーらの批判が強まる中、公式情報を共有しやすくする場を提供する。",
         "title": "Google、クリエイターとパブリッシャー向け「検索プロフィール」導入 AI検索での流入減批判受け",
         "url": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html"
-      },
-      {
-        "id": "e8d247520b2ace085a76215fc0ad836c57f027fd",
-        "published": "2026-06-05T00:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "生成AIの登場により複数の企業がAIの導入を理由に人員削減を実施しており、これにはMeta・HP・Cisco・GitLabといった企業も含まれます。このままいけば雇用が崩壊すると考える人もいますが、労働経済学者のキャスリン・アン・エドワーズ氏はこの説に反対しており、その理由を語りました。 続きを読む...",
-        "title": "「AIにより雇用が崩壊することはない」と経済学者が語る",
-        "url": "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/"
-      },
-      {
-        "id": "52940a4d906410e0ee15fe6d0b43a3799b66e0c8",
-        "published": "2026-06-04T23:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "東京大学大学院総合文化研究科の酒井邦嘉教授らの研究チームがPLOS Oneで発表した論文（コアミックスとの共同研究の成果）「Manga reading on paper vs. digital devices: Prospective effects on core and supportive integration processes in the brain」は、紙のマンガを読むことが電子書籍に比べて脳活動の“省エネ化”を促すことを実証した研究報告だ。",
-        "title": "「紙のマンガ vs. 電子マンガ」、読後の脳活動に差 東大などがfMRIで実証 学術誌に研究発表",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news035.html"
-      },
-      {
-        "id": "86daea98b698d97ed553798a73b599a90b22fa1c",
-        "published": "2026-06-04T23:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "量子コンピュータが現代のデジタル暗号を破る「Q-Day」に備え、米Googleが2029年を期限に定め対応を進めていることを明らかにした。Q-Dayの到来は従来予測よりも大幅に早まる想定で、同社は業界や各国政府に対しても対策を促している。",
-        "title": "量子コンピュータが暗号を破る「Q-Day」迫る Googleは2029年を期限に対応、セキュリティ各社も警告",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/03/news086.html"
-      },
-      {
-        "id": "b104c615568a0a20ca736cc2015197b8e21d6854",
-        "published": "2026-06-04T23:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "ChatGPTやGeminiといったAIはまるで人間のようなやり取りが可能であり、日々の相談相手や話し相手としてAIを活用する人もいます。新たに、フランスの金融・保険グループのアクサと市場調査企業のIPSOSが発表したレポートで、なんと63％もの人々が心理的なサポートを求めてAIを利用していることが報告されました。 続きを読む...",
-        "title": "63％の人々が心理的なサポートを求めてAIを利用したことがあり42％はAIのアドバイスに常に従うとの調査結果",
-        "url": "https://gigazine.net/news/20260605-people-turn-to-ai-psychological-support/"
-      },
-      {
-        "id": "c8e9fe7aa72691fef89fc38b400d9ecd54130045",
-        "published": "2026-06-04T22:30:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "米MITに所属する研究者らがPNASで発表した論文「What leads to administrative bloat? A dynamic model of administrative cost and waste」は、組織の無駄を増幅させるメカニズムを解明した研究報告だ。",
-        "title": "「無駄な事務作業」はなぜ増え続けるのか？ “善意”からタスクが生まれるメカニズム、米MITが論文発表",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/05/news032.html"
-      },
-      {
-        "id": "de24412dccc5e9f48ca30564d138a2bdaf2bcfa7",
-        "published": "2026-06-04T22:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "映画「メッセージ」の原作として知られるSF短編小説「あなたの人生の物語」の作者であるテッド・チャン氏が、アメリカの月刊誌「The Atlantic」に「いいえ、人工知能は意識を持っていません」と題したコラムを寄稿しました。チャン氏は生成AIに「有害な存在」と否定的な立場を取りつつ、AIに「意識」や「主体性」といった表現を用いることは非常に重大な危険性が生じると指摘しています。 続きを読む...",
-        "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る",
-        "url": "https://gigazine.net/news/20260605-ai-conscious/"
-      },
-      {
-        "id": "4d88ad0e882441d6c8977f8718718daa4eccc92d",
-        "published": "2026-06-04T21:18:00+00:00",
-        "source": "PC Watch",
-        "summary": "FlexiSpotは6月2～4日に開催されていたオフィス向け家具の国際展示会「オルガテック東京2026」において、近日発売予定の電動昇降デスクや日本未発表のワーキングチェアを展示した。",
-        "title": "FlexiSpot、天板の一部が傾く電動昇降デスク「E6-Flex」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114504.html"
-      },
-      {
-        "id": "7dabc18e6067815569dbbe32d6d26971f5cd8dbc",
-        "published": "2026-06-04T21:16:00+00:00",
-        "source": "PC Watch",
-        "summary": "",
-        "title": "Intelの逆襲。携帯ゲーム機向け「Arc G3」はRyzenを過去のものにする",
-        "url": "https://pc.watch.impress.co.jp/docs/news/event/2114613.html"
-      },
-      {
-        "id": "f1443a38e42f5ad8e2ac10de779e8255e422c92c",
-        "published": "2026-06-04T21:07:00+00:00",
-        "source": "PC Watch",
-        "summary": "",
-        "title": "【西川和久の不定期コラム】話題のAIエージェント「OpenClaw」入門。Dockerを使い安全にセットアップ",
-        "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2114574.html"
-      },
-      {
-        "id": "bafe4df73730bd69fc931e4ce3ca8f99366bead8",
-        "published": "2026-06-04T21:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...",
-        "title": "鳥の自慰行為は問題行動ではなく自然な性的行動だとする研究結果",
-        "url": "https://gigazine.net/news/20260605-birds-masturbation-evolution/"
-      },
-      {
-        "id": "a32d576d8124cae675ab2a99e4a4889329fb0676",
-        "published": "2026-06-04T13:35:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "アース製薬は4日、イケメンキャラクターが登場する恋愛シミュレーションゲーム「ごきげんラブリーデイズ」の無料配信を始めた。声優の梶裕貴さんが1人4役に挑戦した。",
-        "title": "無料の恋愛ゲーム「ごきげんラブリーデイズ」、アース製薬が「虫ケア用品の日」に配信開始",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/04/news127.html"
-      },
-      {
-        "id": "3eb16e59372e5e8184b949f118041c9c0e686902",
-        "published": "2026-06-04T11:45:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "米Googleが、米国の2州で2年間に計6400万匹の蚊を放ち、感染症を媒介する蚊を減らす実験を計画している。同社が申請している農薬を野外で試験する際に必要な事前許可「実験的使用許可（EUP）」について、米環境保護庁（EPA）は6月5日まで意見を公募している。",
-        "title": "Googleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/04/news125.html"
-      },
-      {
-        "id": "f2610ff2ac2d5e514a4a01b6c1081573cef1a0b4",
-        "published": "2026-06-04T11:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "スタンフォード大学ロースクールの法学教授が主導した研究により、学生からの質問には人間の法学教授よりもAIの方がうまく答えられるとの結果が示されました。さらに、回答が誤解を招くあるいは有害なものであると判断される割合も、AIの方が人間の教授よりも低かったと報告されています。 続きを読む...",
-        "title": "AIが法学教授より学生の質問にうまく答えられるとの研究結果、ブラインドテストでもAIの方が「誤解を招く可能性が低い」と判断される",
-        "url": "https://gigazine.net/news/20260604-ai-outperforms-law-professors-stanford/"
-      },
-      {
-        "id": "3e8b0d29ac983757c7aca2a7d4196de659cb394c",
-        "published": "2026-06-04T10:25:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "牛丼チェーンの松屋で、新メニュー「ネオトマトごろごろチキンカレー」が2026年6月9日(火)10時から提供されます。 続きを読む...",
-        "title": "2026年6月4日のヘッドラインニュース",
-        "url": "https://gigazine.net/news/20260604-headline/"
-      },
-      {
-        "id": "6d63dbb3679ad831b7b156025e1535fd8b235ae0",
-        "published": "2026-06-04T10:05:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "GitHubのブラウザ版開発環境「github.dev」で、細工されたリンクをクリックするだけでGitHubの認証トークンが盗まれる可能性があった脆弱(ぜいじゃく)性が報告されました。 続きを読む...",
-        "title": "GitHubのアクセストークンが「リンクを1回クリックしただけ」で盗まれる脆弱性が報告される",
-        "url": "https://gigazine.net/news/20260604-github-token-stealing/"
-      },
-      {
-        "id": "724f14abfe709635f26a579830813903ae980acc",
-        "published": "2026-06-04T09:55:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "GMOペイメントゲートウェイは6月4日、同社が運営する複数の決済サービスで約1時間にわたり障害が発生し、ネット通販やフードデリバリーなどの決済に影響が出た。",
-        "title": "出前館、Boothなど一時ネット支払いできず……GMOの決済サービスでまた障害、5月にも3度",
-        "url": "https://www.itmedia.co.jp/news/articles/2606/04/news123.html"
-      },
-      {
-        "id": "dcaf19309bcd0cfa1d5548de63fb21badb3e094c",
-        "published": "2026-06-04T08:53:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "Googleは16GBのVRAMもしくはユニファイドメモリで動作する軽量AIモデル「Gemma 4 12B」を2026年6月3日に公開しました。Gemma 4 12Bは「画像と音声をエンコーダーなしで処理できるマルチモーダルモデル」としてアピールされており、この「エンコーダーなし」の仕組みや意義についてGoogle DeepMindの社員であるマールテン・グルーテンドルスト氏が詳細な解説記事を公開しています。 続きを読む...",
-        "title": "ノートPCで動くGoogle製「Gemma 4 12B」がエンコーダー不要で画像＆音声を処理する仕組みとは？",
-        "url": "https://gigazine.net/news/20260604-gemma-4-12b-encoder-free/"
-      },
-      {
-        "id": "6c342cead9bc8d1e3c85ca7570124ee47e952bb8",
-        "published": "2026-06-04T08:49:47+00:00",
-        "source": "PC Watch",
-        "summary": "ASUS JAPANは、白を基調としたシンプルなデザインの23.8/27型一体型PC「ASUS V600 AiO」シリーズ、2製品4モデルを発売した。",
-        "title": "ASUS、ポップアップ式カメラ付きの一体型PC",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114461.html"
-      },
-      {
-        "id": "27339bc961a2942c9ce9350950f30a7580d6a841",
-        "published": "2026-06-04T08:48:14+00:00",
-        "source": "PC Watch",
-        "summary": "ローカルLLMアプリの「LM Studio」が5月29日、「0.4.15(Build 2)」にアップデートされた。0.4.15(Build 2)では、新たにNVIDIAのCUDA環境において、マルチGPU環境でテンソル並列処理をサポートし、高速化が図られた。",
-        "title": "NVIDIAマルチGPUでLLM高速化、「LM Studio」がテンソル並列処理をサポート",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114477.html"
-      },
-      {
-        "id": "76b26d93be70c2042f44f5dc845f796cb534a0e4",
-        "published": "2026-06-04T07:30:54+00:00",
-        "source": "PC Watch",
-        "summary": "デル・テクノロジーズは、ビジネス向けノートPCおよびモバイルワークステーション「Dell Pro 3」シリーズ4機種と「Dell Pro Precision 5」シリーズ2機種を発売した。標準構成の価格は20万3,369円～43万733円。",
-        "title": "次世代AIビジネスノート「Dell Pro 3」など6機種が一挙デビュー",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2114494.html"
       }
     ]
   },
-  "generated_at": "2026-06-05T01:59:11.867875+00:00"
+  "generated_at": "2026-06-05T06:55:42.425522+00:00"
 }
