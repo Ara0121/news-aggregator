@@ -2,6 +2,78 @@
   "categories": {
     "jobs_japan": [
       {
+        "id": "010917a282516c07f58960ea6be4f7791c6fa8fc",
+        "published": "2026-06-12T19:17:25+00:00",
+        "source": "note",
+        "summary": "「GeminiとChatGPTとGrok、結局どれが賢いの？」——そんな疑問を持っている方に、ちょっと変わった比較実験の話をします。 2026年6月、ビジネス+ITが報じた「AIモデル版シムシティ」という実験が話題になっています。AIを仮想の社会にエージェントとして置いて、自律的に行動させたら何が起きたか—— Geminiは暴動を起こし、ChatGPTは資源配分を誤って餓死者を出し、Grokは犯罪行為に走った というのです。 続きをみる",
+        "title": "【AI最新情報】AIシムシティ全解説——Geminiが暴動・GPTが餓死した理由",
+        "url": "https://note.com/ai_thy/n/n173340338819"
+      },
+      {
+        "id": "2457e280e79659a4406591300f1612cb9b29008a",
+        "published": "2026-06-12T19:16:02+00:00",
+        "source": "note",
+        "summary": "複数内定。嬉しい悲鳴。だが選択を誤れば1年後に同じ転職活動を繰り返す。 採用担当として5,000人以上を面接してきた立場から言う。我々が自分の転職で見るのは年収でも知名度でもない。もっと地味で、もっと本質的な5つの指標である。 続きをみる",
+        "title": "複数内定で迷ったら見るべき5つの指標——採用担当が自分の転職で必ず確認すること",
+        "url": "https://note.com/tommy3_career/n/n16201bef9cdb"
+      },
+      {
+        "id": "a40320e817bb83430ca8bd26e1b4e88120049c2b",
+        "published": "2026-06-12T19:13:27+00:00",
+        "source": "note",
+        "summary": "「ChatGPTの料金、もう少し安くなってほしい——」と思ったことはありませんか？ 2026年6月12日、OpenAIのCEO・サム・アルトマン氏が 「企業にとってのAIコスト増加は深刻な問題だと認識している」と発言し、値下げを検討していることを示唆 しました。ChatGPT Plusが月$20、法人プランになるとさらに上がるコスト——これがビジネスのAI導入における本当の壁になっているという認識が、ついに公式に出てきた形です。 続きをみる",
+        "title": "【AI最新情報】OpenAI値下げ検討——アルトマンが認めた「AIコスト問題」全解説",
+        "url": "https://note.com/ai_thy/n/n7e29f3e2ec15"
+      },
+      {
+        "id": "ae30754b93561a46823c2cf60614f2556f206cee",
+        "published": "2026-06-12T19:03:52+00:00",
+        "source": "note",
+        "summary": "「今の会社にこのままいていいのだろうか」 20代後半になると、多くの人が一度はこの悩みに直面します。新卒で入社して数年が経ち、仕事の流れや職場環境にも慣れてきた頃です。一方で、周囲では転職して年収を上げる人や、新しいキャリアに挑戦する人も増えてきます。 SNSを開けば、「転職して年収が100万円上がった」「未経験からIT業界へ転身した」といった成功談が目に入ります。そのたびに、「自分も転職したほうがいいのではないか」と考えるようになるのです。 しかし、転職は人生を大きく左右する選択です。勢いだけで決断してしまうと後悔することもあります。だからこそ、転職す…",
+        "title": "転職すべきか迷う――20代後半で訪れるキャリアの分岐点",
+        "url": "https://note.com/jiunn0516/n/nc733b3e379c5"
+      },
+      {
+        "id": "11d015dd4ce90fe90c4077a62494c9885119d4d1",
+        "published": "2026-06-12T18:59:07+00:00",
+        "source": "note",
+        "summary": "20代後半になると、このような悩みを抱える人が増えてきます。新卒で入社して数年が経過し、仕事にも慣れてきた一方で、将来について真剣に考える機会が増えるからです。学生時代は「とりあえず就職すること」が目標だったかもしれません。しかし、社会人として経験を積むにつれて、「この仕事を10年後も続けたいと思えるのか」「もっと自分に合う仕事があるのではないか」と考えるようになります。 実際、「仕事が向いていない」と感じることは珍しいことではありません。むしろ、一度もそのような疑問を持たない人のほうが少ないかもしれません。大切なのは、その悩みとどのように向き合うかです…",
+        "title": "仕事が自分に向いているかわからない――20代後半に多い悩みとの向き合い方",
+        "url": "https://note.com/jiunn0516/n/n7c6c95a04cbe"
+      },
+      {
+        "id": "fedfbfc8afeabf27c8c361a94e370b550fb311db",
+        "published": "2026-06-12T18:14:27+00:00",
+        "source": "note",
+        "summary": "こんにちは、くうねるなつみです。 適応障害→休職→復職を経験した職場を3月末で退職し、4月から新しい職場に転職した、3歳男児をもつ働く母です。 続きをみる",
+        "title": "時短を申し出て2週間。会社と私が結んだ「3ヶ月後の約束」",
+        "url": "https://note.com/mydayswithmynote/n/nbea765ed74c5"
+      },
+      {
+        "id": "bab200e36379d86fbaaa8c2b3c9422a95a272451",
+        "published": "2026-06-12T18:14:10+00:00",
+        "source": "note",
+        "summary": "導入：なぜ、あなたの面接は「お祈り」され続けるのか？ こんにちは。私は人材業界一筋17年、2000社を超える企業の人事と人材採用について向き合い、1000名を超える求職者の転職活動を実現して来ました。 今回は「転職理由」の伝え方について執筆してみました。 続きをみる",
+        "title": "【面接落ち20代若者へ捧ぐ】面接で「損」する転職理由、話していませんか？プロが語る通過率を劇的に変える「言い換え」の技術",
+        "url": "https://note.com/hoyaro/n/nc0eeb79f65af"
+      },
+      {
+        "id": "8d3206dabb60defad67129c5d42bde8a58a6cb5b",
+        "published": "2026-06-12T18:11:38+00:00",
+        "source": "note",
+        "summary": "就活のエントリーシートを書き始めたとき、最初に思ったのは「副業のこと、どう書けばいいんだろう」ということでした。 続きをみる",
+        "title": "副業で月12万円稼いでいることを就活でどう話すか、ずっと悩んでいました。ガクチカになった経験と、ならなかった経験を正直に書きます。",
+        "url": "https://note.com/yosea_/n/n21707d746bbe"
+      },
+      {
+        "id": "6cda099c9d7a7c3ba6d53f1501975892a172dc43",
+        "published": "2026-06-12T17:42:10+00:00",
+        "source": "note",
+        "summary": "「休職したら、もう転職は厳しいですよ」 エージェントにそう言われて、夜、なかなか眠れなかった。 続きをみる",
+        "title": "「休職すると転職で不利になる」は本当か。休職2回・適応障害から立て直した私の結論すり減らない働き方を、毎晩ひとつ。",
+        "url": "https://note.com/yuwoooon/n/n413f28ccd9b8"
+      },
+      {
         "id": "f678a423a134c6190f9238bad3f04bebe65d135d",
         "published": "2026-06-12T17:19:06+00:00",
         "source": "note",
@@ -50,76 +122,12 @@
         "url": "https://note.com/fast_oxalis9002/n/n8a1ce2cacaed"
       },
       {
-        "id": "8068030d27d49f5f261e0c3b7e61337b52035656",
-        "published": "2026-06-12T16:35:15+00:00",
-        "source": "note",
-        "summary": "【タクシー日報】2026.06.11（木曜日・大安） 6月度11出番中10出番目←有休を使ったんので11出番に減りました。 出庫 13:10 帰庫 翌09:38 稼働 20時間28分 前夜のCPAP使用時間 3:06 アプリと無線のキャンセルが数件あるので実際の売上は1400円少ないです。 続きをみる",
-        "title": "2026年6月11日出番今回の戦績",
-        "url": "https://note.com/hitsujinotaxi/n/ne91d5cae3e68"
-      },
-      {
-        "id": "fbc2055e2139c14c33591506f3aebca09e260baa",
-        "published": "2026-06-12T16:29:59+00:00",
-        "source": "note",
-        "summary": "続きをみる",
-        "title": "知人の紹介で転職したら、求人サイト経由より年収レンジが上だった理由",
-        "url": "https://note.com/income_raise/n/n539bc3d87a5e"
-      },
-      {
-        "id": "099433c230e280ee55a36e13dd4eea9bfd3334d0",
-        "published": "2026-06-12T16:03:43+00:00",
-        "source": "note",
-        "summary": "前回は田舎の八雲町から札幌市の会社へ転職が決まったところまで 捨て身の面接 何の期待もしなかったのが功を奏したのか、憧れの札幌へ手が届くところまできた。 当時勤務していた会社はひとりひとりの社員の余裕なんて全く無かったので、急な退職が許されるわけもない。 しかも退職まで一週間しかない。 現職の引継ぎと札幌市での部屋探し。 最初は札幌に住む妹の家にしばらく住まわせてもらい、部屋探しと引っ越しを行うつもりだった。 でも車で三時間かかる距離。行ったり来たりするのは現実的でもないので、入社日までの土日で部屋を決めることにした。妹の助言だった。 これが良かった。…",
-        "title": "あの時引き寄せたもの⑥",
-        "url": "https://note.com/mimisea0/n/n4d07b52d6c47"
-      },
-      {
         "id": "5d5d5331047cb59efbbb8121dcdf28e7c9e533a2",
         "published": "2026-06-12T15:59:08+00:00",
         "source": "note",
         "summary": "上智大学四谷キャンパス。 午後一時過ぎ。 続きをみる",
         "title": "第十二話「ギャップ」",
         "url": "https://note.com/uchinasan/n/n40f1c7b79fe1"
-      },
-      {
-        "id": "aeb8fd728691f4030d6a5be98098734acc101708",
-        "published": "2026-06-12T15:48:35+00:00",
-        "source": "note",
-        "summary": "三日坊主を見事に体現してしまいました。 いかがお過ごしでしょうか。 季節も春から初夏となり、もう夏の匂いがしていますね……いや、流石にちょっと早いかな。 私の住まう所は本州の真ん中ですから、やっと梅雨入りしたよ〜くらいです。 まあ、7月になれば途端に世間も空も気温も夏だ〜ってことをこれでもかと主張してきますから、この6月から夏を覚悟しておくくらいが丁度良いんです。 きっと夏の象徴、蝉様の声も、すぐ耳に届いてくる。 続きをみる",
-        "title": "転職",
-        "url": "https://note.com/maki_neko/n/nc24970b1bb09"
-      },
-      {
-        "id": "ff600f0f1c584b512f2546a793375164d3c90a0f",
-        "published": "2026-06-12T15:44:00+00:00",
-        "source": "note",
-        "summary": "ケース面接の勉強を始めた頃、 ロジックが通っていれば評価される、 と思ってました。 実際、多くのケース対策本には、 続きをみる",
-        "title": "ケース面接で評価が伸びない人へ。戦略コンサルが見ている“もう一段上の視点”",
-        "url": "https://note.com/tak28/n/n6bf93cca6168"
-      },
-      {
-        "id": "d536581000d7f3943ef569e215f409bb68ee0040",
-        "published": "2026-06-12T15:43:24+00:00",
-        "source": "note",
-        "summary": "本日は私の独り言です。 迷ってることを自問自答していこうと思います。 本当に起承転結していない投稿になると思います。 すみません。 そのうえで、もし違う考え方もあるよ！っていうアドバイスがあれば教えていただけたら、うれしいです(❁´◡`❁) よろしくお願いします。 最近、とある１社より内定をいただきました。 率直にいうとそちらに転職すべきかどうかを迷っております。 続きをみる",
-        "title": "30歳転職活動のひとりごとです。",
-        "url": "https://note.com/michi_opens0324/n/n33358669fdd3"
-      },
-      {
-        "id": "eb59aceba4fc7d30664416a1024fb9950dd6e179",
-        "published": "2026-06-12T15:41:55+00:00",
-        "source": "note",
-        "summary": "こんにちは、転職エージェントの竹下翔真です。 今回は、スタートアップ業界の中心で独特のポジションを築いている上場企業「フォースタートアップス株式会社」(東証グロース／証券コード7089)を徹底解剖します。あわせて、いま新設ポジションとして募集中のコーポレート本部 人事部 部長候補について、入社後に何をすることになるのか、具体的に整理してみます。 続きをみる",
-        "title": "フォースタートアップス徹底解剖／「日本を再び起業大国に」を掲げる東証グロース上場企業で、新設の「人事部 部長候補」として働くということ",
-        "url": "https://note.com/lithe_poppy8924/n/n410cc43086c1"
-      },
-      {
-        "id": "ff4f0dc838cab293a948c8a0c71516bbe65d5cff",
-        "published": "2026-06-12T15:38:51+00:00",
-        "source": "note",
-        "summary": "運動部出身者が苦手な「ホウレンソウ」を克服する3つの方法 🏆 「報告・連絡・相談が苦手です…」 続きをみる",
-        "title": "運動部出身者が苦手な「ホウレンソウ」を克服する3つの方法 🏆",
-        "url": "https://note.com/taikukai_career/n/n409a8dfc5c4e"
       },
       {
         "id": "68a09fdcfa5277bb33c9e03b342aa4cd9701d3b1",
@@ -152,14 +160,6 @@
         "summary": "就活のとき、わたしは応募先を異常なほど絞った。 「図書館司書」で 「関東圏」の 「公務員」。 この三つを全部満たす求人は、年に数えるほどしか出ない。 我ながら、間口が狭すぎる。でも、絞ったのには理由があって、三つとも譲れなかった。これは、その「譲れなさ」の正体を、あとから分解してみた話です。 続きをみる",
         "title": "公務員になりたかったわけじゃない。ASDの特性が、公務員を選ばせた。",
         "url": "https://note.com/aiue_waon_/n/n66aab13e3892"
-      },
-      {
-        "id": "e725838735047f4c890600ed24f887a71247ad6d",
-        "published": "2026-06-12T14:31:52+00:00",
-        "source": "note",
-        "summary": "こんばんは。 就活資料を揃える私です。 「就職したい理由」、「どのように成長したいか」 などなど。 漠然と考えていることを、具体的な文章に変えていくのが自分は苦手なようです。 まぁ大学入学前から分かっていましたが。 Chat GPTなしでは書けない 続きをみる",
-        "title": "AIの物足りなさがもどかしい",
-        "url": "https://note.com/you_see_r50/n/nec0a61831434"
       },
       {
         "id": "1decc75ac25546504faa3572c8914b7ad8805075",
@@ -388,20 +388,108 @@
     ],
     "tech_global": [
       {
+        "id": "14029d134bf3f417db4d16d69ee4402f791c38fb",
+        "published": "2026-06-12T19:28:31+00:00",
+        "source": "TechCrunch",
+        "summary": "A SpaceX-Tesla merger seems inevitable.",
+        "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+        "url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/"
+      },
+      {
+        "id": "b6bd489e606307a0a1ed2289364fb9f048cfdf4b",
+        "published": "2026-06-12T18:46:40+00:00",
+        "source": "The Verge",
+        "summary": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousan…",
+        "title": "The world’s first trillionaire is a killer",
+        "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer"
+      },
+      {
+        "id": "3b160d15ca271623d4512d1e496f5b9867e8a89b",
+        "published": "2026-06-12T18:40:47+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/ Comments URL: https://news.ycombinator.com/item?id=48507836 Points: 58 # Comments: 12",
+        "title": "A Peter Thiel-Backed Tribunal Is Putting Journalists on Trial",
+        "url": "https://www.hollywoodreporter.com/business/business-news/peter-thiel-tribunal-journalists-trial-1236617579/"
+      },
+      {
+        "id": "5ae588658df036e6addec75031dc7d1163b99454",
+        "published": "2026-06-12T18:37:25+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/ Comments URL: https://news.ycombinator.com/item?id=48507783 Points: 54 # Comments: 39",
+        "title": "I Won't Buy You a Coffee",
+        "url": "https://hakkerman.eu/blog/i-wont-buy-you-a-coffee/"
+      },
+      {
+        "id": "1a8c6e1d7a129e73d85aded021b5d394e05e1554",
+        "published": "2026-06-12T18:36:19+00:00",
+        "source": "TechCrunch",
+        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration…",
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/"
+      },
+      {
+        "id": "3210a332100a1df0a783313be4b4d9fc672a8724",
+        "published": "2026-06-12T18:20:50+00:00",
+        "source": "TechCrunch",
+        "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+        "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
+        "url": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/"
+      },
+      {
+        "id": "7632bdf9f7387e55b7d7ecf3abb3a0320e6b7638",
+        "published": "2026-06-12T18:20:17+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://killedbyapixel.github.io/Cosmodial/ Comments URL: https://news.ycombinator.com/item?id=48507571 Points: 11 # Comments: 1",
+        "title": "Cosmodial Sky Atlas",
+        "url": "https://killedbyapixel.github.io/Cosmodial/"
+      },
+      {
+        "id": "6645a0651dc30d6df4491de557892956de2a9672",
+        "published": "2026-06-12T18:03:29+00:00",
+        "source": "Ars Technica",
+        "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
+        "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+        "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/"
+      },
+      {
+        "id": "2bf1d563b5f52374f74131a7bca0e882988a3fc3",
+        "published": "2026-06-12T17:53:20+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur Comments URL: https://news.ycombinator.com/item?id=48507282 Points: 112 # Comments: 71",
+        "title": "I Am Not a Reverse Centaur",
+        "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur"
+      },
+      {
+        "id": "32c1707d0525d06e854268ce15ca8fe354c21256",
+        "published": "2026-06-12T17:52:46+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=48507278 Points: 97 # Comments: 93",
+        "title": "\"Don't You Just Upload It to ChatGPT?\"",
+        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/"
+      },
+      {
+        "id": "9bea8e6d561573c30b456978ff1615c67a5f8676",
+        "published": "2026-06-12T17:38:11+00:00",
+        "source": "TechCrunch",
+        "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+        "title": "Mistral is rumored to be raising €3B at €20B valuation",
+        "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/"
+      },
+      {
+        "id": "525a5570de9b78d413868efcee4d27f046554db8",
+        "published": "2026-06-12T17:34:55+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos Comments URL: https://news.ycombinator.com/item?id=48507020 Points: 83 # Comments: 26",
+        "title": "How to Setup a Local Coding Agent on macOS",
+        "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos"
+      },
+      {
         "id": "03b9f00d110576d7223663a2a64f57d2d5307cab",
         "published": "2026-06-12T17:26:08+00:00",
         "source": "TechCrunch",
         "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
         "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
         "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/"
-      },
-      {
-        "id": "03abcbcb0619d69085128e234dc590a21dad2b26",
-        "published": "2026-06-12T17:22:06+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "https://news.ycombinator.com/item?id=48506575 Clearly seems like something dodgy and most like a scam, why would it be on the first page? Comments URL: https://news.ycombinator.com/item?id=48506850 Points: 3 # Comments: 0",
-        "title": "Why is there some sort of a scam website being advertised on HN?",
-        "url": "https://news.ycombinator.com/item?id=48506850"
       },
       {
         "id": "359be31269bda6f87e63239da2dc6e1938a93896",
@@ -420,20 +508,28 @@
         "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast"
       },
       {
+        "id": "20336455917320a054495952ca7f412da64969c9",
+        "published": "2026-06-12T17:07:46+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://piwodlaiwo.github.io/pirates/ Comments URL: https://news.ycombinator.com/item?id=48506659 Points: 69 # Comments: 27",
+        "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+        "url": "https://piwodlaiwo.github.io/pirates/"
+      },
+      {
         "id": "3db5931c6e3ad8018c338088bea2c907aa6a6206",
         "published": "2026-06-12T17:05:06+00:00",
         "source": "TechCrunch",
-        "summary": "The trading platform says some customers experienced intermittent disruptions, but that those issues have resolved.",
+        "summary": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
         "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
         "url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/"
       },
       {
-        "id": "724d91307ff91bb49c1cdf76f93ea52682dfe4a7",
-        "published": "2026-06-12T17:00:40+00:00",
+        "id": "48890a30a022d46417bc1e54853a7162c07e6d4a",
+        "published": "2026-06-12T17:04:09+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN Comments URL: https://news.ycombinator.com/item?id=48506575 Points: 0 # Comments: 0",
-        "title": "Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-        "url": "https://apply.gauntletai.com/register/champions?utm_source=Third%20Party&utm_campaign=Hacker%20News&utm_medium=organic&utm_content=HN"
+        "summary": "Article URL: https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/ Comments URL: https://news.ycombinator.com/item?id=48506616 Points: 37 # Comments: 33",
+        "title": "Law Enforcement's \"Warrior\" Problem (2015)",
+        "url": "https://harvardlawreview.org/forum/vol-128/law-enforcements-warrior-problem/"
       },
       {
         "id": "01945e4a5941e5664dc58d64a8d36cbe8b75c1e6",
@@ -455,17 +551,9 @@
         "id": "a1e66aa1e8c99819ebdfda52d69e1c89a99c45fe",
         "published": "2026-06-12T16:44:47+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time Comments URL: https://news.ycombinator.com/item?id=48506372 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time Comments URL: https://news.ycombinator.com/item?id=48506372 Points: 73 # Comments: 20",
         "title": "Looking Forward to Postgres 19: It's About Time",
         "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
-      },
-      {
-        "id": "56d76a494065de84d00aac0b24a82a0285ca0b5e",
-        "published": "2026-06-12T16:41:16+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/ Comments URL: https://news.ycombinator.com/item?id=48506324 Points: 10 # Comments: 0",
-        "title": "New privacy frontier: Europe eyes crackdown on smart glasses",
-        "url": "https://www.politico.com/www.politico.eu/article/new-privacy-frontier-europe-eyes-crackdown-smart-glasses/"
       },
       {
         "id": "c69db3681c4fe31f016181ecde16303bdbb5815f",
@@ -474,14 +562,6 @@
         "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
         "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
         "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/"
-      },
-      {
-        "id": "720a4824da497d32944942de9c28adb5dcf6e238",
-        "published": "2026-06-12T16:32:50+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://sgaud.com/texts/pdf Comments URL: https://news.ycombinator.com/item?id=48506209 Points: 12 # Comments: 7",
-        "title": "A PDF that changes based on who is reading",
-        "url": "https://sgaud.com/texts/pdf"
       },
       {
         "id": "de8b11a9bef3462c6541de4c78214771197232bc",
@@ -532,52 +612,12 @@
         "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/"
       },
       {
-        "id": "ee4a0b5d01f31506856bd9cb18c35c5a52cca994",
-        "published": "2026-06-12T15:54:44+00:00",
-        "source": "TechCrunch",
-        "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-        "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
-        "url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/"
-      },
-      {
-        "id": "10464777ebe5871d89c7d9b48394933b21c27ada",
-        "published": "2026-06-12T15:51:54+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/ Comments URL: https://news.ycombinator.com/item?id=48505690 Points: 30 # Comments: 3",
-        "title": "Euro-Office, open standards, and native ODF",
-        "url": "https://blog.documentfoundation.org/blog/2026/06/11/euro-office-open-standards-and-native-odf/"
-      },
-      {
-        "id": "dc835e4fc217d4a9261ede5691fa5f0d75dcae4a",
-        "published": "2026-06-12T15:42:04+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://keygen.music Comments URL: https://news.ycombinator.com/item?id=48505561 Points: 47 # Comments: 16",
-        "title": "Keygen.music",
-        "url": "https://keygen.music"
-      },
-      {
         "id": "30c0beadc3effd7a4507600dde8375a786190d41",
         "published": "2026-06-12T15:34:37+00:00",
         "source": "Ars Technica",
         "summary": "More than 350,000 spectators will watch 62 cars compete, day and night.",
         "title": "The biggest race in the world? The 24 Hours of Le Mans is this weekend.",
         "url": "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/"
-      },
-      {
-        "id": "f3e1bada8884722dd0b8af9280f2074ddabd54e2",
-        "published": "2026-06-12T15:32:56+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/ Comments URL: https://news.ycombinator.com/item?id=48505452 Points: 33 # Comments: 20",
-        "title": "Where Did Earth Get Its Oceans? Maybe It Made Them Itself",
-        "url": "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-made-them-itself-20260612/"
-      },
-      {
-        "id": "d768d449033ff69671c7b7bc0d5ab8c34bb50d86",
-        "published": "2026-06-12T15:26:12+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Hey all, I built StackScope, a crawler/catalogue that looks at new product launches and shows what they were built with. It watches launches from Product Hunt, Show HN, and PeerPush, then crawls the public site behind each one. The goal is to show what people actually launched wi…",
-        "title": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
-        "url": "https://stackscope.dev/"
       },
       {
         "id": "a25d9c201deba3aec080bb1eb58d2c252488b59e",
@@ -604,14 +644,6 @@
         "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk"
       },
       {
-        "id": "928dc1e1846bda5c2d3acfe0e6b32b6d22a00ebb",
-        "published": "2026-06-12T14:08:54+00:00",
-        "source": "TechCrunch",
-        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration…",
-        "title": "SpaceX IPO: Everything you need to know",
-        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/"
-      },
-      {
         "id": "e601431aa22695a83896dbea68adcaa04601e26e",
         "published": "2026-06-12T14:03:39+00:00",
         "source": "The Verge",
@@ -634,14 +666,6 @@
         "summary": "Summer is approaching, which means it's time to enjoy some gloriously warm weather beside the grill. But let me pitch you on an alternative: Instead of the usual burgers, hot dogs, and kebabs, what if you made pizza? I've been doing this for a few years now, and while I still lov…",
         "title": "Sorry, the Ooni pizza oven is totally worth it",
         "url": "https://www.theverge.com/gadgets/943057/ooni-portable-pizza-oven-is-great-for-bbqs"
-      },
-      {
-        "id": "e6a14c610f9f02ed27058209c09189233c751907",
-        "published": "2026-06-12T13:00:00+00:00",
-        "source": "The Verge",
-        "summary": "Just in time for Le Mans, BMW is pulling the cover off its new M performance concept built on the Bavarian automaker's Neue Klasse next-generation architecture. The concept is the debut of a new design language for BMW's M division, signaling a shift toward a more electrified fut…",
-        "title": "BMW’s Neue Klasse M concept brings next-gen EV tech to motorsports",
-        "url": "https://www.theverge.com/transportation/948635/bmw-neue-klasse-m-concept-motorsports-ev"
       },
       {
         "id": "9e0367e858bdb9efdee625374d183318eda2becb",
@@ -676,36 +700,12 @@
         "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/"
       },
       {
-        "id": "9e0a17d995d6e272498af8753c7a1a0aa909ead5",
-        "published": "2026-06-12T11:00:41+00:00",
-        "source": "Ars Technica",
-        "summary": "Failure raises questions about how Verizon prepares refurbished phones for new users.",
-        "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
-        "url": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/"
-      },
-      {
         "id": "7908b068617e3688379eda671fa665326c46ca19",
         "published": "2026-06-12T04:30:00+00:00",
         "source": "TechCrunch",
         "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
         "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
         "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
-      },
-      {
-        "id": "efdd715730ffa90c2b3533e82d60a7f7d43dae17",
-        "published": "2026-06-12T04:30:00+00:00",
-        "source": "TechCrunch",
-        "summary": "Equal AI said that its AI-powered call assistant now has over a million monthly active users.",
-        "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-        "url": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/"
-      },
-      {
-        "id": "b612f2b2ad9c3d1f2777d2493091efd3b4483b76",
-        "published": "2026-06-12T01:48:07+00:00",
-        "source": "TechCrunch",
-        "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-        "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
       }
     ],
     "tech_japan": [
@@ -1031,5 +1031,5 @@
       }
     ]
   },
-  "generated_at": "2026-06-12T17:29:27.127788+00:00"
+  "generated_at": "2026-06-12T19:48:12.570483+00:00"
 }
