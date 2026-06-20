@@ -2,132 +2,188 @@
   "categories": {
     "jobs_japan": [
       {
+        "id": "22d93e756f2803d52110f8032c0d0fac69e6eae9",
+        "published": "2026-06-20T06:50:38+00:00",
+        "source": "note",
+        "summary": "🐱「先輩、P13〜P18まで全部設計したら、どこまで稼げるんですか？」 🐯「正直に言う。 P1〜P18を完璧に設計しても、雇われている限り『構造的な天井』は消えない。 」 続きをみる",
+        "title": "最終章：雇われの限界——本当に稼ぎたいなら",
+        "url": "https://note.com/giraffe777/n/nce8f38767893"
+      },
+      {
+        "id": "233c219e376a13c7ea39d78775dc4489c8faaa2d",
+        "published": "2026-06-20T06:47:31+00:00",
+        "source": "note",
+        "summary": "転職サイトをこっそり見ているが、他社で通用するスキルが何もないと気づいた ——その不安を、今日から実践できる5つの作業で解消する方法 はじめに：「スキルがない」は事実ではなく、視点の問題だ 続きをみる",
+        "title": "30〜40代会社員が職場では絶対口にしないリアルな悩み（キャリア編③) 「転職サイトをこっそり見ているが、他社で通用するスキルが何もないと気づいた」",
+        "url": "https://note.com/kenjya_okane/n/n883b86e7da04"
+      },
+      {
+        "id": "97545ff6ab54f5e8b40b1da15cf8191bf1bc1879",
+        "published": "2026-06-20T06:45:32+00:00",
+        "source": "note",
+        "summary": "天道最大吉方位。 続きをみる",
+        "title": "天道最大吉方位に働きに行ったのに、強めの人生ビンタくらった話",
+        "url": "https://note.com/deep_donkey8335/n/na31729ddbeb2"
+      },
+      {
+        "id": "126d4d4d0b91071bfedb66aa374efa1a3e0a7f41",
+        "published": "2026-06-20T06:45:19+00:00",
+        "source": "note",
+        "summary": "こんにちは、ポス鳥です。 今日のニュースはこちら。 続きをみる",
+        "title": "【7年連続赤字の老舗靴屋が、あなたの足元で静かに消えていく】115億円の輸血も効かなかった専門店の終焉。95年続いた靴屋が、株式市場から姿を消す日——イオンが「ASBee」のジーフットを完全子会社化、その300円が語るもの #イオン #ジーフット #ASBee #上場廃止 #M&A #小売業 #靴 #親子上場 #日本経済",
+        "url": "https://note.com/glad_auklet4142/n/n1c2c5fe5e9b3"
+      },
+      {
+        "id": "ccdf5461e629818b51e39576c8576253e4e21090",
+        "published": "2026-06-20T06:45:07+00:00",
+        "source": "note",
+        "summary": "ファナックの面接には、他の機械・電機メーカーにはほとんど出ない、独特の問いがあります。 「あなたは自動車やスマートフォンのような完成品ではなく、それらを作る工場そのものを自動化する会社を志望しています。なぜ完成品ではなく、工場の自動化なのですか？」 続きをみる",
+        "title": "ファナックの最終面接で必ず問われる『なぜ完成品を作る側ではなく、工場の『自動化そのもの』を作る側を選ぶのか』に詰まるあなたへ。CNC装置世界シェア5割×ロボット生産台数世界最大級で勝つ理系就活完全攻略【27卒】",
+        "url": "https://note.com/quirky_bee6349/n/n1b3d11f0d624"
+      },
+      {
+        "id": "e7e938c4a93a2eab4e6729c9b733226e7aff7a28",
+        "published": "2026-06-20T06:43:46+00:00",
+        "source": "note",
+        "summary": "🐱「LAYER2まで全部やったのに、なんで同じ会社の役員とは桁が違うんですか……」 🐯「お前はまだ\"天井の中\"で戦っている。天井そのものを壊す設計を、まだ知らないだけだ。」 登場人物 🐯 先輩：20年のビジネス経験を持つコンサルタント。構造で物事を見る。口は悪いが本質を突く。 🐱 後輩：vol.1で市場設計、vol.2で個人ポジションを学んだ若手社員。設計を進めるほど「雇われの限界」が気になり始めている。 続きをみる",
+        "title": "年収に「上限がある人」と「ない人」。天井そのものを壊す6つの法則【給料設計論 vol.3】",
+        "url": "https://note.com/giraffe777/n/necd786a14585"
+      },
+      {
+        "id": "7184346b1ba069f08af78a793637a964abd445c6",
+        "published": "2026-06-20T06:43:38+00:00",
+        "source": "note",
+        "summary": "新人技術者のための高圧受電設備完全ガイド amzn.to 2,970 円 (2026年06月20日 15:36時点 詳しくはこちら) Amazon.co.jpで購入する 高圧受電設備関係の参考書は幾つか持っていますが、不動先生の著書なので購入しました。 2026年4月発売の最新版ですが、写真類は実物を見たことも無いような古い継電器なのが、残念なところ。 不動先生の著書は、電験二種で大変お世話になっているので、買うしか無いでしょ。 続きをみる",
+        "title": "最近購入した電気主任技術者の参考書籍",
+        "url": "https://note.com/denkenstudy/n/n3dc4d333f59a"
+      },
+      {
+        "id": "a4310dddc3fc6affc9a50a9c41b50469c44c8cf1",
+        "published": "2026-06-20T06:42:25+00:00",
+        "source": "note",
+        "summary": "「そうだ、転職しよう」 そう思ったきっかけは、ボーナス前の面談。 続きをみる",
+        "title": "40歳扶養内パート、転職を考える",
+        "url": "https://note.com/satokei_note/n/n9cafe1636aa8"
+      },
+      {
+        "id": "d4860351e8c1f1deddc6d967181f8213f93c1f32",
+        "published": "2026-06-20T06:38:55+00:00",
+        "source": "note",
+        "summary": "数年前、私は妊娠6か月目でフリーランスという肩書きを捨てました。 社会保険という強固なセーフティネットを掴むため、地方企業の会社員になったのです。 続きをみる",
+        "title": "【アラフォーの生存戦略】フリーランスを捨てて地方企業で「嫌われ者」として生き抜く技術",
+        "url": "https://note.com/mild_tucan6268/n/n7947e8364b36"
+      },
+      {
+        "id": "6f81dc0a2511ddf789ed55e6ac2ba5a309cd083f",
+        "published": "2026-06-20T06:35:15+00:00",
+        "source": "note",
+        "summary": "38歳で新しい職場に転職して3か月。 前職では一人で仕事を回せる状態だったのに、新しい職場ではファイルの保存場所すら分からない新人になった。 続きをみる",
+        "title": "自信は、あとからついてきた。38歳で転職した私が気づいたこと",
+        "url": "https://note.com/huge_dill2945/n/n6eb89039e206"
+      },
+      {
+        "id": "7dc2447536bdd6777eaf1bdaf7e8bdc173665839",
+        "published": "2026-06-20T06:33:57+00:00",
+        "source": "note",
+        "summary": "こんにちは、チアです。 突然ですが 続きをみる",
+        "title": "「会社が合わない」の正体を、4つに分けて整頓してみた",
+        "url": "https://note.com/chiachelge/n/n5ccb4517f0af"
+      },
+      {
+        "id": "0d29f5faa85027482bce4e6b0462ac81f1d8208d",
+        "published": "2026-06-20T06:09:44+00:00",
+        "source": "note",
+        "summary": "こんにちは🥰 現在、絶賛「息子の就活最前線」を連載更新中📘 今回のテーマは、昭和・平成初期の就活族（私）からしたら「 はぇ〜〜 ⁉️」とひっくり返りそうになったお話です。 みなさん、**「 フィールドバック 」**って知ってます？🤔 今の就活って、面接に落ちたら 「何がダメだったのか」を会社側がわざわざ教えてくれるシステムがあるらしいんですよ……！ びっくり‼️😲 そのありがたい（？）お言葉を活かして、次の面接の参考にするんだとか✨ 今の世の中、本当にすごい👏 会社側からも「終わったら アンケート お願いします」なんて言われて、 全てネットで完結しちゃう…",
+        "title": "第18話 落ちた理由、教えてくれる時代です｜ガツガツ不足で不採用！？",
+        "url": "https://note.com/mochimochi_365/n/n6775b2ec2d5a"
+      },
+      {
+        "id": "a09b535862590c8f61227c3b0d21751298779a4b",
+        "published": "2026-06-20T06:08:57+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "「普通に就職する」が選べなかった僕の話",
+        "url": "https://note.com/ganbaruzo0715/n/n1a93a14dc4e3"
+      },
+      {
+        "id": "583e1933ae06970175ac72a91f959a3e37f98d44",
+        "published": "2026-06-20T05:27:15+00:00",
+        "source": "note",
+        "summary": "就活は情報戦！ 今回は、私自身も使っていた「入れておいて損なし」の就活アプリを紹介します！ 続きをみる",
+        "title": "【27卒〜30卒向け】大学生におすすめの就活アプリまとめ",
+        "url": "https://note.com/studynotes7901/n/n70ba5f64c8d5"
+      },
+      {
+        "id": "5ea44fb1c4c2dfe42cc5b7346f907bbc2f46a143",
+        "published": "2026-06-20T05:06:36+00:00",
+        "source": "note",
+        "summary": "就活、はじめます。 noteを始めた大学1年の夏からはや2年が経ちそうだ。 続きをみる",
+        "title": "留学目前、就活はじめます。",
+        "url": "https://note.com/noko_214/n/nc787e53d08fb"
+      },
+      {
+        "id": "f52c19e4a22c921d0bcb436b8b83f1cdd8d361d5",
+        "published": "2026-06-20T04:58:57+00:00",
+        "source": "note",
+        "summary": "皆様こんにちは！ ワークフォー高崎です。 本日はスポーツ大会でボッチャと卓球を行った後、ダンニャバード様にてお食事をいただきました♪ 続きをみる",
+        "title": "【外食イベントを開催しました🫓】",
+        "url": "https://note.com/vivid_mango6567/n/n3846e2563679"
+      },
+      {
+        "id": "302cf69f9115b0d42e8735824086a6e7ad1ccea6",
+        "published": "2026-06-20T04:46:28+00:00",
+        "source": "note",
+        "summary": "沢山の方にご購入いただき ありがとうございます！ どうも、就活参謀です。 このnoteではめんどさくてよくわからない 企業分析をさくっと終わらさせることを目的に、 各企業の企業分析レポートを発信しています。 続きをみる",
+        "title": "【3分で企業分析】ゆうちょ銀行/金融業（就活生向け）",
+        "url": "https://note.com/roudouyada/n/n0fb9b130b6c7"
+      },
+      {
+        "id": "cd8d0b3d7f67254b43c8deb99796dabf7bd73b83",
+        "published": "2026-06-20T04:45:04+00:00",
+        "source": "note",
+        "summary": "仕事は\" 好き \"じゃなく\" 苦痛がないか \"で選んでいい 続きをみる",
+        "title": "「やりたい仕事がない」まま就活してるあなたへ",
+        "url": "https://note.com/biiiiin0/n/n885cbe356054"
+      },
+      {
+        "id": "90fc3e434c7d671042466bb03140568951413eb1",
+        "published": "2026-06-20T04:29:54+00:00",
+        "source": "note",
+        "summary": "最近、短期バイトを始めた。 新しいこと大好きだからすごく楽しみ。 短期だから 時給が良かったんですよ。 ふと、社会人って時給換算するとどれくらいなのかなーって思って。 続きをみる",
+        "title": "大学生日記| 考えるんじゃなかった！！！！！",
+        "url": "https://note.com/iamisla04/n/n9a5fb13ac191"
+      },
+      {
+        "id": "78c6b54c387b13e1e9dad0731f07b110c6b4b5ca",
+        "published": "2026-06-20T04:27:07+00:00",
+        "source": "note",
+        "summary": "沢山の方にご購入いただき ありがとうございます！ どうも、就活参謀です。 このnoteではめんどさくてよくわからない 企業分析をさくっと終わらさせることを目的に、 各企業の企業分析レポートを発信しています。 続きをみる",
+        "title": "【3分で企業分析】三菱UFJ銀行/金融業界（就活生向け）",
+        "url": "https://note.com/roudouyada/n/n03e2e96a8162"
+      },
+      {
+        "id": "ceac53c37eca59f61da73f89d4c25a32cf3504fc",
+        "published": "2026-06-20T03:10:23+00:00",
+        "source": "note",
+        "summary": "エンジニアの転職活動って、最初にやることが地味に多い。 求人を見る。職務経歴書を書く。エージェントに登録する。スカウト媒体も見る。面接を受ける。内定をもらったら退職日を決める。有休消化も考える。 続きをみる",
+        "title": "エンジニア転職は、エージェントを1人に絞る前に何人か話を聞いたほうがいい",
+        "url": "https://note.com/cheeky_sheep9695/n/nb0c08e06451f"
+      },
+      {
+        "id": "df8f3efb8b7d68fe88cbb323856fa5be02fb2e34",
+        "published": "2026-06-20T02:58:56+00:00",
+        "source": "note",
+        "summary": "こんにちは、そのはです。 前回の記事では、新NISA満額入金できない人が、先にやるべきことについて書きました。 続きをみる",
+        "title": "会社員が入金力を上げるなら、副業より先に本業を見直す",
+        "url": "https://note.com/sonoha966/n/nb7852e21cdb5"
+      },
+      {
         "id": "989cd4e12248a9d46e982ea5cde5924c232c0849",
         "published": "2026-06-20T01:58:39+00:00",
         "source": "note",
         "summary": "続きをみる",
         "title": "2026年6月19日 IT業界ニュースまとめ",
         "url": "https://note.com/sby_tax/n/n04a04e2bb481"
-      },
-      {
-        "id": "db00b61672ceb2476ef351224f76652f0011e39c",
-        "published": "2026-06-20T01:55:01+00:00",
-        "source": "note",
-        "summary": "このnoteに向いている人 ✅転職したいが行動できない ✅転職するべきか判断できない ✅今の会社に残るか迷っている ✅お金や将来への不安がある ✅感情ではなく判断材料がほしい ✅まずは自分の状況を整理したい 転職したい。でも、なかなか退職を決断できない。そんな人に向けて書いたnoteです。私は退職を考えたとき、 ① お金 ② 体力 ③ スキル ④ 戦略 続きをみる",
-        "title": "転職したいのに辞められない人へ｜辞める前に整理したい4つの判断基準",
-        "url": "https://note.com/great_broom19/n/n6e6a513a7d42"
-      },
-      {
-        "id": "06ab76df0794b54a2315844fa20993054dda2f7e",
-        "published": "2026-06-20T01:53:54+00:00",
-        "source": "note",
-        "summary": "若手は飲み会が嫌なのではない 「最近の若手は飲み会に来ない」 管理職と話していると、よく聞く言葉です。 昔は仕事終わりに自然と飲みに行っていた。 上司と部下で語り合い、 他部署の人と知り合い、 仕事の悩みを聞いてもらう。 そんな光景は珍しくありませんでした。 しかし今は違います。 歓迎会や送別会ですら参加率が低い。 「仕事後は自分の時間を大切にしたい」 そう考える人も増えました。 すると管理職からは、 「若手が何を考えているかわからない」 という声が上がります。 本当に飲み会がなくなったことが原因なのでしょうか。 ⸻ 私は少し違う見方をしています。 問題…",
-        "title": "若手は飲み会が嫌なのではない",
-        "url": "https://note.com/ripe_stilt7571/n/n3501d15488c0"
-      },
-      {
-        "id": "3537082dbc2e02f1178828b93cb41910dbc44057",
-        "published": "2026-06-20T01:52:26+00:00",
-        "source": "note",
-        "summary": "5つの業界を経験した人事の結論 続きをみる",
-        "title": "「良い会社」とは何か。5つの業界を経験してたどり着いた答え。",
-        "url": "https://note.com/magic_frog6235/n/nf7c8fc7f327d"
-      },
-      {
-        "id": "ff9345e470cee26a0648e0a03a5ba86311917196",
-        "published": "2026-06-20T01:50:30+00:00",
-        "source": "note",
-        "summary": "宅建を取って、38歳未経験で不動産会社に入った。 最初に配属されたのは、賃貸管理だった。 続きをみる",
-        "title": "宅建を取った先に、もう一度東京で不動産の現場へ",
-        "url": "https://note.com/niji_yohaku/n/nc1e8278fefc4"
-      },
-      {
-        "id": "0096283e1223c039408a5b37dc8f852c9ad2e395",
-        "published": "2026-06-20T01:48:43+00:00",
-        "source": "note",
-        "summary": "「転職したいな」と思って、とりあえず転職サイトを開いてみる。 「人間関係、もう少しうまくやりたい」と思って、コミュニケーション術の本を買う。 「習慣を変えよう！」と決意して、朝活のルーティン動画を見る。 でも、続かない。変わらない。気づいたらまた同じところに戻ってる。 なんで？やる気はあったのに。情報も集めたのに。 実はこういうとき、ほぼ確実に最初に飛ばしているものがある。 手段より先に、「じぶん」がわかってない問題 転職サイトを開く前に、自分がどんな環境で力を発揮できるか、わかってる？ コミュニケーション術を学ぶ前に、自分がどんな場面でしんどくなるか、…",
-        "title": "転職も、人間関係も、習慣も。【全部うまくいかない人が最初に飛ばしているもの】",
-        "url": "https://note.com/jibunlab_/n/n592941d85ac9"
-      },
-      {
-        "id": "cbbf3b4c8013be3a3b49c9d50ac0a587601f5c11",
-        "published": "2026-06-20T01:46:24+00:00",
-        "source": "note",
-        "summary": "はじめに｜モヤモヤを抱えるあなたへ🕊️ こんにちは、まいです。 続きをみる",
-        "title": "【総集編】本業一本の不安から、4つの副業と転職を経て見つけた「自分らしいキャリアの育て方」",
-        "url": "https://note.com/ai_ec_design/n/n7444f32ad723"
-      },
-      {
-        "id": "fdccc82a45461692eee1698cade8eb4ebcf12eed",
-        "published": "2026-06-20T01:45:28+00:00",
-        "source": "note",
-        "summary": "@user1509731066878 ♬ オリジナル楽曲 - 調べてまとめて公開する - 調べてまとめて公開する みなさん。おはようございます。 続きをみる",
-        "title": "HTMLについて！",
-        "url": "https://note.com/siraberu_0800/n/n3714066c7d58"
-      },
-      {
-        "id": "d700f21af4cbed5cacbba3dfc9a7e9da54087103",
-        "published": "2026-06-20T01:43:33+00:00",
-        "source": "note",
-        "summary": "最近、よく思うことがあります。 それは、 続きをみる",
-        "title": "あと284日｜奇跡のような巡り合わせ",
-        "url": "https://note.com/legal_boar6232/n/n2de9d6cca338"
-      },
-      {
-        "id": "8e7eb5ec6ea22644291859597dd096cf98b28e62",
-        "published": "2026-06-20T01:39:01+00:00",
-        "source": "note",
-        "summary": "システム開発の現場では、次のような言葉を耳にすることがあります。 続きをみる",
-        "title": "【SE単語】トランザクションとは？複数の処理をひとまとまりとして扱う仕組み",
-        "url": "https://note.com/akatsuka_loveu/n/nc35c8b9f0bf4"
-      },
-      {
-        "id": "6b08cd824ae384f547a9bb1bf6371063d957de45",
-        "published": "2026-06-20T01:37:59+00:00",
-        "source": "note",
-        "summary": "こんにちは！ 公務員試験の勉強、順調ですか？ 「SPIが苦手すぎる」 「計算問題を見ただけで頭が痛くなる…」 と絶望している方も多いのではないでしょうか。 実は私もその一人でした。他の自治体のSPI試験はことごとく全落ち。計算への苦手意識が拭えないまま、途方に暮れていました。 そんな私が唯一、筆記試験を突破し、最終面接（2次）まで辿り着いたのが「守口市役所」です。 結果から言うと、私は最終面接で不合格になりました。 でも、だからこそ身をもって分かった「守口市の採用試験に潜む恐ろしい罠」があります。 守口市の試験は、他の多くの自治体とは一味も二味も違います…",
-        "title": "【公務員対策】守口市採用試験｜SPI全落ちの私が1次面接で神対応され、最終面接でガチ圧迫されて落とされた話",
-        "url": "https://note.com/dear_mimosa4070/n/nde17bdb57b7f"
-      },
-      {
-        "id": "130ae7dc831eb721e52d669e67ac2c989c303bae",
-        "published": "2026-06-20T01:37:25+00:00",
-        "source": "note",
-        "summary": "｢ここで逃げたらどこに行っても通用しないよ｣ これ､ 全部ウソだから｡ 続きをみる",
-        "title": "｢ここで逃げたらどこに行っても通用しないよ｣は全部ウソな話。",
-        "url": "https://note.com/kango_kango/n/nf6cb1cb3fc46"
-      },
-      {
-        "id": "616f9a44744bae25fe59940e684cadad854557ad",
-        "published": "2026-06-20T01:32:25+00:00",
-        "source": "note",
-        "summary": "「ググる」という言葉が日常になってから、どれほどの月日が流れたでしょうか。 何か知りたいことがあれば、検索窓にキーワードを打ち込み、表示されたリンクを上から順にクリックしていく。私たちは長い間、この行動を当たり前のものとして受け入れてきました。 続きをみる",
-        "title": "『AI対話広告の胎動：OpenAIとGoogleの覇権争い』",
-        "url": "https://note.com/ai_syukatu/n/n3905eda906f5"
-      },
-      {
-        "id": "abe26fa77607ab18333aa5f2636432ae127dd047",
-        "published": "2026-06-20T01:31:25+00:00",
-        "source": "note",
-        "summary": "おひさです。 いやー、2年生はテストがいっぱいで忙しいですね。 私立文系での試験 続きをみる",
-        "title": "【医学部再受験】医学部と私立文系のテストの違いから見る大卒の意味とは？",
-        "url": "https://note.com/osyaberi_maguro/n/nc4a2afceb97b"
-      },
-      {
-        "id": "2d401bafdfd4ad74a16f55efea541586895243a9",
-        "published": "2026-06-20T01:04:24+00:00",
-        "source": "note",
-        "summary": "ある日 選考の食事に同席して、チェリータルトを食べた。 ちゃんとその人を知るには食事をするのも良い。デートだってとりあえず食事に誘うじゃんね。緊張して会社で面接して、どこまで学生のことを知れるのだろうか？？ 続きをみる",
-        "title": "日記。コスパの良い就活は、熱意を持てる会社を探すこと",
-        "url": "https://note.com/omayu_1011/n/n361a50d9428a"
-      },
-      {
-        "id": "91f5b70012543cff1404178740fc377e596c1576",
-        "published": "2026-06-20T00:46:29+00:00",
-        "source": "note",
-        "summary": "メンバーシップ会員向けに展開している面接対策記事をピックアップしています。 続きをみる",
-        "title": "最終面接に挑む前に読んでほしい記事集",
-        "url": "https://note.com/nainaiteinote/n/n592fabeb00dd"
       },
       {
         "id": "db4b4bae777cc6c9f07edc8905827ea2a35f78a0",
@@ -138,36 +194,12 @@
         "url": "https://note.com/belieftech_123/n/nf8daa33b5ec2"
       },
       {
-        "id": "f1377fd0c92d75f8f30f3bc266231ba5708f4973",
-        "published": "2026-06-20T00:38:21+00:00",
-        "source": "note",
-        "summary": "続きをみる",
-        "title": "【28卒必見】ES通過率を爆上げする書き方の鉄則｜内定者が必ずやっている準備とは",
-        "url": "https://note.com/nainaiteinote/n/na84d69d53224"
-      },
-      {
-        "id": "7a2669980ca75e153a10ec0e989c7c75bef64d01",
-        "published": "2026-06-20T00:36:14+00:00",
-        "source": "note",
-        "summary": "CRA(臨床開発モニター)と聞くと、「治験データを確認する専門職」というイメージを持つ人は多いかもしれません。しかし実際に働いてみると、データモニタリングに使う時間は全体の わずか2割程度 。残りの8割は、医師・CRC(治験コーディネーター)・社内外担当者との調整や手続きといった、コミュニケーション業務・事務作業が占めています。 この記事では、医薬品開発業界で実際にCRAとして働いた経験から、入社前のイメージとのギャップ、求められるスキル、CRAに向いている人の特徴、就活中に確認すべきポイントを解説します。 続きをみる",
-        "title": "CRA(臨床開発モニター)の仕事内容とは？データモニタリングは実は2割という現実",
-        "url": "https://note.com/momoe_kushida_05/n/n72298452e57f"
-      },
-      {
         "id": "1d7d0a801dcc0baf5b38401fcdc94582b8580d4f",
         "published": "2026-06-20T00:31:22+00:00",
         "source": "note",
         "summary": "求人票を読んでも、入社後の仕事が見えない 続きをみる",
         "title": "求人票にJavaScriptが書いてないWordPress制作会社の転職面談で何を聞けばいいのか",
         "url": "https://note.com/masakielastic/n/n0e4c8bc710f9"
-      },
-      {
-        "id": "825433ee874d87a99ea401905abb1353162d7a20",
-        "published": "2026-06-20T00:23:28+00:00",
-        "source": "note",
-        "summary": "🟠作業メモ （←読まずともほぼ大丈夫です） ・無料noteは チップ💰️頂き率が低いものはニーズが低く仕方ないので 投稿頻度減らします ・YT＝YouTube。・参照動画名等→まとめ冒頭か最後（有料noteは必ず記載、無料は任意） ・漢字などの間違いはご了承を🙇（記事盗用予防のため故意、直すの面倒くさくさせる） ・ 事情で トイレ🚽や誘惑をガマンしながら解説する場合があります （必ず 冒頭で告知 ） 続きをみる",
-        "title": "元三井住友バンカーが語る銀行融資の実態と不動産投資の裏側⭕️不動産業者YT滝島⭕️5月動画メモ",
-        "url": "https://note.com/pr_fuku/n/n4056813c72ea"
       },
       {
         "id": "b4fb522b1306f46f9760fc5c953a35866f510d82",
@@ -208,22 +240,6 @@
         "summary": "Gmailの処理をゼロにする！GAS×Gemini API自動仕分けシステム こんにちは。突然ですが、あなたのGmailの受信トレイ、未読マークが「99+」になったまま放置されていませんか？ 続きをみる",
         "title": "【有料級？ガチコード無料公開】Gmailの処理をゼロにする！GAS×Gemini API自動仕分けシステム",
         "url": "https://note.com/ma_ko_622/n/n5f85fdc123ed"
-      },
-      {
-        "id": "13a0f5f70db7b59e3bb31fbdff40b70dfbd5abab",
-        "published": "2026-06-19T13:37:51+00:00",
-        "source": "note",
-        "summary": "金曜の夜22時すぎ、受信トレイを開いたら「健康診断のご案内」という件名のメールが届いていた。 差出人は、加入している国民健康保険の組合だった。 続きをみる",
-        "title": "金曜の夜、健康診断の案内メールを開いて「自分で申し込む」という文字を初めて読んだ。",
-        "url": "https://note.com/takashi_career/n/ndd0beda7f812"
-      },
-      {
-        "id": "51910b52e5c6042b395e561498c4fc55233cf98b",
-        "published": "2026-06-19T12:11:46+00:00",
-        "source": "note",
-        "summary": "※この記事は広告を含みます 35歳 続きをみる",
-        "title": "35歳文系パパが未経験からエンジニア転職するまで",
-        "url": "https://note.com/neochipapa/n/nca596eeccb6e"
       },
       {
         "id": "08492de9f5e7bd5ad65530329a3d87d3af71cc8e",
@@ -372,20 +388,36 @@
     ],
     "tech_global": [
       {
+        "id": "3b1f0d29c432299b9a37f2bcbc064d036b514e1c",
+        "published": "2026-06-20T05:33:59+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 43 # Comments: 10",
+        "title": "I Stored a Website in a Favicon",
+        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/"
+      },
+      {
+        "id": "2d2d0464f14c208ef1726615267b00e1267a465a",
+        "published": "2026-06-20T04:07:03+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering Comments URL: https://news.ycombinator.com/item?id=48606271 Points: 40 # Comments: 0",
+        "title": "Satellite reveals immense scale of GPS signal tampering",
+        "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering"
+      },
+      {
+        "id": "c07696a04a9593f22bd4a552a8ac84b170e3e1f1",
+        "published": "2026-06-20T03:36:49+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ Comments URL: https://news.ycombinator.com/item?id=48606140 Points: 5 # Comments: 0",
+        "title": "Where to Find the Colors Your Screen Can't Show You",
+        "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
+      },
+      {
         "id": "01b333412a35b2f45ee955c8d13641d651cc84ad",
         "published": "2026-06-20T01:16:56+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film Comments URL: https://news.ycombinator.com/item?id=48605301 Points: 39 # Comments: 5",
+        "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film Comments URL: https://news.ycombinator.com/item?id=48605301 Points: 125 # Comments: 42",
         "title": "How to feed a dictator",
         "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film"
-      },
-      {
-        "id": "3d677ec3b8ce35617c4c5d7bf4627d7261b6e291",
-        "published": "2026-06-20T01:01:59+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx Comments URL: https://news.ycombinator.com/item?id=48605208 Points: 36 # Comments: 24",
-        "title": "A record 242 US cities now have starter homes that cost $1M",
-        "url": "https://investors.zillowgroup.com/news-and-events/news/news-details/2026/A-record-242-US-cities-now-have-starter-homes-that-cost-1M/default.aspx"
       },
       {
         "id": "4809f853ca31ea595a4a18138c740ce5ecb06417",
@@ -399,41 +431,25 @@
         "id": "2089d3016584304d4c54cb2b0bb79edfecfef473",
         "published": "2026-06-20T00:11:07+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete Comments URL: https://news.ycombinator.com/item?id=48604851 Points: 64 # Comments: 36",
+        "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete Comments URL: https://news.ycombinator.com/item?id=48604851 Points: 143 # Comments: 74",
         "title": "Hey, n00b, we didn't hire you to complete tasks",
         "url": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete"
       },
       {
-        "id": "355e7ecb729be2875b14bf61b7d17e1e2b409d99",
-        "published": "2026-06-19T23:54:54+00:00",
+        "id": "0a2da26f42a29ebed54a546ae6a7934efbd34719",
+        "published": "2026-06-19T22:51:09+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase Comments URL: https://news.ycombinator.com/item?id=48604741 Points: 14 # Comments: 7",
-        "title": "Aikido Code Audit",
-        "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase"
-      },
-      {
-        "id": "7e1a4f0739d06a1a2efbcc1006447bad51befdfc",
-        "published": "2026-06-19T22:45:20+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk Comments URL: https://news.ycombinator.com/item?id=48604186 Points: 161 # Comments: 88",
-        "title": "Americans express unease over SpaceX's influence on retirement savings",
-        "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk"
+        "summary": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: https://news.ycombinator.com/item?id=48604232 Points: 77 # Comments: 128",
+        "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+        "url": "https://news.ycombinator.com/item?id=48604232"
       },
       {
         "id": "15935a3d14523f15dfb0797cee1ae1fce5e8d2ec",
         "published": "2026-06-19T22:40:14+00:00",
         "source": "TechCrunch",
         "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
         "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
-      },
-      {
-        "id": "efe3470a0c79e68d7e2e8f61679aaa41ce36273f",
-        "published": "2026-06-19T21:49:44+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic Comments URL: https://news.ycombinator.com/item?id=48603664 Points: 68 # Comments: 20",
-        "title": "Zenzizenzizenzic",
-        "url": "https://en.wikipedia.org/wiki/Zenzizenzizenzic"
       },
       {
         "id": "1caa2a1cc3405d05e6df4830777bf1772ae3c727",
@@ -463,15 +479,15 @@
         "id": "f64036b836070675ea2ab6448e3ab028f0be6e3c",
         "published": "2026-06-19T20:30:59+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html Comments URL: https://news.ycombinator.com/item?id=48602918 Points: 43 # Comments: 14",
-        "title": "Surprising Economics of Load-Balanced Systems",
+        "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html Comments URL: https://news.ycombinator.com/item?id=48602918 Points: 87 # Comments: 21",
+        "title": "Surprising economics of load-balanced systems",
         "url": "https://brooker.co.za/blog/2020/08/06/erlang.html"
       },
       {
         "id": "b26ab60a5c122427db9eca2fb307e0c6d76d064c",
         "published": "2026-06-19T20:19:57+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/ Comments URL: https://news.ycombinator.com/item?id=48602817 Points: 107 # Comments: 47",
+        "summary": "Article URL: https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/ Comments URL: https://news.ycombinator.com/item?id=48602817 Points: 186 # Comments: 111",
         "title": "Think of the children: How to force real ID for all internet traffic (2023)",
         "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/"
       },
@@ -479,7 +495,7 @@
         "id": "2ca2d662c8222f284d48075b058211c774f1ede3",
         "published": "2026-06-19T19:35:15+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll Comments URL: https://news.ycombinator.com/item?id=48602352 Points: 203 # Comments: 25",
+        "summary": "Article URL: https://www.legacy.com/legacy/robert-bobby-prince-lll Comments URL: https://news.ycombinator.com/item?id=48602352 Points: 315 # Comments: 36",
         "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
         "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll"
       },
@@ -492,12 +508,12 @@
         "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars"
       },
       {
-        "id": "437c8564fa6ec2dda534258e4fc51e4c2939885e",
-        "published": "2026-06-19T17:34:18+00:00",
+        "id": "a927d68c6494a44dc9609988fe768ed8ba2f23f1",
+        "published": "2026-06-19T18:14:11+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free Comments URL: https://news.ycombinator.com/item?id=48600946 Points: 245 # Comments: 42",
-        "title": "Court Records Should Be Free",
-        "url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free"
+        "summary": "https://cowboystatedaily.com/2026/06/18/giant-banana-pulled-... Comments URL: https://news.ycombinator.com/item?id=48601420 Points: 139 # Comments: 75",
+        "title": "Big Banana Car",
+        "url": "https://bigbananacar.com/"
       },
       {
         "id": "383e06344a66cd833f90beea8dfe4da5a3d43979",
@@ -608,7 +624,7 @@
         "published": "2026-06-19T07:59:12+00:00",
         "source": "TechCrunch",
         "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+        "title": "The US says ASML’s top chip tool may be in China, but how?",
         "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
       },
       {
@@ -694,28 +710,108 @@
     ],
     "tech_japan": [
       {
+        "id": "c504b5e8ae043d4f9d81ba4a604f44be34d1785f",
+        "published": "2026-06-20T06:45:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "かみむら牧場は6月22日～26日の期間、「ワンコインビュッフェ＆1129ランチ」を提供します。",
+        "title": "ランチビュッフェ500円に！サラダもアイスも食べ放題、5日間限定",
+        "url": "https://ascii.jp/elem/000/004/412/4412079/?rss"
+      },
+      {
+        "id": "932b0eadb0ec66b359d6fe041f0b189ed2682378",
+        "published": "2026-06-20T06:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "日清食品は「日清の最強どん兵衛 博多ごぼ天うどん」（333円）を6月29日に全国で発売します。",
+        "title": "ごぼ天でかっ！最強どん兵衛に「博多ごぼ天うどん」期待しかない!!",
+        "url": "https://ascii.jp/elem/000/004/410/4410912/?rss"
+      },
+      {
+        "id": "584670965970d4f63cdcdbf3dd0c9366a050981d",
+        "published": "2026-06-20T06:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "マンガ大賞や手塚治虫文化賞を総なめした『本なら売るほど』が全巻半額に。古本屋という舞台で、本と持ち主の記憶を丁寧に掬い上げる珠玉の短編集です。読書から遠ざかっているあなたにこそ、手に取ってほしい物語。",
+        "title": "「マンガ大賞2026」受賞作『本なら売るほど』が早くも全巻50%還元セール【Amazon漫画週末祭】",
+        "url": "https://ascii.jp/elem/000/004/412/4412178/?rss"
+      },
+      {
+        "id": "d25f3aa74b508a0785e96e9c933ce461137167e7",
+        "published": "2026-06-20T06:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "富士24時間レースで「その着せ替え人形は恋をする」コラボのTKRIチームが総合優勝し、2連覇を達成しました。勝負の鍵は19時間経過時の雨。ライバルがレインタイヤに換える中、アマチュアのDAISUKE選手がスリックタイヤのまま濡れた路面を耐え抜き、プロへ繋いだ決死の作戦が勝利を呼び込みました。",
+        "title": "【快挙】「着せ恋」痛車が富士24時間を制す！ 雨中の“タイヤ無交換”ギャンブルが劇的すぎた",
+        "url": "https://ascii.jp/elem/000/004/412/4412170/?rss"
+      },
+      {
+        "id": "715c315192396664f408b4c647290905e90d7dcf",
+        "published": "2026-06-20T04:01:02+00:00",
+        "source": "ASCII.jp",
+        "summary": "FC業界の構造的課題に警鐘 新刊『フランチャイジーのための出店の教科書』発売",
+        "title": "FC業界の構造的課題に警鐘 新刊『フランチャイジーのための出店の教科書』発売",
+        "url": "https://ascii.jp/elem/000/004/412/4412193/?rss"
+      },
+      {
+        "id": "d6d4ac1ac89f41af22ec33a2c2b58867dd6cf4ac",
+        "published": "2026-06-20T03:53:55+00:00",
+        "source": "ASCII.jp",
+        "summary": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+        "title": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+        "url": "https://ascii.jp/elem/000/004/412/4412191/?rss"
+      },
+      {
+        "id": "2b9703e4b390c585798d1edde9f7e8e70622f453",
+        "published": "2026-06-20T03:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "秋葉原でサーロイン、ランプ、ハラミが食べ放題の店があるって知ってましたか。平日限定の食べ放題プランですが、おいしいお肉とワインがあるので週末に行くのも良さそう。秋葉原の週末といえば……。",
+        "title": "あー、肉食べたい！ 秋葉原でサーロインもランプもハラミも食べ放題らしいっすよ",
+        "url": "https://ascii.jp/elem/000/004/411/4411448/?rss"
+      },
+      {
+        "id": "326ad47519292539f6f70b3ac40ab8ad13177f09",
+        "published": "2026-06-20T03:20:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "出張買取MAX、熊本県全域へのサービス対応を開始",
+        "title": "出張買取MAX、熊本県全域へのサービス対応を開始",
+        "url": "https://ascii.jp/elem/000/004/412/4412195/?rss"
+      },
+      {
+        "id": "eed311190ea5bc5611cbd6bda7fe6a56c46f6e1e",
+        "published": "2026-06-20T03:06:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Amazon MGMスタジオが、OpenAIの創業者であるサム・アルトマン氏のことを描いた、ルカ・グァダニーノ監督による伝記映画『Artificial』の配給から手を引いたことがわかりました。Amazonは2026年2月にOpenAIと戦略的パートナーシップを結び、OpenAIに500億ドル(約8兆円)を投資しています。 続きを読む...",
+        "title": "Amazonが完成間近だったサム・アルトマンの伝記映画『Artificial』の配給から撤退",
+        "url": "https://gigazine.net/news/20260620-amazon-dropped-sam-altman-movie-artificial/"
+      },
+      {
+        "id": "aea29e9da6d02e84c6c8f3fb0a972e46f7c53f36",
+        "published": "2026-06-20T03:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Open Vehiclesプロジェクトは2011年9月にテスラ・ロードスターのオーナー3人によって設立されたプロジェクトであり、完全オープンソースである車両のテレメトリ監視・診断・制御システム「OVMS(Open Vehicle Monitoring System)」を開発・公開しています。 続きを読む...",
+        "title": "電気自動車にオープンソースのテレメトリ機能を導入して充電セッションなど車両の状態を監視・制御できる「Open Vehicles」プロジェクトとは？",
+        "url": "https://gigazine.net/news/20260620-open-vehicles/"
+      },
+      {
+        "id": "fd0247340a93cbd33ee4b69cd49dfcb6f9a838b1",
+        "published": "2026-06-20T03:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "話題のAIグラス「Rokid スマートAIグラス」を衝動買い。新ジャンルのデジタルガジェットの初期は常にバッテリー駆動時間が課題になるが、Rokidは多様なオプションを用意することで解決するという実に現代的な存在だ。",
+        "title": "「Rokid スマートAIグラス」はスマホ時代の電力インフラを味方につけたAIグラス",
+        "url": "https://ascii.jp/elem/000/004/412/4412181/?rss"
+      },
+      {
+        "id": "5faca029d137ce025e43d5a77c41476746328217",
+        "published": "2026-06-20T03:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "富士24時間レースは各社の実証実験の場です。マツダは排ガスからCO2を回収する装置を搭載し、走行中のCO2貯蔵に成功、カーボンネガティブの可能性を示しました。また、IIJはローカル5Gや共用ネットワークを活用し、低遅延で大容量な通信環境の構築を実証しています。",
+        "title": "レースカーは走る実験室！ マツダとIIJが富士で見せた「未来のクルマと通信」の全貌",
+        "url": "https://ascii.jp/elem/000/004/412/4412169/?rss"
+      },
+      {
         "id": "b6a219715e3e028ce587af084f4a0566b703eed8",
         "published": "2026-06-20T01:41:21+00:00",
         "source": "PC Watch",
         "summary": "米Microsoftは6月18日(現地時間)、ゴミ箱から単一のファイルを完全に削除する際、本来とは違うファイル名がダイアログに表示される不具合が発生していることを発表した。意図せず削除したくないファイルを削除する可能性につながる。",
         "title": "Windowsのゴミ箱からファイル削除時、別名が表示される不具合。6月更新に起因",
         "url": "https://pc.watch.impress.co.jp/docs/news/2118763.html"
-      },
-      {
-        "id": "50c3cc30770e40e7d52bf8118db3c229bf1e6a3a",
-        "published": "2026-06-20T01:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ソフマップ池袋店がゲームデバイスコーナーをリニューアルオープン。最新ゲーミングマウスやゲーミングキーボードを実機で体験できるほか、ゲーミングPCやBTOの相談にも対応する。",
-        "title": "最新ゲーミングマウスを店頭で試せる ソフマップ池袋店が売り場をリニューアル",
-        "url": "https://ascii.jp/elem/000/004/412/4412000/?rss"
-      },
-      {
-        "id": "67fa0297ed7ecd66c0eb660cb7b1f7124af279d6",
-        "published": "2026-06-20T00:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "AMDのX3Dシリーズが最強とされる昨今ですが、コストを抑えつつも最新ゲームを十分快適にプレイできるCPUがあります！",
-        "title": "発売からしばらく経って価格も手頃になってきたアッパーミドルCPU「Core Ultra 5 245K」がオススメ！：ツクモLABI1なんば店",
-        "url": "https://ascii.jp/elem/000/004/412/4412104/?rss"
       },
       {
         "id": "6a2fcf9bf1efbb554c236e895d53b3efe9f6d0f1",
@@ -758,14 +854,6 @@
         "url": "https://gigazine.net/news/20260620-kindle-scribe-writing/"
       },
       {
-        "id": "005281d459787ab16bc1abe75977fe80987ec749",
-        "published": "2026-06-19T15:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "RTX 5090搭載ゲーミングPCが10万円超値引き。パソコンショップSEVENの24時間限定セールで、最新BTOパソコン全10モデルが特別価格で登場する。",
-        "title": "ゲーミングPCが最大10.6万円引き パソコンショップSEVENが6月20日限定セール",
-        "url": "https://ascii.jp/elem/000/004/411/4411684/?rss"
-      },
-      {
         "id": "3c7d507ed4aeb9203773db025d9b6a5cf112eab7",
         "published": "2026-06-19T14:00:00+00:00",
         "source": "GIGAZINE",
@@ -790,14 +878,6 @@
         "url": "https://gigazine.net/news/20260619-us-ferc-energy-order/"
       },
       {
-        "id": "f7142c6270738e4853adf3410f98a1411f221a9a",
-        "published": "2026-06-19T12:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "PHILIPSの8.7型タブレット「T7335」がAmazonタイムセール対象。参考価格27,980円のところ、14％オフの23,980円で販売中。375gの軽量ボディや4G LTE対応が特徴で、90Hz対応ディスプレーや128GBストレージも搭載。持ち運びやすさを重視するならチェックしたい1台だ。",
-        "title": "【どこでも一緒】375gの軽量ボディでLTE対応。フィリップスの8.7型タブレットが23,980円",
-        "url": "https://ascii.jp/elem/000/004/411/4411382/?rss"
-      },
-      {
         "id": "130d6f301fab4df54abf1576b16c461cb3d10345",
         "published": "2026-06-19T11:30:00+00:00",
         "source": "ITmedia NEWS",
@@ -814,52 +894,12 @@
         "url": "https://gigazine.net/news/20260619-openai-beneficial-rl/"
       },
       {
-        "id": "e9876a27a3554b3ee7d3aebb50d93b0ed60b6f2b",
-        "published": "2026-06-19T11:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Amazon.co.jpにて、 Logicoolのハンドルコントローラー「RS50」が売れています。日本が舞台で話題のドライビングシミュレーション「Forza Horizon 6」にも対応しています。",
-        "title": "「Forza Horizon 6」をやるならハンコンも欲しい！ Logicoolの高級モデルが本気すぎる",
-        "url": "https://ascii.jp/elem/000/004/412/4412135/?rss"
-      },
-      {
-        "id": "6e72c88a9d9e7aa6ae5ab419d4c45220662a9927",
-        "published": "2026-06-19T11:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ニッカの定番ウイスキー「ブラックニッカクリア 4000ml」がAmazonタイムセールで11％オフ。",
-        "title": "家にブラックニッカがデカくあるだけで、人は少し強くなれる。Amazonタイムセールで大容量ボトルがお得",
-        "url": "https://ascii.jp/elem/000/004/411/4411997/?rss"
-      },
-      {
-        "id": "b41edddd022bbbd96c92c66791fce7158fca87a3",
-        "published": "2026-06-19T11:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "日産自動車が新型コンパクトSUV「キックス」を発売。価格は299万9700円から。日本初となる「第3世代e-POWER」を搭載し、4WDモデルには高度なモーター制御技術「e-4ORCE」を初採用。ボタン式シフトやヴィーガンレザーの内装など、大人の遊び心を刺激する1台に進化しました。",
-        "title": "【価格破壊!?】299万円から狙える日産の新型キックス、第3世代e-POWERを初搭載で走りも燃費も進化！",
-        "url": "https://ascii.jp/elem/000/004/411/4411804/?rss"
-      },
-      {
-        "id": "c0d00bfef1d2b9571912b8ff9b2a6f0986e02f11",
-        "published": "2026-06-19T10:40:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "セガは、Steamにて販売中の一部「ソニック」シリーズタイトルを期間限定で特別価格にて販売する、「ソニックフランチャイズセール」を開催中だと2026年9月19日に発表。セール期間は、6月26日まで。",
-        "title": "『ソニックレーシング クロスワールド』が初の50％オフ！セガがSteamで「ソニックフランチャイズセール」を開催中",
-        "url": "https://ascii.jp/elem/000/004/412/4412160/?rss"
-      },
-      {
         "id": "c6e5b795857dcd0ca2761851cd846f7e9ee183b6",
         "published": "2026-06-19T10:29:00+00:00",
         "source": "GIGAZINE",
         "summary": "松屋フーズの創業60周年を記念して、ジョージアの伝統料理で「世界一にんにくをおいしく食べる料理」しても知られる「シュクメルリ」を使ったメニューがとんかつ専門店の松のやで2026年6月16日から食べられるようになりました。「シュクメルリロースかつ」と「シュクメルリジャンボチキンかつ」の2種類があるとのことなので、どちらも注文してどんな味に仕上がっているのか確かめてみました。 続きを読む...",
         "title": "松屋のニンニクメニュー「シュクメルリ」を豚カツにぶっかけた「シュクメルリロースかつ」＆チキンカツにぶっかけた「シュクメルリジャンボチキンかつ」試食レビュー",
         "url": "https://gigazine.net/news/20260619-matsuya-matsunoya-shkmeruli/"
-      },
-      {
-        "id": "bbbcdbd63efd8095bc23598089b0261456af3b74",
-        "published": "2026-06-19T10:15:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "2026年6月19日、2KとGearbox Softwareは、発売中の『ボーダーランズ4』にて、無料エンドゲーム・レイド「ハドロン・アビスのテイクダウン」と有料DLC「お尋ね者パック3：イケオジ！ ゼインの名にかけて」を、6月25日に配信予定だと発表。",
-        "title": "『ボーダーランズ4』のお尋ね者パック3とエンドゲーム「テイクダウン」が6月25日に配信決定！",
-        "url": "https://ascii.jp/elem/000/004/412/4412154/?rss"
       },
       {
         "id": "983f67758eb1995ebb9697d6191125d53719b038",
@@ -876,22 +916,6 @@
         "summary": "アメリカのAI企業であるPoolsideが独自開発モデル「Laguna M.1」をオープンモデルとして公開しました。Laguna M.1は2026年4月にリリースされてAPI経由で展開されていたモデルで、オープンモデル化によって誰でもダウンロードできるようになりました。また、Macでローカル実行可能な量子化モデルも登場しています。 続きを読む...",
         "title": "アメリカのAI企業が独自開発モデル「Laguna M.1」をオープンモデルとして公開、高性能だが中国製オープンモデルには劣る",
         "url": "https://gigazine.net/news/20260619-laguna-m1-ai-open/"
-      },
-      {
-        "id": "22cfefbfd381e8736b5177d88f814d218c94286d",
-        "published": "2026-06-19T10:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "Switch 2版「あつまれ どうぶつの森」で新しい島生活を開始。800時間遊んだ納得の島を離れ、映像強化と大型アップデートに釣られて再スタートしたものの、ホテル経営はまだ遠い。積みゲーとの戦いも始まった。",
-        "title": "800時間遊んだ島を捨てて、また無人島へ。「あつ森」をSwitch 2で怖いくらい楽しんでいる",
-        "url": "https://ascii.jp/elem/000/004/412/4412109/?rss"
-      },
-      {
-        "id": "13e17a4ec2c55432dd0be0bd16abb4b5ae667fce",
-        "published": "2026-06-19T09:48:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "TVアニメ『世界最強の後衛 ～迷宮国の新人探索者～』のPV第2弾が公開されました。映像では、異世界「迷宮国」に転生した主人公・アリヒトが職業「後衛」を選ぶ物語の導入をはじめ、メインキャラクター8名のボイスや、仲間たちがスキルを駆使して魔物と戦うシーンなどが収められています。 続きを読む...",
-        "title": "2026年6月19日のヘッドラインニュース",
-        "url": "https://gigazine.net/news/20260619-headline/"
       },
       {
         "id": "8731901db53f522af3a8b5ec1a3fec224dcfb32f",
@@ -924,14 +948,6 @@
         "summary": "INNOCNは6月18日、Delta E 2未満の工場出荷時キャリブレーションに対応したクリエイターおよびビジネス向け27型4Kモニター「CB27U1」を発売した。Amazonでの価格は6万6,890円だが、発売記念の10%オフクーポンとクーポンコード「877ZAU8J」を併用することで、1万33円引きの5万6,857円で購入できる。期限は7月2日まで。",
         "title": "INNOCN、5万円台で買える27型4Kクリエイター向けモニター",
         "url": "https://pc.watch.impress.co.jp/docs/news/2118584.html"
-      },
-      {
-        "id": "537ba989e874f59c6292d4c31c1caf7992add437",
-        "published": "2026-06-19T07:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "Windows 11には2種類のOutlookが提供されています。1つはWin32デスクトップアプリであるOutlook Classicで、もう1つは「新しいOutlook」です。特定の動作において、この新しいOutlookが極端に遅いことが報告されています。 続きを読む...",
-        "title": "新しいWindows版Outlookの動作が遅いとユーザーが文句を垂れる",
-        "url": "https://gigazine.net/news/20260619-windows-new-outlook-delay/"
       },
       {
         "id": "9875f203018cac70b88dcddb04c8b014e11e31ad",
@@ -1015,5 +1031,5 @@
       }
     ]
   },
-  "generated_at": "2026-06-20T01:59:09.626945+00:00"
+  "generated_at": "2026-06-20T06:50:54.647341+00:00"
 }
