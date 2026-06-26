@@ -2,84 +2,156 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "124805ed40aec8b547aa5efe1197fd883cab21c2",
-        "published": "2026-06-26T19:22:04+00:00",
+        "id": "cf0a87beca6782c9b2f63866327594e4ee6bc228",
+        "published": "2026-06-26T21:58:30+00:00",
         "source": "note",
-        "summary": "いつもnoteを読んでいただき、ありがとうございます。 これまで、大学を中退した理由や、自分のビジネス・独立に向けて「夢を趣味で終わらせない」ためのリアルなプロセスを『Build in Public（プロセスの公開）』として発信してきました。 居酒屋の現場でがむしゃらに店舗マネジメントやスタッフ管理に向き合い、ビジネスの最前線で泥臭く動いてきた僕ですが、ここで次の大きな仕掛けを発表します。 2026年10月から、インフラエンジニアとして新しいキャリアをスタートします。 「え、飲食やビジネスの道から、いきなりIT？」 「しかもなんでインフラ？」 そう思う方…",
-        "title": "【逆算キャリア戦略】10月から未経験でインフラエンジニアへ。参画前にCCNAの勉強を終わらせた僕の全記録",
-        "url": "https://note.com/rensei815/n/nf3945b804034"
+        "summary": "【導入】 自己PRは、転職やキャリアアップを目指す人にとって非常に重要な要素です。採用担当者があなたのことを覚えてもらうには、自分自身の強みや魅力を効果的にアピールする必要があります。しかし、自己PRを作成する際に、多くの人は困惑させられることがあります。自分自身のことだからこそ、客観的に見ることが難しくなり、自己PRの作成に苦労します。 続きをみる",
+        "title": "自己PRの作り方完全ガイド：採用担当者に刺さるテンプレート",
+        "url": "https://note.com/next_career_jp/n/nc46f2d7a1c0c"
       },
       {
-        "id": "bd295879647ab64be1d8b03c358ca82fa2132eef",
-        "published": "2026-06-26T18:58:32+00:00",
+        "id": "f88d71aa505537c3f4723b3cf184d03aadb935de",
+        "published": "2026-06-26T21:57:04+00:00",
         "source": "note",
-        "summary": "はじめまして。「あき」です。 このアカウントでは、転職で年収を上げるための具体的な手順——職務経歴書、転職理由の伝え方、面接、年収交渉——を、順番に書いていきます。 続きをみる",
-        "title": "「年収は会社が決めるもの」と思っていた私が、転職で年収を410万→650万に上げるまでの話",
-        "url": "https://note.com/aki_tenshoku/n/n60462ecc5536"
+        "summary": "※この記事は最後まで 無料でお読みいただけます。 ーーーーー 未来のことを考えると 不安になる。 きっと誰にでも そんな経験があると思う。 私も昔から 心配性だった。 だからこそ 不安で前に進めない苦しさも よくわかる。 年齢を重ね 経験が増え 少しずつ見えてきたことがある。 今日は そのことを書いてみる。 不安は、答えがわからないから生まれる 続きをみる",
+        "title": "【不安】進む不安と、待つ不安",
+        "url": "https://note.com/7se7ve7n7/n/nb7a73175fc71"
       },
       {
-        "id": "586eab0f33221b70c7ff04071058475b62b91a6e",
-        "published": "2026-06-26T18:52:49+00:00",
+        "id": "93480516fc0d8b5140deae12653ad28c6ac7b6ff",
+        "published": "2026-06-26T21:56:06+00:00",
+        "source": "note",
+        "summary": "日本製鉄の採用面接に臨むにあたり、押さえておくべき全体的なアドバイスをお伝えします。同社は現在、カーボンニュートラルの実現、デジタルトランスフォーメーション（DX）の推進、そして真のグローバル展開という、鉄鋼業界におけるかつてない大きな転換期を迎えています。そのため、求める人財像としては、前例のない困難な課題に対しても果敢に挑戦できる「タフネス」や「レジリエンス（回復力）」を持つ方、多様なバックグラウンドや価値観を尊重しチームとして最大のパフォーマンスを発揮できる方、そして当事者意識を持って自ら考え行動できる自律的な方が挙げられます。面接では、単に立派な…",
+        "title": "日本製鉄｜就活面接想定問答50選",
+        "url": "https://note.com/resilience123/n/nf61f64c25dee"
+      },
+      {
+        "id": "9930fc62df2f9502b3ffdd309e6a39b17eff7dae",
+        "published": "2026-06-26T21:55:13+00:00",
+        "source": "note",
+        "summary": "「教員は学校の外では通用しない」 こういう言葉を見かけることがあります。一方で、「教員ほどコミュニケーション能力が高い仕事はない」「人を育てる経験は貴重だ」という意見もあります。 どちらも、一部は正しいと思います。 ただ、この議論を見ていると少し違和感があります。問題は、教員に価値があるかないかではない。その価値が、外の世界で理解できる形になっているかどうかではないでしょうか。 人事の仕事に関わる中で感じてきたことがあります。学校の中で評価される力と、外の世界で評価される力には違いがあります。 例えば「生徒との信頼関係を築く力」。これは教員にとって非常に…",
+        "title": "教員の市場価値は低いのか。問題は「価値」ではなく「翻訳」かもしれない",
+        "url": "https://note.com/educompass_jp/n/n8af2983c2642"
+      },
+      {
+        "id": "c392964f526d07105a352b5c82e99a55a002c453",
+        "published": "2026-06-26T21:54:06+00:00",
+        "source": "note",
+        "summary": "はじめに 「このまま今の会社にいていいのかな。」 続きをみる",
+        "title": "転職に迷う女性へ。後悔しない選択をするための安心できる考え方",
+        "url": "https://note.com/ripe_duck4804/n/n27b45b6e9dad"
+      },
+      {
+        "id": "b698d901897910c16879fe8fa06dacb183a4cc97",
+        "published": "2026-06-26T21:52:29+00:00",
+        "source": "note",
+        "summary": "「仕事だから」 「仕事だからできるんだよね。」 たしかにそうなのかもしれない。 初対面の人と話すことも。 段取りを考えることも。 相手の立場を想像することも。 仕事なら、できる。 でも。 家に帰ると、急に何もできなくなる日があった。 仕事では人の悩みを整理できる。 相手の話を聞いて、咀嚼して、言葉を返す。 そんな仕事を10年以上続けてきた。 だから私は、 「話を聞くこと」は得意なんだと思っていた。 あるきっかけで、キャリアコンサルタントの資格を取ろうと思った。 スクールでは実技試験に向けて、ロールプレイを繰り返す。 相談者役と、キャリアコンサルタント役。…",
+        "title": "仕事だから",
+        "url": "https://note.com/fair_bear5756/n/n6fbbd42d8221"
+      },
+      {
+        "id": "8468bb766c6108db4236432be5f353c85de2f142",
+        "published": "2026-06-26T21:50:16+00:00",
         "source": "note",
         "summary": "続きをみる",
-        "title": "転職面接で実績を話しても刺さらない人が、足りていない一言",
-        "url": "https://note.com/income_raise/n/n9c85cb280283"
+        "title": "担当が変わるとき、評価を落とす人と上げる人の分かれ目",
+        "url": "https://note.com/income_raise/n/ne2025534de59"
       },
       {
-        "id": "f105acb4935632534c89df504e63fa687fbc60ac",
-        "published": "2026-06-26T18:29:36+00:00",
+        "id": "1d625217603658c23de788912c5486c11ecb1de5",
+        "published": "2026-06-26T21:49:43+00:00",
         "source": "note",
-        "summary": "「レポートをChatGPTに書いてもらえば、すぐ終わるのでは？」 生成AIを使い始めた大学生なら、一度は考えたことがあるかもしれません。 続きをみる",
-        "title": "大学のレポートでChatGPTを使うときに、やってはいけない7つのこと",
-        "url": "https://note.com/oshi_arch_ai/n/nfd341a57488e"
+        "summary": "「9割は批判だった」 そんな言葉を、 世界で戦ってきた人が口にしました。 続きをみる",
+        "title": "就活で落ち込んだ日に読んでほしい、批判との向き合い方",
+        "url": "https://note.com/shukatunosusume/n/n6fca350d789c"
       },
       {
-        "id": "73fa347c5aabadc35b49713d830dc5a665d29a29",
-        "published": "2026-06-26T18:20:31+00:00",
+        "id": "a66335ec3e1d127859fd5c4147cda907735d3322",
+        "published": "2026-06-26T21:49:08+00:00",
         "source": "note",
-        "summary": "大学生活では、意外と「本題に入る前の作業」に多くの時間がかかります。 レポートの課題文を読み解く。 調べるべき内容を整理する。 プレゼンの構成を考える。 企業研究の情報を比較する。 先生や企業に送るメールを整える。 続きをみる",
-        "title": "大学生がAIを使うべき10の場面｜課題・就活・副業まで",
-        "url": "https://note.com/oshi_arch_ai/n/n5d6ee27c28b3"
+        "summary": "【教師に転職するための合格戦略】 第19回 働きながら、単年、または、複数年の受験をどう設計するか 続きをみる",
+        "title": "第19回 働きながら、単年、または、複数年の受験をどう設計するか。【教師に転職するための合格戦略】",
+        "url": "https://note.com/teachertenshoku/n/n292b5b8a081a"
       },
       {
-        "id": "5d5a337685c75c456fb3711277b2e85e68799776",
-        "published": "2026-06-26T18:11:14+00:00",
+        "id": "69bf10e33a7d3e00b8bdec332a9277e6dac9487b",
+        "published": "2026-06-26T21:42:18+00:00",
         "source": "note",
-        "summary": "転職を考えていた頃、 👉「正解の職場」を探していました でも今思うのは 👉正解を探すより 続きをみる",
-        "title": "理学療法士、後悔しない転職で大事だと思ったこと",
-        "url": "https://note.com/pt_real_work/n/nbae08439dcdb"
+        "summary": "今日からいよいよ副業が始まります。 よって再無職noteも４４日で終了となります。 雇用保険が入っている仕事ではないので「副業」となります。 やる仕事は、「ドローン関係」の仕事となります。 今の私にはこの仕事感がちょうどいい。確実に次に繋がるのだから。 念願のドローンを使ってする仕事。 初めてする仕事なので新入社員の気持ちでドキドキしてしまい、昨日はなかなか寝付けませんでした。久しぶりにこんな気持ちになりました。 始業時間が朝8時半からなので、久しぶりに5時6時台に目が覚めた。まだ目が覚めきっていないけど、体はもうそのモードに入っている。 続きをみる",
+        "title": "副業1日目 ドローンの仕事始まる",
+        "url": "https://note.com/inves4444/n/nc5c82b786d4d"
       },
       {
-        "id": "0ac0ae91037f3ea4a87eb7d0ae7513f463092976",
-        "published": "2026-06-26T18:03:48+00:00",
+        "id": "f8a3b54f738aad24b55f94e295c4b78faf98ebad",
+        "published": "2026-06-26T21:42:14+00:00",
         "source": "note",
-        "summary": "転職活動で応募先を選ぶとき、誰もが気にするのが 「年収」 です。 求人票に記載されている年収を眺めては「この会社、年収高いじゃん！」とワクワクした、期待した経験、ありませんか。 続きをみる",
-        "title": "提示年収が期待を下回った…その理由と対策｜いち人事が語る",
-        "url": "https://note.com/hrmonologue_hiro/n/n0205b39426af"
+        "summary": "はじめに 「コンサル業界未経験でもEYのコンサルティング部門に転職できるのか」という相談を、キャリア相談の場でよく耳にします。実際、EYは事業会社出身者や監査法人出身者、SE、金融機関出身者など、コンサル未経験の人材を積極的に採用しているのは事実です。 ただし「未経験者を歓迎している」ことと「誰でも受かる」ことは全く違います。同じように「未経験から挑戦したい」と思っていても、内定を獲得する人と書類選考やケース面接で落ち続ける人がいます。その差は、学歴や前職の知名度ではありません。むしろ、もっと地味で、誰でも今日から意識を変えられる部分にこそ、決定的な差が…",
+        "title": "未経験からEYコンサルに転職できる人・できない人の決定的な差",
+        "url": "https://note.com/consulting_lab15/n/n679600fdadcd"
       },
       {
-        "id": "d5d8ab779f6e857999e0784e67b57e0697520b68",
-        "published": "2026-06-26T17:41:30+00:00",
+        "id": "b5648c1d9639a2a312d7cf539464c85666a0e5be",
+        "published": "2026-06-26T21:42:11+00:00",
         "source": "note",
-        "summary": "派遣生活を続けていると、本当にいろんな人と出会う。 危険人物。 続きをみる",
-        "title": "50代、三日以内に消える人々",
-        "url": "https://note.com/ossan_restart/n/n2d2a717a5b06"
+        "summary": "企業研究・企業分析｜Asueをどう理解するか 1．Asueの本質 続きをみる",
+        "title": "【就職活動｜就活選考】Asue｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nf1e4795a974a"
       },
       {
-        "id": "faf1be86df0063960555310e28b0695d3e54a16e",
-        "published": "2026-06-26T17:33:21+00:00",
+        "id": "e614f4bb6098aab5c8c668c3a750039d6f360956",
+        "published": "2026-06-26T21:41:22+00:00",
         "source": "note",
-        "summary": "前回の投稿から少し間が空いてしまいました。 理由は本当にシンプルで、6月から新しい環境で仕事を始めたものの、日々の業務とそれに必要な勉強でとにかく疲れてしまっていたからです（笑）。 先週の休日は、W杯を観てひたすらダラダラと過ごしていました。大好きな趣味である読書も、今月はあまりできていません……。 続きをみる",
-        "title": "知識はあるのに、実践できない。コンサル4週間目の僕がぶつかった「視野の狭さ」という壁",
-        "url": "https://note.com/proper_quoll7770/n/n97691d2d1d11"
+        "summary": "企業研究・企業分析｜旭商工社をどう理解するか 1．旭商工社の本質 続きをみる",
+        "title": "【就職活動｜就活選考】旭商工社｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n9edbee0c2c88"
       },
       {
-        "id": "716d207dee1fbf03c4c495bacb26fb83f5bef8e1",
-        "published": "2026-06-26T17:33:01+00:00",
+        "id": "66756812dd3609dd1f57f6f445f7f12b738db547",
+        "published": "2026-06-26T21:40:35+00:00",
         "source": "note",
-        "summary": "1. 【規模と収益性の実態】「稼ぐ力」と「財務の健全性」の対比 続きをみる",
-        "title": "【企業徹底分析】電通と博報堂の比較",
-        "url": "https://note.com/zegahidemo/n/n37f56021f6bc"
+        "summary": "企業研究・企業分析｜アサヒ商会をどう理解するか 1．アサヒ商会の本質 続きをみる",
+        "title": "【就職活動｜就活選考】アサヒ商会｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n4432ca128d77"
+      },
+      {
+        "id": "5632c5a463a7902ae3c51d15916c209abdabf462",
+        "published": "2026-06-26T21:39:44+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜旭日産業をどう理解するか 1．旭日産業の本質 続きをみる",
+        "title": "【就職活動｜就活選考】旭日産業｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n5c8b181032a0"
+      },
+      {
+        "id": "2e0eaef2dcb947131a19cf895620d9443b9c910a",
+        "published": "2026-06-26T21:38:08+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜朝日機材をどう理解するか 1．朝日機材の本質 続きをみる",
+        "title": "【就職活動｜就活選考】朝日機材｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n10546961838a"
+      },
+      {
+        "id": "02f10891bcbdbe4733c051ecc902a8e462842a67",
+        "published": "2026-06-26T21:37:14+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜浅井産業をどう理解するか 1．浅井産業の本質 続きをみる",
+        "title": "【就職活動｜就活選考】浅井産業｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nb30268e60855"
+      },
+      {
+        "id": "49fad17441b7e4a00fd8663fcf9bf7ceea20dd84",
+        "published": "2026-06-26T21:35:47+00:00",
+        "source": "note",
+        "summary": "あなたが今、無意識に足を踏み入れようとしている「罠」 就活生の皆さん、毎日見えない不安と戦いながら、ご自身の将来に真剣に向き合っていらっしゃる姿、本当に素晴らしいと思います。 続きをみる",
+        "title": "【就活生の9割が知らない罠】転落する「業界の寿命」と斜陽シグナル完全判別マニュアル／10年後に「負け組」へと転落する業界",
+        "url": "https://note.com/akatsukikaname7/n/na1b7cf213eb4"
+      },
+      {
+        "id": "31b95b639b3ed278e8083429dc38a4ee110f9608",
+        "published": "2026-06-26T21:25:31+00:00",
+        "source": "note",
+        "summary": "この記事は、面接で実際に出題された質問100問と、その回答例をまとめたものです。 回答例はあくまで参考です。 ご自身の経験や考えを交えてアレンジしてください。 面接試験で、 続きをみる",
+        "title": "【就活｜電機・事務機器業界】《千代田インテグレ》企業研究・企業分析＆実際に面接試験で出た質問100問（質問＋回答例）【採用｜面接｜コーチング｜就職活動｜就活選考｜金融｜転職】",
+        "url": "https://note.com/yo0425/n/n71d66963e644"
       },
       {
         "id": "13a6867c6b62cdc736b5d5d2162d85496ed2f8ab",
@@ -88,86 +160,6 @@
         "summary": "サブタイトル 高スキルエンジニアほど被害に遭いやすいSES業界の構造的問題と、確実に有利に立つための鉄壁対策 続きをみる",
         "title": "〜報酬減額・多重派遣・責任転嫁のリアルと、フリーランス保護法の活用術〜",
         "url": "https://note.com/zephel01/n/ne34b8948a43a"
-      },
-      {
-        "id": "2f6d8febab4d189050aefa5eb93006a7269a577e",
-        "published": "2026-06-26T17:21:01+00:00",
-        "source": "note",
-        "summary": "カウンターの向こう側 続きをみる",
-        "title": "《創作①》",
-        "url": "https://note.com/apt_seal5639/n/n64403608062a"
-      },
-      {
-        "id": "536867e755fd48b253484c5b57e58a36870116a4",
-        "published": "2026-06-26T17:18:54+00:00",
-        "source": "note",
-        "summary": "さて、後編は実際のリザーブ月の事例で。 ２０２５年12月 Base ORD（シカゴ・オヘア空港） 続きをみる",
-        "title": "（その16後編）リザーブ＝待機要員：56歳のおじさんが転職→エアラインパイロットへ！",
-        "url": "https://note.com/airlinepilot_56/n/n084efc71c478"
-      },
-      {
-        "id": "bf80c767047babcf0322bafc2b35d0419ad691af",
-        "published": "2026-06-26T17:09:58+00:00",
-        "source": "note",
-        "summary": "先日一次面接があった 私にとって3か月ぶりの面接。ここまでくるのに長かった。 続きをみる",
-        "title": "ダラダラ近況",
-        "url": "https://note.com/happy_willet625/n/n076512a37e61"
-      },
-      {
-        "id": "71eb6953df0c658276f217a45a716cab3363435d",
-        "published": "2026-06-26T17:07:58+00:00",
-        "source": "note",
-        "summary": "続きをみる",
-        "title": "【企業徹底分析】サンリオ",
-        "url": "https://note.com/zegahidemo/n/n37155fe5d861"
-      },
-      {
-        "id": "a83fd218f8d5550e4557a2383a12d28d7e67d858",
-        "published": "2026-06-26T17:02:28+00:00",
-        "source": "note",
-        "summary": "初めまして。簡単に自己紹介です。 釣り好き営業マンです。僕は高校卒業後工場で働き、その後営業会社に転職。 物事は考え方と捉え方です。 インターネットの普及により検索すればなんでも知ることができます。反面、誤解や間違いも多く知ることができます。 大切なのは実体験だとすごく感じます。 読んで頂ける皆さんに何かお届けできればなと思い始めました。営業の話、大好きな釣りの話、ノウハウをお届けしていきます。 続きをみる",
-        "title": "『コツコツが勝つコツ』",
-        "url": "https://note.com/modern_gnu4374/n/n7c8718abee1a"
-      },
-      {
-        "id": "dda9db7e2f589488756f8d925e6a6322f2a1a534",
-        "published": "2026-06-26T17:00:21+00:00",
-        "source": "note",
-        "summary": "「30代で年収1000万を超えて、都内に家も買って。国公立や上位私大卒の平均を上回ったんじゃないか？」 誰かに言われたわけじゃない。でも気づいたら、自分でそう思い込もうとしていた。特に資格も大学での研究成果もない、ましてや卒論すらなかった私文卒の私はコンプレックスを抱えていたことを否定できない。 続きをみる",
-        "title": "転職で年収は増えた。でも安心は買えなかった。",
-        "url": "https://note.com/tei_boh/n/na19a4520a6ec"
-      },
-      {
-        "id": "93645ae679f848d5b9f558f1aa25a95d59363cb2",
-        "published": "2026-06-26T16:40:18+00:00",
-        "source": "note",
-        "summary": "わたしは今まで就職をしたことがありません。 なぜなら魂が嫌がっていたから。就職した方がいいことは100も承知の上で、尚且つ誰よりも早く就活も始めた上でこの選択です！🫨 胸の辺りが気持ち悪くなる。お腹が痛くなる。自分の内側が崩れそうになる感覚を誤魔化せない勢いで感じたから🌱 ありえない？おかしい？普通は我慢するんだよ？みんな頑張ってるよ？色んなことを言われたし、正直22歳の自分には受け止められないくらい辛かった😭やっぱりみんなと同じようにできない自分はおかしいんだ、生きてる意味なんてない。悲しい。苦しい。ここまで育ててもらったのに申し訳ない。と自分を責めま…",
-        "title": "違和感にどう向き合うか🌵",
-        "url": "https://note.com/southerncross88_/n/n60d94806f25a"
-      },
-      {
-        "id": "5da3a6f274df7da798b6476f353f12260a21fd11",
-        "published": "2026-06-26T16:40:09+00:00",
-        "source": "note",
-        "summary": "雨模様な天気が多い6月末。 先日、第一志望の会社の内定者懇談会を終えました。 他企業からいただいた内定はすべて辞退し、 私の就活はここで【完全終了】となりました。 よくネットや先輩たちが 「就活は場数と慣れだよ」 と言いますよね。 続きをみる",
-        "title": "就活は場数と慣れ。だから私は生成AIを「もう一人の私」に育ててESと面接を対策した。",
-        "url": "https://note.com/midnight_page/n/nee314628ae5e"
-      },
-      {
-        "id": "be9bee27db28e46f548df02cbb5eb208d66dc064",
-        "published": "2026-06-26T16:21:56+00:00",
-        "source": "note",
-        "summary": "◆はじめに――「最初の数秒で決まる」って、本当? 正直に白状すると、私は初対面が苦手だ。緊張で表情が固まり、別れたあとで「感じ悪いと思われたかな」と一人反省会をする。そして決まって、あの言葉が頭をよぎる――「第一印象は、最初の数秒で決まる」。 続きをみる",
-        "title": "第一印象は0.1秒で決まる――でも「もう手遅れ」は半分ウソだった",
-        "url": "https://note.com/minnanonote/n/n16df846cb7b2"
-      },
-      {
-        "id": "6dbd070da1c25e04b802ea8ae47aba492ca9c06b",
-        "published": "2026-06-26T15:21:00+00:00",
-        "source": "note",
-        "summary": "突然だが、私の身体は男性の身体である。 ただし髪が長く、胸部の中ほどにまで差し掛かっている。 また、私は就活生である。 現在の六月ぐらいまでは長髪のまま会社の面接官たちと熾烈な戦いを繰り広げてきたが、最近になって、 「もしかして就活生は髪を切るべきなのではないか？」と思い始めた。 一思いにバッサリ切ってしまおうかと少し考えたが、どうも長い髪を失うことに対しての拒絶反応が大きいようである。 そこで今回、この髪が自分にとってどんなものであるかを整理してみた。 先に結論を述べておこう、 私の長い髪は、私を「人間」にしてくれる ものである。 *** 続きをみる",
-        "title": "髪の話",
-        "url": "https://note.com/vivid_dove1897/n/nff57e3fefce5"
       },
       {
         "id": "537b08c84e1a576bcc80f63b229368a42ccb8657",
@@ -388,12 +380,108 @@
     ],
     "tech_global": [
       {
+        "id": "ddfe95b35cd32a6b08b3401a9a1acbdbe6f75f9d",
+        "published": "2026-06-26T21:25:22+00:00",
+        "source": "The Verge",
+        "summary": "Prime Day has a funny way of convincing you to buy things you werent shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later youve also added a gadget that can press your coffee makers powe…",
+        "title": "Our favorite Prime Day gadgets under $100 you dont need but will really want",
+        "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale"
+      },
+      {
+        "id": "e7426b2ad5260398a9b8a97218887e07320c1bd8",
+        "published": "2026-06-26T21:19:20+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook Comments URL: https://news.ycombinator.com/item?id=48692098 P…",
+        "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
+        "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook"
+      },
+      {
+        "id": "c3ac543f2be205ca93dd01a4ccfc351e03b06af5",
+        "published": "2026-06-26T21:18:28+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/Tessil/hopscotch-map Comments URL: https://news.ycombinator.com/item?id=48692090 Points: 14 # Comments: 0",
+        "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+        "url": "https://github.com/Tessil/hopscotch-map"
+      },
+      {
+        "id": "7bd447334a412b558979bc8a117028525a2b5d4f",
+        "published": "2026-06-26T21:14:47+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://blog.doubleword.ai/frontier-os-llm Comments URL: https://news.ycombinator.com/item?id=48692058 Points: 16 # Comments: 8",
+        "title": "The gap between open weights LLMs and closed source LLMs",
+        "url": "https://blog.doubleword.ai/frontier-os-llm"
+      },
+      {
+        "id": "c9ab95f688dae2f54f98945e41c969e57a71b3f5",
+        "published": "2026-06-26T21:00:50+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://hightouch.com/careers#open-positions Comments URL: https://news.ycombinator.com/item?id=48691893 Points: 0 # Comments: 0",
+        "title": "Hightouch (YC S19) Is Hiring",
+        "url": "https://hightouch.com/careers#open-positions"
+      },
+      {
+        "id": "8036c0d1d2eb3c1fb7e833543e70e021ba5df83e",
+        "published": "2026-06-26T20:58:02+00:00",
+        "source": "Ars Technica",
+        "summary": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+        "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+        "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/"
+      },
+      {
+        "id": "5b384779df8c9adcae97a618976432571c708ebe",
+        "published": "2026-06-26T20:38:57+00:00",
+        "source": "The Verge",
+        "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retaile…",
+        "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+        "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"
+      },
+      {
+        "id": "e1c20c6cab5da82c44bab0b516ecddea22124df2",
+        "published": "2026-06-26T20:07:18+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013 Comments URL: https://news.ycombinator.com/item?id=48691346 Points: 30 # Comments: 8",
+        "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
+        "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013"
+      },
+      {
+        "id": "dbb1519b5a71b98662454e7fcecdc5208e6d5858",
+        "published": "2026-06-26T20:04:55+00:00",
+        "source": "Ars Technica",
+        "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+        "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
+      },
+      {
+        "id": "a1faae83120b0423aca2a08b574405def5ec2e19",
+        "published": "2026-06-26T19:42:52+00:00",
+        "source": "The Verge",
+        "summary": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly b…",
+        "title": "These are the best deals you can still get on MacBooks before Apples price hike kicks in",
+        "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes"
+      },
+      {
         "id": "2f54c69b9312cc090a84238cc77d136880f26745",
         "published": "2026-06-26T19:13:40+00:00",
         "source": "TechCrunch",
         "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor.",
         "title": "Novak Djokovic has a new job — advisor to private equity firm General Atlantic",
         "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
+      },
+      {
+        "id": "98288fc9521aa5ec16c1a8e15e2c96e816d8431a",
+        "published": "2026-06-26T19:12:20+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.bbc.com/news/articles/c74yn7v7k4qo Comments URL: https://news.ycombinator.com/item?id=48690709 Points: 17 # Comments: 4",
+        "title": "Long Wave radio era set to end with Droitwich switch-off",
+        "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo"
+      },
+      {
+        "id": "360f0922e4a42e3f56307ac057614e525c8fce7c",
+        "published": "2026-06-26T18:51:04+00:00",
+        "source": "Ars Technica",
+        "summary": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
+        "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+        "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/"
       },
       {
         "id": "25f987ae95b2b1dba86a7c2e260b6bd6b84056d9",
@@ -404,6 +492,14 @@
         "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale"
       },
       {
+        "id": "fc5a2cc09550de00ff7b789f8fd9bad5bb694f33",
+        "published": "2026-06-26T18:32:22+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://gossamer-lang.org/ Comments URL: https://news.ycombinator.com/item?id=48690231 Points: 48 # Comments: 39",
+        "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+        "url": "https://gossamer-lang.org/"
+      },
+      {
         "id": "7d08c86e2e27e5a7512f6f44db56f792e3f9a162",
         "published": "2026-06-26T18:32:14+00:00",
         "source": "TechCrunch",
@@ -412,12 +508,28 @@
         "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
       },
       {
+        "id": "e4cce941336e2dad149d668f9c9dfcc36072b152",
+        "published": "2026-06-26T18:30:11+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/skx/slisp Comments URL: https://news.ycombinator.com/item?id=48690200 Points: 43 # Comments: 1",
+        "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
+        "url": "https://github.com/skx/slisp"
+      },
+      {
         "id": "e23e7cfed67a044d38214b674a51b7cfb51fdb61",
         "published": "2026-06-26T18:23:14+00:00",
         "source": "Hacker News (front page)",
-        "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 129 # Comments: 369",
+        "summary": "https://archive.ph/PCQQl Comments URL: https://news.ycombinator.com/item?id=48690101 Points: 569 # Comments: 717",
         "title": "U.S. government will decide who gets to use GPT-5.6",
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/"
+      },
+      {
+        "id": "f71984f77adbc7b7f3fba1834adc416edd76a03e",
+        "published": "2026-06-26T18:19:58+00:00",
+        "source": "Ars Technica",
+        "summary": "Update began June 15 and will no longer allow you to share your login info.",
+        "title": "Netflix now requires every user profile to be tied to unique email address",
+        "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/"
       },
       {
         "id": "ad7d1a547c13058356314bf0f9b1a56e7ff08b64",
@@ -426,6 +538,14 @@
         "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
         "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
         "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/"
+      },
+      {
+        "id": "5cf52757a5e81ea4765c474555641c0590372f4b",
+        "published": "2026-06-26T18:04:05+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/ Comments URL: https://news.ycombinator.com/item?id=48689859 Points: 20 # Comments: 1",
+        "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
+        "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/"
       },
       {
         "id": "570c7d933c693858f9dc4986384fe7c11a1693c3",
@@ -463,41 +583,9 @@
         "id": "29c0889e752737d8d87e61869555a420bd8085eb",
         "published": "2026-06-26T17:29:29+00:00",
         "source": "TechCrunch",
-        "summary": "The hack on car giant Jaguar Land Rover last year was one the most disrupting, damaging, and costly hacks of the last few years.",
-        "title": "Russian hackers were behind $2.5 billion hack of Jaguar Land Rover: Report",
+        "summary": "The hack on car giant Jaguar Land Rover last year was one of the most disrupting, damaging, and costly hacks of the last few years.",
+        "title": "Russian hackers were behind $2.5B hack of Jaguar Land Rover: Report",
         "url": "https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/"
-      },
-      {
-        "id": "272397951d210bf25de847a419d906bae143ffd7",
-        "published": "2026-06-26T17:24:25+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me Comments URL: https://news.ycombinator.com/item?id=48689277 Points: 14 # Comments: 4",
-        "title": "What Is a Nomogram and Why Would It Interest Me?",
-        "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me"
-      },
-      {
-        "id": "5b384779df8c9adcae97a618976432571c708ebe",
-        "published": "2026-06-26T17:15:27+00:00",
-        "source": "The Verge",
-        "summary": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retaile…",
-        "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
-        "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four"
-      },
-      {
-        "id": "0077efc5b4db8ed1396ce426337102760a156f5d",
-        "published": "2026-06-26T17:06:55+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "System card: https://deploymentsafety.openai.com/gpt-5-6-preview Comments URL: https://news.ycombinator.com/item?id=48689028 Points: 403 # Comments: 248",
-        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
-      },
-      {
-        "id": "615d03de7f4c82227e01197a095dfc9ab251110d",
-        "published": "2026-06-26T17:00:43+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead Comments URL: https://news.ycombinator.com/item?id=48688961 Points: 0 # Comments: 0",
-        "title": "Liva AI (YC S25) Is Hiring",
-        "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead"
       },
       {
         "id": "6f9ce57996978d715e7c2f5bb53eb5e059f5d3ca",
@@ -514,14 +602,6 @@
         "summary": "Assa Abloy has laid off the majority of staff at Level Home, the smart lock company known for building smart tech into traditional-looking deadbolts, and is folding the business into Kwikset, according to a source familiar with the decision. The Verge obtained exclusive details f…",
         "title": "Smart lock maker Level has been gutted and its founders are out",
         "url": "https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart-lock-cloud"
-      },
-      {
-        "id": "14667f465e7535d78d370edb061207e04604774c",
-        "published": "2026-06-26T16:40:11+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: https://www.youtube.com/watch?v=isKhAyivtfM . At Weave, we write most of our…",
-        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-        "url": "https://github.com/workweave/router"
       },
       {
         "id": "e783b97ae7a7ef7eb09a9ff4b65efc6d89a9f1f3",
@@ -572,44 +652,12 @@
         "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026"
       },
       {
-        "id": "8428562275791f396e66ae262d7503e3932d9ddf",
-        "published": "2026-06-26T15:53:08+00:00",
-        "source": "The Verge",
-        "summary": "If you’ve been curious about the emerging world of smart glasses, Prime Day is your chance to try some of the best models with a rare discount from Best Buy or directly from Xreal. The high-end Xreal One Pro is $549, $50 lower than the usual price, and the more entry-level Xreal…",
-        "title": "Xreal’s best USB-C smart glasses are $50 off, but not for long",
-        "url": "https://www.theverge.com/gadgets/952261/xreal-one-pro-1s-smart-glasses-deal-sale"
-      },
-      {
-        "id": "ec54ddae3b58fa7a862a0f45f11605b8ed4b2fc9",
-        "published": "2026-06-26T15:51:19+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html Comments URL: https://news.ycombinator.com/item?id=48688081 Points: 15 # Comments: 2",
-        "title": "What is a Lithium-ion capacitor?",
-        "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html"
-      },
-      {
         "id": "48d9fb16aa2008f004abe81be00f850ead5b5e91",
         "published": "2026-06-26T15:46:05+00:00",
         "source": "TechCrunch",
         "summary": "Peter Diamandis is the latest tech executive to argue that global surveillance will make the world a better place, following Larry Ellison's comments in 2024.",
         "title": "Xprize founder says ‘humans behave better when they’re being watched’",
         "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/"
-      },
-      {
-        "id": "62ce42e63d2b12df710a1eeb4a452dd7c63b7bb2",
-        "published": "2026-06-26T15:40:58+00:00",
-        "source": "The Verge",
-        "summary": "Amazons Prime Day is now in its final day, but whether youre looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on sale for…",
-        "title": "Prime Day is almost over, but these are still the best Apple deals Ive seen",
-        "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026"
-      },
-      {
-        "id": "441254f49c3da1180607949b233d461b5a826ba2",
-        "published": "2026-06-26T15:24:40+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "We are all familiar with the Corgi event: https://x.com/mfts0/status/2070080422482977095 With the barrier to create new apps having dropped significantly thanks to LLMs, I am seeing more cases about copyright and unfair competition. I've seen and participated in some of these cas…",
-        "title": "Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
-        "url": "https://news.ycombinator.com/item?id=48687769"
       },
       {
         "id": "842549d549f3bba6bc7274dcb59ead67b124e744",
@@ -620,28 +668,12 @@
         "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/"
       },
       {
-        "id": "ba1d8dcc02d0a71540be0d894ae64bec48cfc11f",
-        "published": "2026-06-26T14:46:00+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://commerce.jolla.com/products/jolla-phone-october-2026 Comments URL: https://news.ycombinator.com/item?id=48687272 Points: 217 # Comments: 123",
-        "title": "Jolla Phone (October 2026)",
-        "url": "https://commerce.jolla.com/products/jolla-phone-october-2026"
-      },
-      {
         "id": "f5482297484aec118c83c46be5f2705bd27ae985",
         "published": "2026-06-26T14:41:18+00:00",
         "source": "Ars Technica",
         "summary": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
         "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
         "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/"
-      },
-      {
-        "id": "f605e44b5c1faf4c335f30cfba5697819db364c9",
-        "published": "2026-06-26T14:10:26+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted Comments URL: https://news.ycombinator.com/item?id=48686834 Points: 283 # Comments: 134",
-        "title": "Springer Nature has removed two studies by Max Planck",
-        "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted"
       },
       {
         "id": "4d1d66bc7f2a438dbf08d5de1e62547f7237e8c3",
@@ -660,55 +692,31 @@
         "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/"
       },
       {
-        "id": "eb61dc3ec6687fc4968216f71478adb6a0be117b",
-        "published": "2026-06-26T12:58:07+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html Comments URL: https://news.ycombinator.com/item?id=48686093 Points: 432 # Comments: 76",
-        "title": "Incident CVE-2026-LGTM",
-        "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"
-      },
-      {
         "id": "b583bcab9b314e57d642ee61c66362d3cd7cd15b",
         "published": "2026-06-26T11:00:59+00:00",
         "source": "Ars Technica",
         "summary": "Is SpaceX planning to end its Transporter program?",
         "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
         "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/"
-      },
-      {
-        "id": "84cdef0244b33306b74c30e5200ce99d6e6a4004",
-        "published": "2026-06-25T20:24:09+00:00",
-        "source": "Ars Technica",
-        "summary": "About a quarter of PCs are still running Microsoft's previous operating system.",
-        "title": "Microsoft adds another year to Windows 10 extended update program",
-        "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
-      },
-      {
-        "id": "140e97e3abf68e9ef15607e6e4001e28f6bfac0b",
-        "published": "2026-06-25T20:01:08+00:00",
-        "source": "Ars Technica",
-        "summary": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-        "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-        "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
-      },
-      {
-        "id": "50f0e85aebb51b7abf6be8ecdeff467b7c20564f",
-        "published": "2026-06-25T19:04:57+00:00",
-        "source": "Ars Technica",
-        "summary": "Notion is \"going all in on using agents to run your inbox.\"",
-        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
-      },
-      {
-        "id": "d97bb1c9a3e69bff16b8c5868b1904c261d90585",
-        "published": "2026-06-25T18:38:51+00:00",
-        "source": "Ars Technica",
-        "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-        "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
       }
     ],
     "tech_japan": [
+      {
+        "id": "a4e9df1188e0f0579d15f680b6aaf3ef26eaba3c",
+        "published": "2026-06-26T21:17:00+00:00",
+        "source": "PC Watch",
+        "summary": "昭和世代の筆者は……というと主語が大き過ぎるかもしれないが、正直なところ英語が苦手だ。学生時代ずっと英語の授業を受けてきたものの(学んでいたとは言いがたい)、読むほうはある程度こなせるが、聞くのと話すのは不得手。海外のYouTube動画を視聴する際は、必ず字幕をオンにしている。",
+        "title": "【今すぐ読みたい！人気記事】リアル「ほんやくコンニャク」だ！Googleライブ翻訳の爆速レスポンスに驚いた - PC Watch",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2120324.html"
+      },
+      {
+        "id": "be4d966cc11ecd60f932875f794aada3acb2cafa",
+        "published": "2026-06-26T21:11:00+00:00",
+        "source": "PC Watch",
+        "summary": "Appleのエントリーモデル「iPhone 17e」が3月11日より発売された。エントリー機ながらプロセッサには最新世代の「A19」を採用。メモリ価格が高騰する中、ストレージ容量256GBのモデルが9万9,800円に設定されており、iPhone 16eから最小のストレージ容量を倍増させつつ価格を据え置いた、実質的な値下げともいえる戦略的な価格設定である。",
+        "title": "【今すぐ読みたい！人気記事】10万円以下の「iPhone 17e」、15/16から乗り換えるべき理由と注意点 - PC Watch",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2120318.html"
+      },
       {
         "id": "d2cbf4f67b07cc844adb64134951b9cadd85278c",
         "published": "2026-06-26T15:00:00+00:00",
@@ -998,22 +1006,6 @@
         "url": "https://www.itmedia.co.jp/news/articles/2606/26/news086.html"
       },
       {
-        "id": "d83cb7c13b976b0a81c5f6ba4658c0d30bea6a38",
-        "published": "2026-06-26T03:23:42+00:00",
-        "source": "PC Watch",
-        "summary": "Dynabookは、6月26日が「ノートパソコンの日」として、日本記念日協会に認定されたことを発表した。",
-        "title": "6月26日は「ノートパソコンの日」。日本記念日協会が認定",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2120303.html"
-      },
-      {
-        "id": "0d640a610c1d4f03fd55e2a9623ee1204157921e",
-        "published": "2026-06-26T03:20:52+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、アイリスオーヤマの上腕式血圧計「BPU-101」が、直近価格の1,212円引きとなる2,808円で販売されている。",
-        "title": "【本日みつけたお買い得品】体調管理に最適な血圧計が約1,200円引きで販売中",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2120304.html"
-      },
-      {
         "id": "e115a2fea7647a5a7f8cbf6336428a4a4fd82612",
         "published": "2026-06-26T02:54:00+00:00",
         "source": "ITmedia NEWS",
@@ -1031,5 +1023,5 @@
       }
     ]
   },
-  "generated_at": "2026-06-26T19:24:43.186369+00:00"
+  "generated_at": "2026-06-26T21:58:46.774696+00:00"
 }
