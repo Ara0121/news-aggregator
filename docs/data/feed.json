@@ -2,100 +2,180 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "5bb9c74abf810675235a730f5c6d1dc60c14b634",
-        "published": "2026-07-12T07:51:59+00:00",
+        "id": "15a5c32d534bb26d393421eed85c8f03e4e89bbe",
+        "published": "2026-07-12T10:16:15+00:00",
+        "source": "note",
+        "summary": "日曜の夜。ふと、 「明日からまた仕事か」 続きをみる",
+        "title": "「石の上にも三年」新人時代に信じ込んでいた呪いの言葉",
+        "url": "https://note.com/gifted_eel622/n/n7557eee8f2e9"
+      },
+      {
+        "id": "9c441bd3c1f8bc40d111789b9f1f0ff2e1bfb6df",
+        "published": "2026-07-12T10:15:19+00:00",
+        "source": "note",
+        "summary": "広州に着くと、華北とはまったく違う空気感や街の雰囲気に驚いた。 まとわりつくような高温多湿の気候。上半身裸でこん棒やナイフをちらつかせながら歩き回る男たち。不安そうな表情でバス停にたたずむアフリカからの出稼ぎ労働者――。 天津や北京と同じ中国の都市とは思えない光景を目の当たりにし、私は完全に面食らってしまった。出発前に抱いていた期待は一気にしぼみ、不安がその大半を占めるようになった。 安いローカルのビジネスホテルにチェックインし、無料アメニティのインスタントコーヒーを飲みながら、広州に来たこともないのに、この街での新生活を夢見ていた自分の浅はかさを恥じた…",
+        "title": "第9話 広州での挫折",
+        "url": "https://note.com/taiwan_story/n/n002995c8b47f"
+      },
+      {
+        "id": "092ca041070619333921d77739654d3b244b1b16",
+        "published": "2026-07-12T10:15:07+00:00",
+        "source": "note",
+        "summary": "「逃げるな。」 人生で何回聞いただろう。 続きをみる",
+        "title": "「逃げるな。」って言う人、だいたい責任取ってくれない件",
+        "url": "https://note.com/jinseikonjo_8956/n/n006d9f8fbe69"
+      },
+      {
+        "id": "1b029d12f784716fbd9e71d6ec8fc8f637b6d52b",
+        "published": "2026-07-12T10:14:31+00:00",
+        "source": "note",
+        "summary": "大学生は遊ぶべき！とか色々あるけど 私はバイトしていて良かったと思う それは、就活においてバイト経験を語る瞬間があるから 続きをみる",
+        "title": "就活とバイト経験",
+        "url": "https://note.com/siro_np/n/n55fe9fee4bc1"
+      },
+      {
+        "id": "013358236928e8bc89b174e3f804d6c4fd28e4b8",
+        "published": "2026-07-12T10:13:05+00:00",
+        "source": "note",
+        "summary": "面接でお見送りになったあと、「指摘された点さえ直せば、次は受かるはずだ」と考える方は多いです。先に結論を言ってしまうと、それは違います。 お見送り理由をきれいに払拭しても、同じ会社にはもう受かりません。 別の切り口で話し直しても、回答を変えても、志望動機を作り込んでも、結果はほぼ同じです。今回はなぜそうなるのかを、採用する側・紹介する側の両方を見てきた立場から、はっきり書きます。 続きをみる",
+        "title": "お見送り理由を潰しても、その会社にはもう受かりません ── 不採用通知に書かれた「本当の意味」",
+        "url": "https://note.com/tenshokutakada/n/n18a9a0fb0cf8"
+      },
+      {
+        "id": "deb72ea284224b0331cf100cdc466f06774b2205",
+        "published": "2026-07-12T10:11:25+00:00",
+        "source": "note",
+        "summary": "就活、転職活動、サラリーマン昇進の舞台裏 就活、転職活動中のみなさんへ 「元取締役が語る人事の裏側を毎日発信しています」 37年間、激動のビジネス社会でひたすら働き、多くの人のキャリアに関わってきて、確信していることがあります。 世間にはたくさんの成功法則やノウハウが溢れていますが、 「正解の働き方は1つではない」 ということです。 続きをみる",
+        "title": "【人事の裏側 No.42】37年間で確信。就活・転職・昇進で情報に振り回されないための「最適解」の捉え方",
+        "url": "https://note.com/shiny_crocus5202/n/nedc309723998"
+      },
+      {
+        "id": "ba424e73f2476b19821084569bdece76565ff418",
+        "published": "2026-07-12T10:09:43+00:00",
+        "source": "note",
+        "summary": "「とりあえず始めよう」が一番危ない コンサル会社に入る前の私は、「まず動くこと」が正義だと思っていました。 会議を開く。 タスクを書き出す。 資料を作る。 それ自体は間違いではありません。 でも、コンサルに入って最初に学んだことは、それよりももっと重要なことでした。 「構造化してから動け」 という考え方です。 ⸻ 構造化とは何か 構造化とは、物事を整理して全体像を見えるようにすることです。 例えば、「ECU仕様書を一元化したい」というテーマがあったとします。 いきなり仕様書を書き始めるのではなく、 * なぜ一元化するのか * 誰が困っているのか * どの…",
+        "title": "コンサル会社に入って一番最初に叩き込まれたこと。「構造化しない人」は仕事が終わらない。",
+        "url": "https://note.com/ogneker001/n/n8c4d2f5d3424"
+      },
+      {
+        "id": "c1d293fb59ed2eeb38ea079e0446393d5daf0aac",
+        "published": "2026-07-12T10:08:31+00:00",
+        "source": "note",
+        "summary": "会社員として働いていると、年収交渉は「特別な人だけがすること」だと思われがちだ。 続きをみる",
+        "title": "#20 SES・SIerとして働く中での年収交渉のリアル",
+        "url": "https://note.com/makino_aiwork/n/n45d5edc1c15f"
+      },
+      {
+        "id": "a1e8139408bc508985a271cc018cb7fd8280592b",
+        "published": "2026-07-12T10:07:44+00:00",
+        "source": "note",
+        "summary": "目の前にいるその人。 あなたは、敵だと思っていますか？ それとも、味方だと思っていますか？ 続きをみる",
+        "title": "目の前の人は、敵ですか？味方ですか？｜あと262日",
+        "url": "https://note.com/legal_boar6232/n/n9356e621c2d8"
+      },
+      {
+        "id": "8138cbfe3ddb807b53a163790e7e43861a00959c",
+        "published": "2026-07-12T10:05:53+00:00",
+        "source": "note",
+        "summary": "こんにちは、解析現場猫です。 私は石油プラントや化学工場、データセンターなどいろいろと転職しながら設備関連の仕事をしてきた技術者です。趣味で株式投資もやってますので経済や歴史、投資や技術等の知識を得ることも好きです。そこで得た知識やノウハウ・実体験を皆さんにお届けしようかと思ってます。 今日は、日本の金融業界において強大なプレゼンスを誇る「損害保険業界」、特に市場を寡占するメガ損保3社（東京海上日動、MS&AD、SOMPO）について深掘りしていく。日本の損害保険市場は、かつて10数社あった大手損保が長年の合併を重ねた結果、現在ではこの3グループへと集約さ…",
+        "title": "【業界分析・転職・投資】メガ損保3社（東京海上・MS&AD・SOMPO）の真の姿とは？",
+        "url": "https://note.com/keisoumainte/n/n3320202e1dc3"
+      },
+      {
+        "id": "2f298a5b3b59c6c1cba6e0379947fa0fc5212414",
+        "published": "2026-07-12T10:00:58+00:00",
+        "source": "note",
+        "summary": "「自分に向いている仕事がわからない」 「転職を繰り返しているのに、年収が上がらない」 続きをみる",
+        "title": "【これだけやればOK】ADHDの年収別・転職と副業の生存戦略｜100人以上のADHDと話してわかった「詰まない」キャリアの作り方",
+        "url": "https://note.com/piebi_adhdasd/n/na561fb763e31"
+      },
+      {
+        "id": "684230294b22d07ae7d809b12649d8544dd737d4",
+        "published": "2026-07-12T10:00:29+00:00",
+        "source": "note",
+        "summary": "質問箱で、 「宅建資格を持っている人におすすめの在宅ワークはありますか？」 という質問をいただきました。 私は、宅建を取得するまで不動産業界知らなかったんです。在宅ワークの経験はありません。 「シングルマザーになって、自分が稼がなきゃ」 そう思って、不動産仲介会社へ正社員として入社しました。 今回は、私が調べたことと、実際に働いて感じていることを書いてみます。 ※求人内容や報酬は私が記事執筆時に調べたものです。募集状況は時期によって変わるため、応募前に最新情報をご確認ください。 続きをみる",
+        "title": "宅建資格でできる在宅ワーク5選 【現役宅建事務のわたしが答えます！】",
+        "url": "https://note.com/loyal_violet6423/n/n0a388c4b4431"
+      },
+      {
+        "id": "7073dcaeee434847a22d254c4218689382d9cb21",
+        "published": "2026-07-12T09:52:40+00:00",
+        "source": "note",
+        "summary": "「グランドスタッフの面接では、 実際にどんな質問をされるの？✈️」 就職活動中、 私も同じように気になっていました。 今回は、私が日系グランドスタッフの選考で数年前に 実際に聞かれた質問を、二次・三次・最終選考ごとにまとめてご紹介 します。 会社によって異なる可能性がありますが、 参考になれば嬉しいです！ 【二次選考】 * 志望動機 * 自己PR *入社したら５年後どうなってると思う？ * DAIGOさん風に、自分のキャッチフレーズを アルファベットで表現して * 無人島に1つだけ持っていくなら？ * ANAで国内旅行に行くならどこ？ * 選考状況 ここ…",
+        "title": "✈️#19 【実録】日系グランドスタッフ面接で実際に聞かれた質問15選｜変化球質問も全部公開！⚾️",
+        "url": "https://note.com/dandy_willet5429/n/nc3239150306c"
+      },
+      {
+        "id": "4fd788df1bd1c8ffe47cd6f8ee4ee9a60add5a0d",
+        "published": "2026-07-12T09:42:48+00:00",
+        "source": "note",
+        "summary": "就職が決まりました この年での就活なので 年の数ほど受けなきゃいけないと聞いていましたが 一社目でした 私の希望といえば 長く働ける事 定年が60歳となると目と鼻の先なので 出来れば65歳 さらに延長で70歳まで働ければ言うことはない それも正社員で働けたならと考えていました 近頃は年金も当てにならないし うちは母子家庭なので子どもに迷惑をかけたくないのです そんな思い通りの所ある訳ないか と諦め気味の時に紹介して頂き 面接の時に履歴書を持ってきて欲しいと連絡を受け 面接先の希望日がたまたま半日学校のお休みだった事も 本当に偶然でラッキーでした 来週末で…",
+        "title": "感謝しかない",
+        "url": "https://note.com/glad_wren4605/n/n0c2e18033b25"
+      },
+      {
+        "id": "2c790a796ddaad920457d9a0e23a0c86d9e493fc",
+        "published": "2026-07-12T09:30:00+00:00",
+        "source": "note",
+        "summary": "※この記事はPRを含みます。紹介サービスへの登録・相談は無料です。 「SESで経験は積んできたけど、年収がなかなか上がらない」 続きをみる",
+        "title": "SES・SIerエンジニアが年収を上げるには？TechGo相談前に整理したい転職ルート【2026年版】",
+        "url": "https://note.com/worker6789/n/nbc6ae19db591"
+      },
+      {
+        "id": "68cfb872f4ab2fbf7faac4a113b7dae3a11a23ea",
+        "published": "2026-07-12T09:19:08+00:00",
+        "source": "note",
+        "summary": "ミスしたとか、実力不足みたいなことやったら山ほどあるけど、挫折した経験ってそんなにみんなあるもんなん？ 例えば、部活の最後の大会で目標達成できなかったことは挫折とはちょっとちゃうし、皿割ったとかレジ打ちミスったとかはもちろんずれてるし… 続きをみる",
+        "title": "挫折ってむずない？",
+        "url": "https://note.com/vivid_orchid6821/n/nf8dca0fd2ca2"
+      },
+      {
+        "id": "4c1489ea52b8e2595706f4dbbf509934207ef4ba",
+        "published": "2026-07-12T09:11:24+00:00",
+        "source": "note",
+        "summary": "留学が始まって早1か月余りが過ぎました。仕事の方は相変わらず慣れないことだらけですが、家庭生活の方は少し落ち着いてきました。 今回は、僕がどのように海外留学先を見つけたのか、について書こうと思います。これから留学を考えている医師の方や、「医師はどうやって海外留学先を見つけているのだろう？」と疑問に思っている方の参考になれば嬉しいです。 僕は日本では大阪の大学医局に所属していましたし、今も籍は残しています。ただ、運良く留学先とのコネがある医局もある一方で、僕の場合は「頑張って自分で見つけてね」というスタンスでした。そのため、病院勤務をしながら海外への就職活…",
+        "title": "給与付きポスドクを獲得するまで。医師の海外就活",
+        "url": "https://note.com/masafukuda/n/nde407fa2dba6"
+      },
+      {
+        "id": "13896905e77a93857f6ba53d4a93a08531106694",
+        "published": "2026-07-12T09:06:39+00:00",
         "source": "note",
         "summary": "続きをみる",
-        "title": "実は営業もマーケティングの一部。抽象度を上げてキャリアを広げる「営業からマーケター」への転職・選考対策ガイド",
-        "url": "https://note.com/unicus_numabe/n/n28feff427f44"
+        "title": "#030 AIが書き換える社会構造と新卒への影響",
+        "url": "https://note.com/gifted_laelia404/n/naf1abaaca722"
       },
       {
-        "id": "bebe3a6e106d769ad80c41e470aed93e68511be6",
-        "published": "2026-07-12T07:51:57+00:00",
+        "id": "264aa5b8bf882d8db318e6d35977b0064aff0b6e",
+        "published": "2026-07-12T08:59:32+00:00",
         "source": "note",
-        "summary": "#中外製薬 #ChugaiPharmaceutical #就活 #新卒採用 #就職活動 #製薬業界 #ES #面接対策 #志望動機 #企業分析 続きをみる",
-        "title": "【中外製薬】 新卒就活 完全攻略ガイド｜企業分析 ES 面接 志望動機 製薬業界 PDF Chugai Pharmaceutical",
-        "url": "https://note.com/clean_auk3643/n/na53175557bad"
+        "summary": "就職活動で自己PRを書こうとしても、ありきたりな言葉しか出てこない。 自分の商品やサービスを発信しているけれど、他の人との違いをうまく説明できない。 続きをみる",
+        "title": "「自分には強みがない」と感じる人へ｜自分を盛らずに価値を伝えるブランディング",
+        "url": "https://note.com/silentgarden8/n/n0f9b49f02dd3"
       },
       {
-        "id": "f7016a582e6e4bdeaa45aa453cb2259d8b8e21f7",
-        "published": "2026-07-12T07:48:44+00:00",
+        "id": "2b6c647ad8e056c579d517b614e3e42cd6dae35f",
+        "published": "2026-07-12T08:41:32+00:00",
         "source": "note",
-        "summary": "別の会社に転職した私は、今までとはまったく違う世界に飛び込みました。 広い店内。 高級感のある空間。 経験豊富な先輩方。 店長経験者も多く、毎日が緊張の連続でした。 「自分は、この環境でやっていけるのだろうか。」 そんな不安を抱えながらのスタートでした。 入社して間もなく、大阪から京都店のオープニングスタッフとして異動することになりました。 京都店がオープンして約3か月。 私は店長にお願いをして、VMD（売場づくり）を担当させてもらうことになりました。 その店長は、とても厳しい方でした。 毎日レイアウトを変えること。 変更したら必ず報告すること。 そして…",
-        "title": "第六章｜本物を知る人に出会った。",
-        "url": "https://note.com/joyous_fairy5955/n/n57e81d3eeccf"
+        "summary": "ヒーロープロデュースさんのYouTubeに出演させていただきました🎙️✨ 声・話し方、自己PR、そして「自分の言葉で本音を伝えること」についてお話ししています。 転職活動中の方や、「自分の伝え方」に悩んでいる方に届いたら嬉しいです😌 ぜひご覧ください！ ▼本編はこちら https://www.youtube.com/watch?v=ygQwhY2JGMc #就活 #転職 #採用 #声 #話し方 #プレゼン 続きをみる",
+        "title": "採用される人は“本音“で話す",
+        "url": "https://note.com/joyful_robin113/n/nfd66ed1485eb"
       },
       {
-        "id": "c02a66076fb8c0916d1bbd61550fd3f3826f6294",
-        "published": "2026-07-12T07:46:53+00:00",
+        "id": "d7367af9940887423ff6bad40786a48ff23416f4",
+        "published": "2026-07-12T08:40:47+00:00",
         "source": "note",
-        "summary": "導入 転職活動をしていると、志望動機で手が止まることってありませんか。 続きをみる",
-        "title": "ChatGPTで志望動機を作る方法｜丸投げせず、自分の言葉に整える使い方",
-        "url": "https://note.com/mochi_career_ai/n/n4b6e41ac8085"
+        "summary": "どうも、外資系うさぎのちょこさんです。 今日は、ちょこさんのお仕事観のなかでも結構大事な 「自分はどこで戦うのが一番効率よく成果を出し続けられるか」を考えるうえで、役立つ補助線のひき方 をひとつお伝えしていこうとふと思いました。 続きをみる",
+        "title": "＜第91回＞自分が得意なビジネスのフェーズ、知ってる？って話",
+        "url": "https://note.com/choconejito/n/n1607acf01d4f"
       },
       {
-        "id": "d148efbe774942638c7eef4949cbe6ebf43bdfee",
-        "published": "2026-07-12T07:43:27+00:00",
+        "id": "16912ff60ba7efc84ce71c4410e9973fdde8dcd3",
+        "published": "2026-07-12T08:18:10+00:00",
         "source": "note",
-        "summary": "3年前の7月1日。 新卒で入庁した会社で限界を感じ休み始めた日。 続きをみる",
-        "title": "初めての休職から3年経ちました。",
-        "url": "https://note.com/u_312/n/nfb9e852ec77b"
-      },
-      {
-        "id": "1221559e2d2ec236df7d3006d0280f9ff554e553",
-        "published": "2026-07-12T07:39:49+00:00",
-        "source": "note",
-        "summary": "こんにちは、やまです。 今日いただいた質問は、こんな内容です。 続きをみる",
-        "title": "【転職相談室】看護師9年目で4社目。転職回数が多いのは、本当に不利ですか？",
-        "url": "https://note.com/iryo_career/n/nea267c0e3e59"
-      },
-      {
-        "id": "10ec7e87e3e23ccecdf7b975b4c9affffc1b96c8",
-        "published": "2026-07-12T07:37:50+00:00",
-        "source": "note",
-        "summary": "起業の話に入る前に、転職先での話をもう少し。 当時は、外資系コンサル会社からの転職が珍しく、周囲からは「すごい人が来た」と見られていたと思います。 続きをみる",
-        "title": "起業の前に、僕はまた自信を失っていた",
-        "url": "https://note.com/buu_buu_2020/n/n6ff4c201f6a4"
-      },
-      {
-        "id": "8ad773815ff28f3386878717a06cd682d9d39abc",
-        "published": "2026-07-12T07:37:32+00:00",
-        "source": "note",
-        "summary": "転勤族はしんどい。それは間違いない。 でも今振り返ると、転勤族だったからこそ得られたものが、確かにある。苦労話ばかり書いてきたから、今回は良かったことだけを正直に書く。 続きをみる",
-        "title": "転勤族で良かったこと。苦労だけじゃなかった話。",
-        "url": "https://note.com/hekopapa/n/n9b44119b770a"
-      },
-      {
-        "id": "7b68985156af27b7ac4d4baf69dff1009a9f6251",
-        "published": "2026-07-12T07:36:01+00:00",
-        "source": "note",
-        "summary": "朝、目覚まし時計が鳴る瞬間から胃が重くなる。そんな毎日が半年以上続いていた。 上司の顔を思い浮かべるだけで、喉の奥がきゅっと締まる感覚があった。辞めたい。でも言えない。 続きをみる",
-        "title": "辞めたいのに言えない。その気持ち、間違ってますか",
-        "url": "https://note.com/happy_holly1127/n/n402d2278b47a"
-      },
-      {
-        "id": "b1096fc38a25178819b256cd84ca5af21f54cb48",
-        "published": "2026-07-12T07:34:50+00:00",
-        "source": "note",
-        "summary": "どうも、こんにちは そのへんの高専生です 最終更新日：2026/1/9 続きをみる",
-        "title": "内定を断った ~理系大学院生M1の冬~",
-        "url": "https://note.com/kosen_student/n/n38af1eee128f"
-      },
-      {
-        "id": "68af36f897c6b6f3a849f6c46c23c88e39b4fa1e",
-        "published": "2026-07-12T07:33:54+00:00",
-        "source": "note",
-        "summary": "書類が通り、面接を乗り越え、ようやく内定——ここで終わりにしていませんか。実は、 年収がいちばん大きく動くのは、内定が出てから入社を承諾するまでの短い期間 です。 私が転職で年収を410万円から650万円に上げたとき、最後の数十万円を決めたのは、職務経歴書でも面接でもなく、 オファー面談での交渉 でした。逆に言えば、ここで何も言わなければ、提示された数字をそのまま受け入れて終わりだったということです。 続きをみる",
-        "title": "【年収交渉・オファー面談 完全マニュアル】言い出しにくい“お金の話”を、角を立てずに通す全技術（トーク例・メール文例・状況別戦術つき）",
-        "url": "https://note.com/aki_tenshoku/n/n229475718106"
-      },
-      {
-        "id": "578f1d0887f4fafdb0105251071bca1230bdd11b",
-        "published": "2026-07-12T07:32:23+00:00",
-        "source": "note",
-        "summary": "自分を自分で「扱える」ようにするための私のメモですが よろしければ、皆さんも 読むだけではなく 書いてみてください。 続きをみる",
-        "title": "自分自身をマネジメントせよ",
-        "url": "https://note.com/ktina/n/n709383b64493"
+        "summary": "先週からようやく卒業制作に着手しました。 卒業制作のアプリ開発に着手する前に、まずREADME（アプリの説明書）を書かなければいけません。 続きをみる",
+        "title": "【RUNTEQ24週間目】卒業制作の着手と、過去の自分との対峙（READMEが終わらない）",
+        "url": "https://note.com/huge_fennel3472/n/n7fe4a857cd1e"
       },
       {
         "id": "b086c3607e67c19fb42ccff64a0d848740ec82e6",
@@ -112,62 +192,6 @@
         "summary": "わたしはRUNTEQに1月24日に入学したので、卒業期限は10月23日です。 つまり、あと16週間。 残りカリキュラムは21個・157時間。 卒業制作はREADMEをようやく書き始めたところです。（講師レビューがなかなかパスできない、、） 思った以上に時間がかかり、カリキュラムが進められていない状況です。 続きをみる",
         "title": "【RUNTEQ23週間目】9月末卒業を目指して、スケジュールを組み直してみた",
         "url": "https://note.com/huge_fennel3472/n/nfadf39692a64"
-      },
-      {
-        "id": "022f41af0318132307bfec555c70a66a8a4ff88e",
-        "published": "2026-07-12T07:07:09+00:00",
-        "source": "note",
-        "summary": "パナソニックの本選考を控えて、こんな不安を感じていませんか。 「ESは通ったけれど、面接で何を聞かれるのか分からない」「ガクチカは準備したのに、なぜパナソニックなのかと聞かれると言葉に詰まってしまう」「事業会社がたくさんあって、どこを志望すればいいのか整理できていない」。パナソニックを志望する就活生の多くが、こうした不安を抱えています。 続きをみる",
-        "title": "【2027年卒向け】パナソニック 新卒面接対策｜想定質問100選・模範回答・解説PDF",
-        "url": "https://note.com/career_compass_s/n/nf090cb4292c3"
-      },
-      {
-        "id": "2334de797ca073bdaf39194e2a9c586609cd96aa",
-        "published": "2026-07-12T07:06:04+00:00",
-        "source": "note",
-        "summary": "「トヨタ自動車の本選考、ESは通ったけれど、面接で何を聞かれるのか想像がつかない」——そんな不安を抱えていませんか。 トヨタ自動車の選考は、面接で一つの回答に対して「なぜ？」「それはどうして？」と深く掘り下げられることで知られています。学生時代に力を入れたこと（ガクチカ）を話しても、その背景や動機、乗り越え方まで何度も問われ、準備が浅いと言葉に詰まってしまう。志望動機を語っても「なぜ自動車業界なのか」「その中でなぜトヨタなのか」と一段深い理由を求められる。そして最終面接では「もしあなたがトヨタで何でもできる立場なら、まず何をするか」といった、企業理解と発…",
-        "title": "【2027年卒向け】トヨタ自動車 新卒面接対策｜想定質問100選・模範回答・解説PDF",
-        "url": "https://note.com/career_compass_s/n/n80266d9a733a"
-      },
-      {
-        "id": "8ffcb8daa025b846b5483584f2b4ebdea823759c",
-        "published": "2026-07-12T07:04:58+00:00",
-        "source": "note",
-        "summary": "KDDIの本選考を控えて、「何を聞かれるんだろう」「ちゃんと答えられるだろうか」と不安を感じていませんか。 KDDIは通信業界の中でも特に人気が高く、本選考では多くの就活生がしっかり準備をして臨んできます。「志望動機を深掘りされたらどうしよう」「なぜ通信業界なのか、なぜKDDIなのかをうまく説明できない」「ガクチカは話せるけれど、KDDIとどう結びつければいいか分からない」——こうした悩みは、KDDIを志望する多くの就活生が抱えるものです。 続きをみる",
-        "title": "【2027年卒向け】KDDI 新卒面接対策｜想定質問100選・模範回答・解説PDF",
-        "url": "https://note.com/career_compass_s/n/n78fa003b0e77"
-      },
-      {
-        "id": "71165edf94cb5a83dac077e2009ef84e54a287d0",
-        "published": "2026-07-12T07:04:54+00:00",
-        "source": "note",
-        "summary": "＜さて、いきなり冒頭から断っておく、「オチ」ですが。これは、あえてのアンチテーゼ的なものであり、逆質問の場で評価を狙うことを否定するものではありません。「いや、そうではないだろう」「それはそうかもしれない」と思いながら読んでいただければ幸いです。＞ 面接の逆質問のパートにおいて、「特にありません」は本当にダメなのか？ 続きをみる",
-        "title": "逆質問は評価の場ではない、「特にありません」でも良いと思う｜いち人事の独り言",
-        "url": "https://note.com/hrmonologue_hiro/n/n99305bb05d94"
-      },
-      {
-        "id": "eb2086c4683550a689ab54c9b922cee77530fe8b",
-        "published": "2026-07-12T07:03:53+00:00",
-        "source": "note",
-        "summary": "KADOKAWAの本選考を控えて、「何を聞かれるんだろう」「好きな作品の話ってどう答えるのが正解なんだろう」と不安を感じていませんか。エンタメ業界の中でも人気の高いKADOKAWAは選考の通過率が決して高くなく、ESや面接で「なぜ他社ではなくKADOKAWAなのか」「好きをどれだけ言語化できるか」を深く問われます。準備なしで臨むと、せっかくの熱意があっても伝わりきらないまま終わってしまうこともあります。 面接は、もともとの能力よりも「何を準備してきたか」で差がつく場です。どんな質問が来るのかを事前に把握し、自分の言葉で答えを用意しておくだけで、本番での落…",
-        "title": "【2027年卒向け】KADOKAWA 新卒面接対策｜想定質問100選・模範回答・解説PDF",
-        "url": "https://note.com/career_compass_s/n/n730c0f1b27de"
-      },
-      {
-        "id": "6bfb12c64c56c6b60861a97543ef2d702df807a5",
-        "published": "2026-07-12T07:02:47+00:00",
-        "source": "note",
-        "summary": "みずほFGの本選考を控えて、「何を聞かれるんだろう」「志望動機をどう組み立てればいいんだろう」と不安を感じていませんか。 メガバンクの中でも特に「なぜ三菱UFJや三井住友ではなく、みずほなのか」を深く問われるのがみずほFGの選考の特徴です。銀行・信託・証券が一体となった「One MIZUHO」や、パーパス「ともに挑む。ともに実る。」への理解を、自分の言葉でどこまで語れるか。ここで多くの就活生が悩みます。 続きをみる",
-        "title": "【2027年卒向け】みずほFG 新卒面接対策｜想定質問100選・模範回答・解説PDF",
-        "url": "https://note.com/career_compass_s/n/ne5f090727f0a"
-      },
-      {
-        "id": "e8e2850f4cfc4f8be654f244c5c35e7591e0706d",
-        "published": "2026-07-12T06:55:15+00:00",
-        "source": "note",
-        "summary": "「ガクチカも自己PRも、頑張ったことを書けばいいんでしょ？」 そう思っていた学生が、ESの通過率が上がらないまま時間だけが過ぎていく。心当たりはないだろうか。 続きをみる",
-        "title": "ガクチカと自己PRの違いがわからない人へ。採用担当が教える「同じに見える」落とし穴と突破法【ES・面接対策】",
-        "url": "https://note.com/rambo1124/n/n283b21f534b8"
       },
       {
         "id": "6f1d86233876c4ade44b3e2f6a213496cc73ab76",
@@ -218,36 +242,12 @@
         "url": "https://note.com/belieftech_123/n/nfb31ec354752"
       },
       {
-        "id": "730e6a60e6b0bf26049bb4946ce0c2eed1156136",
-        "published": "2026-07-11T17:15:46+00:00",
-        "source": "note",
-        "summary": "ゲームのグラフィックをしっかりレビューしたはずなのに、開発終盤になってから不具合が表面化することがあります。 最適化フェーズに入った途端、特定のカメラ角度でモデルがちらつく。QAの終盤になって、長時間プレイした場合にだけテクスチャが荒れる。描画負荷を下げようとしたところ、描画処理やオブジェクトの重なりが複雑になりすぎていて、どこから修正すればよいのか判断できない。 続きをみる",
-        "title": "グラフィック不具合を終盤まで残さないために｜レビューで共有したいチェック観点",
-        "url": "https://note.com/itchie_tatsumi/n/ndaf720501c18"
-      },
-      {
         "id": "7605127c076172bc57eef3d8d7eba3df9eb4be49",
         "published": "2026-07-11T15:33:02+00:00",
         "source": "Qiita",
         "summary": "32歳になって、ふと自分が「何になりたかったか」を振り返る機会がありました。今エンジニアとして働いているわけですが、思い返すとその道のりは意外と一直線ではなかったなと。今回はその変遷と、今考えていることを整理してみようと思います。 古生物学者、パン屋、そして野球部 小...",
         "title": "「何になりたかったか」を振り返って、これからを考えてみた",
         "url": "https://qiita.com/yukisnow0704/items/04fef4c0e440d223c554"
-      },
-      {
-        "id": "4fb5c1c35fa0d4facd722917c1efb227dd5d54c8",
-        "published": "2026-07-11T14:51:45+00:00",
-        "source": "note",
-        "summary": "以前少しお話したかもしれませんが、今月は仕事を取らずに丸々休みにしました。おかげで時間の感覚が乏しくなり、こうして更新タイミングがバラバラになっています笑 申し訳ありません。 本日は案件を選ぶ基準についてお話します。 続きをみる",
-        "title": "【単価？スキル？環境？】SESフリーランスエンジニアが案件を選ぶ基準——単価より大事な3つのこと",
-        "url": "https://note.com/0kara_freelance/n/n29b6a3dcbad2"
-      },
-      {
-        "id": "2703960cb2f1b7c584f05255e8e254e1099f0f88",
-        "published": "2026-07-11T13:41:02+00:00",
-        "source": "note",
-        "summary": "はじめに 「SESはやめとけ」 続きをみる",
-        "title": "SESの怖い話10選｜友人やSNSで聞いた衝撃のエピソード",
-        "url": "https://note.com/midorigame_it/n/ncbc973665b23"
       },
       {
         "id": "f4054232efa93127e0bf9e7f61dcb59ab388f11c",
@@ -383,7 +383,7 @@
         "id": "4da51d31a85f94ebc1b7c860b6187492480fb4e1",
         "published": "2026-07-12T05:51:32+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/cosmtrek/mindwalk Comments URL: https://news.ycombinator.com/item?id=48878682 Points: 5 # Comments: 0",
+        "summary": "Article URL: https://github.com/cosmtrek/mindwalk Comments URL: https://news.ycombinator.com/item?id=48878682 Points: 53 # Comments: 19",
         "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
         "url": "https://github.com/cosmtrek/mindwalk"
       },
@@ -391,7 +391,7 @@
         "id": "24fbc684c57377754cd3a76f4d5bac7895482d1f",
         "published": "2026-07-12T04:15:27+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html Comments URL: https://news.ycombinator.com/item?id=48878195 Points: 40 # Comments: 22",
+        "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html Comments URL: https://news.ycombinator.com/item?id=48878195 Points: 54 # Comments: 38",
         "title": "Why Write Code in 2026",
         "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html"
       },
@@ -399,7 +399,7 @@
         "id": "6b7fc4009ea8da7d5e24a6b8b61789d505a840eb",
         "published": "2026-07-12T04:00:14+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans Comments URL: https://news.ycombinator.com/item?id=48878126 Points: 59 # Comments: 84",
+        "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans Comments URL: https://news.ycombinator.com/item?id=48878126 Points: 92 # Comments: 147",
         "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
         "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans"
       },
@@ -407,7 +407,7 @@
         "id": "2d8ff7388b5cff3f1e90e7c5322884b970f240ef",
         "published": "2026-07-12T02:13:46+00:00",
         "source": "Hacker News (front page)",
-        "summary": "https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr Comments URL: https://news.ycombinator.com/item?id=48877668 Points: 85 # Comments: 42",
+        "summary": "https://journals.aps.org/prl/abstract/10.1103/t2vy-32wr Comments URL: https://news.ycombinator.com/item?id=48877668 Points: 93 # Comments: 45",
         "title": "Unexpected Solidlike Fracture in Simple Liquids",
         "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/"
       },
@@ -415,41 +415,25 @@
         "id": "87ecb4409facf614db01a6b0012b63fb9dd0ed49",
         "published": "2026-07-12T01:59:35+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://arxiv.org/abs/1203.5426 Comments URL: https://news.ycombinator.com/item?id=48877613 Points: 19 # Comments: 1",
+        "summary": "Article URL: https://arxiv.org/abs/1203.5426 Comments URL: https://news.ycombinator.com/item?id=48877613 Points: 24 # Comments: 3",
         "title": "The Energetic Costs of Cellular Computation (2012)",
         "url": "https://arxiv.org/abs/1203.5426"
-      },
-      {
-        "id": "335706e9d39918f0dad8511ef26f20591ad4377a",
-        "published": "2026-07-12T01:03:29+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://igropyr.com Comments URL: https://news.ycombinator.com/item?id=48877344 Points: 58 # Comments: 5",
-        "title": "A Erlang style pure Scheme Webserver and further",
-        "url": "https://igropyr.com"
-      },
-      {
-        "id": "97eef611405717eaef1a9c576fade5ad9a05c03d",
-        "published": "2026-07-12T00:57:18+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://goeteia.dev Comments URL: https://news.ycombinator.com/item?id=48877314 Points: 82 # Comments: 20",
-        "title": "A pure scheme web programming tool",
-        "url": "https://goeteia.dev"
       },
       {
         "id": "9824db4d6afc02266dd7541b1b2602d38e38e4ff",
         "published": "2026-07-12T00:48:10+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://fabiensanglard.net/tb4/index.html Comments URL: https://news.ycombinator.com/item?id=48877269 Points: 65 # Comments: 42",
+        "summary": "Article URL: https://fabiensanglard.net/tb4/index.html Comments URL: https://news.ycombinator.com/item?id=48877269 Points: 79 # Comments: 48",
         "title": "A dock that wakes up reliably",
         "url": "https://fabiensanglard.net/tb4/index.html"
       },
       {
-        "id": "fd017b9085c3e9c1f97570b5a6ace025448c857d",
-        "published": "2026-07-12T00:32:15+00:00",
+        "id": "d9e094798d0d627b0d861f99ae49030c4386bf89",
+        "published": "2026-07-12T00:38:02+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491 Comments URL: https://news.ycombinator.com/item?id=48877178 Points: 73 # Comments: 22",
-        "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
-        "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491"
+        "summary": "Article URL: https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228 Comments URL: https://news.ycombinator.com/item?id=48877214 Points: 57 # Comments: 1",
+        "title": "Autopsy Study Finds Replicating SARS-CoV-2 in the Hearts of Long Covid",
+        "url": "https://my.uscap.org/uscap/program/S0tc675/index.cfm?pgid=5167&sid=14770&abid=51228"
       },
       {
         "id": "3734fb9c2e261923cd7c0cb01a15adcca63141f5",
@@ -463,9 +447,17 @@
         "id": "5ffbdb7118c1324a09e1202c8fe3bf1b28331b09",
         "published": "2026-07-11T23:15:06+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 141 # Comments: 80",
+        "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 180 # Comments: 103",
         "title": "How Doctors die. It’s not like the rest of us (2016)",
         "url": "https://archive.cancerworld.net/featured/how-doctors-die/"
+      },
+      {
+        "id": "3822e0e0e383c981838d861c2f46dbcbf61f983c",
+        "published": "2026-07-11T22:38:57+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 258 # Comments: 58",
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm"
       },
       {
         "id": "08b59776a5a7c1f72a0c46da23c151650f94527b",
@@ -474,6 +466,14 @@
         "summary": "Last weekends brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninjas latest slushie machine bui…",
         "title": "This slushie machine was a lifesaver during NYC’s heat wave",
         "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/"
+      },
+      {
+        "id": "d5abfc00032cd01d307943fb0465f4fbddbaba3a",
+        "published": "2026-07-11T21:58:00+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 139 # Comments: 21",
+        "title": "RISCBoy is an open-source portable games console, designed from scratch",
+        "url": "https://github.com/Wren6991/RISCBoy"
       },
       {
         "id": "46099f1c758974fdaea3c55539d14a6b35f90804",
@@ -702,12 +702,116 @@
     ],
     "tech_japan": [
       {
-        "id": "1c1a83a951a6c9e925ad8a0645d6fcc8a579881d",
-        "published": "2026-07-12T07:30:00+00:00",
+        "id": "4231a7b7b29381ea12041d21730a1402e25ca258",
+        "published": "2026-07-12T10:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "XBOXで複数のゲームを購入していたとあるゲーマーが、Microsoftアカウントをハッキングされたためカスタマーサポートに連絡したところ、アカウントの復旧は不可能であり、失ったゲームは「すべて再購入するように」と回答されたそうです。これに対して、このゲーマーはMicrosoftに対して訴訟を起こし、無事勝訴しています。 続きを読む...",
+        "title": "Microsoftアカウントをハッキングされ「これまでXBOXで購入したゲームはすべて再購入するように」とサポートから言われたゲーマーが怒りの訴訟＆勝訴",
+        "url": "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/"
+      },
+      {
+        "id": "ab357373697e92160e7c917b38a94001baacba6c",
+        "published": "2026-07-12T10:00:00+00:00",
         "source": "ASCII.jp",
-        "summary": "プライムデーで1万円切りの9375円なのに、日本語配列＆ワイヤレス対応、さらに滑らかすぎる打鍵感とスコスコ音が超くせになってしまいそうな逸品。注目のキーボードを紹介します。",
-        "title": "【スコスコ音】超滑らかな打鍵感！ 日本語配列＆ワイヤレスで1万円切りは買い",
-        "url": "https://ascii.jp/elem/000/004/418/4418842/?rss"
+        "summary": "ASUSのゲーミングノートPC「TUF Gaming A16（FA608UP-R7R507016GA）」がAmazonプライムデーセール対象。参考価格349,800円のところ、29％オフの249,800円で販売中。Amazon.co.jp限定モデルで、GeForce RTX 5070 Laptop GPUやRyzen 7 260、16GBメモリ、512GB SSD、165Hz対応16型ディスプレイを搭載する。RTX 5070搭載ゲーミングノートを価格重視で選ぶなら、見比べておきたい1台だ。",
+        "title": "RTX 5070搭載ノートが29％オフ。Amazon限定版「TUF Gaming A16」プライムデーセール中",
+        "url": "https://ascii.jp/elem/000/004/418/4418817/?rss"
+      },
+      {
+        "id": "a491688aa258cf0bc0321a079c45394ddd2ec7ac",
+        "published": "2026-07-12T10:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "HPのノートPC「HP 15-fd（BJ0M8PA-AAAD）」がAmazonプライムデー対象。参考価格186,141円のところ、16％オフの156,400円で販売中。Core Ultra 7や16GBメモリ、IPS液晶、指紋認証を備える15.6型ノートだ。",
+        "title": "6月よりお得！Core Ultra 7搭載・16GBメモリの15.6型ノートが15万円台に／Amazonプライムデー",
+        "url": "https://ascii.jp/elem/000/004/418/4418643/?rss"
+      },
+      {
+        "id": "780af3786aca79361d996d3bef5ca17662c8fe2e",
+        "published": "2026-07-12T10:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "抜群のスタイルと雪のような白肌が魅力。撮影会でも高い人気を誇る鹿さんが、8th DVD「再臨」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。",
+        "title": "美しさに磨きをかけて、鹿ちゃんが帰ってきた！ やりたいことを詰め込んだ8th DVD「再臨」リリース",
+        "url": "https://ascii.jp/elem/000/004/416/4416681/?rss"
+      },
+      {
+        "id": "e4f1d925cc195bfb5e7ed8721bb2ff3bee41dd8b",
+        "published": "2026-07-12T09:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "仕事の効率を上げるための機器と言えば、まずPC関連が思い浮かびますが、実はコーヒーメーカーに投資するのも◎。そこでプライムデーで見つけた1万円以下のお手頃モデルをピックアップしました。",
+        "title": "お手頃価格のコーヒーメーカーを導入して、仕事の効率アップ【プライムデー】",
+        "url": "https://ascii.jp/elem/000/004/418/4418849/?rss"
+      },
+      {
+        "id": "ec3e57eaadd36b6345cbab0fb55d33bc91830f4f",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "様々な動画配信サイトのデータを保存できる「yt-dlp」は強力なダウンロードツールですが、視聴する前に一度ファイルをローカル環境へ保存し動画プレイヤーで再生するという手間がかかります。「YT-DLP Web Player」はyt-dlpを組み込んだバックエンドサーバーで、指定したサイトの動画を読み込みつつ専用プレイヤーに即座に配信し広告なしで視聴できる無料の動画配信システムです。 続きを読む...",
+        "title": "無料でページ内の動画をyt-dlp経由で広告なしに置き換える「YT-DLP Web Player」",
+        "url": "https://gigazine.net/news/20260712-ytdlp-web-player/"
+      },
+      {
+        "id": "d6e1beb76c292817fca645e43df2007cbf52a602",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "adidasのTERREX EASTRAIL GTXは、防水透湿のGORE-TEXと高いグリップ力、軽量設計を備えたトレッキングシューズ。天候を問わず快適に履け、登山から街歩きまで幅広く活躍します。",
+        "title": "ゴアテックスのスニーカーが1万円以下で欲しいならコレだ！ アディダス「TERREX EASTRAIL GTX」セール中",
+        "url": "https://ascii.jp/elem/000/004/418/4418847/?rss"
+      },
+      {
+        "id": "1986966c025e705e1e5f251abfd34ca695a0fa50",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "PHILIPSのタブレット「T7250」がAmazonプライムデーセール対象。参考価格46,980円のところ、25％オフの35,321円で販売中。MediaTek Helio G100に8.8型2.5Kディスプレイや4G LTE対応を備えるほか、最大90Hzのリフレッシュレート、Widevine L1にも対応したモデル。コンパクトながら充実した仕様のAndroidタブレットを探しているなら、この機会に注目したい。",
+        "title": "3万円台でもてんこ盛り。8.8型・2.5K・SIM対応のPHILIPSタブレットが25％オフ",
+        "url": "https://ascii.jp/elem/000/004/418/4418812/?rss"
+      },
+      {
+        "id": "c2902218a0e6f49c67dbb30a5a3247556b6c2ef8",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "全72巻が半額。あの熱い忍の生き様に、今すぐ飛び込もう！ プライムデーで『NARUTOーナルトー』を丸ごと半額。世界的人気を誇る学園忍術バトルが、あなたの日常を熱く焦がす！",
+        "title": "ジャンプの名作たちが半額！『NARUTO―ナルト―』が全巻50%オフ【Kindle漫画セール情報】",
+        "url": "https://ascii.jp/elem/000/004/418/4418805/?rss"
+      },
+      {
+        "id": "7963c944cc7a02e5f1907b5a8727d5f7d13f4b3a",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "HPの13.3型モバイルノート「Pavilion Aero 13（A17X8PA-AAAA）」がAmazonプライムデーで約13万円に。約990gの軽量ボディに、AMD Ryzen 5 8640U、16GBメモリ、512GB SSDを搭載。軽さと性能のバランスを求める方におすすめの一台です。",
+        "title": "約990gの軽さ！Ryzen 5の13.3型ノート「Pavilion Aero 13」が12万円台のチャンス【Amazonプライムデー】",
+        "url": "https://ascii.jp/elem/000/004/418/4418615/?rss"
+      },
+      {
+        "id": "a24dffc1b800c846bfa0b6e949c9e24742cc242c",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "アイロボットの人気ロボット掃除機『ルンバ Plus 575 Combo』がAmazonで約3割引き！日本市場向けに46％の小型化した最新モデルが、自動ゴミ収集とモップの温水洗浄・乾燥機能付きで、快適な掃除体験を実現。",
+        "title": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】",
+        "url": "https://ascii.jp/elem/000/004/418/4418613/?rss"
+      },
+      {
+        "id": "903cedf643c0db501aff959c3e09390481e9f1ca",
+        "published": "2026-07-12T09:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "Inateckの35L出張大容量リュックがAmazonプライムデーセール対象。参考価格7,199円のところ、28％オフの5,180円で販売中。17インチPCや着替えもまとめやすく、180度開閉や多ポケット構造も備える。",
+        "title": "17インチノートPCもすっきり収納！Inateck 35L大容量リュックが5,180円【Amazonプライムデー】",
+        "url": "https://ascii.jp/elem/000/004/418/4418578/?rss"
+      },
+      {
+        "id": "303f9af8213377c0a922e9a79a332a3a355564a3",
+        "published": "2026-07-12T08:26:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "騎手生活40年目の節目の年を迎えているJRAのレジェンド・武豊騎手が、JRAや地方レース、海外での騎乗機会を含めての通算5000勝を、2026年7月12日開催のレースで達成しました。 続きを読む...",
+        "title": "武豊騎手がJRA・地方・海外など含めた通算5000勝を達成",
+        "url": "https://gigazine.net/news/20260712-take-yutaka-achieves-5000-wins/"
+      },
+      {
+        "id": "6d8e0a9c9717b488f439908bd8c05517445529ed",
+        "published": "2026-07-12T08:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "JavaScriptランタイム「Bun」の開発チームが、AIコーディング支援ツール「Claude Code」を活用して進めていた、BunのZigコードをRustへ書き換える全面的な移植作業が完了したと発表しました。約53万行のZigコードがRustへ移植されたことで、メモリ管理に起因する不具合の削減が期待されています。 続きを読む...",
+        "title": "AI「Claude」を使って開発ツールの「Bun」の53万行のZigコード全てをRustへ書き換え、Zig作者もブログで反応",
+        "url": "https://gigazine.net/news/20260712-bun-zig-rust/"
       },
       {
         "id": "3df896a78114c911e15a7918d7d9a2c19b472a5e",
@@ -716,78 +820,6 @@
         "summary": "Appleが「ハードウェア開発に必要な情報を知的財産を盗まれた」として、OpenAIとOpenAIのハードウェア最高責任者を務めるタン・タン氏、同じくOpenAIの従業員であるチャン・リュウ氏を提訴しました。 続きを読む...",
         "title": "AppleがOpenAIを企業秘密侵害で提訴",
         "url": "https://gigazine.net/news/20260712-apple-sues-openai/"
-      },
-      {
-        "id": "bacd707efd8d133ae45b19132f377c217f43ee1d",
-        "published": "2026-07-12T07:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "テレワーク中心で自宅で作業をしていると、業務の効率性を大きく左右するのがディスプレー。オススメしたいのが32型4K解像度（3840×2160）の製品。実はそんなに大きすぎることもありません。プライムデーでこれはという製品をピックアップしました。",
-        "title": "今から買うなら【32型4K液晶】広大なデスクトップで仕事が捗ります！ 3万円台から購入可能",
-        "url": "https://ascii.jp/elem/000/004/418/4418840/?rss"
-      },
-      {
-        "id": "f602873693b6aeb3a8135c1ee195120d2f0dd9f7",
-        "published": "2026-07-12T07:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "FMVのノートPC「WE1-K3（FMVWK3E155_AZ）」がAmazonプライムデー対象。参考価格139,900円のところ、22％オフの109,800円で販売中。Core i5-1335Uプロセッサーや16GBメモリ、512GB SSDに加え、Microsoft 365 Personal（24か月版）を利用できる15.6型ノートPC。FMVのノートPCを検討しているなら、この機会に注目したい。",
-        "title": "「安いスタンダードノート欲しい！」ならFMVの15.6型ノートが10万円台。Core i5・16GB搭載モデルがプライムデー対象",
-        "url": "https://ascii.jp/elem/000/004/418/4418810/?rss"
-      },
-      {
-        "id": "e36d8e08d5e2af630bf95a40d5257e7265c458b7",
-        "published": "2026-07-12T07:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "呪いの王をその身に宿した少年、虎杖悠仁の過酷な運命を描く『呪術廻戦』全30巻が、今ならまさかの半額で一気に揃います。絶対に損はさせません。あなたも五条悟の規格外の強さに、今すぐ痺れてください。",
-        "title": "Kindle版『呪術廻戦』プライムデーセールで全巻1冊230円！【Kindle漫画セール情報】",
-        "url": "https://ascii.jp/elem/000/004/418/4418804/?rss"
-      },
-      {
-        "id": "a8a2cd7ddade90a43a96a0cb896f33634b33ce71",
-        "published": "2026-07-12T07:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ジョナサンは7月13日から、平日16時以降限定のクーポンキャンペーンを開催。アルコール10種類が通常価格の半額、おつまみ10種類が通常価格から110円引きになるクーポンを配布します。",
-        "title": "ビール半額＆ハイボール191円！ジョナサン、平日夜限定クーポン祭り",
-        "url": "https://ascii.jp/elem/000/004/418/4418563/?rss"
-      },
-      {
-        "id": "eb659428812e7a6533161619ec592a42e5ca3cc2",
-        "published": "2026-07-12T07:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "カシオの定番腕時計「F-91W」がAmazonで割引対象。参考価格2,200円のところ、30％オフの1,540円で販売中。約21gの軽量ボディや日付・曜日表示、ストップウォッチ、アラーム機能を備えたデジタルモデル。",
-        "title": "スマートウォッチ時代にも輝く定番！カシオ『F-91W』シリーズがAmazonプライムデーで30%オフ1,540円",
-        "url": "https://ascii.jp/elem/000/004/418/4418003/?rss"
-      },
-      {
-        "id": "540c7eec6a73a393fd57d31e33504253a5caf4fb",
-        "published": "2026-07-12T06:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "MSIのノートPC「Modern 14 F1MX」がAmazonタイムセール対象。参考価格159,800円のところ、13％オフの139,800円で販売中。Core 7 150Uや16GBメモリ、512GB SSDを搭載するほか、有線LANやWi-Fi 6E、Microsoft 365 Personal（24か月版）を備えた14型ノートPC。",
-        "title": "仕事用14型ノートに欲しい機能を凝縮。MSI「Modern 14」が13万円台",
-        "url": "https://ascii.jp/elem/000/004/418/4418798/?rss"
-      },
-      {
-        "id": "534f96ad8c9084baf4b519768fb62fb3d2829a8f",
-        "published": "2026-07-12T06:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ピーコック魔法瓶工業の「携帯氷のう ABB-16」は、凍らせた氷のうを真空断熱ホルダーに入れて持ち運ぶ新発想の冷却グッズ。夏の通勤やアウトドアに最適です。Amazonプライムデーで参考価格2,728円から39％オフの1,665円で販売中",
-        "title": "【話題の夏グッズ】氷を“魔法瓶”で持ち運ぶ！ピーコック「携帯氷のう ABB-16」がAmazonプライムデーでお得",
-        "url": "https://ascii.jp/elem/000/004/418/4418599/?rss"
-      },
-      {
-        "id": "5f529f0a4d551811f779ed2b0c1ede397f0cfcf8",
-        "published": "2026-07-12T06:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "今回の話題はAmazonプライムデー。ミドルクラスの注目製品をチェックした。日本通信SIMのスターターパックも買い！",
-        "title": "プライムデーで買いなミドルクラスのスマホはコレ！ 日本通信SIMの加入パッケージも",
-        "url": "https://ascii.jp/elem/000/004/418/4418839/?rss"
-      },
-      {
-        "id": "dd823a93e67caa79089aea37412777274ed78adf",
-        "published": "2026-07-12T06:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "mouseのゲーミングデスクトップPC「G TUNE DG」がAmazonプライムデーセール対象。参考価格299,800円のところ、13％オフの259,980円で販売中。GeForce RTX 5060やCore i5-14400F、16GBメモリ、1TB SSDを搭載し、ゲームプレイから動画配信まで幅広い用途に対応するモデル。",
-        "title": "RTX 5060搭載ゲーミングデスクトップPC「G TUNE DG」がプライムデーセール、13%引き",
-        "url": "https://ascii.jp/elem/000/004/418/4418796/?rss"
       },
       {
         "id": "05d6b4bde63630303c25c65edaec3755ea2099f0",
@@ -838,44 +870,12 @@
         "url": "https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/"
       },
       {
-        "id": "ce37bf94ff021a80008d266870f5ac4025d79e37",
-        "published": "2026-07-11T11:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "ニコンは光学顕微鏡を使って撮影されたミクロの世界の神秘的な美しさを捉えた写真を賞賛するためのコンテスト「Nikon’s Small World」を実施しています。2026年7月にニコンの顕微鏡事業が101年目を迎えることを記念して、2026年7月25日から東京都写真美術館で特別展示「Nikon Small World / NIKON JOICO AWARD展『ミクロの世界 -生命(いのち)の未来を照らす-』」が開催されるとのことで、実際に展示される写真の一部を提供してもらいました。 続きを読む...",
-        "title": "ニコンが顕微鏡で撮影されたミクロ世界の美麗写真を展示する「ミクロの世界 －生命(いのち)の未来を照らす－」を東京で開催",
-        "url": "https://gigazine.net/news/20260711-nikon-small-world-exhibition/"
-      },
-      {
-        "id": "a3b29ed032a4a2cdd925baa54278c8f51364c117",
-        "published": "2026-07-11T10:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "Steam Machineは2026年6月23日に登場したSteam公式ゲーミングPCです。GIGAZINE編集部では発売と同時にSteam Machineを購入することに成功したので、外観チェックに続いて実際のゲームプレイや録画可能の使用感を確かめてみました。 続きを読む...",
-        "title": "「Steam Machine」をセットアップしてゲームをプレイしてみたよレビュー",
-        "url": "https://gigazine.net/news/20260711-steam-machine-game-play/"
-      },
-      {
-        "id": "99d8a0085bf65d68ed3d0e1989635ad3146d871b",
-        "published": "2026-07-11T09:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "複数人の旅行では、候補地・移動計画・予算・持ち物・予約情報をそれぞれ別のアプリで管理するなど手間が生じます。リアルタイム共同編集・インタラクティブマップ・予算管理・持ち物リストをまとめて共有できる無料の旅行計画ツール「trek」が公開されています。 続きを読む...",
-        "title": "無料で複数人の旅行を計画するためリアルタイムコラボ＆インタラクティブマップ＆予算管理＆持ち物リストを管理・共有できる「trek」",
-        "url": "https://gigazine.net/news/20260711-trek/"
-      },
-      {
         "id": "10e783bfcaf480378afad05eaa6cf0997cc32bdb",
         "published": "2026-07-11T08:52:45+00:00",
         "source": "PC Watch",
         "summary": "Amazonは7月13日までプライムデーセールを開催中。REALFORCEシリーズのコンパクトな70%キーボード「REALFORCE RC1」は3,828円引きの3万4,452円で販売されている。",
         "title": "【本日みつけたお買い得品】コンパクトキーボードのREALFORCE RC1が3,828円引き中",
         "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124446.html"
-      },
-      {
-        "id": "f482552baedf041759b4231652da7f231c6067c8",
-        "published": "2026-07-11T08:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "MetaがAIを使ってInstagram上の写真を編集する機能を廃止しました。 続きを読む...",
-        "title": "Metaがユーザーからの反発を受けInstagramのAI機能を削除",
-        "url": "https://gigazine.net/news/20260711-meta-removes-controversial-ai-instagram/"
       },
       {
         "id": "c1330c4611911a90df0e2c88bb193de5b72abf8b",
@@ -1023,5 +1023,5 @@
       }
     ]
   },
-  "generated_at": "2026-07-12T07:52:12.824274+00:00"
+  "generated_at": "2026-07-12T10:16:25.522477+00:00"
 }
