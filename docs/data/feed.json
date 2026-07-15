@@ -2,164 +2,188 @@
   "categories": {
     "jobs_japan": [
       {
+        "id": "29aff95de964bfc085983013b7c03af2803678b0",
+        "published": "2026-07-15T21:42:05+00:00",
+        "source": "note",
+        "summary": "休日になると、勉強道具を持ってカフェへ行くことがあります。 「今日は30分だけ。」 何時間も机に向かうわけではありません。 30分くらい勉強して、コーヒーを飲んで帰る。 そんな時間が、私は結構好きです。 勉強というより、自分のための時間。 少しだけ未来に近づけた気がする時間でした。 ⸻ これまで、IllustratorやPhotoshop、保育士資格、簿記、AIなど、いろいろなことを学んできました。 「なんでそんなに勉強するの？」 そう聞かれることがあります。 でも、理由は昔から変わりません。 未来の安心が欲しかったからです。 子どもの頃、母を見ていて思…",
+        "title": "私には、それくらいがちょうどいい。",
+        "url": "https://note.com/quick_puma3816/n/n5c10dc0767e2"
+      },
+      {
+        "id": "1db01489bdedf7e1c75915a6dfe55e74b8b18e7a",
+        "published": "2026-07-15T21:40:46+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜ENEOS喜入基地をどう理解するか 1．ENEOS喜入基地の本質 続きをみる",
+        "title": "【就職活動｜就活選考】ENEOS喜入基地｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n0143ead61987"
+      },
+      {
+        "id": "ed037311e125cac43b000b32af93d3f62c7a7803",
+        "published": "2026-07-15T21:39:56+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜NSステンレスをどう理解するか 1．NSステンレスの本質 続きをみる",
+        "title": "【就職活動｜就活選考】NSステンレス｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nd756e8030307"
+      },
+      {
+        "id": "445aae2b77955acd5f46cda41a7e38ccf0a80268",
+        "published": "2026-07-15T21:39:10+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜NECマグナスコミュニケーションズをどう理解するか 1．NECマグナスコミュニケーションズの本質 続きをみる",
+        "title": "【就職活動｜就活選考】NECマグナスコミュニケーションズ｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nd150635c9829"
+      },
+      {
+        "id": "b3094fbcdeeaa2762f1b2618eb4ac41f041a0638",
+        "published": "2026-07-15T21:35:45+00:00",
+        "source": "note",
+        "summary": "会社を辞めたいと思って 求人を見始めたものの どの仕事が合うのか分からない 続きをみる",
+        "title": "求人を見ても決められない人へ｜応募する求人を選べる転職条件表を90分で作る実践ノート",
+        "url": "https://note.com/minato_yoru/n/n9ff23dd2f921"
+      },
+      {
+        "id": "8224c94ab58b13e881c0cc4e748838688c91a185",
+        "published": "2026-07-15T21:35:22+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "30代前半の男性：仕事を辞めたいのに辞められない…キャリアの足腰が弱い人に共通する考え方とは",
+        "url": "https://note.com/clean_snipe6098/n/nf23c4dffc939"
+      },
+      {
+        "id": "4b8449fbb1b6877345e17e7516a9462e796dcc7c",
+        "published": "2026-07-15T21:35:13+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "一度辞めた会社に戻る人が、前より年収を上げられる理由",
+        "url": "https://note.com/income_raise/n/n2671a5e58e96"
+      },
+      {
+        "id": "50eff45818ad96ed46b2e8d2a5a48beb7e2193b0",
+        "published": "2026-07-15T21:33:03+00:00",
+        "source": "note",
+        "summary": "「65歳で定年になったが、まだ働きたい」「70代になっても週3回は診療をしたい」「80歳でも外来だけなら動ける」――そんな先生からの相談が、ここ数年で確実に増えています。 医師という職業は、免許が生涯有効である以上、理論上は何歳まででも働くことができます。しかし現実の転職市場では、年齢と転職のしやすさは確実に相関します。今回は、60代・70代・80代の年代別に、実際にどんな転職先があるのか、何が変わってくるのかを整理します。 続きをみる",
+        "title": "60代・70代・80代の医師に、転職先はあるのか――年代別キャリアの実態と選択肢",
+        "url": "https://note.com/shinohara200309/n/n96c6011a0afc"
+      },
+      {
+        "id": "015ec21e546cbc44e70d9d00465485f5516b017a",
+        "published": "2026-07-15T21:32:12+00:00",
+        "source": "note",
+        "summary": "2026年6月24日、政府は経済財政諮問会議・日本成長戦略会議の合同会議で「戦略17分野における『主要な製品・技術等』の官民投資ロードマップ（案）」を提示しました。全324ページ、62項目。そのうちフィジカルAI（特にAIロボット）には、2040年度までに官民合計10.5兆円の投資、144.4兆円の経済波及効果が想定されています。 政府はこの分野で、2040年に世界シェア3割超・20兆円市場の獲得を目標として掲げています。あくまで政策目標として示されている値ですが、国が「どこで勝つつもりか」を数字で明示した点に意味があります。 続きをみる",
+        "title": "フィジカルAIに官民10.5兆円。政府資料に名前が出た企業はどこか",
+        "url": "https://note.com/busintemasamo1/n/n12fb12ff8f8c"
+      },
+      {
+        "id": "631bf471901480614f5b8e87e906b8e32c310ace",
+        "published": "2026-07-15T21:30:05+00:00",
+        "source": "note",
+        "summary": "前回、辞めると決断した時の記事はこちら 公務員を辞める。 そう決めた夜は眠れませんでした。 安定した仕事を手放すことへの不安、周りにどう思われるかという怖さ、そして「本当にこれでいいのか」という自問自答。 同じように「辞めたい」と思いながら、なかなか一歩を踏み出せずにいる人は、きっと少なくないと思います。 だから今日は、私が「公務員を辞めよう」と決めた日に、実際に何から始めたのかを正直に書いてみようと思います。 転職サイトへの登録でも、上司への相談でもありませんでした。 続きをみる",
+        "title": "「公務員を辞めよう」と決めた日、私が一番最初にやったこと",
+        "url": "https://note.com/hamuhamu0925/n/ncf2871206766"
+      },
+      {
+        "id": "314299c6ac11c5df7b8d4a47f5c225f24e8d6f89",
+        "published": "2026-07-15T21:27:07+00:00",
+        "source": "note",
+        "summary": "種はどこで芽吹くの 続きをみる",
+        "title": "感性の「種」が落ちた日——芽吹く場所が見つかるのは大人になってから。",
+        "url": "https://note.com/shinichi_papa/n/nd85ccf00b3a1"
+      },
+      {
+        "id": "33541cddc5115544dbd21eaf509cdd02de9f5b8b",
+        "published": "2026-07-15T21:26:47+00:00",
+        "source": "note",
+        "summary": "「自分に向いている仕事が分からない」 そう悩む人ほど、求人票の職種名から探すのを、今すぐやめてほしいのです。 営業、事務、エンジニア、企画。職種名を眺めているだけでは、答えは見つかりません。 ぶっちゃけ言うと、あなたが仕事で消耗している原因は、仕事内容ではなく「働く環境」のミスマッチであることがほとんどです。 続きをみる",
+        "title": "｢消耗しない働き方｣職種より大事な3つの環境軸",
+        "url": "https://note.com/shou_10/n/n5b9232b3056f"
+      },
+      {
+        "id": "fa9ee9342a532cd1d270cc08d7c496c76b952805",
+        "published": "2026-07-15T21:20:17+00:00",
+        "source": "note",
+        "summary": "私は長い間、 自分は人付き合いが苦手なのだと思っていた。 職場でうまく馴染めない。 仲の良い同僚がなかなかできない。 人間関係で疲れてしまう。 転職を繰り返すたびに、 「私に問題があるのではないか」 そう考えてきた。 でも最近、 あることに気づいた。 私は 人が嫌いなのではなかった。 人を大切にしない文化が 苦手だったのだ。 振り返ると、 私が耐えられなかったのは いつも同じような環境だった。 人を見下す上司。 声の大きい人が正しいことになる職場。 ミスを責めるのに、 努力や誠実さは見ようとしない組織。 隠蔽や責任転嫁が 当たり前になっている空気。 そう…",
+        "title": "私は人が嫌いなのではなかった",
+        "url": "https://note.com/sincerae/n/n51f6c90f6b0d"
+      },
+      {
+        "id": "319df578b47856d6ed595e0bbcd727a0be033e71",
+        "published": "2026-07-15T21:19:03+00:00",
+        "source": "note",
+        "summary": "戦略17分野・先行検討技術㉗ ゲーム・コンテンツ｜課題・政策パッケージ編 ■ この記事でわかること 続きをみる",
+        "title": "「開発費が高騰し、大作の続編に傾注せざるを得ない」——日本ゲーム産業が新規IPに挑戦できない構造的理由と政策の処方箋",
+        "url": "https://note.com/busintemasamo1/n/n296386f96275"
+      },
+      {
+        "id": "ada7dd1303db8c1c1b687db6a889b372bf79e427",
+        "published": "2026-07-15T21:16:27+00:00",
+        "source": "note",
+        "summary": "🎯 その「口ぐせ」、あなたの市場価値を静かに削っています 「実力はあるはずなのに、なぜか声がかからない」 「同じようなキャリアの同僚には話が来るのに、自分には来ない」 続きをみる",
+        "title": "💬会議で「なるほどですね」と言い続けた結果ヘッドハンターのリストから永遠に消えた理由😱一流が使う言い換えフレーズ集と語彙力が年収に直結する仕組みをわかりやすく解説🔑",
+        "url": "https://note.com/headhunt/n/n3c05a870e771"
+      },
+      {
+        "id": "494cd48a9f10d5e3949f9d562d3e29c55e87432d",
+        "published": "2026-07-15T21:16:15+00:00",
+        "source": "note",
+        "summary": "この記事は、面接で実際に出題された質問100問と、その回答例をまとめたものです。 回答例はあくまで参考です。 ご自身の経験や考えを交えてアレンジしてください。 面接試験で、 続きをみる",
+        "title": "【就活｜自動車部品業界】《リョービ》企業研究・企業分析＆実際に面接試験で出た質問100問（質問＋回答例）【採用｜面接｜コーチング｜就職活動｜就活選考｜転職】",
+        "url": "https://note.com/yo0425/n/nc15827bb1914"
+      },
+      {
+        "id": "3ed105be537442771253fdfefefc85aed50362ec",
+        "published": "2026-07-15T21:15:36+00:00",
+        "source": "note",
+        "summary": "───── 📩 公式LINEで就活情報をお届け ✅ 13,208社を収録。新着記事・選考対策をLINEで配信 👉 [公式LINE] ▶︎ https://lin.ee/OYPfMK6 続きをみる",
+        "title": "【28卒】KADOKAWAの志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収885万】【29,894文字】",
+        "url": "https://note.com/jobhuntkeyence/n/n93f7e9180209"
+      },
+      {
+        "id": "09e60cb15f686a491f958c318678e9d6452f778c",
+        "published": "2026-07-15T21:12:59+00:00",
+        "source": "note",
+        "summary": "ESを提出したあと、多くの学生はこう考えます。 「とりあえずESは出せた」 「通過したら面接対策をしよう」 「面接ではESに書いたことを話せばいい」 「聞かれたら、その場で答えればいい」 「想定質問はネットで調べれば何とかなる」 続きをみる",
+        "title": "面接で深掘りされても崩れない回答設計：ESから想定質問を作る方法",
+        "url": "https://note.com/naitei/n/n807334a4299b"
+      },
+      {
+        "id": "7f6d17ca24c5650033f167337f518a9aa873a456",
+        "published": "2026-07-15T21:11:45+00:00",
+        "source": "note",
+        "summary": "この記事は、面接で実際に出題された質問100問と、その回答例をまとめたものです。 回答例はあくまで参考です。 ご自身の経験や考えを交えてアレンジしてください。 面接試験で、 続きをみる",
+        "title": "【就活｜自動車部品業界】《ヨロズ》企業研究・企業分析＆実際に面接試験で出た質問100問（質問＋回答例）【採用｜面接｜コーチング｜就職活動｜就活選考｜転職】",
+        "url": "https://note.com/yo0425/n/nc75e706d4aef"
+      },
+      {
+        "id": "55b9d94e7c4a4641a307ef09380ef2b2a74f5a4e",
+        "published": "2026-07-15T21:09:03+00:00",
+        "source": "note",
+        "summary": "2026/7/15(水) 今日も今日とて面接だった。 今日で、面接には一区切りつく。 まだ一つも内定を持っていないのにも関わらず、疲れた。解放されたいという気持ちが強かったな。もっと焦れや。 続きをみる",
+        "title": "雑談はできたけどの日｜7/15",
+        "url": "https://note.com/safe_chimp8036/n/n443d2edbadc9"
+      },
+      {
+        "id": "8fd83f5edd859fde833441a487247b4e3d74f9aa",
+        "published": "2026-07-15T19:30:58+00:00",
+        "source": "note",
+        "summary": "PHP、C、Rust。扱える言語が増え、PHP本体への貢献経験もある。 一見すると、転職面談で話せる材料は十分に見える。ところが技術を説明しようとするほど、話はPHP内部、Unicode、拡張モジュール、テストへと広がっていく。 続きをみる",
+        "title": "PHPを調べていたら、C言語まで読むようになった――面談で伝えたいのは言語ではなく、問題の切り分け方",
+        "url": "https://note.com/masakielastic/n/nc3a243068966"
+      },
+      {
+        "id": "41b5e77e2931ad0e0a948b507c4d5f9a990cef04",
+        "published": "2026-07-15T19:07:25+00:00",
+        "source": "note",
+        "summary": "AI支援開発を真面目に考えるほど、品質、責任、運用の不安は増えていく。けれど面談で最初に伝えたいのは、できない条件の網羅ではない。何を前に進め、どんな役割を引き受けたいのか。三人が話す順番を整理していく。 続きをみる",
+        "title": "AIの話を考えすぎて、面談で何を話せばいいのか分からなくなった――「できるか」より「何を前に進めたいか」",
+        "url": "https://note.com/masakielastic/n/n183203e0feae"
+      },
+      {
         "id": "5b0ad72281a80e9c8cb5c731a4e6399b62a551f4",
         "published": "2026-07-15T18:36:49+00:00",
         "source": "note",
         "summary": "求人票を開くと、CakePHP、WordPress、EC-CUBE、JavaScriptと、いくつもの技術名が並んでいる。 続きをみる",
         "title": "「何の技術を使えるか」から「どの判断を引き受けられるか」へ――CakePHP、WordPressの求人から考えるAI時代のエンジニア転職",
         "url": "https://note.com/masakielastic/n/ne8e0d3bf219a"
-      },
-      {
-        "id": "277764a795433cbe486858e677031de3cd7a2f7d",
-        "published": "2026-07-15T18:34:10+00:00",
-        "source": "note",
-        "summary": "会社を辞めたいと思っていても 転職活動まで始める余力が残っていない夜があります 求人を探す 続きをみる",
-        "title": "20代で転職活動を始める余力がない人へ｜応募する前に相談だけ使う判断基準",
-        "url": "https://note.com/minato_yoru/n/n8842482c8eeb"
-      },
-      {
-        "id": "51aaee4b2f6c602cb348f8f7af1dcbf5380e4741",
-        "published": "2026-07-15T18:29:51+00:00",
-        "source": "note",
-        "summary": "どうも、ヘタ・レイです。 今回も、過去にマシュマロで頂いた質問について、noteでより深い回答をしていきたいと思います。 ※マシュマロとは質問箱みたいなものです。同じような悩みを持っている方は意外と多いため、このような形式で公開しています。 私のマシュマロはこちら⇒ https://marshmallow-qa.com/7r9w0zct1ceh99l 今回の質問はこちらです。 続きをみる",
-        "title": "転職回数が多いとビルメンの転職で不利？現場の実例を元に解説します。",
-        "url": "https://note.com/hetarei/n/n4c79541b91e6"
-      },
-      {
-        "id": "25897a6141f111e27c9a0cd77cca4a984f654c9a",
-        "published": "2026-07-15T18:22:31+00:00",
-        "source": "note",
-        "summary": "たぶん！！！ 保湿です。 今日のネーションズリーグ男子の勝利をみて、 タイトルのように思いました。 彼らは世界トップレベルの強さなんだよね。 それを出し切れるか、出し切れないかで。 出し切るためにはチーム一人一人が自分らはトップレベルであり勝つと信じてること そもそもその気持ちがなければ、どんなに勝つ要素が選手に備わっているとしても勝てない 気持ちってすごく大切だ 続きをみる",
-        "title": "デカいことを言いますがすべて「自分を信じられるかどうか」だと思う",
-        "url": "https://note.com/ooomyaooo/n/nb6f2a6f940ff"
-      },
-      {
-        "id": "199ef40c4ea2fa9fe86f7e1ab1b1015c947fa679",
-        "published": "2026-07-15T18:01:12+00:00",
-        "source": "note",
-        "summary": "※ 本記事はPRを含みます。ただし、いつもの調子で、思っていることをそのまま書いています。 転職を考えたことがある人間に、一つだけ聞きたいです。 続きをみる",
-        "title": "転職活動の掟。—やるべきことをやらず、やってはいけないことをやり続ける人間が、なぜ転職で失敗するのか。",
-        "url": "https://note.com/ajitamanote/n/n3e80f0c90569"
-      },
-      {
-        "id": "2367d8c2622640184bdf03cdf794e08bb9f4f928",
-        "published": "2026-07-15T17:58:05+00:00",
-        "source": "note",
-        "summary": "この記事はプロモーションを含みます 続きをみる",
-        "title": "「第二新卒の賞味期限はいつまで？」手遅れになる前に知っておきたい転職市場のリアルと対象年齢",
-        "url": "https://note.com/kazuki_career/n/nb65eac5dac34"
-      },
-      {
-        "id": "c45232039033e7815e7f5cdeaeea0860234a9c59",
-        "published": "2026-07-15T17:49:04+00:00",
-        "source": "note",
-        "summary": "まず、自分で自分のために手に入れたものに必要ない物は何もないと思っている。 自分で手に入れたのに、初めて自分の意思で捨ててしまったもの、仕事。 続きをみる",
-        "title": "今年の断捨離",
-        "url": "https://note.com/nnseuchi/n/n7dbc9d406561"
-      },
-      {
-        "id": "f696f0b0bac52d01bb6b337dc91e4031552ca47d",
-        "published": "2026-07-15T17:45:25+00:00",
-        "source": "note",
-        "summary": "どうも、カズキです。 前回の記事で「アドベンチャーシンガー」としての生き方の仕様書をぶち上げた僕ですが、現実の僕は今、絶賛就職活動中の32歳。 続きをみる",
-        "title": "札幌ー旭川140kmをチャリで激走する男が、四角い合説ブースでエンストを起こしていたかもしれない理由。",
-        "url": "https://note.com/famous_fairy633/n/n77e159bd0f76"
-      },
-      {
-        "id": "9566db25746337f30705d8c468d960520d9b0795",
-        "published": "2026-07-15T17:43:16+00:00",
-        "source": "note",
-        "summary": "外資系金融から、勢いのある台湾のAIスタートアップへ。正直、内定をもらった瞬間は嬉しさより先に「マジで大丈夫か、ワイ！」という不安の方が大きかった。畑違いの業界に飛び込んでみて、実際どうだったのかをまとめておきたい。 続きをみる",
-        "title": "異業種チャレンジ：30代で、外資系金融から勢いある台湾AIスタートアップ業界へ",
-        "url": "https://note.com/lasagnari/n/n9b8b2a2e9cbc"
-      },
-      {
-        "id": "264b587388203169e1a01e6bee3c5c703f37ff68",
-        "published": "2026-07-15T17:37:15+00:00",
-        "source": "note",
-        "summary": "鬱を消すには、今を楽しめればいいって言うけど、将来どうなりたいかの逆算をできてないと、今を安心して生きられないか？ いまを楽しめとか、将来どうなりたいかちゃんと考えろとか、くそ理不尽な世の中。 続きをみる",
-        "title": "将来のこと考えれば考えるほど震えるクソワロタ",
-        "url": "https://note.com/welcometomypage_/n/nfe2803afdabc"
-      },
-      {
-        "id": "162fca79c4d32381ea9f80aed543cec64511872e",
-        "published": "2026-07-15T17:34:33+00:00",
-        "source": "note",
-        "summary": "こんばんは。やつめです。 最近フォローしていただいたり、いいねをくれたりと ちょっとずつ反応が増えてきた気がします。 続きをみる",
-        "title": "釣り求人に引っかかった話",
-        "url": "https://note.com/alive_gerbil1992/n/nf42d387448f5"
-      },
-      {
-        "id": "a3af8c329044e01a36475d92e7743a187c1b843d",
-        "published": "2026-07-15T17:32:36+00:00",
-        "source": "note",
-        "summary": "皆さまお疲れさまです。 今回はふらっと新卒で勤めていた会社の話をします。 この経験が実際の転職のトリガーにもなってはいるのですが、 個人的にかなり本音の部分かと思います。。。 国際線のグランドスタッフとして働き始めて、1年が経った頃のことです。 続きをみる",
-        "title": "【転職体験談No.5】「このまま30代になるの、ちょっと怖い」と思った日の話",
-        "url": "https://note.com/tossybloginjapan/n/n527e8a7916f1"
-      },
-      {
-        "id": "8d4613360de852365fff7ed3ba512e9d92e9c408",
-        "published": "2026-07-15T17:20:34+00:00",
-        "source": "note",
-        "summary": "7月16日 なんと今回は深夜に綴ってるよ〜〜レア★ 急に文章書きたいモチベが上がってきたのでこの気持ち大事にして忘れないように、書き留めておく！ 続きをみる",
-        "title": "ポジティブ欲張りお姉さんで困るよー(>_<)✩.*˚",
-        "url": "https://note.com/deep_kudu9224/n/nf8db5fb02eca"
-      },
-      {
-        "id": "a9886e157d33863493884078cf38c7b7cfcdb0e7",
-        "published": "2026-07-15T17:07:23+00:00",
-        "source": "note",
-        "summary": "こんばんは。 今日は、めずらしく真夜中に一筆したためたくなってしまったので少々お付き合いください。 今日は就活を始めてから3か月半だったので、今までを振り返ってみたいと思います。 続きをみる",
-        "title": "志望度の低下、どう向き合う。",
-        "url": "https://note.com/quirky_stilt9330/n/n5b6b3d5ae791"
-      },
-      {
-        "id": "d781492c00188c05cc9b7212058d6219c1255c7d",
-        "published": "2026-07-15T16:52:18+00:00",
-        "source": "note",
-        "summary": "28卒の皆さんにおかれましては、サマーインターンの合否で一喜一憂されてることでしょう。私も例に漏れずgmailを更新し続けるという無駄な作業に1日の大半を使わせて頂いております。私自身コンサル志望であり、日々自己研鑽に大学三年の上半期を捧げたと言っても過言ではありません。お陰様で所属大学にしては順調にインターン参加が決まっておりますが、ふと我に帰る瞬間があります。就活を始める前はとにかく幸せになることを目標に生きていた気がします。幸せな家庭を作り、お金に困ることなく、平和に一生を終えたい。それだけを願っていたはずでした。気づいた頃にはケース対策に明け暮れ…",
-        "title": "目的と手段",
-        "url": "https://note.com/jvy1q/n/n0a4fbcaaffb1"
-      },
-      {
-        "id": "2e5e53476c75b3e1a28b67e79f6b6375efa7e000",
-        "published": "2026-07-15T16:41:36+00:00",
-        "source": "note",
-        "summary": "この物語を書くきっかけは、就職活動をしている若い知人の存在でした。 普段、深く話をする機会はほとんどありません。 続きをみる",
-        "title": "なぜ私は『継承将棋』を書いたのか",
-        "url": "https://note.com/maguma_7/n/n8f0be7f1a180"
-      },
-      {
-        "id": "2c0f07e9e512aa60a0739d537dae0b13831a4cda",
-        "published": "2026-07-15T16:27:11+00:00",
-        "source": "note",
-        "summary": "───── 📩 公式LINEで就活情報をお届け ✅ 13,208社を収録。新着記事・選考対策をLINEで配信 👉 [公式LINE] ▶︎ https://lin.ee/OYPfMK6 続きをみる",
-        "title": "【28卒】いなば食品の志望動機30例×面接質問の解答例30例｜企業研究から内定獲得まで【平均年収432万】【26,925文字】",
-        "url": "https://note.com/jobhuntkeyence/n/nfb3481e4eccb"
-      },
-      {
-        "id": "add4170193525e6e0feea40e1db90c2911db9e53",
-        "published": "2026-07-15T16:15:58+00:00",
-        "source": "note",
-        "summary": "こんにちは。評価軸ラボです。 いきなりですが、質問します。 あなたはGDで落ちたあと、こう思いませんでしたか。 「もっと発言すればよかった」 「司会をやるべきだった」 「あのクラッシャーのせいだ」 ——全部、外れです。 この3つを反省点にしている限り、あなたは次のGDでも落ちます。 断言します。 続きをみる",
-        "title": "「司会をやれば通る」は嘘です。GDで落ち続ける人の共通点",
-        "url": "https://note.com/hip_aster3064/n/nb1273a788abc"
-      },
-      {
-        "id": "9ee41bd3d2b7bdd79fb36c1e886c2b8d7e618dbf",
-        "published": "2026-07-15T16:08:42+00:00",
-        "source": "note",
-        "summary": "この記事では私が就活をしてみて上手くいった点を中心につらつら書いていく。 うまくいかなかったこと、現実、絶望はまた別の新卒就活記で出す。 そちらの方が人間らしいことを書いているため、危機感をもって就活をしたい人や私がどんな人間か見てみたい人はぜひ読んでほしい。 私は最終面接以外はこれから書くやり方で結構通っていたため、これから書くことは参考になるかもしれないしならないかもしれない。 初期は落ちまくっていた私が各選考段階のやり方を確立してからどれくらい通っていたかというと、 ・ESは5割 ・WEBテストは9割（ズルする前は2割とか） ・グループディスカッシ…",
-        "title": "新卒就活記",
-        "url": "https://note.com/good_gerbil963/n/nd28427253328"
-      },
-      {
-        "id": "2ce6c67fa545f5275795318b590798455f4c2878",
-        "published": "2026-07-15T16:02:10+00:00",
-        "source": "note",
-        "summary": "目次 続きをみる",
-        "title": "継承将棋",
-        "url": "https://note.com/maguma_7/n/ndccb2683033c"
       },
       {
         "id": "e92473454183d7157e3fa2b4e71e3e1d1461792b",
@@ -208,30 +232,6 @@
         "summary": "現在、8年目になるエンジニア兼PMやってるやむぅ。です！ 普段は フリーランスエンジニア として、 8人の開発チームのPM （プロジェクトマネージャー）をしたりしてます。この前仕事をしている時、後輩からきたとある質問を受けた時に思ったことを書きます。 続きをみる",
         "title": "【エンジニア実話】魚の釣り方より「'タイ'の釣り方」を聞くべし",
         "url": "https://note.com/yamu_studio/n/ncf193dcbc920"
-      },
-      {
-        "id": "7f8ccf1a11dc91d2d7710519399fad5882ac25e8",
-        "published": "2026-07-15T07:12:14+00:00",
-        "source": "note",
-        "summary": "# 30代エンジニアが転職準備でやることを3つに絞るコツ 転職準備を始めると、やることが一気に増えます。 続きをみる",
-        "title": "30代エンジニアが転職準備でやることを3つに絞るコツ",
-        "url": "https://note.com/career_up_labo/n/na9c3048e0867"
-      },
-      {
-        "id": "34ace7991403fe80503768f3ffab89c79f4dbc9b",
-        "published": "2026-07-15T06:56:19+00:00",
-        "source": "note",
-        "summary": "■ 「聞く」は選択的行為だ、と実感した日 先日、テレビを眺めていたら、とある有名な専門家の方がこんな話をしていました。 続きをみる",
-        "title": "2040年にはAIが人間の代わりに働くらしい。でも私の目の前のAIは、今日も元気に「テヘペロ」している。",
-        "url": "https://note.com/proper_iris4198/n/n8b35e5f938e8"
-      },
-      {
-        "id": "3fc455aebe35f7504c671bf64bfa12cd71af7129",
-        "published": "2026-07-15T06:50:42+00:00",
-        "source": "note",
-        "summary": "※本記事にはプロモーションが含まれています。【PR】 STRATEGY CAREER 自分らしく働けるエンジニア転職を目指すなら px.a8.net 続きをみる",
-        "title": "【28歳のSIer必見】自信がなくても大丈夫！エンジニアとして年収アップ＆モダンな環境へ転職するステップ",
-        "url": "https://note.com/hot_magpie1773/n/n6420cfda1e29"
       },
       {
         "id": "2174d500c90ae014324ac2fdce4631ea17e75566",
@@ -380,6 +380,142 @@
     ],
     "tech_global": [
       {
+        "id": "36b2bbf599ed87e044a2110daf9dc6841ba80776",
+        "published": "2026-07-15T21:33:20+00:00",
+        "source": "The Verge",
+        "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent saf…",
+        "title": "xAI sues a man for using Grok to generate CSAM deepfakes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam"
+      },
+      {
+        "id": "5a29ebb15272ab09e104757978eea0af9c499846",
+        "published": "2026-07-15T21:30:17+00:00",
+        "source": "The Verge",
+        "summary": "The Federal Communications Commission will vote next month on whether a single company can own broadcast stations that reach more than 39 percent of US TV households. In a Breitbart op-ed on Wednesday, Republican Chair Brendan Carr announced an August 6th vote to end the national…",
+        "title": "Brendan Carr plans to let broadcast giants dominate the airwaves",
+        "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr"
+      },
+      {
+        "id": "bec341a7d3e9d34cb869c54f1d547ca65f47bc93",
+        "published": "2026-07-15T21:19:42+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://hugodaniel.com/posts/the-end-of-creativity/ Comments URL: https://news.ycombinator.com/item?id=48927136 Points: 4 # Comments: 1",
+        "title": "The End of Creativity",
+        "url": "https://hugodaniel.com/posts/the-end-of-creativity/"
+      },
+      {
+        "id": "3f67eb884b5791f4461f50c115bdca1203c4f490",
+        "published": "2026-07-15T21:16:36+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf Comments URL: https://news.ycombinator.com/item?id=48927095 Points: 3 # Comments: 0",
+        "title": "Must actively fund open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf"
+      },
+      {
+        "id": "aab8e06bb6f2ab12a33883b43f7a92f84b99e348",
+        "published": "2026-07-15T21:00:17+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "This is the entire Firefox browser rendering to a element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in WebAssembly. Here are a few things you might find interesting: - This is fully end to end encrypted! We use the WISP protocol for TC…",
+        "title": "Show HN: Firefox in WebAssembly",
+        "url": "https://developer.puter.com/labs/firefox-wasm/"
+      },
+      {
+        "id": "103eadc325b9bf095a0c8d317e95c52fab57fde0",
+        "published": "2026-07-15T20:47:29+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://x.ai/open-source Comments URL: https://news.ycombinator.com/item?id=48926841 Points: 20 # Comments: 4",
+        "title": "Grok Build is open source",
+        "url": "https://x.ai/open-source"
+      },
+      {
+        "id": "f42bd958467e680db7eb4b2ff6504e2974414089",
+        "published": "2026-07-15T20:24:58+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 65 # Comments: 70",
+        "title": "Grok Build",
+        "url": "https://github.com/xai-org/grok-build"
+      },
+      {
+        "id": "54f73780a1ded2f8e410965bf43b7ce9731fa98c",
+        "published": "2026-07-15T20:22:52+00:00",
+        "source": "TechCrunch",
+        "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+        "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+        "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/"
+      },
+      {
+        "id": "36de50aa801733a6050bfbbcbbc32936a2071050",
+        "published": "2026-07-15T20:02:26+00:00",
+        "source": "The Verge",
+        "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with people…",
+        "title": "Roblox is shutting down its video chat service",
+        "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down"
+      },
+      {
+        "id": "aa32e1edecf76be37131471c2deff6fd636a175f",
+        "published": "2026-07-15T20:00:00+00:00",
+        "source": "The Verge",
+        "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses c…",
+        "title": "AI slop movies are the new direct-to-video cash grabs",
+        "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood"
+      },
+      {
+        "id": "f6b48a2319b55d4ac26ad898bcf6c7ff91f7660c",
+        "published": "2026-07-15T19:59:48+00:00",
+        "source": "Ars Technica",
+        "summary": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+        "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+        "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/"
+      },
+      {
+        "id": "bd067d075c8c8106e75b9a58835a0a01f01fa856",
+        "published": "2026-07-15T19:46:54+00:00",
+        "source": "TechCrunch",
+        "summary": "Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.",
+        "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
+        "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/"
+      },
+      {
+        "id": "1e554fb8d50e795c065d3f14915ea6b4f52e3c50",
+        "published": "2026-07-15T19:42:53+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://brainless.swerdlow.dev Comments URL: https://news.ycombinator.com/item?id=48926085 Points: 37 # Comments: 5",
+        "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+        "url": "https://brainless.swerdlow.dev"
+      },
+      {
+        "id": "5d19712b4f7c3db5150c266b4dca85e77f2e50aa",
+        "published": "2026-07-15T19:41:38+00:00",
+        "source": "TechCrunch",
+        "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
+      },
+      {
+        "id": "03fb14f4ad6512f9ea6471d4015e0ee95d730897",
+        "published": "2026-07-15T19:40:23+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.lexaloffle.com/voxatron.php Comments URL: https://news.ycombinator.com/item?id=48926053 Points: 30 # Comments: 9",
+        "title": "Voxatron",
+        "url": "https://www.lexaloffle.com/voxatron.php"
+      },
+      {
+        "id": "d29025f040dcb3e3a34db725c43076911af77c20",
+        "published": "2026-07-15T19:27:59+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20 Comments URL: https://news.ycombinator.com/item?id=48925888 Points: 62 # Comments: 9",
+        "title": "Duskers, the scary command line game, is getting a sequel",
+        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20"
+      },
+      {
+        "id": "81c8689111939110f076d3d762a9bc8704440b1f",
+        "published": "2026-07-15T18:52:22+00:00",
+        "source": "Ars Technica",
+        "summary": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
+        "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+        "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/"
+      },
+      {
         "id": "86e034ca1b2af0dfde4a00233d0c62c02b094c74",
         "published": "2026-07-15T18:47:01+00:00",
         "source": "TechCrunch",
@@ -392,8 +528,16 @@
         "published": "2026-07-15T18:40:00+00:00",
         "source": "The Verge",
         "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no joke about the explosive diarrhea,\" Bryan, who asked that his…",
-        "title": "Our ‘explosive diarrhea parasite’ future",
+        "title": "Enshittification",
         "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell"
+      },
+      {
+        "id": "16ecf4b981255bd90c33f4ec2c7c58dc9eaa87bf",
+        "published": "2026-07-15T18:39:58+00:00",
+        "source": "Ars Technica",
+        "summary": "The actor, who starred in 1993's Jurassic Park , died Monday in Sydney, Australia, at the age of 78.",
+        "title": "In memoriam: 7 of our favorite Sam Neill films",
+        "url": "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/"
       },
       {
         "id": "380e8aac29a354b3e7a2bef1daa143129b5a36c9",
@@ -408,24 +552,24 @@
         "published": "2026-07-15T18:21:22+00:00",
         "source": "TechCrunch",
         "summary": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services businesses like plumbers, electricians, locksmiths, and roofers from advertising on Apple Maps, along with seve…",
-        "title": "Apple quietly reveals how its Maps ads will differ from Google’s",
+        "title": "Apple bans home services from its upcoming Maps ads",
         "url": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/"
       },
       {
-        "id": "cdadb184e4a51f193df70d00b3b24637f7f2a831",
-        "published": "2026-07-15T18:14:23+00:00",
+        "id": "4a75b17c5fee6412079b751f9bad023cf0c114c9",
+        "published": "2026-07-15T18:12:45+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://thinkingmachines.ai/inkling/ Comments URL: https://news.ycombinator.com/item?id=48924929 Points: 11 # Comments: 1",
-        "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-        "url": "https://thinkingmachines.ai/inkling/"
+        "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/ Comments URL: https://news.ycombinator.com/item?id=48924912 Points: 399 # Comments: 103",
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/"
       },
       {
-        "id": "072e27d67edcae6e77f9c423c1bdc0ccf1895f4c",
+        "id": "bacbba8fee1490b451d9efa05ead26ebb1271cef",
         "published": "2026-07-15T18:06:05+00:00",
         "source": "TechCrunch",
         "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-        "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-        "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/"
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/"
       },
       {
         "id": "275141522901bc82d0073c2906181693e7274ce9",
@@ -468,14 +612,6 @@
         "url": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future"
       },
       {
-        "id": "628ae1a85f1a0b37869914d004c13b120244bd00",
-        "published": "2026-07-15T17:01:34+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Painterly is an application that \"paints\" input images stroke by stroke to produce digital paintings. GenAI is not used in any part of the production pipeline. There is a free demo available under Releases on the GitHub repo. Let me know what you think! Comments URL: https://news…",
-        "title": "Show HN: Painterly – Turn pictures into digital paintings without generative AI",
-        "url": "https://github.com/jbunke/painterly"
-      },
-      {
         "id": "e257eddecce2520fe4e3f3850ecd5f9ecc8ac346",
         "published": "2026-07-15T17:01:02+00:00",
         "source": "Hacker News (front page)",
@@ -492,12 +628,12 @@
         "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/"
       },
       {
-        "id": "cf3f9c68a1e3aee2096a765e410dbe6353a1ec90",
-        "published": "2026-07-15T17:00:00+00:00",
-        "source": "TechCrunch",
-        "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-        "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/"
+        "id": "99dfefe051fdb66003c32f9da1509cc2137fa5ae",
+        "published": "2026-07-15T16:55:12+00:00",
+        "source": "Ars Technica",
+        "summary": "With the settlement withdrawn, Google is now bound by the court's full antitrust remedies.",
+        "title": "Third-party app stores coming to Google Play next week as Epic settlement withdrawn",
+        "url": "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/"
       },
       {
         "id": "bb91c2b5864ddff91fd2f794c76b5da6ccc2d150",
@@ -508,70 +644,6 @@
         "url": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix"
       },
       {
-        "id": "3819e279c92bcae803617a44f6eeac6386a690a0",
-        "published": "2026-07-15T16:35:09+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://pantograph.com/journal/pan-1 Comments URL: https://news.ycombinator.com/item?id=48923412 Points: 21 # Comments: 9",
-        "title": "A General Goal-Conditioned Minecraft Model",
-        "url": "https://pantograph.com/journal/pan-1"
-      },
-      {
-        "id": "037d9f725581f673cc742aef4752fb45dfb3036a",
-        "published": "2026-07-15T16:33:15+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://clocks.dev Comments URL: https://news.ycombinator.com/item?id=48923380 Points: 45 # Comments: 12",
-        "title": "Collection of Digital Clock Designs",
-        "url": "https://clocks.dev"
-      },
-      {
-        "id": "ba696e43405c3d128ddad0f7cfca3e1c7bbd96f5",
-        "published": "2026-07-15T16:32:05+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free Comments URL: https://news.ycombinator.com/item?id=48923363 Points: 47 # Comments: 2",
-        "title": "FreeBSD 16 Retires the Last of Its GPL Code from Its Base System",
-        "url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"
-      },
-      {
-        "id": "94b2b0e19820a80553b4b03b603188f03a05912b",
-        "published": "2026-07-15T16:22:14+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://fhoehl.com/designing-algodeck Comments URL: https://news.ycombinator.com/item?id=48923209 Points: 18 # Comments: 6",
-        "title": "What designing 54 computer science cards taught me about graphic design",
-        "url": "https://fhoehl.com/designing-algodeck"
-      },
-      {
-        "id": "c48ba7fef75b6fab860e0ad59733edaaa92d976c",
-        "published": "2026-07-15T16:20:18+00:00",
-        "source": "TechCrunch",
-        "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/"
-      },
-      {
-        "id": "92bf80c17f4e334b996afe1c19901df82e67c30e",
-        "published": "2026-07-15T16:15:03+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/vshulcz/deja-vu/ Comments URL: https://news.ycombinator.com/item?id=48923111 Points: 54 # Comments: 14",
-        "title": "Open-source memory for coding agents, synced over SSH",
-        "url": "https://github.com/vshulcz/deja-vu/"
-      },
-      {
-        "id": "1f77ad82d2daa6d9b01c16b88fe9f1b5cc3dd41d",
-        "published": "2026-07-15T16:15:01+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://spawn-queue.acm.org/doi/pdf/10.1145/3762989 Comments URL: https://news.ycombinator.com/item?id=48923109 Points: 19 # Comments: 3",
-        "title": "Unsolved Problems in MLOps",
-        "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989"
-      },
-      {
-        "id": "40ea179f863a18fe11a9e1a6c52cce52fe01ebe0",
-        "published": "2026-07-15T16:12:58+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://openai.com/supply/co-lab/work-louder/ Comments URL: https://news.ycombinator.com/item?id=48923079 Points: 105 # Comments: 92",
-        "title": "Codex Micro",
-        "url": "https://openai.com/supply/co-lab/work-louder/"
-      },
-      {
         "id": "c00af3bfcbf7f97fca83554eef521a8de1574e11",
         "published": "2026-07-15T16:05:34+00:00",
         "source": "The Verge",
@@ -580,44 +652,12 @@
         "url": "https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser"
       },
       {
-        "id": "84777b05d9b259377bc39907b66ce6901c6fa24b",
-        "published": "2026-07-15T16:00:00+00:00",
-        "source": "The Verge",
-        "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. Th…",
-        "title": "OpenAI finally launches hardware… for Codex",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch"
-      },
-      {
-        "id": "b7004fa3c5649e5b931721574864b4e1bc1f8fe1",
-        "published": "2026-07-15T15:30:26+00:00",
-        "source": "TechCrunch",
-        "summary": "If completed, the acquisition would unite two of the biggest names in digital payments.",
-        "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-        "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/"
-      },
-      {
-        "id": "b9d54ba02b1e3ddb962ebbd921ffd6834e8f66f7",
-        "published": "2026-07-15T15:29:37+00:00",
-        "source": "The Verge",
-        "summary": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President Donald Trump wrote on Truth Social in May…",
-        "title": "Daylight saving time is a step closer to becoming permanent in the US",
-        "url": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house"
-      },
-      {
-        "id": "d1167caa203bdb01dc01611e28736cb99f21c46a",
-        "published": "2026-07-15T15:16:53+00:00",
-        "source": "The Verge",
-        "summary": "Sure, Bluetooth speakers are awesome to have for picturesque beach trips, camping weekends, and other outdoor adventures. But they’re just as good to have for some sprinkler time in the yard with the kiddo, or for blasting some tunes or a podcast while you make food. No matter th…",
-        "title": "JBLs Flip 7 speaker is small, versatile, and 40 percent off",
-        "url": "https://www.theverge.com/gadgets/965640/jbl-flip-7-nothing-cmf-buds-pro-2-deal-sale"
-      },
-      {
-        "id": "ea768e331a4a219e965157ad640c7cc47d8c2dd3",
-        "published": "2026-07-15T15:00:00+00:00",
-        "source": "The Verge",
-        "summary": "Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it. While the Pocket Taco may be a better fit for s…",
-        "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-        "url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability"
+        "id": "552f49d3a97b09babc96734eeba9098678cfdc9a",
+        "published": "2026-07-15T16:00:33+00:00",
+        "source": "Ars Technica",
+        "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+        "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+        "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
       },
       {
         "id": "f06d897d491b57f3b991704c87d9df9915342dc8",
@@ -658,49 +698,49 @@
         "summary": "Citizens must now spend 21 days in a third country before they are allowed to come home.",
         "title": "Trump admin puts Americans in Congo on \"do-not-board\" list, barring return",
         "url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/"
-      },
-      {
-        "id": "21d0570696037b908ae422db6e20d6c640282dc3",
-        "published": "2026-07-14T20:05:53+00:00",
-        "source": "Ars Technica",
-        "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-        "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-        "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/"
-      },
-      {
-        "id": "214a8b30b9921199c7ea4047f4cb99ec22f68250",
-        "published": "2026-07-14T19:00:02+00:00",
-        "source": "Ars Technica",
-        "summary": "Federal officials have not confirmed a source yet—and there may be multiple sources.",
-        "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
-        "url": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/"
-      },
-      {
-        "id": "eb4e1ee9b1584d044b5376af9ef345fcc8df2eae",
-        "published": "2026-07-14T18:00:01+00:00",
-        "source": "Ars Technica",
-        "summary": "US military’s drone boats struck an Iranian naval port as war heats up again.",
-        "title": "US military sent explosive drone boats into combat for the first time",
-        "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/"
-      },
-      {
-        "id": "d5579b21ca00489f97136f4875b618b101e00c42",
-        "published": "2026-07-14T17:31:58+00:00",
-        "source": "Ars Technica",
-        "summary": "Conductive ink is painted directly onto the skin in colorful custom designs, drying into working electrodes.",
-        "title": "These painted e-tattoos could be the future of wearable biosensors",
-        "url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/"
-      },
-      {
-        "id": "4f171ccda8841e22f9d89d01fc3793b341fd38fd",
-        "published": "2026-07-14T16:28:14+00:00",
-        "source": "Ars Technica",
-        "summary": "The new Google image search will use your \"unique interests\" to create an always-updated gallery.",
-        "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-        "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
       }
     ],
     "tech_japan": [
+      {
+        "id": "81278539e674a95f141f019957f1f3e66ab4fff1",
+        "published": "2026-07-15T21:24:00+00:00",
+        "source": "PC Watch",
+        "summary": "TVS REGZAは7月15日、eスポーツチーム「Good 8 Squad」(グッドエイトスクアッド)のスポンサー契約を締結したことを発表した。これを受け、同日都内でイベントが開催された。会場ではチームリーダーのガチくんが提携の調印を行なったほか、REGZAのロゴが入った新ユニフォームのお披露目や、未発売のREGZAをかけた4選手によるトーナメント大会も実施された。",
+        "title": "REGZAがGood 8 Squadのスポンサーに。4選手がイベントで新ユニ披露。REGZA争奪戦も",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2125524.html"
+      },
+      {
+        "id": "bc01af96a4606ccfeb13c55e3a44bc01210de1d9",
+        "published": "2026-07-15T21:16:00+00:00",
+        "source": "PC Watch",
+        "summary": "",
+        "title": "【やじうまミニレビュー】干渉知らずの電源タップ、縦横挿し＆半口ずらし対応で実売4千円弱。使ってみた結果は？",
+        "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2125420.html"
+      },
+      {
+        "id": "53204e0acac871a443f93dbb4438b991c144b2f8",
+        "published": "2026-07-15T21:02:00+00:00",
+        "source": "PC Watch",
+        "summary": "AMDのAI機能は、NVIDIAやIntelに比べて遅れているイメージが強かったが、最近はぐっと盛り返してきている。その象徴的な存在の1つが、「Lemonade Server」だ。",
+        "title": "AMDのNPUでLLMが動く！音声認識や画像生成も使えるローカルAIツール「Lemonade Server」",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2125083.html"
+      },
+      {
+        "id": "cc0cff7ba108982e7c3375a9e84a6338050fa49d",
+        "published": "2026-07-15T21:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "イタリアの全20州を12年間にわたって分析した研究で、所得格差が大きい州ほど映画館・劇場・博物館・コンサートなど自宅外の文化活動に積極的に参加する人の割合が低い傾向が示されました。 続きを読む...",
+        "title": "所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果",
+        "url": "https://gigazine.net/news/20260716-income-inequality-cultural-participation/"
+      },
+      {
+        "id": "28ec34cfde2717ad4f04ad3aaaeb6cb6a784e69c",
+        "published": "2026-07-15T20:58:11+00:00",
+        "source": "ASCII.jp",
+        "summary": "オープンAIは、他のLLMを攻撃する「超高度ハッカー」GPT-Redを開発した。攻撃役のAIと防御役のAIを何度も戦わせる訓練を通じて、GPT-5.6は同社史上最も堅牢なモデルになったという。",
+        "title": "AIの守りはAIの攻撃で鍛える、オープンAIが「LLMハッカー」を開発",
+        "url": "https://ascii.jp/elem/000/004/420/4420007/?rss"
+      },
       {
         "id": "02d5c9c16ef9188726b8a3064f7d09e64d513495",
         "published": "2026-07-15T15:00:00+00:00",
@@ -878,14 +918,6 @@
         "url": "https://ascii.jp/elem/000/004/419/4419956/?rss"
       },
       {
-        "id": "a06971d23b6f79ae432f33d5fed1d3423523f6ec",
-        "published": "2026-07-15T10:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "「メレル ハイキングシューズ CHAM STORM REDUX」は、ゴアテックスを採用した雨に強い靴です。それでいてアウトドア、日常使いどちらにも溶け込むファッション性を両立させています。",
-        "title": "雨の日も“いかにも雨靴”にならない！ 普段着に合わせやすいメレルのGORE-TEXシューズ",
-        "url": "https://ascii.jp/elem/000/004/419/4419940/?rss"
-      },
-      {
         "id": "ec491f06b75e1c51c1f3d352636090570910b674",
         "published": "2026-07-15T10:00:00+00:00",
         "source": "PC Watch",
@@ -950,14 +982,6 @@
         "url": "https://pc.watch.impress.co.jp/docs/news/2125403.html"
       },
       {
-        "id": "ec47a739e279a42af1c024aa44a93daca13203b8",
-        "published": "2026-07-15T07:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "グアテマラのマヤ遺跡「シュルトゥン」に残された壁面の数式をアメリカのスキッドモア大学の研究チームが解読し、8世紀に活動した数学者兼天文学者の名前が「サク・ターン・ワーシュ」であることを突き止めました。古典期マヤの数学者がその功績と結び付く形で実名を特定された例は今回が初めてで、研究チームはその高度な計算能力をアルキメデスなど歴史上の数学者になぞらえています。 続きを読む...",
-        "title": "マヤ遺跡の壁に刻まれた数式から当時の学者の名前が初めて明らかに、「古代の大数学者に匹敵する」と研究チームは評価",
-        "url": "https://gigazine.net/news/20260715-mathematics-formula-from-maya/"
-      },
-      {
         "id": "ed2e37166ded4fb46628a36fcbdc6239c160de33",
         "published": "2026-07-15T06:56:10+00:00",
         "source": "PC Watch",
@@ -982,36 +1006,12 @@
         "url": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html"
       },
       {
-        "id": "8bc6bbc8274dffc38d56ec76d3beb4a7b5a16cf2",
-        "published": "2026-07-15T05:50:54+00:00",
-        "source": "PC Watch",
-        "summary": "米デル・テクノロジーズは、教育イベント「親子で体験!! Dell 親子パソコン組立教室 2026」を9月12日に開催すると発表した。会場は宮崎カスタマーセンター(宮崎県宮崎市橘通東4-8-1 カリーノ宮崎5F)で、全国の小学3年生から中学3年生とその保護者が対象。本イベントの参加費は11万3,275円(PC代込み)。",
-        "title": "デル、ノートPCを組み立てて持ち帰れる小中学生向け「親子パソコン組立教室」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2125337.html"
-      },
-      {
-        "id": "b6854f393336866f035717c84a8e17974659d122",
-        "published": "2026-07-15T05:43:15+00:00",
-        "source": "PC Watch",
-        "summary": "ロイターなど複数のメディアが報じたところによると、NVIDIAのデータセンター向けGPU「H200」の中国向け出荷が始まった。米商務省のケスラー次官が7月14日に公聴会で明かしたもので、出荷はごくわずかにとどまるという。",
-        "title": "NVIDIAのAI向けGPU「H200」、中国向けに出荷開始",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2125328.html"
-      },
-      {
         "id": "5188ba838ba5010b1216bab392a33b9ab7cab3d3",
         "published": "2026-07-15T05:00:00+00:00",
         "source": "ITmedia NEWS",
         "summary": "半導体部品や原材料価格の高騰が周辺機器の価格に波及している。アイ・オー・データ機器は、SSDやポータブルブルーレイドライブの値上げを発表した。改定率はカテゴリーによって異なり、最大で87.1％に達する。",
         "title": "アイオーデータ、SSDやBDドライブ計10製品を値上げへ 改定率は最大87％",
         "url": "https://www.itmedia.co.jp/news/articles/2607/15/news088.html"
-      },
-      {
-        "id": "ca5fb9b96384e8b5726ef065d3439faf74e86851",
-        "published": "2026-07-15T03:49:32+00:00",
-        "source": "PC Watch",
-        "summary": "PrismMLは7月14日(米国時間)、270億パラメータ(27B)の能力をノートPCやスマートフォンクラスといった端末にもたらすLLM「Bonsai 27B」シリーズを発表した。Apache 2.0ライセンスで公開され、Hugging Faceから無料でダウンロードできる。",
-        "title": "スマホで27B級LLMが動く！PrismMLが「Bonsai 27B」を無料公開",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2125273.html"
       },
       {
         "id": "5ee23abeed5151f0d9ee82706b1c24df9803cde8",
@@ -1023,5 +1023,5 @@
       }
     ]
   },
-  "generated_at": "2026-07-15T18:49:25.170685+00:00"
+  "generated_at": "2026-07-15T21:44:24.442195+00:00"
 }
