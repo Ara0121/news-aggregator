@@ -2,36 +2,124 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "66495f8e69f26e43deb537d8b615157984951bb5",
-        "published": "2026-07-19T15:32:11+00:00",
+        "id": "48f52ffb6f214e6454f9d763b17f3ad85802ef1d",
+        "published": "2026-07-19T18:34:28+00:00",
         "source": "note",
-        "summary": "転職活動をしていると、「自己分析をもっとしよう」「職務経歴書（見せ方）をもっと改善しよう」と言われることが多い。 もちろん、それらは大切だけど、個人的な感覚として、それだけで決まるわけではないと思ってる。 これは、外資系での就業経験や、派遣の転職活動で特に強く感じたことだが、本質は雇用形態に関係なく、転職全般に当てはまることだと思っている。 続きをみる",
-        "title": "求人は結局タイミングと縁",
-        "url": "https://note.com/magic_rabbit226/n/nb56f2b0e4509"
+        "summary": "Intro: System.Exception — 組織との致命的な互換性エラー 「この会社、レベル低いかも」 続きをみる",
+        "title": "『この会社、レベル低すぎ』と感じたら読め。地雷企業を見抜く「価値観デバッガ」のススメ",
+        "url": "https://note.com/hojio_/n/n1515b0c58dbd"
       },
       {
-        "id": "6ee89c38a127720626945bfe7784282a0ad1e7ae",
-        "published": "2026-07-19T15:29:21+00:00",
+        "id": "e393a4c97c1beeec2a2281142d5274b2de883f6d",
+        "published": "2026-07-19T18:31:00+00:00",
         "source": "note",
-        "summary": "あまりにグロすぎるタイトルである。 面接から帰宅し、慣れないネクタイを緩めながらふとこのタイトルが目に入ったときどれだけ最悪な気分になるだろうか。 続きをみる",
-        "title": "子どもを大手ホワイト企業に内定させるための本",
-        "url": "https://note.com/narushiso/n/n3f873963ebfc"
+        "summary": "こんにちは。さまざまな業界・職業で働く人々のリアルな人生模様を、少しの生々しさとフィクションを交えて描くシリーズ『ニッポンお仕事生態系図鑑』。今回スポットライトを当てるのは、近年の日本コンサル業界で急速に存在感を高めている「総合コンサルティングファーム」です。その象徴的な存在の一つが、ベイカレント。平均年齢は31歳前後、それでいて平均年間給与は1,300万円を超えるという、日本企業の常識から見ればかなり異質な会社です。 戦略、DX、IT、業務改革、生成AI、新規事業。大企業が抱えるあらゆる問題に「コンサルタント」という肩書きを持った人間が送り込まれ、数か…",
+        "title": "【日本の会社員図鑑 vol.44】平均年齢31歳で年収1,300万。「日本版コンサル帝国」の大量採用と、案件ガチャのリアル",
+        "url": "https://note.com/modelp/n/nfafb9ecb5173"
       },
       {
-        "id": "370d746b7aaa4265f88606f28004c47ab1ab0f41",
-        "published": "2026-07-19T15:26:08+00:00",
+        "id": "5c0db935d21329e2269acaebc6f044b2431ac544",
+        "published": "2026-07-19T17:51:20+00:00",
         "source": "note",
-        "summary": "$${\\Large \\bold{はじめに}}$$ 続きをみる",
-        "title": "元・最年少係長が、なぜ大手SIerのSEに？官民の境界線を歩む私のキャリアストーリー",
-        "url": "https://note.com/brave_auk8637/n/nd579a6205dbf"
+        "summary": "はじめに 「今の職場、なんだか居心地が悪い」 「周りの人から、いい顔をされていない気がする」 「このまま続けていて、本当に大丈夫なのかな……」 もしあなたが今、そんな気持ちを抱えているなら。 この記事はきっと、あなたのために書いています。 私は新卒で社会人として働き始めました。 そして今日お話しするのは、私の恥ずかしい失敗談です。 きれいごとや成功体験ではありません。 むしろ「こうすればよかった」「あの時の自分に伝えたい」という、後悔の記録です。 でも、だからこそ意味があると思っています。 同じ思いをする人が、一人でも減ってほしい。 そんな気持ちで、正直…",
+        "title": "仕事が上手くいかない20代へ。逃げるように転職した私が、今だから伝えたいこと",
+        "url": "https://note.com/lucid_gecko1638/n/nd916ca72d985"
       },
       {
-        "id": "625ca04ad67bf59187e75347166a84c5c1776c08",
-        "published": "2026-07-19T15:23:44+00:00",
+        "id": "67d0600c11c9cb2fd0a26c0d59afe440bdb322ab",
+        "published": "2026-07-19T17:49:26+00:00",
         "source": "note",
-        "summary": "実務11年、ずっと同じ環境で手を動かしてきたエンジニアが、転職して\"モダンな開発環境\"に放り込まれて、見事に新人へ逆戻りした話です。 「Gitに上がってるファイル、持ってきて修正して」と言われて、その\"持ってくる\"が分からずに固まる。同じような境遇のSIer／レガシー環境のエンジニアには、たぶん刺さります。 続きをみる",
-        "title": "実務11年目で\"完全に新人\"に戻った話｜モダン環境キャッチアップ日記・その1",
-        "url": "https://note.com/touei0931/n/nf93355504778"
+        "summary": "現職への漠然とした不安、FASに対する誤解 「そのPM経験、FASで本当に通用するのか」——正直、自信を持って言い切れない。そんなモヤモヤを抱えている人は多い。 続きをみる",
+        "title": "SIerからFASへの転職で評価されるための言語化のコツ",
+        "url": "https://note.com/no_deal_no_life/n/n51baef73d485"
+      },
+      {
+        "id": "cdb1098a0556e8713246eaccea07ef7f7fed2214",
+        "published": "2026-07-19T17:31:24+00:00",
+        "source": "note",
+        "summary": "この記事を読むとわかること 「便利」の裏側は意外と泥臭い 医療現場のDXが進まない本当の理由 人にしかできない仕事の価値 続きをみる",
+        "title": "最先端なのに結局\"人力\"だった。これ、医療現場と同じじゃないですか？",
+        "url": "https://note.com/cozy_toad4128/n/nb86b534eb656"
+      },
+      {
+        "id": "6fc23fce74b6ef4866da7ead69a63dee6f5520c0",
+        "published": "2026-07-19T17:09:22+00:00",
+        "source": "note",
+        "summary": "さてさて、 まずはエージェントに面談するにしても 職務経歴書を書かないと！ てわけで、気が向いたら使っていたnotionで 無料で配布されている転職ダッシュボードを使って まとめていこう！ と思ったけど notion使いづらい！！！ ちょっと資格一覧作ろうと リストを追加して、2列にしたいから自動で入る3列目消そう〜としたらリスト全部消える！！！ なんで？！！？ 何度やっても2列にはできない、、、！、！ 続きをみる",
+        "title": "転職への歩み①",
+        "url": "https://note.com/real_dunlin3007/n/ncb9cfbe1169a"
+      },
+      {
+        "id": "405bbdc4a77f6f87ec35c1e1efa90f490764bb30",
+        "published": "2026-07-19T17:08:46+00:00",
+        "source": "note",
+        "summary": "ほぼ猫です。 いやー、毎日あっついですねぇ。。 更年期世代のみなさん、ダダ漏れする汗とどう向き合っていますか？ よきアイデアがあったらぜひコメントで教えてください！ 続きをみる",
+        "title": "就活という名のもとに",
+        "url": "https://note.com/purewind824/n/n58d887a7342d"
+      },
+      {
+        "id": "f3d61ce627e389532ee6f1efbe954904aa63ceac",
+        "published": "2026-07-19T17:03:11+00:00",
+        "source": "note",
+        "summary": "「未経験歓迎」と書いてあるのに、なぜ書類選考すら通らないんだろう。 続きをみる",
+        "title": "「未経験歓迎」で応募したのに4社落ちた──転職エージェントが一切教えない「未経験OK」5つの落とし穴と面接で突破する確認スクリプト",
+        "url": "https://note.com/shiny_vole264/n/n1b2917b9c128"
+      },
+      {
+        "id": "7b497ce296cdab2cb463981c898ca920a213be1b",
+        "published": "2026-07-19T16:52:16+00:00",
+        "source": "note",
+        "summary": "無料AIツールの利用制限、地味に精神を削ってきますよね。「あと少しで解決しそうだったのに」というタイミングで止まると、本当にげんなりします。 この悩み、実は「課金するかどうか」自体より、 その都度悩む時間そのものがコスト になっているケースがほとんどです。この記事では、感覚ではなく基準で判断できるように、具体的な考え方を整理していきます。 続きをみる",
+        "title": "無料枠、また引っかかった。これって課金するべきサイン?",
+        "url": "https://note.com/around30monolog/n/n5c6008b4e854"
+      },
+      {
+        "id": "85f46613404f6eae3d7425dd47a245454ffb7418",
+        "published": "2026-07-19T16:41:30+00:00",
+        "source": "note",
+        "summary": "自分ひとりの面倒を見るのも大変だ。 家庭のある人に怒られちゃうかもしれないけど。 仕事から帰って、転職関連のことを考えているうちに遅くなって、掃除もろくに出来ないうちに寝落ちしてる。心身に疲れが溜まっている。この状態を長く続けるのは難しいはず。 それでも、今日（もう昨日）の仕事はまだ気持ちが楽だった。 ウマの合わない同僚に対して、ある程度の耐性がついて来たのかもしれない。 続きをみる",
+        "title": "ひっそり弱音。ちょっと疲れた。",
+        "url": "https://note.com/stellaaurea/n/ncda94265d220"
+      },
+      {
+        "id": "09760622a4c57f570c05ebba6ce3388473bdccdf",
+        "published": "2026-07-19T16:28:18+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "無職になった",
+        "url": "https://note.com/charm_oxalis9415/n/n592f78c81c82"
+      },
+      {
+        "id": "3e47e5c88c4a952d9815c99867c9b86ae92bc6d8",
+        "published": "2026-07-19T16:24:57+00:00",
+        "source": "note",
+        "summary": "退職日を決めたい。でも、自分しか分からない定期処理がある。 障害時に見る場所も、顧客から例外依頼が来たときの判断も、頭の中にしかない。後任はまだ決まっていない。決まったとしても、一か月で全部覚えられるとは思えない。 続きをみる",
+        "title": "完璧な引継ぎを待つ人は、いつまでも辞められへん",
+        "url": "https://note.com/jamesus_pm/n/na6f29c1cd14e"
+      },
+      {
+        "id": "14c6f3f23a42ef99f1db3bc60554b7885103b41a",
+        "published": "2026-07-19T16:18:06+00:00",
+        "source": "note",
+        "summary": "みなさん、こんばんゎ🤗✨️ 今日は本業のリゾバはおやすみで、 夕方から、違うホテルの バイトをやって来ました🍉🎶 実は、こちらの地域に引っ越してから、 本業のリゾバ以外にも、 3つのホテルさんでお仕事をする機会が あり、かなり経験値を 積めてるのデス☺️✌🐾 続きをみる",
+        "title": "インスタで伝えたリゾバ天国モードをシェア🌈✨️&リゾバ2回目の就活🐾",
+        "url": "https://note.com/gosto2525/n/n4f2cb1ab4198"
+      },
+      {
+        "id": "bc16a5f34fd144a487b3e856cb6d990d64bef280",
+        "published": "2026-07-19T16:10:23+00:00",
+        "source": "note",
+        "summary": "就活を始めると、必ずと言っていいほど耳にする言葉があります。 「まずは自己分析をしましょう。」 でも、私はこの言葉が一番分かりませんでした。 ネットで調べても、「モチベーショングラフを作ろう」「自分史を書こう」「過去を振り返ろう」といった情報がたくさん出てきます。 実際にやってみました。 でも、正直よく分かりませんでした。 過去を振り返っても、「だから何なんだろう」と思ってしまい、自分の強みも弱みも見えてきませんでした。 自己分析をすれば自己PRが書けるようになると思っていたのに、現実は何も変わりませんでした。 そんなときに気づいたことがあります。 自己…",
+        "title": "#3自己分析って、結局何をすればいいのか分からなかった。",
+        "url": "https://note.com/mikan_sukii/n/nc5cfda7d5a1f"
+      },
+      {
+        "id": "d91553113bdfa5724c9154ddefb7e55955530980",
+        "published": "2026-07-19T15:53:57+00:00",
+        "source": "note",
+        "summary": "就活を始めた頃、一番最初につまずいたのは自己PRでした。 「あなたの強みは何ですか？」 たった一文の質問なのに、何も思い浮かびませんでした。 キーボードの前で何十分も考えてみても、書けたのは「私の強みは…」まで。そこから先に進めませんでした。 周りを見ると、部活動で全国大会に出た人や、長期インターンをしていた人、留学経験がある人ばかりに見えて、「自分には話せるような経験なんてない」と思い込んでいました。 それでもESは提出しなければいけません。 ネットの記事を読んだり、就活サイトを見たりしましたが、「リーダーシップを発揮した経験を書きましょう」「数字を入…",
+        "title": "#2自己PRが1行も書けなかった。就活を始めた頃の話。",
+        "url": "https://note.com/mikan_sukii/n/nc363f613bf26"
       },
       {
         "id": "f05daf99b8d23cc96fbe0cd61932d45d35393924",
@@ -40,62 +128,6 @@
         "summary": "企業を褒める回答でも、学びたいことだけを並べる回答でもない。社会・業界の変化、企業の取り組み、確かめたい仕事、インターン中の貢献をつなぎ、40〜60秒で話せる回答を作ります。 サマーインターンの面接で、「なぜ当社のインターンを志望したのですか」と聞かれ、言葉に詰まっていないでしょうか。 続きをみる",
         "title": "【28卒】サマーインターン面接で「なぜ当社？」に答える方法｜企業研究から作る4ステップ",
         "url": "https://note.com/hr_marketing/n/n74ceeaf53cfc"
-      },
-      {
-        "id": "eaa68fb55e0fad76e13f01cbefa216fc3a504154",
-        "published": "2026-07-19T15:12:09+00:00",
-        "source": "note",
-        "summary": "社歴12年目。 今まで感じてた違和感を見て見ぬふりしてたけどもう限界。。 上司からの 監視されてるような言動を受けたり 挨拶云々の指導。。 続きをみる",
-        "title": "34歳で転職できるかな？",
-        "url": "https://note.com/real_dunlin3007/n/n8dcea68baba5"
-      },
-      {
-        "id": "6360f5ec1599fba3ffe253f96371abd0a9e4164f",
-        "published": "2026-07-19T15:06:29+00:00",
-        "source": "note",
-        "summary": "「この給料で家族を養っていけるのか」 新卒からずっと勤めていた会社。 続きをみる",
-        "title": "12年間、転職できなかった僕が動き出した理由",
-        "url": "https://note.com/tomokichi_note/n/ndb229f71b99a"
-      },
-      {
-        "id": "a1a83fe193da5a62a49dc3dcc861159eecbd2d87",
-        "published": "2026-07-19T15:06:08+00:00",
-        "source": "note",
-        "summary": "【タクシー日報】 🚕 8月度11出番中2回目 アプリのキャンセルがあるので実際の売上は1000円ほど少ないです 続きをみる",
-        "title": "2026年7月18日出番今回の戦績",
-        "url": "https://note.com/hitsujinotaxi/n/nba4f8b64fa58"
-      },
-      {
-        "id": "32a312b4d23a8ea54f724c0666ad2a461fd45bb9",
-        "published": "2026-07-19T15:00:25+00:00",
-        "source": "note",
-        "summary": "でも、 自分を話すのは苦手。 続きをみる",
-        "title": "コードは書ける。",
-        "url": "https://note.com/night_ramp/n/n30f62fb41ba8"
-      },
-      {
-        "id": "593e11e8b22c11f344b9ea5857a0d2d6e1839d9d",
-        "published": "2026-07-19T14:59:57+00:00",
-        "source": "note",
-        "summary": "昔勤めていた会社で、 上司によく言われていたことがある。 続きをみる",
-        "title": "仕事でアピールできなかった女",
-        "url": "https://note.com/palpepper/n/n4f173dc417bd"
-      },
-      {
-        "id": "30d3d50de95dfee5552a56d0583806d657fd4084",
-        "published": "2026-07-19T14:58:28+00:00",
-        "source": "note",
-        "summary": "どうも、外資系うさぎのちょこさんです。 まぁ、コンサルがバリューを出す一番のコツは、プロジェクトメンバー全員でクライアントオフィスに毎日詰めること、なんですけど、それはそれとし てリモートワークをせざるをえない環境も往々にして発生するものなので、そういうときにどういう振る舞いをするとパフォーマンスがマシになるのか 、軽く語っていきたいと思います。 続きをみる",
-        "title": "＜第92回＞コンサルがリモートワークでもバリューを出すコツは何？、って話",
-        "url": "https://note.com/choconejito/n/n614e8a021e36"
-      },
-      {
-        "id": "22bdb0056966c051495b3f01eb757d4e9d62e076",
-        "published": "2026-07-19T14:57:22+00:00",
-        "source": "note",
-        "summary": "「調剤も監査も一通りできるようになった。でもこのまま何でも屋で終わるのか」。中堅に差しかかった薬剤師が抱くこの問いへの答えの一つが、専門領域への転職です。 精神科、緩和ケア、感染症、がん、腎臓病。医療の高度化とともに、特定領域を深く担う薬剤師の需要は着実に伸びています。この記事では代表的な専門領域の需要と実態、転職前に必要な準備、そして専門化のやりがいとリスクをまとめます。 【なぜ今、専門領域なのか】 背景には医療構造の変化があります。チーム医療の浸透により、医師の負担軽減と医療の質向上の両面から、薬の専門家が治療方針に関与する場面が広がりました。病棟で…",
-        "title": "精神科・緩和ケア・感染症など専門領域への薬剤師転職",
-        "url": "https://note.com/chii_secretary2/n/n3259b36f1144"
       },
       {
         "id": "e2ec1218df6b444eddbb2cc85e6a5e239cd05e65",
@@ -144,30 +176,6 @@
         "summary": "止まっていた転職活動を無理なく動かす準備を整理 転職活動を始めたものの、仕事が忙しくなったり、選考が続いて疲れたりして、いったん止めることは珍しくありません。 続きをみる",
         "title": "30代エンジニアが転職活動を再開するときに見直したいこと",
         "url": "https://note.com/career_up_labo/n/n1a9477eaff25"
-      },
-      {
-        "id": "9634e1f4eada113a049f4e6e141c9ae5b20883e6",
-        "published": "2026-07-19T14:00:33+00:00",
-        "source": "note",
-        "summary": "「業界経験」から気づける可能性へのコメント 🎯 結論。 その仮説は妥当性が高いと思います。 給与計算アウトソーシング業界を受けた経験があれば、「間接部門を\"商品として外部に売る\"ビジネスモデル」に直接触れることになるため、営業/非営業の区分けへの気づきは、他の学生よりかなり得やすい はずです。ただし、そこから「新卒採用担当者の少人数構造」まで接続できるかは、また別のステップだと思います。 続きをみる",
-        "title": "「業界経験」から気づける可能性へのコメント 🎯 ▶️ ※生成AIが作成した記事",
-        "url": "https://note.com/kobuta2022es/n/nff7f1bfb837e"
-      },
-      {
-        "id": "e22991c52310a7824d287f113a251a15eb20b3b3",
-        "published": "2026-07-19T13:57:04+00:00",
-        "source": "note",
-        "summary": "なぜ学生は「人事部の構造」を推測しないのか 🎯 続きをみる",
-        "title": "なぜ学生は「人事部の構造」を推測しないのか 🎯結論。 ▶️ ※生成AIが作成した記事",
-        "url": "https://note.com/kobuta2022es/n/nd5a3f76fb8f9"
-      },
-      {
-        "id": "78ca36057632af3d2e2b170fcc7b1216018877b0",
-        "published": "2026-07-19T13:55:39+00:00",
-        "source": "note",
-        "summary": "今までの人生で1番自分について考えた期間である就活が先日終わりました。 大体のスケジュールはこんな感じでした↓ 続きをみる",
-        "title": "私の就活",
-        "url": "https://note.com/prime_pansy8440/n/na46c2ed1313b"
       },
       {
         "id": "6b8fb32142eba65e8268a25ae0c58f12128f8537",
@@ -240,14 +248,6 @@
         "summary": "記事概要 転職活動についてAIを用いて実施した体験記をメモ書きにて残してみた、そんな記事となります。 テーマ 私自身が転職活動について、AIを用いて進めて得たノウハウをまとめます。 想定読者 まず自己満足で書いています。 想定読者・・・役立ちそうな人としては以下となる...",
         "title": "AIを用いた就職活動",
         "url": "https://qiita.com/kamaitachi1216/items/97cb1f0910cfb1302e36"
-      },
-      {
-        "id": "2ff524f640fb100f862ac697fd5a77c5fca4e043",
-        "published": "2026-07-19T06:00:00+00:00",
-        "source": "note",
-        "summary": "「資格を取れば年収が上がる」——この言葉を信じて、私はこれまでに8つの資格を取ってきた。結論から言う。 資格で年収が上がるかどうかは、資格の種類ではなく「あなたの職種」でほぼ決まる 。 私が所属していた人材系の会社で、同世代の会社員・約200人の資格取得と年収の推移を7年間ゆるく追跡した記録がある。そこで見えたのは、同じ簿記2級でも年収が跳ねる人と1円も動かない人が、くっきり二分される事実だった。 続きをみる",
-        "title": "資格で年収上がる職種はどれ｜200人7年追跡の結論",
-        "url": "https://note.com/so_asakura/n/nbabbbba5518a"
       },
       {
         "id": "53a9ad9e2641c54b774e3017058224871b97e2da",
@@ -388,6 +388,86 @@
     ],
     "tech_global": [
       {
+        "id": "36b4c92f169d9c67bbfa16e94f1a54dd0552a7ed",
+        "published": "2026-07-19T18:10:12+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/ Comments URL: https://news.ycombinator.com/item?id=48970372 Points: 4 # Comments: 1",
+        "title": "Less Is More: Why Audio on SoundCloud Looks Different",
+        "url": "https://developers.soundcloud.com/blog/less-is-more-why-soundcloud-low-passes-its-aac-transcodings/"
+      },
+      {
+        "id": "c0ef7a87d4b35aa6e41d853f7f4accf3c2510d0d",
+        "published": "2026-07-19T17:35:54+00:00",
+        "source": "The Verge",
+        "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that []",
+        "title": "I hate that I don’t hate this song made with Suno",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+      },
+      {
+        "id": "bd25db19855fadb43636bd1009ad487d269338fc",
+        "published": "2026-07-19T17:32:41+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://sebsite.pw/w/20260708-badstdcxx.html Comments URL: https://news.ycombinator.com/item?id=48970039 Points: 12 # Comments: 0",
+        "title": "Neither GCC nor Clang are compliant with standard C++",
+        "url": "https://sebsite.pw/w/20260708-badstdcxx.html"
+      },
+      {
+        "id": "880ad923bb35b9185a8c337d177679934ce6eee1",
+        "published": "2026-07-19T17:25:03+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.hmd.com/en_int/hmd-touch-4g Comments URL: https://news.ycombinator.com/item?id=48969983 Points: 22 # Comments: 24",
+        "title": "HMD Touch 4G",
+        "url": "https://www.hmd.com/en_int/hmd-touch-4g"
+      },
+      {
+        "id": "cca06f216a0840ca3ea0262b409275fd25db2426",
+        "published": "2026-07-19T16:45:17+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired Comments URL: https://news.ycombinator.com/item?id=48969635 Points: 37 # Comments: 10",
+        "title": "The Last MPEG-4 Visual Patent Has Expired",
+        "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired"
+      },
+      {
+        "id": "b24925422d84d898a0225918d355edf65f43c1ea",
+        "published": "2026-07-19T16:42:10+00:00",
+        "source": "The Verge",
+        "summary": "According to the New York Times, federal agents have been told that the FBI will no longer be investigating confrontations involving ICE agents. The DHS and DOJ denied the change in policy to The Times. The reported change in guidance follows renewed scrutiny of violence by ICE a…",
+        "title": "The FBI reportedly won’t investigate ICE anymore",
+        "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults"
+      },
+      {
+        "id": "469534938abf31c7de86d27a7052ffe5f529844e",
+        "published": "2026-07-19T16:38:36+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes Comments URL: https://news.ycombinator.com/item?id=48969582 Points: 43 # Comments: 13",
+        "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+        "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes"
+      },
+      {
+        "id": "a815342d2d7c21e073afff3067a364331bef89f6",
+        "published": "2026-07-19T16:05:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "title": "TechCrunch Mobility: The battle over robotaxi rules",
+        "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/"
+      },
+      {
+        "id": "3aec985379c866b43df4ffacf75af348c8188a21",
+        "published": "2026-07-19T16:02:25+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://twitter.com/kimi_moonshot/status/2078855608565207130 Comments URL: https://news.ycombinator.com/item?id=48969291 Points: 52 # Comments: 11",
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
+      },
+      {
+        "id": "7fafa4d9fb2382f909308b501dcff9d2fa716cb5",
+        "published": "2026-07-19T15:20:22+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part8/ Comments URL: https://news.ycombinator.com/item?id=48968949 Points: 19 # Comments: 0",
+        "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+        "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/"
+      },
+      {
         "id": "bb53e49726a0260e1f2b6353aff098e6f0ea486f",
         "published": "2026-07-19T15:15:00+00:00",
         "source": "The Verge",
@@ -412,20 +492,28 @@
         "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
       },
       {
+        "id": "70389c25f14418917bd1c0a346be7b180994867c",
+        "published": "2026-07-19T14:41:16+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think. My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food d…",
+        "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+        "url": "https://news.ycombinator.com/item?id=48968606"
+      },
+      {
+        "id": "2890ae50bc8de25907daecac21cc611cd97cb90f",
+        "published": "2026-07-19T14:30:31+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip Comments URL: https://news.ycombinator.com/item?id=48968515 Points: 37 # Comments: 31",
+        "title": "Terence McKenna's Mega Bad Trip",
+        "url": "https://psychedelics.community/cultural-icons/terence-mckennas-mega-bad-trip"
+      },
+      {
         "id": "1c9d8dc321e9ca78ac85482264a0f80b300ab3b7",
         "published": "2026-07-19T14:20:48+00:00",
         "source": "The Verge",
         "summary": "The manosphere influencers Andrew and Tristan Tate were arrested Saturday in Miami by US Marshals in relation to new rape and sex trafficking charges in England. According to the Associated Press, British authorities are seeking the brothers' extradition. The new charges facing A…",
         "title": "US Marshals arrest the Tate brothers in Miami",
         "url": "https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami"
-      },
-      {
-        "id": "d82b8b48497d56db9d0d0115aa607c722b4ae4c9",
-        "published": "2026-07-19T14:07:07+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds Comments URL: https://news.ycombinator.com/item?id=48968348 Poin…",
-        "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-        "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
       },
       {
         "id": "c4619a8d04328df704618a0b48f42b0f4f1cd36a",
@@ -436,18 +524,10 @@
         "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/"
       },
       {
-        "id": "d65b43dabb1724eebe206a67bce45f5a8b17e665",
-        "published": "2026-07-19T13:30:01+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.cortex.io/drive Comments URL: https://news.ycombinator.com/item?id=48968067 Points: 12 # Comments: 6",
-        "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
-        "url": "https://www.cortex.io/drive"
-      },
-      {
         "id": "bb3e54afda916248862f1ec15eae0ff4639e8134",
         "published": "2026-07-19T13:29:29+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o Comments URL: https://news.ycombinator.com/item?id=48968063 Points: 20 # Comments: 14",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o Comments URL: https://news.ycombinator.com/item?id=48968063 Points: 64 # Comments: 44",
         "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
         "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o"
       },
@@ -460,28 +540,12 @@
         "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history"
       },
       {
-        "id": "d6b9f47c7cd900ac9db48dadd2c07661d4e05927",
-        "published": "2026-07-19T12:01:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48967355 Points: 69 # Comments: 77",
-        "title": "I burned all my tokens researching how to save tokens",
-        "url": "https://quesma.com/blog/custom-deep-research-pipeline/"
-      },
-      {
         "id": "e8328cb47dde7236705249b18e21d54d5107f985",
         "published": "2026-07-19T12:00:00+00:00",
         "source": "The Verge",
         "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started As a…",
         "title": "The future of physical games is not looking great",
         "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games"
-      },
-      {
-        "id": "cc3ee61a2a71a5489c051796e849ce1dbdebb608",
-        "published": "2026-07-19T11:48:18+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 115 # Comments: 67",
-        "title": "Minecraft: Java Edition now uses SDL3",
-        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4"
       },
       {
         "id": "7cdad1f0f777bae6731bf7236a265fd4cff0ca01",
@@ -492,52 +556,12 @@
         "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/"
       },
       {
-        "id": "7b5becad7e44223913ea5ef4f638e5d4e0fe5ab1",
-        "published": "2026-07-19T11:14:38+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/ Comments URL: https://news.ycombinator.com/item?id=48966984 Points: 54 # Comments: 27",
-        "title": "I joined the IndieWeb, here's what I learned",
-        "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/"
-      },
-      {
-        "id": "9b873a831c5cc4b7cb588382546a08b3c72c31b9",
-        "published": "2026-07-19T11:10:55+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/CaviraOSS/Akashic Comments URL: https://news.ycombinator.com/item?id=48966939 Points: 9 # Comments: 0",
-        "title": "Show HN: Akashic – A self-hosted intelligence workspace inspired by Palantir",
-        "url": "https://github.com/CaviraOSS/Akashic"
-      },
-      {
         "id": "e00be6f8d50984a0267b93844bd085286cb87dac",
         "published": "2026-07-19T11:00:00+00:00",
         "source": "The Verge",
         "summary": "On July 19th, dozens of teams of high school students will begin a five-day, 630-mile road race from Fort Worth to Fort Stockton in Texas. But this is not your typical contest. The students design and build the cars themselves, using off-the-shelf parts and 3D printed materials.…",
         "title": "The grueling, 630-mile road race where the only fuel is sunlight",
         "url": "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas"
-      },
-      {
-        "id": "17312165a5ba101272a505b463bc8ee759dee22f",
-        "published": "2026-07-19T10:44:31+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://sgt.hootr.club/blog/home-server-rebirth/ Comments URL: https://news.ycombinator.com/item?id=48966769 Points: 62 # Comments: 37",
-        "title": "The death and rebirth of my home server",
-        "url": "https://sgt.hootr.club/blog/home-server-rebirth/"
-      },
-      {
-        "id": "4eb6456b2e102365f0becac9faf0f65eddfb3486",
-        "published": "2026-07-19T10:34:58+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard Comments URL: https://news.ycombinator.com/item?id=48966713 Points: 202 # Comments: 101",
-        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"
-      },
-      {
-        "id": "375000db81982cc3612df2b8e5c836983719f548",
-        "published": "2026-07-19T10:03:23+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48966569 Points: 153 # Comments: 208",
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/"
       },
       {
         "id": "3d89d3a43d6e93b9235c122e263a4ac7bb7bb21a",
@@ -572,14 +596,6 @@
         "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak"
       },
       {
-        "id": "d673d2b3c6340c5644ea14f774e2792c888e8398",
-        "published": "2026-07-18T16:40:55+00:00",
-        "source": "The Verge",
-        "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration sudde…",
-        "title": "Google is open-sourcing its 3D emoji",
-        "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji"
-      },
-      {
         "id": "0d21095f485bbd16deeb25ae2fd7c84b3f35a31d",
         "published": "2026-07-18T16:30:00+00:00",
         "source": "TechCrunch",
@@ -594,14 +610,6 @@
         "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
         "title": "Federal employees can download TikTok on their work phones again",
         "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
-      },
-      {
-        "id": "ec733885aa226253462544b137c2e805491df680",
-        "published": "2026-07-18T15:00:00+00:00",
-        "source": "The Verge",
-        "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and Go…",
-        "title": "GoPros discounted Max 2 bundle includes $100 worth of accessories",
-        "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale"
       },
       {
         "id": "82db8090bc998e92ecc1d528877c1f0965a1ac7b",
@@ -634,14 +642,6 @@
         "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no furt…",
         "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
         "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/"
-      },
-      {
-        "id": "d9b5d61a316489947a1269619b882155cf49f3aa",
-        "published": "2026-07-17T22:55:09+00:00",
-        "source": "TechCrunch",
-        "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
       },
       {
         "id": "f1a853eaf42d3adb0a1048329d5e04570618995d",
@@ -1031,5 +1031,5 @@
       }
     ]
   },
-  "generated_at": "2026-07-19T15:42:28.406514+00:00"
+  "generated_at": "2026-07-19T18:43:22.719804+00:00"
 }
