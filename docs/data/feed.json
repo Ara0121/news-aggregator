@@ -2,12 +2,196 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "0ea8f8642a1a78c118dd944bfe3b962e1b4c6407",
-        "published": "2026-08-05T08:07:57+00:00",
+        "id": "f89e489c55d97a934c816700acebbbbf1393ce12",
+        "published": "2026-08-05T11:08:15+00:00",
         "source": "note",
-        "summary": "7月4日付けの読売新聞1面より。 https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260703-GYT1T00339/ 政府は企業と組んで大学に「契約学科」を5つ作るそうです。企業がお金を出し、大学と一緒に学科を設計する新しい仕組みです。卒業後は、その企業で活躍する道も想定されています。「大企業だけの話でしょう」と感じた方こそ、少し読み進めてください。中小企業にも、そっくり使える発想が隠れています。 続きをみる",
-        "title": "東大やソニーが始める「契約学科」｡中小企業も同じ方法で学生の心をつかめます",
-        "url": "https://note.com/takada188/n/n1e2bfcd1d88f"
+        "summary": "転職活動を始めて スーツを着て面接へ 黒いスーツが日を溜め込んで いつもより暑い 汗がダラダラ 夏の暑さが響く 長引く転職で暑さが心にも突き刺すようだ でも家に帰りお風呂に浸かって 部屋で涼むと汗をかいた分、なんだかスッキリ 明日ももう少しだけやれそうな気がする 続きをみる",
+        "title": "夏の暑さが響く｜転職奮闘記",
+        "url": "https://note.com/ukatensei/n/n64004e0b23d8"
+      },
+      {
+        "id": "b37deff0e8758091b1d9209b1202fe1319202e02",
+        "published": "2026-08-05T11:06:34+00:00",
+        "source": "note",
+        "summary": "面接で聞かれたこと、用意した答えが役に立たなかったこと【リハビリ職の転職】 前回、職務経歴書の書き方について書きました。書類が通ると、次は面接です。 続きをみる",
+        "title": "面接で聞かれたこと、用意した答えが役に立たなかったこと【リハビリ職の転職】",
+        "url": "https://note.com/rich_curlew770/n/n27afd3531ea0"
+      },
+      {
+        "id": "ae547fa316d3f571025f738e13389c0e2b88f674",
+        "published": "2026-08-05T11:06:23+00:00",
+        "source": "note",
+        "summary": "会議やテスト仕様書のレビューで、次のような言葉を聞くことがあります。 「この機能のテストケースを追加してください」 続きをみる",
+        "title": "【SE単語】テストケースとは？確認内容と期待結果を整理する基本単位をやさしく解説",
+        "url": "https://note.com/akatsuka_loveu/n/ne33d7f238e86"
+      },
+      {
+        "id": "a4baff2e3373ea99e3644487697bebca5919ddca",
+        "published": "2026-08-05T11:05:28+00:00",
+        "source": "note",
+        "summary": "こちらの記事はメンバーシップにて限定公開しております。 続きをみる",
+        "title": "【メン限】「もう大学職員辞めて民間に戻れよ」と思った話（というか言った話）",
+        "url": "https://note.com/tamatamauni/n/ned6d9fbb502e"
+      },
+      {
+        "id": "974e65c99fbbaf74093c99cb657ed4a5d6beba3b",
+        "published": "2026-08-05T11:03:28+00:00",
+        "source": "note",
+        "summary": "こんにちは、コテツです。 前回、私は「吐き気がするなら逃げろ」と言いました。 でも、現実的な問題として、私たちの足首をガッチリと掴んで離さない妖怪がいます。 続きをみる",
+        "title": "『50代・家族持ちのための「逃げる」技術｜会社を辞めても生き残る、生存戦略と金の話』第2回：会社を辞めずに給料をもらう。「傷病手当金」と「失業保険」という最強の盾",
+        "url": "https://note.com/kotetsu_0313/n/nc344bdf9bede"
+      },
+      {
+        "id": "c61f93479422b5de2b4d50d414a5846832ee4200",
+        "published": "2026-08-05T11:02:42+00:00",
+        "source": "note",
+        "summary": "今回の相談については、就職先ではなく、今後の動き方を相談すると言う話になります。 なので事前に整理して臨もうと思っていました。 続きをみる",
+        "title": "20260730ハロワ①",
+        "url": "https://note.com/blog_utsulife/n/n751eb5f84bbd"
+      },
+      {
+        "id": "d4aae9eb97a7dda5ab8e4d6274044e51816f614e",
+        "published": "2026-08-05T11:01:52+00:00",
+        "source": "note",
+        "summary": "「IT業界の面接で、AIについて何か聞かれたらどう答えればいいんだろう…」 「他の就活生と同じような回答をして、埋もれてしまわないか不安」 そんな悩みを抱えている就活中の大学生は多いのではないでしょうか。 AI時代に入り、IT業界の面接では「AIとどう向き合っているか」を見られる場面が明らかに増えています。しかも厄介なことに、聞かれる内容や見られているポイントは、1次面接・2次面接・最終面接で全く違います。 続きをみる",
+        "title": "IT業界の面接で「AI」について聞かれたら？人事に刺さる回答例5選【1次〜最終面接対策】",
+        "url": "https://note.com/honest_nishi1976/n/ndd9b793a7b55"
+      },
+      {
+        "id": "978c96db3981074b2870bc154c9f0f56430c764b",
+        "published": "2026-08-05T11:00:19+00:00",
+        "source": "note",
+        "summary": "みなさんごきげんよう。まいです。 人事として面接をしていると、開口一番こう言う人がいます。「自己肯定感が低くて、自分に自信がなくて…」 先に、意外な本音を書きます。 それ、面接では\"弱点\"とは限りません。むしろ得することがある。 続きをみる",
+        "title": "【人事の本音】“自信がない人”ほど、面接で受かることがある。人事の私が密かに加点している、たった一つのポイント",
+        "url": "https://note.com/mai_d_pro/n/n88c387f15192"
+      },
+      {
+        "id": "edf0462178f02bfdf303c7ad2311b667b5fd0943",
+        "published": "2026-08-05T11:00:18+00:00",
+        "source": "note",
+        "summary": "月曜日の朝、もう胃がキリキリしないか？「やっと人間らしい生活ができてる」俺が語る、地獄からの脱出 あなたは今、この瞬間も、重たい布団の中で目覚まし時計と格闘しているんじゃないか？ 続きをみる",
+        "title": "転職して初めて月曜日が嫌じゃなくなった",
+        "url": "https://note.com/makeinu_kun/n/nf797cde6bd37"
+      },
+      {
+        "id": "8f128a42662c015d024093dc690a27bae6adee6e",
+        "published": "2026-08-05T10:59:50+00:00",
+        "source": "note",
+        "summary": "もうすぐ半年、産業保健師に転職して良いところと悪いところがある。 続きをみる",
+        "title": "看護師とは違う環境。会社と言う決まりの中で働く残業保健師。",
+        "url": "https://note.com/fond_tapir1329ne/n/n4245cbe05efc"
+      },
+      {
+        "id": "259595facc09abc8ae65eb6744bf247b2cd35faf",
+        "published": "2026-08-05T10:58:59+00:00",
+        "source": "note",
+        "summary": "みなさんは電験三種と聞いて、「難しそう」「自分には無理かも」と思っていませんか？ でも、そんなことは全然ありません。 私は文系のFラン大学出身で、電工二種は持っていますが電気の知識はほぼゼロでした。 フレミングの法則やΩ（オーム）など、聞いたことはあってもよくわかっていません。 ですが、約1か月の勉強で4科目すべてに合格することができました。 電験三種はしっかり計画を立てて勉強すれば、1か月の学習期間で4科目すべてを合格ラインに到達させることができます。 たとえ一度で全科目合格できなくても、科目合格の有効期間が3年間あるため、その期間内で合格を目指すこと…",
+        "title": "電験三種を最短ルートで突破する方法",
+        "url": "https://note.com/dear_macaw3659/n/nbfda3929e82f"
+      },
+      {
+        "id": "23fe66eb8f237851e1b9167a54392d7efdda47f1",
+        "published": "2026-08-05T10:57:47+00:00",
+        "source": "note",
+        "summary": "変わることは、怖い━━。 １ 朝七起床。 九時オンラインで出社登録。 在宅でPCに向かったり、オンライン会議に出席する。 続きをみる",
+        "title": "光の街 勇気の一歩｜第2話 勇気のお弁当",
+        "url": "https://note.com/usagisantoka/n/n748e20376df1"
+      },
+      {
+        "id": "6b62a6e9070bd5d8bfac214d063c13bbb4487d4a",
+        "published": "2026-08-05T10:32:04+00:00",
+        "source": "note",
+        "summary": "皆さまこんばんは！めろすです。 昨夜は痛みでメンタルが下がっていましたが、今日はなんとか持ち直してきました。 さて、2日ぶりの本シリーズ第8話は【大学生編】となります！私のモラトリアムな時代をごゆるりとご覧くださいませ〜。 続きをみる",
+        "title": "【大学生編】私が36歳でADHD診断されるまでの生い立ち⑧",
+        "url": "https://note.com/elaphe_taeniura/n/nc1d561cc6a67"
+      },
+      {
+        "id": "229bfea3e533c14780c29f39b3104bbde96b666c",
+        "published": "2026-08-05T10:24:23+00:00",
+        "source": "note",
+        "summary": "はじめに 2025年12月、デロイト トーマツ グループの中核をなす3つの法人が統合され、「合同会社デロイト トーマツ」という一つの法人が誕生した。半年後の2026年6月には、コンサルティング出身者として同グループ史上初めてとなるCEOが就任している。監査法人を母体としながら、いまや収益の過半をコンサルティングが占める組織へと姿を変えつつあるこの巨大ファームは、何を土台に、どこへ向かおうとしているのか。 BIG4と呼ばれる4大会計事務所グループ(デロイト・PwC・EY・KPMG)は、いずれも監査という規制業種を出自に持ちながら、現在ではコンサルティング・…",
+        "title": "【企業分析】デロイト トーマツ グループ徹底解剖──世界最大のプロフェッショナルファームは、なぜ・どこへ向かうのか",
+        "url": "https://note.com/consulting_lab15/n/nb9ee71d1d76a"
+      },
+      {
+        "id": "c7b651ed0eeb6a4e87aaa3cdfdf25301b8f76d47",
+        "published": "2026-08-05T10:13:54+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "【28卒】面接でよく聞かれる100問｜三菱UFJ銀行 新卒面接の内容・対策",
+        "url": "https://note.com/dreamy_flax8291/n/ncaf86f2bc91d"
+      },
+      {
+        "id": "d9e6bce7dd9df7a29c4b33b34750c35690c9c23d",
+        "published": "2026-08-05T10:12:59+00:00",
+        "source": "note",
+        "summary": "サマーインターンの、選考結果が来ました。 「誠に残念ながら、今回はご期待に沿う結果と」。またこれだ、と思いました。インターンの、選考でした。本番の、就職の選考じゃない。夏の、ただの、インターンの。 それでも、けっこう、へこみました。 スマホを閉じて、しばらく、動けなくて。就活、まだ、始まってすらいないのに。その入口の、そのまた手前で、もう落とされてる。本番でこれなら、私、どうなるんだろう。そう思うと、これから何ヶ月も続く就活の、長さに、うんざりしました。 ◇ インターンくらいで、と思われる気がして、誰にも言えませんでした。 「たかがインターンでしょ」。自…",
+        "title": "# インターンで、落ちた。まだ始まってもないのに。",
+        "url": "https://note.com/akari_sterread/n/n04f86aaaeb94"
+      },
+      {
+        "id": "6603705882f9e8f2bc935ee7d4a335a6e24736a7",
+        "published": "2026-08-05T10:12:49+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜蔵王産業をどう理解するか 1．蔵王産業の本質 続きをみる",
+        "title": "【就職活動｜就活選考】蔵王産業｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nf9108addaebd"
+      },
+      {
+        "id": "65795009a2b7e7f05e169b67b43ef20d5534d82f",
+        "published": "2026-08-05T10:11:54+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜サイサンをどう理解するか 1．サイサンの本質 続きをみる",
+        "title": "【就職活動｜就活選考】サイサン｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/nb7006c78669d"
+      },
+      {
+        "id": "945765617330567d5a7f8b53662aa0e58eeaee16",
+        "published": "2026-08-05T10:10:48+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜サーラコーポレーションをどう理解するか 1．サーラコーポレーションの本質 続きをみる",
+        "title": "【就職活動｜就活選考】サーラコーポレーション｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n46927fe8504c"
+      },
+      {
+        "id": "fcbb6ab5b6f7c17425b932152fb9ed84251a174c",
+        "published": "2026-08-05T10:09:29+00:00",
+        "source": "note",
+        "summary": "企業研究・企業分析｜コンドーテックをどう理解するか 1．コンドーテックの本質 続きをみる",
+        "title": "【就職活動｜就活選考】コンドーテック｜企業研究・企業分析＋面接質問62選【就活｜就職活動｜転職活動｜企業研究｜企業分析｜採用｜面接｜転職｜社会人｜面接対策｜キャリア】",
+        "url": "https://note.com/nanimonokamaketa/n/n199d16bff721"
+      },
+      {
+        "id": "a7427422f9a756733a28cd9c46fa57efcfbd5e94",
+        "published": "2026-08-05T10:00:03+00:00",
+        "source": "note",
+        "summary": "こんばんは。 本日は、ITエンジニアが転職で実現したいことについて調査した記事を見つけたので、ご紹介します。 続きをみる",
+        "title": "木村真人が注目するITエンジニアが転職で実現したいことに関する実態調査",
+        "url": "https://note.com/kim42669/n/n990d584f3fb6"
+      },
+      {
+        "id": "915e005967c60fbbeadd9d4d6ab84e30739e5d0f",
+        "published": "2026-08-05T09:30:00+00:00",
+        "source": "note",
+        "summary": "ローカルのGPUを積んだ自作PCで、深夜までモデルを回す——そういう「個人開発の風景」は、あと1〜2年で確実に過去のものになる。断言する。 理由はシンプルで、LLMのファインチューニングや推論の主戦場が、手元のRTXから クラウドのA100/H100やマネージド環境 に移り切ったからだ。2026年のいま、個人でも Colab、RunPod、Modal、各社のFine-tuning APIを叩けば、数千円で数十億パラメータのモデルを触れる。手元でVRAMと格闘する意味が、急速に薄れている。 続きをみる",
+        "title": "自宅GPUを捨てた。クラウドLLM時代の神機材8選",
+        "url": "https://note.com/hiro____note/n/n8917e1043ed5"
+      },
+      {
+        "id": "fe1b2990c496725398301c843bc0041b0b491e39",
+        "published": "2026-08-05T08:23:57+00:00",
+        "source": "note",
+        "summary": "皆さんこんにちは！ 株式会社wild idea採用広報です！ お久しぶりです笑 「最近note更新してないですね！」 というお声をちらほらいただいておりまして、、、 気付けば前回の記事からかなり時間が空いてしまいました。 本当はもっと定期的に更新したいんです。 本当です。 本当なんです！！！ ただ、中の人も仕事をしているのでなかなか時間が取れず、、、 言い訳です。すみません笑 そんな中、 「最近のAIってどうなんですか？」 「エンジニアの仕事ってなくなるんですか？」 「今からエンジニアを目指しても大丈夫なんですか？」 というご質問をいただく機会が増えてき…",
+        "title": "AIに仕事を奪われる！？久しぶりの投稿です",
+        "url": "https://note.com/wildidea_saiyo/n/n9ff4c0b0ca1d"
+      },
+      {
+        "id": "6f1fe73d738cba1b7da07878a4d537106c0e5f81",
+        "published": "2026-08-05T08:15:43+00:00",
+        "source": "note",
+        "summary": "※本noteは弊社在籍エンジニアが執筆しております。 続きをみる",
+        "title": "エラーは失敗ではない！Java初学者が語る、成長し続けるエンジニアに必要なこと",
+        "url": "https://note.com/agile_harte8279/n/na682c1fd7e56"
       },
       {
         "id": "f4ac2d43b315b0789e5a01fd0c1915bd5e5a6b30",
@@ -18,156 +202,12 @@
         "url": "https://note.com/agile_harte8279/n/na3be856894c6"
       },
       {
-        "id": "6e26a0555a02a88e22ea4fa0d18ffe6eed5d635f",
-        "published": "2026-08-05T08:03:33+00:00",
-        "source": "note",
-        "summary": "目次 続きをみる",
-        "title": "生成AIに面接対策を「丸投げ」してみたら、想定外すぎる結果になった話",
-        "url": "https://note.com/huge_fairy212/n/n69930d942594"
-      },
-      {
-        "id": "2cdda5821b9b243576ed09b5b8e3a04980447d1f",
-        "published": "2026-08-05T07:59:15+00:00",
-        "source": "note",
-        "summary": "大学に入った時点で就活のことは見据えていた。1年生の時はサークルや文化祭に積極的に参加し、2年生の時は長期インターンや海外留学、早期選考に取り組み、、周りよりもいち早く就活に向き合ってる自負があったが早々に挫折した。 面接で失敗したとか、理想の企業に出会えなかったとか、決して就活で嫌な思いをしたわけではない。 一言でいえば、私は就活に向いていないと見切りをつけるのが早かった。 就活をする中で、私の理想とする働き方の輪郭が少しずつ浮き彫りになってきた。 それは、 ・夢中になれることをしてお金を稼ぎたい ・定期的にまとまった連休がほしい ・煩わしい人間関係が…",
-        "title": "就活してない大学4年生夏",
-        "url": "https://note.com/ripe_sable5401/n/n97fa7c883d25"
-      },
-      {
-        "id": "221de6e1860ac629676f90cef546fe39a468ceef",
-        "published": "2026-08-05T07:57:18+00:00",
-        "source": "note",
-        "summary": "『お仕事図鑑』は毎週火・水曜日に、『職種』と『業界』をテーマに記事を配信しています。キャリアの選択で企業を決める前に、ぜひ「職種」「業界」を知ってみてくださいね🪴 🌈お仕事図鑑 「面白そう！」を探してみませんか？｜児玉麗｜キャリアコンサルタント／HSPカウンセラー｜note 意外と『職種』って知らないかも？ 日本には18000もの職種が存在します、職種を知ることから就活や転職を始めてみませんか？ note.com 続きをみる",
-        "title": "🌈お仕事図鑑 『🛠️ 医療機器業界』ってどんなところ？ ～企業の顔ぶれと、そこで働く人の仕事～🪴",
-        "url": "https://note.com/olp2017/n/n5ec7d5c66feb"
-      },
-      {
-        "id": "cce102bb0f5e7dc59ac5d611890c836e00c8a6ae",
-        "published": "2026-08-05T07:56:53+00:00",
-        "source": "note",
-        "summary": "私、最近転職活動してません。 夏だし、、、 暑いし、、、 (小デブだし) 面談？ してません。 エントリー？ してません。 続きをみる",
-        "title": "自己分析したけど「で？」ってなった話",
-        "url": "https://note.com/shirome_haha/n/ne91c2758b864"
-      },
-      {
         "id": "cd527ddc1db92e73f22b1fe41e713e3208363aff",
         "published": "2026-08-05T07:50:21+00:00",
         "source": "note",
         "summary": "※本noteは弊社在籍エンジニアが執筆しております。 続きをみる",
         "title": "プログラミング学習は「小さな疑問」が鍵！AI時代に求められるエンジニアの思考法とは",
         "url": "https://note.com/agile_harte8279/n/n7c1c49284756"
-      },
-      {
-        "id": "8c6e9db700bc0fd15ad87fc354cf4afb91475f87",
-        "published": "2026-08-05T07:49:51+00:00",
-        "source": "note",
-        "summary": "「フルリモートで働きたい。」 そう思ったとき、 私が真っ先に思い浮かべたのは、 エンジニアやWebデザイナーなどのIT系の仕事でした。 「パソコンを使う専門職じゃないと難しいのかな。」 そういった類のことは一切してこなかった私にとって、エンジニア系の職種への未経験転職はなかなかにハードルが高く、一時期はそれだけで転職を諦めかけていましたし、 転職活動を始める前は、本気でそう思っていました。 でも実際に転職活動をしてみて知ったんです。 フルリモートで働ける仕事は、思っていたよりたくさんあることを。 続きをみる",
-        "title": "フルリモート＝ITだけじゃありませんでした。",
-        "url": "https://note.com/mirai_fulm_flex/n/na78620de0528"
-      },
-      {
-        "id": "de89f59e8554061b088e012270facc504673aeeb",
-        "published": "2026-08-05T07:46:02+00:00",
-        "source": "note",
-        "summary": "こんにちは！autumnです🍂 1ヶ月前から話が止まっていた、今後の働き方どうするのか問題ですが… ついに、転職することが決まりました。 続きをみる",
-        "title": "働き方を見つめ直して、転職を決めました",
-        "url": "https://note.com/autumn_oyatsu/n/n4976e2a47850"
-      },
-      {
-        "id": "eab84e1a68b525d2218c14ef7f043426a8112e3b",
-        "published": "2026-08-05T07:43:53+00:00",
-        "source": "note",
-        "summary": "最近、なんとなく余裕がない。 続きをみる",
-        "title": "「ハングリー精神」って、もう十分腹減ってるんだけど。",
-        "url": "https://note.com/cano246/n/nbe5e37753ea8"
-      },
-      {
-        "id": "063d22677eaa7f71ea415985b97b399f9d488d7e",
-        "published": "2026-08-05T07:40:25+00:00",
-        "source": "note",
-        "summary": "最終月のカリキュラム ・月曜日 AI実践実習 ・火曜日 AI実践実習 ・水曜日 キャリアアドバイス ・木曜日 AI実践実習 ・金曜日 AI実践実習 修了判定の課題、アプリの中身とプレゼンについてお話します。 入校初日のお話は下記からどうぞ！ 続きをみる",
-        "title": "職業訓練｜PythonとAIを学んで分かったこと（40代からの学び直し記録）【第11話】",
-        "url": "https://note.com/loyal_plover7096/n/n24425f70740a"
-      },
-      {
-        "id": "a1444e84a081117e9239b41f0ad4cf8c97746643",
-        "published": "2026-08-05T07:39:25+00:00",
-        "source": "note",
-        "summary": "「この会社、自分に合うかな？」 「入社しても馴染めるかな？」 就職や転職を考えるとき、多くの人が最後に気になるのはこの部分ではないでしょうか？ 続きをみる",
-        "title": "入社後に活躍する人に共通する3つの特徴🚀",
-        "url": "https://note.com/ubjob/n/n72e9622a3159"
-      },
-      {
-        "id": "783b6984309ba9298dc29c45585e7bac779716e0",
-        "published": "2026-08-05T07:37:32+00:00",
-        "source": "note",
-        "summary": "こんにちは、ナハトのあかりです！かつてテニスにすべてを捧げ、日本一に輝いた私が、社会人になって直面したのは“挑戦を止めて保守的になってしまった自分”への葛藤でした。 16年間続けたテニスの引退、安定した仕事からの決別。これは、そんな私の入社エントリです。 続きをみる",
-        "title": "テニスで日本一を獲った私が、再び「熱狂」できる場所を見つけるまで。",
-        "url": "https://note.nahato.co.jp/n/ne147a4746feb"
-      },
-      {
-        "id": "c542aa85d34a3ca767e7edbd2a82f559ccd4a7d2",
-        "published": "2026-08-05T07:32:06+00:00",
-        "source": "note",
-        "summary": "こんにちは、IKJ共感コミュニティースタッフの吉崎です。 夏休みに入って、こんな言葉を聞くことが増えてきませんか？ 「もうインターン行った？」 「自己分析やってる？」 「○○社のES出した？」 聞けば聞くほど、「自分も何か始めなきゃ。」と焦り始める。 でも、その一方で、「何から始めればいいんだろう、、、」 と思ったまま夏休みに入った人も、多いんじゃないでしょうか、、、😓 安心してください。 実は、夏休みにやることって、そんなに多くないんです！ 大事なのは、何をやるかではなく、 どんな”順番”でやるか 。 今日は、その順番だけ整理してみます。 続きをみる",
-        "title": "就活生の夏、何から始めればいい？“順番”だけ整理してみた",
-        "url": "https://note.com/debate_fes/n/nc188504aded4"
-      },
-      {
-        "id": "eb3a0aaa988e580d9900ee830abcc6d8965c87b2",
-        "published": "2026-08-05T07:31:47+00:00",
-        "source": "note",
-        "summary": "わたしは、どうやら就活の勝者になったらしい。とある大手金融機関にアクチュアリーとして内定をもらえたからである。 勿論「私の就職先くらいでは全然勝利ではない」という私よりも意識が高い人もいるのだろうけれども、とりわけアクチュアリー就活界隈では、「大手金融機関の内定」は就活の成功のようである。実際、就活関係の場でも、後輩向けに「大手のアクチュアリー内定者」としてお話しする機会もある。 でも、私は就活に関しては、少なくとも私の学歴やガクチカを踏まえれば、相当苦手な部類だと思っている。 続きをみる",
-        "title": "突然、就活の勝者側になったっぽい",
-        "url": "https://note.com/ching_sang/n/n8ee82e10ef95"
-      },
-      {
-        "id": "a54c29dcb977506dcd3be4a5f443770419b78afc",
-        "published": "2026-08-05T07:30:00+00:00",
-        "source": "note",
-        "summary": "こんにちは。 以前、60分の個別セッション「人生のピント調整」を始める告知記事を投稿させていただきました。 続きをみる",
-        "title": "60分セッション「変化のあとおし」始めます",
-        "url": "https://note.com/toko_inbetween/n/n0fcc7a36e86a"
-      },
-      {
-        "id": "16ef87c2fa5ab3d070da484cb04116ff1601b363",
-        "published": "2026-08-05T07:30:00+00:00",
-        "source": "note",
-        "summary": "「モニターは大きければ大きいほど正義」——コードを書く人ほど、この思い込みで一度は失敗します。 これはエンジニア、それも1日中エディタとターミナルとブラウザを行き来する人だけに向けた記事です。結論から言うと、コーディング効率を決めるのは インチ数（サイズ）ではなく縦横比（アスペクト比） 。ここを外すと、5万円かけても「なんか使いにくい」で終わります。 続きをみる",
-        "title": "コード書く人だけ読んで。モニターは縦横比が9割",
-        "url": "https://note.com/chiyo_choco/n/n1f0b55a359bb"
-      },
-      {
-        "id": "58bdff1e091b6deac6d77112ce1fb252b7ba56db",
-        "published": "2026-08-05T07:29:11+00:00",
-        "source": "note",
-        "summary": "「今の会社を辞めたら、自分は通用しないかもしれない」 そんな不安、抱えたことありませんか。 同じ会社で長く働くほど、社外での評価って分かりにくくなるんですよね。 頭の中で考え続けても、正確な答えはなかなか出てきません。 今回は、会社を辞めずに自分の現在地を確かめる方法を紹介していきます。 続きをみる",
-        "title": "「自分は他社で通用する？」考えるだけでは分からない現在地の確かめ方",
-        "url": "https://note.com/shou_10/n/n7b525ae22a39"
-      },
-      {
-        "id": "21435c8ff4ffddfa2196778f96216412ea1aada6",
-        "published": "2026-08-05T07:27:24+00:00",
-        "source": "note",
-        "summary": "スマホには 一通の通知が残っていた 「選考結果のお知らせ」 何度も開いた通知だから 内容はもう覚えている それでも なぜか削除できなかった 思い返せば 以前にも閉じられない通知があった 「すし県とやま」 あの日は その通知を閉じなかったことで 止まっていた時間が少しだけ動きはじめた 今回は その続きだった 続きをみる",
-        "title": "遠回りじゃなかった ― 閉じられなかった通知の そのあと ―",
-        "url": "https://note.com/robita_works/n/nf7babd641dac"
-      },
-      {
-        "id": "4f1de8d8a684171023daa2a3f361bcde989f6330",
-        "published": "2026-08-05T07:25:48+00:00",
-        "source": "note",
-        "summary": "「人事の本音。」シリーズ 採用担当として数多くの学生と向き合う中で感じたことを、人事の視点から本音でお伝えする連載です。 「受かるためのテクニック」ではなく、「後悔しない就職活動の考え方」をテーマにしています。 続きをみる",
-        "title": "【人事の本音。Vol.8】不合格は「あなたがダメ」という意味ではありません。人事が伝えたい採用の本当の考え方。",
-        "url": "https://note.com/tominaga_recruit/n/n5534ebbff9b7"
-      },
-      {
-        "id": "0f55c0782abed4ceba5c6b95dbe9f13268bd5e28",
-        "published": "2026-08-05T07:22:39+00:00",
-        "source": "note",
-        "summary": "今回は、賃金編のChapter4として、「評価給（役割給）の設計」についてお伝えします。 続きをみる",
-        "title": "Chapter4.評価給（役割給）はどう設計する？｜等級別の標準額・レンジ・昇給係数の決め方",
-        "url": "https://note.com/kyouei_kc/n/nc5d98eb75035"
       },
       {
         "id": "36b8433c7c2566f61db62a4294b5f7ad63aa59e3",
@@ -200,30 +240,6 @@
         "summary": "「銀行の社内SEって激務なんですか？」 金融業界は、 続きをみる",
         "title": "銀行の社内SEは激務？そう言われる理由や実態を解説",
         "url": "https://note.com/wizard_t/n/n4257adc1f34a"
-      },
-      {
-        "id": "cf40731d601959071f9f8de0c5e514be88b4b042",
-        "published": "2026-08-05T04:50:03+00:00",
-        "source": "note",
-        "summary": "1：風吹けば名無し：2026/08/04(火) 09:24:13.66 ID:ITBusy セキュリティエンジニアとか責任重すぎやろｗｗｗ 攻撃されたら全部こっちのせいになるやん… でも年収高いらしいな セキュリティエンジニアについて調べると、 続きをみる",
-        "title": "【なんJ】セキュリティエンジニアとかいう責任重すぎる仕事ww→引く手あまたで草",
-        "url": "https://note.com/wizard_t/n/n24b3d1c37036"
-      },
-      {
-        "id": "df2fecc008bc5e4f850eaa8b52a09842a5166a6d",
-        "published": "2026-08-05T04:02:29+00:00",
-        "source": "note",
-        "summary": "はじめに 続きをみる",
-        "title": "【SES脱出】教育・EdTech系SE完全攻略｜学習データ×アダプティブラーニングの成長市場を面接35問・職務経歴書例文5本で徹底解説",
-        "url": "https://note.com/lucky_duck906/n/nf92db4fff1e5"
-      },
-      {
-        "id": "45119dddf15d5156ba410faf6e2bf257e2ebb318",
-        "published": "2026-08-05T03:27:31+00:00",
-        "source": "note",
-        "summary": "1：風吹けば名無し：2026/08/04(火) 09:24:13.66 ID:ITBusy ネットワークエンジニアとかいう裏方ｗｗｗｗ 誰にも評価されんし終わりやろ 夜勤あるし障害対応あるし、正直きついわ CCNA取っても給料変わらんかった… 続きをみる",
-        "title": "【なんJ】ネットワークエンジニアとかいう地味すぎる仕事ww",
-        "url": "https://note.com/wizard_t/n/n498a50564b4b"
       },
       {
         "id": "53cb8fd413a27068a26fd8ac1512dac5fd269087",
@@ -372,6 +388,38 @@
     ],
     "tech_global": [
       {
+        "id": "d4da50e24d2116b4e2088d4778011ad0892042f8",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Mitti Labs plans to expand beyond India and enter the Philippines and Indonesia while growing its carbon credits and agricultural data business.",
+        "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient",
+        "url": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/"
+      },
+      {
+        "id": "40d8458ed3978a2333d60aa9bef82d3a4c468a58",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/"
+      },
+      {
+        "id": "11e770578e30dd847e7d8c0c9218cf2899f8e2db",
+        "published": "2026-08-05T10:38:57+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://jasmi.news/p/no-data-centers-in-my-backyard Comments URL: https://news.ycombinator.com/item?id=49180901 Points: 5 # Comments: 1",
+        "title": "No Data Centers in My Backyard",
+        "url": "https://jasmi.news/p/no-data-centers-in-my-backyard"
+      },
+      {
+        "id": "23670d9bbdd98852bbe933c403218c4c7979a1b3",
+        "published": "2026-08-05T09:15:33+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://calpaterson.com/helsinki-hn.html Comments URL: https://news.ycombinator.com/item?id=49180407 Points: 78 # Comments: 34",
+        "title": "Helsinki Hacker News Meetup",
+        "url": "https://calpaterson.com/helsinki-hn.html"
+      },
+      {
         "id": "c2350f8c7536cf7e1300f3ced087e5aaa1603cf2",
         "published": "2026-08-05T07:15:49+00:00",
         "source": "TechCrunch",
@@ -396,18 +444,10 @@
         "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company"
       },
       {
-        "id": "2e63953bef56f219e68b3127ca6fd74a1ea72f1f",
-        "published": "2026-08-05T05:52:24+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/ Comments URL: https://news.ycombinator.com/item?id=49179039 Points: 46 # Comments: 25",
-        "title": "Rust-lang/rust is adopting an LLM policy",
-        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/"
-      },
-      {
         "id": "d88745754c20397ed2cbc11ef559da8aa6d60cf4",
         "published": "2026-08-05T04:36:44+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 23 # Comments: 5",
+        "summary": "Article URL: https://arxiv.org/abs/2607.29377 Comments URL: https://news.ycombinator.com/item?id=49178608 Points: 51 # Comments: 10",
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377"
       },
@@ -415,23 +455,15 @@
         "id": "6d742f99acb545d8e2e9b8e7ceb64564749af1eb",
         "published": "2026-08-05T04:07:27+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 17 # Comments: 6",
+        "summary": "Article URL: https://github.com/Carloscodix/qapla Comments URL: https://news.ycombinator.com/item?id=49178464 Points: 36 # Comments: 13",
         "title": "An SLM trained on $8 ESP32-S3",
         "url": "https://github.com/Carloscodix/qapla"
-      },
-      {
-        "id": "64505a7b57d5cf33bf7888cc5744527542d63ea6",
-        "published": "2026-08-05T00:10:37+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 79 # Comments: 61",
-        "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-        "url": "https://arxiv.org/abs/2603.04221"
       },
       {
         "id": "e0640e6c757067ca6f7ef24cf0bf8aaf2be24c7e",
         "published": "2026-08-05T00:05:49+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 38 # Comments: 9",
+        "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 50 # Comments: 17",
         "title": "Bugtraq is back",
         "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/"
       },
@@ -439,7 +471,7 @@
         "id": "0779ce46143690f8b5f6c5295968979f5243abcf",
         "published": "2026-08-05T00:02:40+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 43 # Comments: 26",
+        "summary": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 53 # Comments: 38",
         "title": "Flowise is shutting down",
         "url": "https://flowiseai.com/sunset"
       },
@@ -447,7 +479,7 @@
         "id": "1a7a590593f0665d4ec59fa6ff57b5347475b3ee",
         "published": "2026-08-04T23:50:52+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 190 # Comments: 155",
+        "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 224 # Comments: 182",
         "title": "Eight Myths on Software Engineering and GenAI",
         "url": "https://queue.acm.org/detail.cfm?id=3807963"
       },
@@ -455,7 +487,7 @@
         "id": "57631661fc263aa398e93043574f85756019ee65",
         "published": "2026-08-04T23:31:46+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 94 # Comments: 14",
+        "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 122 # Comments: 17",
         "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
         "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/"
       },
@@ -471,7 +503,7 @@
         "id": "48188c3efa7033474ce355de7188799462ba18ba",
         "published": "2026-08-04T23:18:12+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 254 # Comments: 39",
+        "summary": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 290 # Comments: 66",
         "title": "libexpat now funded by the City of Munich for up to 6 months",
         "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/"
       },
@@ -596,22 +628,6 @@
         "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
       },
       {
-        "id": "ee6239399ce0e6097021c34551f81ad38d7d6204",
-        "published": "2026-08-04T19:48:40+00:00",
-        "source": "TechCrunch",
-        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
-      },
-      {
-        "id": "9964c3e16d1d0909cc6324368efb50ec1d328de9",
-        "published": "2026-08-04T19:34:34+00:00",
-        "source": "TechCrunch",
-        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
-        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
-      },
-      {
         "id": "f6e687ac3796bbf746877988982c2e0f809afe71",
         "published": "2026-08-04T19:11:05+00:00",
         "source": "The Verge",
@@ -694,6 +710,166 @@
     ],
     "tech_japan": [
       {
+        "id": "1c6538736729177cb7621482f59a576e1a645cac",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "パロアルトネットワークスの脅威研究部門「Unit 42」が、Googleパスワードマネージャーの同期パスキーに関する実装上の弱点を悪用する3種類の攻撃手法を報告しました。被害者のWindowsパソコンがマルウェアに感染している場合、本人の操作なしでパスキー認証を突破されたり、保存されているパスキーの秘密鍵をまとめて盗み出されたりする可能性があります。 続きを読む...",
+        "title": "Googleパスワードマネージャーの脆弱性を悪用してパスキー認証を突破する攻撃手法「Pass-ta-key」がセキュリティ企業によって報告される",
+        "url": "https://gigazine.net/news/20260805-pass-the-passkey/"
+      },
+      {
+        "id": "65abaefc4795145798579b4fa6da3b52d528f600",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "ゲーミングPC選びで迷う初心者に勧めたい「K2-PSK78X3D97XT」。ゲーム向けCPUと高性能GPU、32GBメモリを標準搭載し、細かなカスタマイズなしでも安心して選べる1台。",
+        "title": "初心者だからこそゲーミングPCの性能に余裕を！ Ryzen 7×RX 9070 XT搭載なら長く遊べる",
+        "url": "https://ascii.jp/elem/000/004/425/4425248/?rss"
+      },
+      {
+        "id": "0ab295fe92b205fb02b24476817116bbfc1e8266",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "アップルが開発しているとうわさのカメラを搭載したAirPodsが、早ければ今年9月にも発売される可能性が出てきた。",
+        "title": "アップル、カメラ付きAirPodsを年内投入か 早ければ9月に",
+        "url": "https://ascii.jp/elem/000/004/425/4425025/?rss"
+      },
+      {
+        "id": "86506544fa58bda1b0619bbf99b31ce007df5522",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "アップルはiPhoneとWindowsパソコンのあいだで文章などをコピー＆ペーストできる新機能を開発しているという。",
+        "title": "アップル、iPhoneからWindowsにコピペできる機能を開発中 報道",
+        "url": "https://ascii.jp/elem/000/004/425/4425023/?rss"
+      },
+      {
+        "id": "56c3cb0e082ddfd16079d578dfff00ed420f2204",
+        "published": "2026-08-05T11:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "アンカーのポータブル冷蔵庫「Anker Solix EverFrost 2 23L Electric Cooler」がAmazonタイムセール対象。参考価格99,990円のところ、45％オフの54,990円で販売中。最長約52時間の冷却持続時間を実現した23Lモデル。",
+        "title": "アンカーの23Lポータブル冷蔵庫がAmazonタイムセールで45％オフ！ 丸2日以上冷やせてスマホ充電まで可能",
+        "url": "https://ascii.jp/elem/000/004/424/4424890/?rss"
+      },
+      {
+        "id": "40acd258c5dc17c5f87c5f92cb1f36f03bdc96e7",
+        "published": "2026-08-05T10:51:43+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "「ブロックの状況を確認できる」とうたうWebサイトへの注意喚起がX上で広がっている。ITmedia NEWS編集部がソースコードを確認したところ、入力したIDとパスワードをそのまま外部のサーバへ送る作りで、表示する人数もランダムな数値だった。",
+        "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
+        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/"
+      },
+      {
+        "id": "6371c928079676e04f3dd1ee4dd12eb70f41977b",
+        "published": "2026-08-05T10:45:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "アメリカ政府が、AIブームを支えているインフラを安全保障上の脅威から守るため、光トランシーバーなど中国製のデータセンター向け機器の輸入を禁止する方向で検討していることがわかりました。 続きを読む...",
+        "title": "アメリカ政府が中国製データセンター向け機器の輸入を禁止する方針",
+        "url": "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/"
+      },
+      {
+        "id": "a11bf4ceacc160ce8c90642a85585d3fafb184a8",
+        "published": "2026-08-05T10:22:39+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
+        "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
+        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
+      },
+      {
+        "id": "31d04bfa5df0c781b3ef29fd753dd69d61b0c0b5",
+        "published": "2026-08-05T10:20:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "高速バス「WILLER EXPRESS」が20周年を記念したキャンペーンを実施します。 続きを読む...",
+        "title": "2026年8月5日のヘッドラインニュース",
+        "url": "https://gigazine.net/news/20260805-headline/"
+      },
+      {
+        "id": "a1a9e4910e154ac19c73d6df9b5fb1d73f583d6c",
+        "published": "2026-08-05T10:13:53+00:00",
+        "source": "PC Watch",
+        "summary": "VRAM 16GB以上のGPUを使うゲーマーがメインストリームとなりつつある。ゲームプラットフォームのSteamが毎月実施している「Steamハードウェア&ソフトウェア調査」の結果から明らかとなった。",
+        "title": "ゲーミングPCの主流はVRAM 8GBから16GBに。Steam調査でシェア逆転",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2130846.html"
+      },
+      {
+        "id": "9054e9f097a34f73f8118dfaaf33171e2d7166b4",
+        "published": "2026-08-05T10:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "近年は生成AIツールを業務に統合する動きが加速しており、中でもソフトウェア開発の現場ではコーディングAIの使用が一般化しています。そんな中でコンピューター雑誌のACM Queueが、ソフトウェア開発に関するAIについての主張にはマーケティング上のアピールや誤解が紛れているとして、ソフトウェアエンジニアリングと生成AIにまつわる「8つの誤解」についてまとめました。 続きを読む...",
+        "title": "ソフトウェアエンジニアリングと生成AIに関する「8つの誤解」とは？",
+        "url": "https://gigazine.net/news/20260805-8-myths-software-engineering-gen-ai/"
+      },
+      {
+        "id": "7683b45d84462771e035f674142cdc38ac6e787f",
+        "published": "2026-08-05T10:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "2026年8月5日、ハムスターは、Nintendo Switch 2／PlayStation 5向け「コンソールアーカイブス」にて、新規コンテンツとして『UFO -A day in the life-』を8月6日に配信すると発表。価格は1200円となる。",
+        "title": "『UFO -A day in the life-』がSwitch 2／PS5向け「コンソールアーカイブス」で8月6日に配信！",
+        "url": "https://ascii.jp/elem/000/004/425/4425094/?rss"
+      },
+      {
+        "id": "b49f47f6575f08ccddd80327c7d2a633f5d2ed6b",
+        "published": "2026-08-05T09:50:59+00:00",
+        "source": "ASCII.jp",
+        "summary": "【Kalodataウィークリー】日本TikTok Shop市場、大型セール終了後も日本TikTok Shop市場はGMV26.76億円を維持 食品・飲料は7月上旬比2倍超（7月27日週）",
+        "title": "【Kalodataウィークリー】日本TikTok Shop市場、大型セール終了後も日本TikTok Shop市場はGMV26.76億円を維持 食品・飲料は7月上旬比2倍超（7月27日週）",
+        "url": "https://ascii.jp/elem/000/004/425/4425253/?rss"
+      },
+      {
+        "id": "deb1ee1d7de5c226c8b6fc2321feecee382f39cd",
+        "published": "2026-08-05T09:40:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "【YouTube広告取扱実績 120件超】Shinker、最低出稿金額なしのYouTube広告運用代行サービスを更新で企業の認知活動を支援",
+        "title": "【YouTube広告取扱実績 120件超】Shinker、最低出稿金額なしのYouTube広告運用代行サービスを更新で企業の認知活動を支援",
+        "url": "https://ascii.jp/elem/000/004/425/4425252/?rss"
+      },
+      {
+        "id": "200023e98e99475f4d0836ce20bae6ae8c4e01de",
+        "published": "2026-08-05T09:10:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "コロプラは、本日2026年8月5日に開催された決算説明会にて、新作ゲーム『アクティブシネマ 369（ミロク）』をリリースすると発表。サービス時期など詳細は未定だ。",
+        "title": "コロプラが新作ゲーム『アクティブシネマ 369（ミロク）』をまもなくリリースすると発表！",
+        "url": "https://ascii.jp/elem/000/004/425/4425197/?rss"
+      },
+      {
+        "id": "087dc2000889edd745f5f75d5e4fa616183c519c",
+        "published": "2026-08-05T09:08:43+00:00",
+        "source": "ASCII.jp",
+        "summary": "デジタルツイン総合研究所、フィジカルAIの参照・オーケストレーション基盤「SHOKEI」をリリース",
+        "title": "デジタルツイン総合研究所、フィジカルAIの参照・オーケストレーション基盤「SHOKEI」をリリース",
+        "url": "https://ascii.jp/elem/000/004/425/4425250/?rss"
+      },
+      {
+        "id": "aa829e3b553861dcf48a47add73b5004b377c25c",
+        "published": "2026-08-05T09:05:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "2026年8月5日、NEOWIZは、アクションRPG『Lies of P：コンプリート エディション』をNintendo Switch 2向けに8月6日0時より配信すると発表。価格は7980円となる。",
+        "title": "Switch 2『Lies of P: コンプリート エディション』のDL版を8月6日0時より配信！DLC『Lies of P: Overture』も収録",
+        "url": "https://ascii.jp/elem/000/004/425/4425207/?rss"
+      },
+      {
+        "id": "6dfb46775dda1ab87931cdb0c4b6c45d8b21ee49",
+        "published": "2026-08-05T08:31:40+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "キオクシアは8月3日、CXL対応のメモリ拡張モジュール「KIOXIA XL1シリーズ」を発表した。フラッシュメモリでDRAMを補い、AIで膨らむデータセンターのメモリ需要に応える狙いだ。",
+        "title": "キオクシア、フラッシュメモリでメモリ容量を増やせるモジュール発表 DRAMの容量不足を補う",
+        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000400/"
+      },
+      {
+        "id": "364683fd4a7dacdd1a137a66a6afba3f152bcb9a",
+        "published": "2026-08-05T08:29:56+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "東芝テックはクラウド型基幹システム「ShopCraft」の手順書に管理アカウントを誤って記載し、顧客情報約38万件を特定の利用企業1社が閲覧できる状態にしていたと発表した。3日時点で閲覧や不正利用、被害は確認していない。",
+        "title": "管理アカウントを手順書に誤記載――東芝テック、顧客情報38万件が特定の1社から閲覧できる状態に",
+        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000399/"
+      },
+      {
+        "id": "b9edd0f018f3ae9ad1d34c90a233c4f3bcb963a0",
+        "published": "2026-08-05T08:06:12+00:00",
+        "source": "PC Watch",
+        "summary": "NVIDIAは8月4日(米国時間)、米国カリフォルニア州サンタクララで開催中の「Future of Memory and Storage(FMS)」において、GPUがCPUを介さずストレージへ直接アクセスし、マイクロ秒単位でデータを読み書きできる「cuFile API」のオープンソース化を発表した。あわせて、ストレージ業界全体を巻き込んだ新イニシアチブ「Storage-Next」の立ち上げと、その基盤となるデータアクセス技術「SCADA」の展開も示した。",
+        "title": "ストレージがメモリの延長になる。NVIDIA、cuFile APIをオープンソース化",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2130757.html"
+      },
+      {
         "id": "474ea4fe51772b6f420360a9f833597115a8ae22",
         "published": "2026-08-05T08:05:00+00:00",
         "source": "GIGAZINE",
@@ -702,92 +878,12 @@
         "url": "https://gigazine.net/news/20260805-apple-openai/"
       },
       {
-        "id": "0867f2c257e53f7c34c18855f8d87b760ee3e247",
-        "published": "2026-08-05T08:05:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。こちらは5本目です。",
-        "title": "いま本当に使えるSaaS 100選【定番編】 エントリー17～20はSansan、Chatwork【Tier付け】",
-        "url": "https://ascii.jp/elem/000/004/425/4425115/?rss"
-      },
-      {
-        "id": "1021103fef0086732af015424311d8958824014b",
-        "published": "2026-08-05T08:04:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。こちら4本目です。",
-        "title": "いま本当に使えるSaaS 100選【定番編】 エントリー13～16はkintoneやfreee【Tier付け】",
-        "url": "https://ascii.jp/elem/000/004/425/4425113/?rss"
-      },
-      {
-        "id": "f836a9cc2a1d683d2f27b23c20fadc726464857a",
-        "published": "2026-08-05T08:02:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。3本目はこちら。",
-        "title": "いま本当に使えるSaaS 100選【定番編】 エントリー9～12はChatGPT、Claude【Tier付け】",
-        "url": "https://ascii.jp/elem/000/004/425/4425112/?rss"
-      },
-      {
-        "id": "6dcb795615c2a9f772721043fb8b0cd0af140d98",
-        "published": "2026-08-05T08:01:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。2本目はこちら。",
-        "title": "いま本当に使えるSaaS 100選【定番編】 エントリー5～8はSlackやTeams、Zoom【Tier付け】",
-        "url": "https://ascii.jp/elem/000/004/425/4425096/?rss"
-      },
-      {
         "id": "6b098270f713c0fa357ae0cd4f33d6ca9bb93bc1",
         "published": "2026-08-05T08:00:00+00:00",
         "source": "GIGAZINE",
         "summary": "TBS系日曜劇場「VIVANT」と湖池屋がコラボした「VIVANTポテトチップス 乃木ののり塩／野崎のケバブ」が2026年7月27日に新登場しています。「VIVANT」を象徴する「日本」と「世界」に着目したフレーバーになっているとのことなので、実際に食べてどんな味わいなのか確かめてみました。 続きを読む...",
         "title": "人気ドラマ「VIVANT」とコラボした湖池屋のポテトチップス「乃木ののり塩」「野崎のケバブ」試食レビュー",
         "url": "https://gigazine.net/news/20260805-koikeya-vivant-potato-chips/"
-      },
-      {
-        "id": "d75c3ba9e1b79a3c52784048b532dbb1d16675fa",
-        "published": "2026-08-05T08:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "2026年8月5日、ハムスターはNintendo Switch／PlayStation 4向け「アーケードアーカイブス」と、Nintendo Switch 2／PlayStation 5／Xbox Series X|S向け「アーケードアーカイブス2」に、KONAMIの『コンバットスクール』を8月6日に配信すると発表。",
-        "title": "KONAMIの『コンバットスクール』が「アケアカ」＆「アケアカ2」で8月6日に配信決定！",
-        "url": "https://ascii.jp/elem/000/004/425/4425087/?rss"
-      },
-      {
-        "id": "2ace0857376fc3b0f32ccd7b7df9644981f043e4",
-        "published": "2026-08-05T08:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "カナダは最近、署名しました。国連サイバー犯罪条約は、サイバー犯罪と戦うための国際協力を強化し、重大な刑事事件における電子証拠の共有を促進することを目的とした包括的なグローバル条約です。",
-        "title": "サイバー犯罪阻止を目指す官民パートナーシップ、カナダが国連サイバー犯罪条約に署名",
-        "url": "https://ascii.jp/elem/000/004/424/4424893/?rss"
-      },
-      {
-        "id": "aed28678fc8b146e5be534f7febe8325ecf80841",
-        "published": "2026-08-05T08:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "ゼブラの「スタイラスツーウェイ」は、ボールペンとiPad用スタイラスペンが一体化した新発想アイテムです。持ち替えることなく紙のノートとiPadの両方にスムーズに文字を書き込めます。筆圧検知はありませんが、文字書き特化で紙とデジタルを併用する人の作業効率を格段に高めます。",
-        "title": "ボールペンなのにiPadにも紙と同じ滑らかさで書ける！ ありそうでなかったスゴイのを実際に試してみた",
-        "url": "https://ascii.jp/elem/000/004/424/4424887/?rss"
-      },
-      {
-        "id": "8c7b0778690cb3c10838fdb1d699493bdc763660",
-        "published": "2026-08-05T08:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "世の中に星の数ほどSaaSがあるが、本当に使えるSaaSはどれなのか？ いま本当に使えるSaaSを編集部で100本選抜。先行アンケートで得た情シスの意見を元に、編集部でTier付けしました。今回はその中の定番20本をリストアップし、1記事4本ずつ、計5本の特集として紹介していきます。こちらは1本目です。",
-        "title": "いま本当に使えるSaaS 100選【定番編】 エントリー1～4はMirosoft 365やSalesforce【Tier付け】",
-        "url": "https://ascii.jp/elem/000/004/424/4424022/?rss"
-      },
-      {
-        "id": "2fd8ac12e364b7f709ab3e1e239f3973ddee0de7",
-        "published": "2026-08-05T07:55:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "HoYoverseは、iOS／Android／PC（HoYoPlay／Epic Games Store）／PlayStation 5でサービス中の『崩壊：スターレイル』にて、本日2026年8月5日より、Ver.4.4後半をスタートしたと発表。",
-        "title": "『崩壊：スターレイル』Ver.4.4後半が本日8月5日よりスタート！",
-        "url": "https://ascii.jp/elem/000/004/425/4425175/?rss"
-      },
-      {
-        "id": "abe79746e02130ad767a67a25363d5ee1af64724",
-        "published": "2026-08-05T07:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "「今のスマホは高すぎ！」「10万円以上もするなら、もうスマホは買わない！」……そう思っている人にオススメなのが、ミドルクラスのスマホ。使い勝手も性能も高くて、しかも安い。ミドルクラスのスマホの選び方や編集部おすすめのベスト5の製品を紹介します。",
-        "title": "【決定版】ミドルクラスのスマートフォンのおすすめベスト5【2026年8月版】",
-        "url": "https://ascii.jp/elem/000/004/425/4425000/?rss"
       },
       {
         "id": "896a9d4f884857b23f33ed1ab6fa4025d6852d5e",
@@ -804,14 +900,6 @@
         "summary": "Windows 95/98っぽいレトロなUIのチャットアプリ「chat.exe」が登場しました。無料で誰でも使用可能だったので使ってみました。 続きを読む...",
         "title": "懐かしい見た目のチャットアプリ「chat.exe」が登場したので使ってみた",
         "url": "https://gigazine.net/news/20260805-chat-exe/"
-      },
-      {
-        "id": "a11bf4ceacc160ce8c90642a85585d3fafb184a8",
-        "published": "2026-08-05T06:30:51+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "イノベーションは8月4日、グループが使うGitHubの認証情報が漏えいし、第三者による不正アクセスを受けたと発表した。最大約6万件の氏名やメールアドレスが流出した可能性があるという。",
-        "title": "最大6万件の個人情報流出か 「ITトレンド」など運営のイノベーション、GitHubの認証情報漏えいで",
-        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000396/"
       },
       {
         "id": "6a70e6dcf360178bd6f712765f9f0cd056f2029d",
@@ -854,14 +942,6 @@
         "url": "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/"
       },
       {
-        "id": "0097e3ec2ce38d96ff1ef05272230877beafc08c",
-        "published": "2026-08-05T05:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "加齢に伴って記憶力・注意力・言語能力などが低下するのはよくあることですが、典型的な加齢の範囲を超えて軽度認知障害に移行すると、将来的にアルツハイマー病やその他認知症のリスクが高まります。そんな高齢者の記憶力低下を防ぐために、音読・手書き・計算を組み合わせた「1日30分の簡単な習慣」が役立つ可能性があるとの研究結果が報告されました。 続きを読む...",
-        "title": "1日30分の簡単な習慣で高齢者の認知機能低下を遅らせられるかもしれない",
-        "url": "https://gigazine.net/news/20260805-simple-routine-slow-cognitive-decline/"
-      },
-      {
         "id": "7cb1474811094b62c97788b8a821413a11bc88e7",
         "published": "2026-08-05T04:28:11+00:00",
         "source": "PC Watch",
@@ -892,22 +972,6 @@
         "summary": "さまざまなデバイスでの動作や移植が試みられている「Doom」だが、新たにWindowsの「ペイント」アプリ上でもプレイが可能になった。Microsoft AzureのCTOを務めるMark Russinovich氏が制作し、GitHubにて公開した「MS Paint Doom」にて実現されている。",
         "title": "ペイントで動くDoom登場！Ctrl+Zで時を戻せる。Microsoft幹部が制作",
         "url": "https://pc.watch.impress.co.jp/docs/news/2130673.html"
-      },
-      {
-        "id": "861751d9aa6b387ccebe93ff20729df118e4f5ee",
-        "published": "2026-08-05T03:35:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "世の中には蚊に刺されやすい人が存在しており、「複数人で同じ場所にいるのに、なぜか自分にばかり蚊が寄ってくる」と感じている人もいるはず。蚊が誰の腕に引き寄せられるのかを調べた実験により、蚊が寄ってきやすい人に多い体臭や細菌の種類が明らかになりました。 続きを読む...",
-        "title": "「蚊に刺されやすい人」に多い体臭や皮膚に存在する細菌の種類が明らかに",
-        "url": "https://gigazine.net/news/20260805-people-more-attractive-mosquitoes-microbiome/"
-      },
-      {
-        "id": "eeaf6be2ee0bce57f899ea88a79eb972f86d5d2f",
-        "published": "2026-08-05T03:25:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "MITからスピンオフしたAI企業・「Liquid AI」が、小型AIモデル「LFM2.5」シリーズのエージェント対応モデルとして「LFM2.5-2.6B」を2026年8月4日にリリースしました。スマートフォンで動作するほど小型でありながら、計画立案・ツール呼び出し・複数ステップのタスク処理といったエージェントワークフローを駆動できる十分な性能を備えているとのことです。 続きを読む...",
-        "title": "スマホで動作するエージェント対応小型AIモデル「LFM2.5-2.6B」が登場、ローカル環境でAIエージェントを実行可能",
-        "url": "https://gigazine.net/news/20260805-lfm2-5-2-6b/"
       },
       {
         "id": "b2ef61cb5a404e41863fd20f3aa0fb18395e4d6e",
@@ -942,30 +1006,6 @@
         "url": "https://pc.watch.impress.co.jp/docs/news/2130639.html"
       },
       {
-        "id": "a8a984512a540517539ce2d6df3774b0385d344b",
-        "published": "2026-08-05T02:25:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "JavaScript向けパッケージ管理サービス「npm」で、広く使われている数百個のパッケージに認証情報を盗むマルウェアが混入される大規模なサプライチェーン攻撃が発生しました。セキュリティ企業のAikido Securityによると、2026年8月4日までに侵害が確認されているのは少なくとも434パッケージの1381バージョンで、各パッケージの合計月間インストール数は20億回を超えているとのことです。 続きを読む...",
-        "title": "合計月間インストール数20億回超の人気npmパッケージ群を狙った大規模サプライチェーン攻撃が発生",
-        "url": "https://gigazine.net/news/20260805-npm-supply-chain-attack/"
-      },
-      {
-        "id": "2b967883f7c7abe47ba4b0ac76a8db9e752d2b90",
-        "published": "2026-08-05T02:24:23+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、PFUが手掛けるHappy Hacking Keyboard(HHKB)シリーズのポインティングスティック付きモデル「HHKB Studio」が、直近価格より2,200円引きとなる4万1,800円で販売されている。日本語配列/墨以外にも、英語配列や本体カラー雪など、全4種類の組み合わせが同じセール価格で販売されている。",
-        "title": "【本日みつけたお買い得品】ポインティングスティック付き「HHKB Studio」が2,200円オフ！",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130647.html"
-      },
-      {
-        "id": "97061b33a8041be075f13bc7167742918589dd88",
-        "published": "2026-08-05T02:12:19+00:00",
-        "source": "PC Watch",
-        "summary": "高価なDRAMを限界まで敷き詰めるか、速度を犠牲にしてSSDに頼るか。サーバー運用の現場を長く悩ませてきた「性能とコストのギャップ」に解決策がもたらされるかもしれない。",
-        "title": "キオクシア、メモリ不足をフラッシュメモリで補う拡張モジュール",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2130623.html"
-      },
-      {
         "id": "cf7f724e27a19884c192f40e90ce8bafb6c6f20f",
         "published": "2026-08-05T02:08:57+00:00",
         "source": "ITmedia NEWS",
@@ -988,32 +1028,8 @@
         "summary": "ゲオはコロナ禍の2021年にレトロゲームの販売を止めた。再開したのは半年ほど前で、店舗数は21年以前の1割しかない。しかし全体の売上はむしろ増えたという。",
         "title": "ゲオのレトロゲーム販売がみせた劇的な復活劇 店舗10分の1で売上1.4倍の秘密とは？",
         "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000384/"
-      },
-      {
-        "id": "559e30de0504bb6a5bfd0a112cd2452f63e996a6",
-        "published": "2026-08-04T22:16:06+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "OpenAIは、Appleが提起した営業秘密の不正取得訴訟に対し、公式ブログで全面的に反論した。Apple側の誤連絡や連絡不備をメールのやり取りを添えて指摘し、営業秘密の所有や利用を強く否定。一方、Appleは被告らの証人尋問や端末の複製データの提出などを求める仮処分を申し立てており、双方の主張が対立している。",
-        "title": "OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
-        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000387/"
-      },
-      {
-        "id": "ca92c6ea8e173f4806aa2a351eec4b7c727a0faa",
-        "published": "2026-08-04T22:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "東京大学国際高等研究所新世代感染症センターの古瀬祐気教授と東北大学大学院医学系研究科の田淵貴大准教授の研究チームが国際科学誌「Frontiers in Public Health」に発表した論文「Vaccine-related misinformation and attitude toward COVID-19 vaccination in Japan」は、ワクチンに関する誤情報をどの程度信じているかが新型コロナワクチンの接種意向とどう関連しているかを解析した研究報告だ。",
-        "title": "反ワクチン情報を信じる人の60％以上はワクチンを接種──東大と東北大が3万人を調査",
-        "url": "https://www.itmedia.co.jp/news/article/2608/05/2000000375/"
-      },
-      {
-        "id": "49ebef77183a14aca9da5db970e28921f9bb7c77",
-        "published": "2026-08-04T13:09:48+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "米Googleの日本法人が、新型Pixelスマートフォンの予約受付を8月12日午後11時に始めると告知した。新製品発表イベント「Made by Google」は翌13日午前7時を予定しているほか、同じ13日には、東京・表参道に日本初のGoogle直営店もオープンする。",
-        "title": "Google、新型スマホ「Pixel 11シリーズ」を予告 8月12日に予約購入スタート",
-        "url": "https://www.itmedia.co.jp/news/article/2608/04/2000000385/"
       }
     ]
   },
-  "generated_at": "2026-08-05T08:10:13.529332+00:00"
+  "generated_at": "2026-08-05T11:09:27.872628+00:00"
 }
