@@ -2,108 +2,196 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "2d73ad9eb28d622e244f35a2ae24bffc6d481486",
-        "published": "2026-08-30T14:00:51+00:00",
+        "id": "debda9f433f23548a4290d722849f27ee56eaa0d",
+        "published": "2026-08-30T18:10:46+00:00",
         "source": "note",
-        "summary": "生成AIを使えるようになれば、市場価値は上がる。 そう考えて、ChatGPTやClaudeを触ったり、AIでコードを書いたり、資料作成やリサーチを効率化したりしている人は多いと思います。 続きをみる",
-        "title": "AIが使えるだけの人材では企業は取らない。【企業垂涎の人材になるには】",
-        "url": "https://note.com/enayukimori/n/nff8706b7d957"
+        "summary": "半年前、仕事をやめました。 会社はうまくいかずわけでもあって、嫌なプロジェクト任されたわけでもあって、 とにかくやめちゃった。 会社からの眺め きついタスクからの息抜き 続きをみる",
+        "title": "[目標] 新しい仕事を頑張ります！",
+        "url": "https://note.com/lok_0807/n/n4317013e7f63"
+      },
+      {
+        "id": "d4d17c81037ebfb97ec544417bc44a41c2c4bf6b",
+        "published": "2026-08-30T17:49:46+00:00",
+        "source": "note",
+        "summary": "こんな人に読んでほしい 面接の逆質問タイムになると頭が真っ白になる人。「特にありません」と言うのも気まずいけど、良い質問が思いつかず毎回同じような質問でごまかしてしまっている人向けです。 こんな場面、ありませんか 続きをみる",
+        "title": "面接の最後「何か質問はありますか」で固まる人へ──逆質問を1個だけ用意する方法",
+        "url": "https://note.com/ample_lilac5816/n/n60b539aa3f96"
+      },
+      {
+        "id": "e53beb956fa82c4447fbb37b0ad0614f8a7e5ade",
+        "published": "2026-08-30T17:47:30+00:00",
+        "source": "note",
+        "summary": "「今年こそ手帳を使いこなしたい」と思って買ったのに、気づけば1月の数ページだけ書き込みがあって、あとは真っ白。そんな経験がある人は少なくないはずだ。原因は「続かない自分」ではなく、「用途に合わない手帳を選んでいた」ことにあるケースが多い。特に新卒〜5年目くらいのビジネスパーソンは、タスク管理・会議メモ・キャリアの棚卸しという複数の役割を1冊に詰め込もうとして、市販の固定フォーマット手帳では対応しきれなくなることがある。 【リフィル付き】システム手帳 A5 6穴 リフィル80枚付き PUレザー ビジネス ワインレッド ANY SELECT www.amaz…",
+        "title": "手帳選びで消耗していないか。用途別に考えるシステム手帳の判断基準",
+        "url": "https://note.com/haru_careers/n/n6cc59195cfb1"
+      },
+      {
+        "id": "ff324658ce5e142b32b518a0f16a55c01d774f41",
+        "published": "2026-08-30T17:46:54+00:00",
+        "source": "note",
+        "summary": "言ったことあるでしょ？ 転職したいけど「できない」 タバコはやめた方がいいってわかってるけど「できない」 お金、時間、場所がないから「できない」 続きをみる",
+        "title": "「できる」か「できない」で考えるのをやめてみませんか。",
+        "url": "https://note.com/parfait_42/n/n46f4dac4bcfb"
+      },
+      {
+        "id": "58268a7af663e8c0ee97f85ac82cd07617e75831",
+        "published": "2026-08-30T17:42:00+00:00",
+        "source": "note",
+        "summary": "人間は「認知的倹約家」である 最近、心理学の本を読んでいて、面白い言葉を知った。 続きをみる",
+        "title": "心理学から学ぶ「人を決めつけない」マネジメント術",
+        "url": "https://note.com/kurasota_/n/nbbcba96ca0de"
+      },
+      {
+        "id": "42b8c39a6ce5248fa0d4cdd3a48523d8c4f972f0",
+        "published": "2026-08-30T17:39:51+00:00",
+        "source": "note",
+        "summary": "続きをみる",
+        "title": "他社オファーを年収交渉に使う前に、確認しておく2つの条件",
+        "url": "https://note.com/income_raise/n/n25582ab57294"
+      },
+      {
+        "id": "bf0fa2d32883e127c3b2c0d64dbc5eea9be5f6fc",
+        "published": "2026-08-30T17:32:58+00:00",
+        "source": "note",
+        "summary": "「もう辞めたい」 そう思っているのに 上司を目の前にすると 伝えるのがとても怖くて、 勇気を出して言ったあとに返ってきたのは 「部署を変えてみるのはどう？」「何かストレス発散できることはない？」 という師長の言葉 いざ師長の目の前で そのように言われると 「……もう少し頑張ったほうがいいのかな」 と思ってしまう。 でも次の日になれば、やっぱり仕事に行くのがつらい。 そんな私は 新卒で入職した病院を、約半年で離れました。 配属されたのは循環器病棟。 新人で、まだできないことも、自信を持って判断できないことも たくさんありました。 それでも少しずつ夜勤が始ま…",
+        "title": "「辞めたい」のに辞められなかった。新卒半年で病院を辞めた私が、もう一度看護師として働けるまで",
+        "url": "https://note.com/rapid_oriole7061/n/nc4d7c79f2c7e"
+      },
+      {
+        "id": "f233171ca43355b5b51cce0853143d246844c3ca",
+        "published": "2026-08-30T17:25:51+00:00",
+        "source": "note",
+        "summary": "1. はじめに 続きをみる",
+        "title": "はじめまして。人事目線で「働くこと」についてゆるく発信していきます！",
+        "url": "https://note.com/iwa_jinji/n/nc262e05e2ac5"
+      },
+      {
+        "id": "2a904c49d3709d9e04d97d95401a564c3a25e0b9",
+        "published": "2026-08-30T17:17:44+00:00",
+        "source": "note",
+        "summary": "「私には、これといった強みがない」 転職やキャリアを考えたとき、そう思う人は少なくないと思う。 私も、昔はそうだった。 いくら頑張っても、何かで1位になれるわけじゃない。 社内で圧倒的な成果を出したわけでもない。 かつては、「これが私の強みです」と胸を張って言えるものなんて、ないと思っていた。 でも今、自分の転職活動を振り返ったり、友人知人の転職のアドバイスをしたりする中で、確信していることがある。 強みがない人なんて、いない。 ⸻ 「強み」は、人より優れていることではない 続きをみる",
+        "title": "「強みがない」と悩む人へ。「何もない」を「唯一無二」に変えるタグ付け思考法",
+        "url": "https://note.com/recruitment_maro/n/n4bb16505129e"
+      },
+      {
+        "id": "ed6b19550d5ba99bbe9ab19e8c990646a2644889",
+        "published": "2026-08-30T17:15:20+00:00",
+        "source": "note",
+        "summary": "ここにいちいち過去の具体エピソードを書き立てると文字数が間に合わないくらい、無数の小さな理由で自分に総合職は合わないと思ってる。 ASDに向いているとされる高度専門職系や技術系総合職も同じ。 続きをみる",
+        "title": "私の生きていきたい生活と人生の様式、障害者雇用、立ち位置を踏まえたプライベートでの私のあり方",
+        "url": "https://note.com/cool_knot3405/n/n6326db4646e8"
+      },
+      {
+        "id": "0953dc263df43ef0cfdba98b643527324a500dcf",
+        "published": "2026-08-30T17:03:29+00:00",
+        "source": "note",
+        "summary": "ガタゴトと規則的な振動を立てて走る列車の窓側の座席に腰掛け、健一はぼんやりと外を流れる景色を眺めていた。 ​窓ガラスの向こうには、午後のやわらかな日差しを浴びる見知らぬ街並みが広がっている。立ち並ぶ住宅の屋根、規則正しく続く電柱、時折すれ違う幹線道路の車列。そのどれもが、普段の生活圏とは異なる場所にあるはずなのに、どこか見覚えのある日常の断片のように思えた。 続きをみる",
+        "title": "列車の窓から何を見る ゴミ収集車の仕事編",
+        "url": "https://note.com/jazzy_newt6177/n/n5cceef9c0582"
+      },
+      {
+        "id": "0724b5437417018918d9ccda959d0b5a767b0da6",
+        "published": "2026-08-30T17:00:00+00:00",
+        "source": "note",
+        "summary": "2026年8月28日午前10時、壱番屋は「深夜料金の導入および一部トッピング価格改定に関するお知らせ」を発表しました。当方はこの適時開示そのものの原文PDFは確認できておらず、以下はこれを報じた日本経済新聞および通信社の記事にもとづきます。9月1日から、午後10時から午前5時までの店内飲食とテイクアウトの注文に一律7%が加算され、ポークカレー（店内646円）は691円になる見込みです。トッピングも44種のうち12種類で11円から60円値上げされます。 ここだけ見れば値上げのニュースですが、日本経済新聞の取材に葛原守社長が語ったのは「深夜帯などで営業を拡充…",
+        "title": "壱番屋で働くなら？ 国内1,205店のうち直営はたった123店、出世の終点は役員ではなく「独立」でした｜年収・出世・働き方・キャリア【2026年8月更新】",
+        "url": "https://note.com/corerise/n/n4731d1341607"
+      },
+      {
+        "id": "e7b59253b672d1f78afb561af85e01be68317889",
+        "published": "2026-08-30T16:36:02+00:00",
+        "source": "note",
+        "summary": "中学2年生のとき、家に「差押」と書かれた紙が貼られた。 父親の店が、うまくいっていなかった。 続きをみる",
+        "title": "「起業は怖い」と思っていた僕が、19歳で経営を始めた話。",
+        "url": "https://note.com/prime_agapan1154/n/n1f72bfaae55d"
+      },
+      {
+        "id": "9feebcaf0316eae048f3fd32d4f6f7dbf2b6932e",
+        "published": "2026-08-30T16:23:52+00:00",
+        "source": "note",
+        "summary": "１社目 某大手ディーラー 客商売なだけあって社員さんたちの人当たりがすこぶる良かった。本社も綺麗で印象はかなり良い。インターンの内容も良かった。堅すぎず、営業職に必要なスキルを楽しく学べる形になっていた。でもBtoCは私に向いてないかも‼️ｺﾞﾒにょーん‼️ グループワークは好調。６人×４グループ。多数決でリーダーに選ばれた。おそらく、自己紹介で情報処理能力について話したことが良かったのだと思われる。初めてのインターンだったのもあり戦々恐々ではあったが、議論の方向を自分の思うように持っていけるのが楽しかった。ワークは獲得ポイントをグループごとに競う形にな…",
+        "title": "早期インターンレポ",
+        "url": "https://note.com/melting_myth/n/n6efcf6c47cc3"
+      },
+      {
+        "id": "5d6505ef660cedf999aca2c6b804f9736c4a0290",
+        "published": "2026-08-30T16:17:38+00:00",
+        "source": "note",
+        "summary": "こんにちは 大学4年生のちさとです。 先日、就職活動が終了しました。 私は民間企業の就活と公務員試験を受けていたのでトータル1年半くらい就活をしていました。 続きをみる",
+        "title": "就活の資格の使い方",
+        "url": "https://note.com/vast_pipit8365/n/n92453624a7c1"
+      },
+      {
+        "id": "d0fbe6734faadbc4d985817cd1f4f82d46ec735c",
+        "published": "2026-08-30T15:51:11+00:00",
+        "source": "note",
+        "summary": "サイバーエージェントの企業研究・IR・選考・面接対策まとめ 就活前にこれだけ読めばOK サイバーエージェントを受けるにあたって、 「広告会社？ゲーム会社？ABEMAの会社？」 「結局どの事業が強い？」 「若手が活躍する会社って具体的にどういうこと？」 「面接ではガクチカをどこまで深掘りされる？」 「トライアウトやGDはどう対策すればいい？」 という人向けに、企業研究から選考・面接対策まで1本にまとめました。 この記事では、会社概要、主要事業、最新IR、給与・福利厚生、採用コース、選考の特徴、実際に聞かれている質問、志望動機、トライアウト、ゲーム企画職対策…",
+        "title": "【サイバーエージェント企業研究】ES•面接で聞かれることは？実際の質問から対策方法まで徹底整理＋想定質問100問",
+        "url": "https://note.com/right_thyme4271/n/nbb9a9fbde4d5"
+      },
+      {
+        "id": "aecf49ab1e0ed6cc127ca2c76398ac4a90ae880e",
+        "published": "2026-08-30T15:41:51+00:00",
+        "source": "note",
+        "summary": "単位が足りなくて、留年が決まりそうで、正直かなり焦ってる。そんな状態の人、この記事を開いた時点で結構いるんじゃないかと思う。 「本当にこのまま卒業できるのか」「内定が取り消されるんじゃないか」「親になんて言えばいいんだ」。こういう不安は、頭の中で膨らむ一方で、誰かに相談しにくい種類の悩みだったりする。 続きをみる",
+        "title": "留年で奨学金を使い込んだ、編入生のリアルな1年",
+        "url": "https://note.com/brisk_abelia9777/n/n4e4329c71e5a"
+      },
+      {
+        "id": "ef3b0e25bcc1113c5a941910e68d880954a4c315",
+        "published": "2026-08-30T15:41:42+00:00",
+        "source": "note",
+        "summary": "久しぶりにnoteを見返してみた。 2年ほど前だろうか、就活時代に書いたであろう記事が出てきたので今更だが公開してみる。 今この下書きを見て思うのは、“そんなに考えすぎなくてもいいんだよ”ってこと。 私の性格上、色々考えてすぎてしまうのだ。 その癖は今もきっと抜けていない。 けどこの頃は自分がこの先どうしたいか、どう生きたいかが真っ暗で、足掻くしかなかったんだよね。 よく頑張ったよあの頃の自分。 今はなんとか元気で社会人やってるよ。 続きをみる",
+        "title": "いつしかの下書き",
+        "url": "https://note.com/brainy_marten264/n/n0a6569767c01"
+      },
+      {
+        "id": "eceaa4e25b8f060b0c341a1b786b2bbb8b9fda07",
+        "published": "2026-08-30T15:41:22+00:00",
+        "source": "note",
+        "summary": "「茉莉さんに会ってみたいと思ったのは教職をめざしている、とアプリに書いていたからなんだよ。正直、 聖職者になろうとしている真面目な女性がなぜこの活動をしているのか 聞いてみたかったんだよ。」 二人が推しているアイドルグループの話題で「共鳴」が生まれたあと、私は一番気になっていたことを茉莉（まり）に聞いてみた。 彼女が口にしたその告白は、世間の良識（ロゴス）が聞けば眉をひそめるであろう、あまりに冷めた独白だった。 続きをみる",
+        "title": "第1章：茉莉 ｜ 聖職という名の亡命 第4話：空洞 ｜ 避難シェルターとしての教員免許",
+        "url": "https://note.com/evemaster_neo/n/n3fa515f38931"
+      },
+      {
+        "id": "86376f9d1401e215e4db66f3ca7fea4e3dd00994",
+        "published": "2026-08-30T15:37:55+00:00",
+        "source": "note",
+        "summary": "「夜間大学 学歴 意味ない」「夜間大学 就職 不利」。進学を決める前、私もこの手の言葉を何度も検索していた記憶がある。 結論から書くと、私は地方の商業高校を出て、そこから国立大学の夜間部（第二部）へ進んだ。卒業してから15年以上が経ち、今は都内で管理職をしている。年収は、夜間大学に通っていた頃の自分からは想像できない水準まで来た。具体的な数字は有料記事のほうに書いているが、少なくとも「夜間大学だったせいで頭打ちになった」という感覚は、今の私にはない。 続きをみる",
+        "title": "「夜間大学は学歴にならない」と言われて15年、実際にどうなったか",
+        "url": "https://note.com/orangeteam/n/n4910f43c5d40"
+      },
+      {
+        "id": "dd9f82830f1ae46311eff672b8e34c2a49c5a626",
+        "published": "2026-08-30T14:34:18+00:00",
+        "source": "note",
+        "summary": "前職の給料明細を見て、この数字は何歳になっても大して変わらないんだろうな、と天井を感じたのが26歳の少し前でした。当時の私が繰り返し検索していたのが「IT転職 何歳まで」で、今の年齢でも間に合うのかを確かめたくて、最終的に相談したのが 明光キャリアパートナーズ(エンジニア転職) でした。 続きをみる",
+        "title": "「IT転職は何歳まで」と検索していた頃の私に伝えたいこと",
+        "url": "https://note.com/nikonikonomi/n/n068b58a3a5c3"
+      },
+      {
+        "id": "7db507a383ef72a9443a18a99e1561b6365e6459",
+        "published": "2026-08-30T14:30:28+00:00",
+        "source": "note",
+        "summary": "🚀 ITエンジニアを目指すなら、まず突破すべき「登竜門」 基本情報技術者試験（FE）は、経済産業省が認定する国家資格「情報処理技術者試験」の中でも、IT業界への入り口として最も広く認知されている試験です。 続きをみる",
+        "title": "【2026年最新版】基本情報技術者試験（FE）科目A対策問題集 全248問｜テクノロジ系・マネジメント系・ストラテジ系を実際の出題比率で徹底演習🎯",
+        "url": "https://note.com/career_to_life/n/n24e493a82327"
+      },
+      {
+        "id": "7f39ca91bee9cd6fdf7577692f9fbb3c4ff8246d",
+        "published": "2026-08-30T14:06:14+00:00",
+        "source": "note",
+        "summary": "※この記事には広告（アフィリエイトリンク）が含まれています。 ※2026年8月30日時点の公式情報・公開情報をもとに作成しています。 ※筆者の利用体験ではなく、公式情報と第三者サイトの口コミを整理した記事です。 「フリーランスになれば、今より収入を上げられるかもしれない」 続きをみる",
+        "title": "Midworksの口コミ・評判は？やばい理由・デメリットと保障を調査【2026年】",
+        "url": "https://note.com/gentle_hosta3362/n/n1d396d21f222"
       },
       {
         "id": "b99db3a315b09f4a708b082c0081466b21b6bd3f",
         "published": "2026-08-30T13:59:59+00:00",
         "source": "note",
         "summary": "こんにちは、そのはです。 以前、私は「本業で昇級・昇進を狙うなら、どう目標を立てるか」という記事を書きました。 続きをみる",
-        "title": "評価されるエンジニアは「何ができるか」より「何を任されるか」",
+        "title": "評価されるエンジニアは「何ができるか」より「何を任せられるか」",
         "url": "https://note.com/sonoha966/n/n8db0d9c2b956"
-      },
-      {
-        "id": "c19b3ae56b4721cc7486eca7ce607a942e9a7f1c",
-        "published": "2026-08-30T13:52:45+00:00",
-        "source": "note",
-        "summary": "「もっと仕事ができるようになりたい」 続きをみる",
-        "title": "なぜ仕事で成長したいのか？「成長しなければならない」では続かない",
-        "url": "https://note.com/mimi20/n/ne5f5926a4024"
-      },
-      {
-        "id": "dc2f7f5c37847616ba57a9d7a799656f563bc491",
-        "published": "2026-08-30T13:52:29+00:00",
-        "source": "note",
-        "summary": "🐧 失業したときだけじゃない「雇用保険」7選 「雇用保険って、失業したときにもらうお金でしょ？」 そう思っていませんか？ もちろん、失業したときに受け取れる「基本手当」は、雇用保険の大切な制度です。 でも、実はそれだけではありません。 雇用保険には、 再就職、資格取得、育児、介護、リスキリング、60歳以降の働き方 など、さまざまな場面で利用できる給付があります。 つまり、 🐧 「働けなくなったとき」だけではなく、「働き方が変わったとき」にも役立つ制度 なんです。 そこで今回は、 🐧 失業したときだけじゃない「雇用保険」7選 を紹介します。 「雇用保険って…",
-        "title": "🐧 失業したときだけじゃない「雇用保険」7選",
-        "url": "https://note.com/askpentasujp/n/nd8907af52f5f"
-      },
-      {
-        "id": "ac3771f131a7c7045e3278e37829e606592465cd",
-        "published": "2026-08-30T13:51:42+00:00",
-        "source": "note",
-        "summary": "はじめに：なぜこの記事を書くのか 私は現在、Web開発エンジニアとして働いています。しかし、エンジニアリングやプログラムに昔から関わっていたわけではなく、学生時代は文系学部を卒業し、卒業後は自動車メーカーで国内営業として3年間働いていました。 続きをみる",
-        "title": "未経験からエンジニアになった私が、「本当についていけるのか」という不安にどう向き合ったか",
-        "url": "https://note.com/izoizo2000/n/nd91218c48385"
-      },
-      {
-        "id": "ee939acb50964d473008654b0aae63444cbfdb3d",
-        "published": "2026-08-30T13:49:52+00:00",
-        "source": "note",
-        "summary": "転職活動において、最も憂鬱な質問・・・ そのひとつは、「なぜ今の会社を辞めようと思ったのですか？」という退職理由の深掘りでしょう。 人間関係が最悪だったから。 毎日の残業で心身ともに限界だったから。 どれだけ成果を出しても給料が全く上がらないから。 仕事がルーティンばかりで全く面白くないから。 続きをみる",
-        "title": "「人間関係・残業・給与…」不満だらけの退職理由、本音を言ったら一発アウト？人事直伝！完全攻略ガイド",
-        "url": "https://note.com/tsumugi_career_/n/ne091fd87971d"
-      },
-      {
-        "id": "9b61c2ace054905cd0ed6d6bf4d303019e1f2d74",
-        "published": "2026-08-30T13:49:29+00:00",
-        "source": "note",
-        "summary": "「あと3年は我慢しろ」。言われた側は、たいてい黙ります。でも3年に根拠はあるのでしょうか。国の統計を3つ並べたうえで、続ける価値がある職場かを測る質問を用意しました。 続きをみる",
-        "title": "「あと3年は我慢」は本当に正しいのか？",
-        "url": "https://note.com/limber_rat979/n/n986aefab0e9c"
-      },
-      {
-        "id": "8b3a30a8daca6a105ce27a90f1b4defa51852d76",
-        "published": "2026-08-30T13:48:10+00:00",
-        "source": "note",
-        "summary": "転職を考え始めて、まず求人サイトを開こうとしている人へ。 求人を見る前に整理しておかないと、条件や職種名に引っ張られて「自分に合う選択」が見えにくくなることがあります。 この記事では、3,200名のキャリア相談を通じて見えてきた、求人を見る前に整理したいことをまとめます。 このnoteを読んでわかること 続きをみる",
-        "title": "3,200名のキャリア相談から見えた、求人を見る前に整理したいこと",
-        "url": "https://note.com/revista/n/n651dfe6482d5"
-      },
-      {
-        "id": "fd7fd33a81b5d8b0bf0f6cdd6431d64ce6ece980",
-        "published": "2026-08-30T13:47:23+00:00",
-        "source": "note",
-        "summary": "「退職代行」を使って会社を辞める人が増えているそうです。 利用経験のある企業が全体の8.7%。 続きをみる",
-        "title": "退職代行を使う人が増えているらしい。他人事とは思えなかった",
-        "url": "https://note.com/dear_dog9546/n/n83bf74b4f4e7"
-      },
-      {
-        "id": "65d32e2e0d44392c6b3ad7af576a7db48e3fdc94",
-        "published": "2026-08-30T13:45:45+00:00",
-        "source": "note",
-        "summary": "2026年度の最低賃金の目安が発表されました。 全国加重平均で55円アップの1,176円。 続きをみる",
-        "title": "最低賃金が1,176円に。それでも「収入の不安」が消えない理由",
-        "url": "https://note.com/dear_dog9546/n/n1366f8280063"
-      },
-      {
-        "id": "a6cde30aae5e60fd854e8c161f1e67422b66c8b0",
-        "published": "2026-08-30T13:44:25+00:00",
-        "source": "note",
-        "summary": "こんにちは。 株式会社cozmap エージェント事業部の求人広報担当です。 続きをみる",
-        "title": "【福山市の営業求人】富士薬品の配置薬ルート営業｜未経験歓迎・月給25万7,500円〜・転勤なし・面接1回",
-        "url": "https://note.com/cozmap/n/n45b9bdfd355a"
-      },
-      {
-        "id": "18e947e4515dbf941dd0834e811f6b611a50fb0d",
-        "published": "2026-08-30T13:42:59+00:00",
-        "source": "note",
-        "summary": "■ はじめに：周囲の応援こそが社会人合格の「最強の武器」になる 仕事を進めながら、公認会計士という途方もない難関試験に挑む。この決断を下しただけでも、本来なら自分を大いに褒めていいはずです。ですが、実際の受験生活はそんなに甘いものではありません。 続きをみる",
-        "title": "働きながら公認会計士突破！応援される社会人の勉強法",
-        "url": "https://note.com/cpa_mado/n/n117121eab908"
-      },
-      {
-        "id": "2f5a669b210c8f3db8c362a0ed22060e39b6389d",
-        "published": "2026-08-30T13:42:12+00:00",
-        "source": "note",
-        "summary": "お疲れ様です♪今週で8月も終わるということでなかなかに早い一ヶ月でした。今週も記録をしていきます！ 8/24 この日は行政書士試験の申込の締切日であった。しっかりと申し込みを行い、より一層受かろうとする気持ちが強くなった。今年受かる確率は今のところ3:7ぐらいであるが試験直前まで追い込んで確実に受かるような勉強をしたい。特に民法の債権 続きをみる",
-        "title": "28卒就活日記 8/24〜30",
-        "url": "https://note.com/apt_hippo3514/n/nd38a112e1f81"
       },
       {
         "id": "e688501ad62f03a0ae7c3f86518dfa472a276bce",
@@ -114,76 +202,12 @@
         "url": "https://note.com/hyuga_azusa/n/nc3cb98f33564"
       },
       {
-        "id": "62ee43b0c9910fffee706afc92fdacb4f1b968e3",
-        "published": "2026-08-30T13:33:36+00:00",
-        "source": "note",
-        "summary": "第1章｜まず直したい「ESの見せ方と構成」 僕がESで最初に意識してほしいと思うのが、 続きをみる",
-        "title": "夏インターンES11社中9社通過｜「内容は悪くないのに落ちる」就活生が見直すべき、ESの伝え方と構成",
-        "url": "https://note.com/innshi_goukaku/n/n9d485272e5fb"
-      },
-      {
-        "id": "3b07a6417bbdd5af0120f51e8322c0b52b4aa867",
-        "published": "2026-08-30T13:30:56+00:00",
-        "source": "note",
-        "summary": "こんにちは！ 就活で稼ぐ２２卒 ( Xアカウント＠Suｍkaf_22 )です。 稼げる就活サイトまとめ 大好評で嬉しい限りです。 登録するだけでAmazonギフトがもらえたり、 長い目で見るとかなり稼げるサイトなど、たくさんあります。 まだご覧になっていない方は、ぜひご覧ください。 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ 続きをみる",
-        "title": "💰就活でアマギフ💰8月中の登録でAmazonギフトがもらえる就活サイト紹介",
-        "url": "https://note.com/shukatsu_money/n/nc170efcc86e6"
-      },
-      {
-        "id": "ea939a0ffb94cbbd220a9938615b50a9efcf9543",
-        "published": "2026-08-30T13:28:05+00:00",
-        "source": "note",
-        "summary": "面接官が質問してから、候補者の画面に答えが出るまで最短2秒。値段は138元、日本円で約3,300円からで、2時間ほど使える。約9,500円のプランなら、答えを読む目線が不自然に見えないよう補正する機能まで付く。中国の大手通販サイト、タオバオで売られている「AI面接助手」だ。ある製品は販売数が60万本を超えた。 売られた相手もAIである。2026年の中国の銀行の新卒採用で、AI面接が筆記試験と対面面接のあいだに入った。作っているのは就活サービス大手のNowcoderなどで、過去3,000万回以上の試験・面接データで訓練され、10万人以上が同時に受けられる。…",
-        "title": "試験官もAIなら、カンニングもAIだ",
-        "url": "https://note.com/konno_masayuki/n/n77f972a454c4"
-      },
-      {
-        "id": "40c754f8da798b4acc9f99d42066fe48db3734e1",
-        "published": "2026-08-30T13:22:17+00:00",
-        "source": "note",
-        "summary": "カプコンの企業研究・IR・選考・面接対策まとめ 就活前にこれだけ読めばOK カプコンを受けるにあたって、 「モンハンやバイオが有名なのは知っているけど、企業として何が強い？」 「最新の業績は？」 「給料や福利厚生は？」 「選考では何を見られる？」 「面接ではどんなことを聞かれる？」 という人向けに、カプコンの企業研究から面接対策まで1本にまとめました。 この記事では、会社概要・主要IP・最新IR・待遇・採用・選考の特徴に加えて、有料部分では志望動機の作り方、IRの使い方、作品・ゲームについて聞かれた際の対策、逆質問、最終面接対策まで整理しています。 さら…",
-        "title": "【カプコン企業研究】面接で聞かれることは？実際の質問から対策方法まで徹底整理＋想定質問100問",
-        "url": "https://note.com/right_thyme4271/n/nb354f241eb06"
-      },
-      {
         "id": "0852a57d92c83ba730d3dea4898b445c5256c346",
         "published": "2026-08-30T13:21:30+00:00",
         "source": "note",
         "summary": "「フリーランスだと結婚できないのでは」という不安を持つ人は少なくないと思います。結論から言うと、自分の場合は大きな問題にはなりませんでした。理由はシンプルで、システムエンジニアとしての市場価値・将来性を示せたことと、貯蓄と投資をきちんとやっていて生活の土台に不安がなかったことの2つです。 自分は妻と付き合い始めた時点で、既にSESフリーランスとして独立していました。つまり自分にとってのハードルは「独立前に相手にどう伝えるか」ではなく、「フリーランスの自分と、この先結婚してもらえるか」でした。今回はそのときの話をまとめます。 続きをみる",
         "title": "【フリーランスは結婚できないと思ってた人へ】妻と付き合った時点で既にフリーランスだった自分が、結婚まで問題なかった理由",
         "url": "https://note.com/0kara_freelance/n/nbde70b0f1301"
-      },
-      {
-        "id": "a7b9919213ab4a71e7606a14056e59b6cc3b783d",
-        "published": "2026-08-30T13:18:43+00:00",
-        "source": "note",
-        "summary": "第1章 はじめに 続きをみる",
-        "title": "【完全版】政党職員という仕事——国民民主党党職員を読み解く",
-        "url": "https://note.com/ren_nagatacho/n/n5af935de2369"
-      },
-      {
-        "id": "eff432ac021c2e836dc4159f068fa8c9034ce025",
-        "published": "2026-08-30T13:18:23+00:00",
-        "source": "note",
-        "summary": "こんにちは。 前回の記事では、理系大学院生だった僕が、なぜ研究職や製薬企業ではなくコンサルを選んだのかについて書きました。 今回はその続きとして、実際に僕がPwCアドバイザリーの選考を受けるにあたって、どんな対策をしたのかについて書いていきます。 僕が受けたのは27卒の秋選考です。 ちなみに、僕は就活を始めた時点では、 ・コンサル知識ほぼゼロ ・GD経験ゼロ ・ケース面接経験ゼロ という状態でした。 そんな状態から、夏頃にコンサル就活を始め、PwCアドバイザリーから内定をいただきました。 そのため、この記事では「もともとコンサル志望で、ケース面接も経験豊…",
-        "title": "【27卒・秋選考】コンサル知識ゼロの理系院生がPwCアドバイザリーに内定するまでにやったこと",
-        "url": "https://note.com/hearty_hawk7005/n/na1becc108873"
-      },
-      {
-        "id": "ae782955caf790799d122d39a09501d8cc49e688",
-        "published": "2026-08-30T13:13:46+00:00",
-        "source": "note",
-        "summary": "みなさん、こんにちは。20代無職のくらげです。 今回は、アパレルのネットショッピングの倉庫での1日単発バイトの記録を、数回にわたって書いていきたいと思います。 夜は彼女と約束をしていたので、1日バイトで稼いでから待ち合わせの駅へ向かえるよう、その駅に近い勤務地を選びました。 当日は、前回と同じように駅前のロータリーから出るシャトルバスに乗るため、朝7時半に到着するよう家を出ました。 少し雨が降っていましたが、そのときは「まあ大丈夫だろう」くらいにしか思っていませんでした。 まさか、それが大天災のフラグになっているとは思いもしませんでした。 シャトルバスに…",
-        "title": "20代無職日記 VOL.44 嵐を呼ぶアパレル梱包バイト録① 出発と倉庫への到着。嵐の前の静けさ",
-        "url": "https://note.com/shinichi_579/n/n88957e5cfbad"
-      },
-      {
-        "id": "2d69870c89a73345ee48396774eccf7755a2ecfd",
-        "published": "2026-08-30T12:56:51+00:00",
-        "source": "note",
-        "summary": "USBに怯え、書類で撃沈し、年齢の重さを感じた一日。 ……でも、ちょっとだけ前に進んだ。 続きをみる",
-        "title": "✒️第11話｜USBで寿命が縮み、書類の壁を知った日",
-        "url": "https://note.com/lively_roses303/n/ne950a5570abd"
       },
       {
         "id": "88e71a3f1e806574f2f2e3b15b85bf24bb9ec757",
@@ -232,30 +256,6 @@
         "summary": "※本記事には広告・PRが含まれています。 掲載内容は公式サイトで2026年8月に確認した記載にもとづきます。 最新の情報は公式サイトでご確認ください。 名前が似ている2つのサービスです。 どちらもレバテックが運営していて、どちらもITエンジニア向け。 続きをみる",
         "title": "レバテックキャリアとレバテックダイレクトの違い｜「相談相手が要るか」で決まります",
         "url": "https://note.com/career_tenshoku_/n/n3d6c557a197d"
-      },
-      {
-        "id": "6b1e8cf3b648a688e212d4409ef6d0ec3f76fec5",
-        "published": "2026-08-30T09:23:04+00:00",
-        "source": "note",
-        "summary": "はじめに 「未経験エンジニアはいらない」——そんな言葉をSNSや転職サイトで見て、不安になったことはありませんか。 続きをみる",
-        "title": "未経験からのエンジニア転職、2026年に「受かる人」と「落ち続ける人」を分ける5つの判断基準",
-        "url": "https://note.com/tenshoku_labo/n/n3d031bfda0c3"
-      },
-      {
-        "id": "dab89ec7d4419c99893d06b35911a5c3552f44a4",
-        "published": "2026-08-30T07:43:58+00:00",
-        "source": "note",
-        "summary": "就活のとき、自分は文系総合職を狙っていました。結果は惨敗です。筆記はともかく、面接がまるでダメでした。対人スキルのなさが、面接という場では容赦なく露呈します。何を話せばいいか分からず、当たり障りのない受け答えをして、そのまま落ちる。その繰り返しでした。 そこで方針転換してエンジニアを目指すことにしたのですが、結果的にこれが自分にとっては大正解でした。ASD傾向のある人間にとって、開発のITエンジニアという職種は、かなり狙い目なんじゃないか。今日はそういう話を書きます。あくまで自分の実感ベースなので、断定するつもりはありません。 続きをみる",
-        "title": "ASDにとって開発のITエンジニアは狙い目です",
-        "url": "https://note.com/7100natt/n/n23b16c05f12a"
-      },
-      {
-        "id": "2f32ce65d3124ed9d774ed82d4101f388ea94c25",
-        "published": "2026-08-30T04:03:03+00:00",
-        "source": "note",
-        "summary": "求人票に「フレックス」「リモート可」と書かれていても、オンコールや障害対応の実態までは見えません。 オンコールがあること自体は悪いことではありません。重要なサービスを支える仕事では、担当が必要になる場面もあります。ただし、頻度、呼び出しの基準、手当、翌日の扱いが曖昧なまま入社すると、想定していた働き方とのずれが大きくなります。 続きをみる",
-        "title": "30代エンジニアが転職前に「オンコール」を確認したい理由｜面接で聞くべき5つの質問",
-        "url": "https://note.com/career_up_labo/n/n4b1291bdd744"
       },
       {
         "id": "3d7c7f846e071f4205f925b20f05e55e033d3edc",
@@ -388,6 +388,118 @@
     ],
     "tech_global": [
       {
+        "id": "6605f992091484696e004e4025f09d4fdf9bd106",
+        "published": "2026-08-30T17:32:31+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget Comments URL: https://news.ycombinator.com/item?id=49500817 Points: 6 # Comments: 0",
+        "title": "'They shot all their weapons; they trashed their ships; they ran out of money'",
+        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-iran-war-navy-budget"
+      },
+      {
+        "id": "9cd0ea0c4e986e4a81d94582a628210a783aae55",
+        "published": "2026-08-30T17:01:56+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1 Comments URL: https://news.ycombinator.com/item?id=49500471 Points: 0 # Comments: 0",
+        "title": "Artie (YC S23) Is Hiring Technical AES",
+        "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1"
+      },
+      {
+        "id": "a05533f3a7101e0850feed543f6b067f934dd8c4",
+        "published": "2026-08-30T16:54:25+00:00",
+        "source": "TechCrunch",
+        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gon…",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+      },
+      {
+        "id": "501f81f3d6026ce17fd9593d34b9536083ae36a7",
+        "published": "2026-08-30T16:36:39+00:00",
+        "source": "The Verge",
+        "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will…",
+        "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+        "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch"
+      },
+      {
+        "id": "b89143fbd6df8e077a23525d9b0ec6b2cade01c0",
+        "published": "2026-08-30T16:03:17+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 31 # Comments: 13",
+        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+        "url": "https://komoroske.com/slime-mold/"
+      },
+      {
+        "id": "526c740386423a2b12b928ea240adb751c7c110e",
+        "published": "2026-08-30T16:03:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+        "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+      },
+      {
+        "id": "e3b8bb2b25ab16b5d2b83074c1047bd485325288",
+        "published": "2026-08-30T16:01:10+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 94 # Comments: 21",
+        "title": "Haiku R1/beta6 has been released",
+        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
+      },
+      {
+        "id": "53ff405eed5a757fd93b5b99e21c37d04ad83d85",
+        "published": "2026-08-30T15:59:49+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 177 # Comments: 154",
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "url": "https://0xcc.io/posts/omarchy-root-creds/"
+      },
+      {
+        "id": "4538153b570fcc0ee2cd9fb3b9c2b3ddafe64ff4",
+        "published": "2026-08-30T15:35:10+00:00",
+        "source": "The Verge",
+        "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was prima…",
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      },
+      {
+        "id": "2de30eebda327685392186d9bfcb178c4d57d8cd",
+        "published": "2026-08-30T15:12:40+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49499394 Points: 159 # Comments: 44",
+        "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+        "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement"
+      },
+      {
+        "id": "d427202242767fe7923ecfffa4b5bb711b8b31c9",
+        "published": "2026-08-30T15:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+      },
+      {
+        "id": "18f241fe65da026fabc0aaa24be20abf7ee7f147",
+        "published": "2026-08-30T14:41:53+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 29 # Comments: 3",
+        "title": "Zig: Pointer Stability for ArrayLists",
+        "url": "https://ziglang.org/devlog/2026/#2026-08-27"
+      },
+      {
+        "id": "bb588c77274375f48937d9e883dd01231f029a30",
+        "published": "2026-08-30T14:29:25+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/ Comments URL: https://news.ycombinator.com/item?id=49498978 Points: 114 # Comments: 119",
+        "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+        "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/"
+      },
+      {
+        "id": "be3448202bf0fd5fdb27bf8f4a2281586f82359b",
+        "published": "2026-08-30T14:06:54+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/ Comments URL: https://news.ycombinator.com/item?id=49498787 Points: 39 # Comments: 15",
+        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/"
+      },
+      {
         "id": "b1152b5f74583f62971a23085abbde8507df2211",
         "published": "2026-08-30T13:00:00+00:00",
         "source": "The Verge",
@@ -399,25 +511,9 @@
         "id": "773e61521fea20631c07841f005438974cd41062",
         "published": "2026-08-30T12:50:54+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 70 # Comments: 72",
+        "summary": "Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 116 # Comments: 143",
         "title": "Claude Session URL appended to commit messages and PR descriptions by default",
         "url": "https://github.com/anthropics/claude-code/issues/66504"
-      },
-      {
-        "id": "0b6d16077f2e778fcf45867a92cb3bcb965d938a",
-        "published": "2026-08-30T12:13:38+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/ Comments URL: https://news.ycombinator.com/item?id=49498002 Points: 11 #…",
-        "title": "Leak of Internal Valve Data",
-        "url": "https://www.pcgamer.com/games/fps/a-massive-cache-of-valve-data-has-reportedly-leaked-online-appearing-to-include-portal-2s-elusive-beta-build-and-a-potential-weapon-from-half-life-2-episode-3/"
-      },
-      {
-        "id": "de5edf944ee5cdf3df3527abcfd5d39bfda80f6a",
-        "published": "2026-08-30T12:02:09+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/fugue-labs/monty-go Comments URL: https://news.ycombinator.com/item?id=49497928 Points: 21 # Comments: 1",
-        "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-        "url": "https://github.com/fugue-labs/monty-go"
       },
       {
         "id": "9338b4f902feda98d42b37e7602ea6f978a059d0",
@@ -436,68 +532,12 @@
         "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera"
       },
       {
-        "id": "1482aaa525c2947dfbeb550deba21aed50beb441",
-        "published": "2026-08-30T11:46:23+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://smoores.dev/post/automating_immersive_reading/ Comments URL: https://news.ycombinator.com/item?id=49497854 Points: 16 # Comments: 7",
-        "title": "Automating Immersive Reading",
-        "url": "https://smoores.dev/post/automating_immersive_reading/"
-      },
-      {
-        "id": "3d35876a920624261f9e3619574875d8af90ae89",
-        "published": "2026-08-30T11:41:40+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.muppetlabs.com/~breadbox/software/windows.html Comments URL: https://news.ycombinator.com/item?id=49497819 Points: 16 # Comments: 1",
-        "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-        "url": "https://www.muppetlabs.com/~breadbox/software/windows.html"
-      },
-      {
-        "id": "1789eb09a1d72ad827d5bcdab39d344be4afbac0",
-        "published": "2026-08-30T11:39:43+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 55 # Comments: 16",
-        "title": "Hacking IKEA Furniture",
-        "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/"
-      },
-      {
         "id": "ce11c9b872b55c7e5d9f870d25f6ca9ee42e06e9",
         "published": "2026-08-30T11:03:47+00:00",
         "source": "Ars Technica",
         "summary": "The company is testing robots on tasks that can performed by technicians.",
         "title": "Inside Meta’s push to put robots to work in data centers",
         "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
-      },
-      {
-        "id": "1190010667fbcaee24448dfe083963688c0e21d2",
-        "published": "2026-08-30T10:20:11+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766 Comments URL: https://news.ycombinator.com/item?id=49497357 Points: 37 # Comments: 12",
-        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-        "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766"
-      },
-      {
-        "id": "aa0bd335ba1f02a0abc2da5fd75aa03b4e443fcc",
-        "published": "2026-08-30T10:02:16+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://git.zx2c4.com/spark/about/ Comments URL: https://news.ycombinator.com/item?id=49497265 Points: 44 # Comments: 10",
-        "title": "Spark: Sparklines in your shell",
-        "url": "https://git.zx2c4.com/spark/about/"
-      },
-      {
-        "id": "73d0e8cb92e9dcad9a46c2bd0f2229f135bda5c0",
-        "published": "2026-08-30T09:26:08+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments URL: https://news.ycombinator.com/item?id=49497063 Points: 211 # Comments: 130",
-        "title": "Brits would quite like their private messages to stay private",
-        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
-      },
-      {
-        "id": "ee5f9d54dd66cb5e349e427ae39cdcd91cc5dd55",
-        "published": "2026-08-30T08:51:39+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 108 # Comments: 46",
-        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/"
       },
       {
         "id": "bf8d25a653d5b065e0abdec32998862569fc016b",
@@ -588,22 +628,6 @@
         "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
       },
       {
-        "id": "4203fe95a92caaae05bc4813c98d896e0d48138d",
-        "published": "2026-08-29T13:00:00+00:00",
-        "source": "The Verge",
-        "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fan…",
-        "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-        "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review"
-      },
-      {
-        "id": "143903ddbe912ec91a60e460ff2f2c5ea028e40d",
-        "published": "2026-08-29T12:00:00+00:00",
-        "source": "The Verge",
-        "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind…",
-        "title": "Musicians-turned-detectives are hunting for AI grifters",
-        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
-      },
-      {
         "id": "01fb7eabcec4aa5be01ffb1b74dd99eb19ce14c1",
         "published": "2026-08-29T10:50:31+00:00",
         "source": "Ars Technica",
@@ -618,14 +642,6 @@
         "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
         "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
         "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/"
-      },
-      {
-        "id": "05996eb52b0ea065e994870b7caf1895cd9df203",
-        "published": "2026-08-28T22:42:48+00:00",
-        "source": "TechCrunch",
-        "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
-        "title": "Is the best way to watch a movie on a pair of sunglasses?",
-        "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
       },
       {
         "id": "5161e1d00ebf3eff998b3ba1877d1ab4284eb0e7",
@@ -650,22 +666,6 @@
         "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
         "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
         "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/"
-      },
-      {
-        "id": "d63f08afee62f90ddfc5b2f68f826555bba5a61b",
-        "published": "2026-08-28T20:24:11+00:00",
-        "source": "TechCrunch",
-        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/"
-      },
-      {
-        "id": "09fc2e9c2c2d86c044f8a06464fa1434fe2a9b0f",
-        "published": "2026-08-28T19:30:38+00:00",
-        "source": "TechCrunch",
-        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
       },
       {
         "id": "9d521aac8c7888eecf138ce5a04d66d0086169b8",
@@ -709,6 +709,14 @@
       }
     ],
     "tech_japan": [
+      {
+        "id": "59ec70e23dbfd10a0868cdfc9895aff1b2ce9e5c",
+        "published": "2026-08-30T15:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "パソコンショップSEVENが8月31日限定のBTOパソコンセールを開催。RTX 5070 Ti搭載ゲーミングPCなど全10機種が、最大6万円オフで購入できます。",
+        "title": "AMD Ryzen 7×RTX 5070 Ti搭載PCも対象、パソコンショップSEVENが最大6万円オフ",
+        "url": "https://ascii.jp/elem/000/004/430/4430308/?rss"
+      },
       {
         "id": "492423410f507be14552b544815ef0e7e273605d",
         "published": "2026-08-30T14:00:00+00:00",
@@ -844,14 +852,6 @@
         "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
         "title": "FMVの軽量ノートPCが、Core Ultra 7 255U+16GBメモリー+512GB SSD搭載で26万円台！",
         "url": "https://ascii.jp/elem/000/004/429/4429937/?rss"
-      },
-      {
-        "id": "ab21aff66841a24df8b8077ed37394f5cf741211",
-        "published": "2026-08-30T07:30:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "料理家・食事処さくらのサブチャンネル「SAKURA'sさくらの日々と料理」、登録者1.3万人を突破",
-        "title": "料理家・食事処さくらのサブチャンネル「SAKURA'sさくらの日々と料理」、登録者1.3万人を突破",
-        "url": "https://ascii.jp/elem/000/004/430/4430543/?rss"
       },
       {
         "id": "78ea9d3ccad0b0ecd80ffe3779a9e18c4e7a2ea1",
@@ -1031,5 +1031,5 @@
       }
     ]
   },
-  "generated_at": "2026-08-30T14:01:15.084649+00:00"
+  "generated_at": "2026-08-30T18:12:38.035525+00:00"
 }
