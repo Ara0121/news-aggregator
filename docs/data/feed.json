@@ -2,108 +2,188 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "8f1dead82bd93fc1d42ddb3af2dc4f02892263ae",
-        "published": "2026-09-27T23:24:10+00:00",
+        "id": "b3fab34ad1952da77f8f69ecbf99a53d933aef82",
+        "published": "2026-09-28T02:04:42+00:00",
         "source": "note",
-        "summary": "「会社を辞めたい」 そう思ったことはありませんか？ 仕事が楽しくない。 人間関係がしんどい。 給料に不満がある。 毎日残業している。 思っていた仕事と違った。 この会社にいても成長できる気がしない。 あるいは、 「別に今の会社が嫌いなわけじゃない。でも、このままでいいのかな」 そんなモヤモヤを抱えている人もいるかもしれません。 特に20代は、社会人として働き始めて数年。 まだ経験も少ないからこそ、 「こんな理由で辞めていいのかな？」 「まだ2年目なのに転職したらまずい？」 「転職して、今より悪い会社だったらどうしよう？」 と悩みやすい時期だと思います。…",
-        "title": "「会社を辞めたい」と思った20代へ。転職する前に、一度だけ考えてほしいこと",
-        "url": "https://note.com/rapid_serval2871/n/ned23f5bb678b"
+        "summary": "コンサルティングや制作業務を請け負うひとり法人では、契約時に着手金や前払いの費用を受け取ることが少なくありませんが、この入金をそのまま売上として計上してよいのか、迷う場面が出てきます。実際にサービスの提供がまだ完了していない段階で受け取ったお金は、原則として前受金という負債の科目で処理する必要があり、この判断を誤ると売上の計上時期そのものがずれてしまいます。 入金だけを見て売上計上してしまう誤りの構造 続きをみる",
+        "title": "【前受金】着手金を受け取った際の処理で迷うポイント",
+        "url": "https://note.com/fair_wasp2869/n/n3e106c467fcb"
       },
       {
-        "id": "6b076b9522ad6e094dccb16de85dc15a52075690",
-        "published": "2026-09-27T23:23:26+00:00",
+        "id": "31a10dcba784f0dc7388bdc1e80173b30db0be11",
+        "published": "2026-09-28T02:03:48+00:00",
         "source": "note",
-        "summary": "退職日が決まると、年金や住民税に目が向きます。ところが、先に締切が来やすいのが健康保険です。 退職後の主な選択肢は、前職の健康保険を任意継続する、国民健康保険に入る、家族の健康保険の被扶養者になる、の3つ。名前だけ並べると簡単ですが、正解は人によって変わります。比べる順番を間違えると、「保険料が安そう」で決めた後に、加入条件や期限でつまずきます。 続きをみる",
-        "title": "退職後の健康保険、どれを選ぶ？任意継続・国保・扶養を「期限→金額→条件」で比べる",
-        "url": "https://note.com/ichidanzurashi/n/n979d44d473bb"
+        "summary": "SC-200 の勉強時間は、サーバーやネットワークの運用経験がある社会人で60時間前後が目安です。 続きをみる",
+        "title": "SC-200 勉強時間は60時間で足りるのか。公式教材の43時間から逆算する資格の勉強計画",
+        "url": "https://note.com/ccnataisaku/n/n323ce281b240"
       },
       {
-        "id": "6d68b01095e10513eebe19c1bde2ceceefb468a6",
-        "published": "2026-09-27T23:22:28+00:00",
+        "id": "ca15a8eecf9ebf16d9a52b67c59049e6fc34d9e3",
+        "published": "2026-09-28T02:03:47+00:00",
         "source": "note",
-        "summary": "あの瞬間のことは、今でも鮮明に覚えています。 「仕事で、自分で判断して行動するってことある？」 続きをみる",
-        "title": "「この5分、何していたん？」が口癖の師匠の下で、考えるのをやめた。",
-        "url": "https://note.com/unitas_hosokawa/n/n2be39c7c286e"
+        "summary": "ひとり法人の役員報酬を毎月支払う際、源泉所得税や住民税、社会保険料の従業員負担分を給与から天引きする場面が出てきますが、この天引きした金額をどう管理するかについては、意外と曖昧なまま処理してしまいがちです。天引きした時点でその役員個人のお金ではなくなっている一方、法人にとってもすぐに自由に使ってよいお金ではないという、預り金特有の性質を正しく理解しておく必要があります。 預り金の管理が抜け落ちやすい理由 続きをみる",
+        "title": "【預り金】役員報酬から天引きした税金の管理実務",
+        "url": "https://note.com/fair_wasp2869/n/n692fd5207bab"
       },
       {
-        "id": "20915b546ebd77b4e34de401a438048fadc93c6d",
-        "published": "2026-09-27T23:22:08+00:00",
+        "id": "28a004f8f958729ea3f813419761e6fc76bf1f2c",
+        "published": "2026-09-28T02:03:32+00:00",
         "source": "note",
-        "summary": "「40代からAIを覚えても、もう遅いんじゃないか」 AIの勉強を始めようとすると、この問いが浮かびます。そして調べると、出てくる答えは両極端です。「何歳からでも遅くない」という励ましと、「若い人には勝てない」という現実論。どちらも読んでも、次の一歩は決まりません。 続きをみる",
-        "title": "40代からAIを覚えても遅い？「転職」より先に考えたいこと",
-        "url": "https://note.com/aijobnote/n/n032baf24650e"
+        "summary": "「もう少し自由に働けたらいいな」 そう思ったとき、まず何を考えるでしょうか。 転職する？ 副業する？ 今とは違う仕事をする？ 私は今、医療福祉の現場で働く人のための メンタルコーチングを学んでいます。 その学びの中で、 「これからの働き方」についてのお話を聴き、 私は以前の自分を思い出しました。 私は看護師として10年以上、医療の現場で働いてきました。 総合病院で働いていた頃、 「このまま身を粉にして働き続けるのかな」 「もう少し違う働き方ができたらいいな」 そんなことを考えるようになり、転職しました。 職場を変えたら、きっと今より楽になる。 そう思って…",
+        "title": "「自由に働きたい」と思った時に、考えたいこと",
+        "url": "https://note.com/jibun_to_ikiru/n/ne949825d2e2b"
       },
       {
-        "id": "8bd6ac554f9d7fb29ac316afe28af3b2e890ff3e",
-        "published": "2026-09-27T23:20:40+00:00",
+        "id": "da5901fce1c1169f99a4332ec4f1ab3de9501701",
+        "published": "2026-09-28T02:03:14+00:00",
         "source": "note",
-        "summary": "グループディスカッションは、たくさん話した人が通る。去年の秋まで、私はそう信じていました。 でも実際は逆で、10回以上話した回は2回とも落ちて、3回しか話さなかった回で通ったんです。 続きをみる",
-        "title": "「発言10回」で落ちて「3回」で通った｜28卒のGD選考の考え方",
-        "url": "https://note.com/career_hack_note/n/n4eec582b3fc5"
+        "summary": "「うつ病になった。もうエンジニアを辞めて転職した方がいいのだろうか？」 「うつ病になったエンジニアはもう転職してしまった方がいいのかな。休職して復職しても、また同じことを繰り返すのではないか？」 続きをみる",
+        "title": "【人事歴約10年が語る】うつ病になったエンジニアは転職すべき？休職・復職・残留・転職から考えるキャリア再設計",
+        "url": "https://note.com/hiroki69/n/na576ed5381b7"
       },
       {
-        "id": "a25e548e5e558d0700e4868cf4631e0c6fa25bdf",
-        "published": "2026-09-27T23:19:28+00:00",
+        "id": "4139f0ecb480ceb8edebea783ae1c4b769fc7d59",
+        "published": "2026-09-28T02:02:47+00:00",
         "source": "note",
-        "summary": "※本記事はPRを含みます。「JOBTV」は弊社（株式会社ベクトル）が運営するサービスです。 タイパ就活のメリットとデメリットについて、結論から書きます。 メリットは、大学生活の時間が残ることと、1社あたりの準備が厚くなることです。デメリットは、情報の取りこぼしと入社後のミスマッチです。 続きをみる",
-        "title": "タイパ就活のメリット・デメリットは4つずつ｜手抜きとの違いは削らない工程を決めること",
-        "url": "https://note.com/taipa_shukatsu/n/n0de47bfce0ca"
+        "summary": "「そろそろ転職、した方がいいのかな」——通勤電車の窓に映る自分の顔を見て、ふとそんな言葉が頭をよぎったことはありませんか？今の仕事に、致命的な不満があるわけじゃない。でも「このままでいいのか」と聞かれると、うまく答えられない。そんなモヤモヤを抱えたまま、なんとなく求人サイトを開いては閉じる日々が続いている。実はその「なんとなく」こそ、転職活動でいちばん危ないサインです。この記事を読み終える頃には、動き出す前に整理しておくべき順番が、すっきり見えているはずです。 続きをみる",
+        "title": "転職活動を始める前に整理しておきたい3つのこと",
+        "url": "https://note.com/serene_snail8683/n/nf4ca3ab7bd98"
       },
       {
-        "id": "428f4798b5d0d40f21b0a05e26395ab70390e6da",
-        "published": "2026-09-27T23:18:34+00:00",
+        "id": "c80790e383aef4bdb790f50ad53cb6c51283f7b5",
+        "published": "2026-09-28T02:02:20+00:00",
         "source": "note",
-        "summary": "「転職回数が多いと、書類選考で不利になりますか?」 これまでの記事で何度か触れてきたテーマですが、今回はあえて逆の角度から書いてみようと思います。 「回数が多くても、この人の話は聞いてみたい」と、採用担当者として実際に思った書類には、いくつか共通点がありました。 今回はその共通点を、実際に見てきた例をもとにお伝えします。 1.回数よりも見ているのは「理由の質」 まず前提として、私は転職回数そのものを問題視していません。 以前の記事でも書きましたが、重要なのは「何社経験したか」ではなく、「一つひとつの転職に一貫性があるか」です。 これは、実際に「この人は面…",
-        "title": "転職回数が多い人へ。人事が「この人の話は聞いてみたい」と思う理由",
-        "url": "https://note.com/milkielilly/n/nc087966ecef6"
+        "summary": "「今の仕事を、この先もずっと続けるのかな」 30代になると、そんなことを考える瞬間があります。 今の仕事が嫌いというわけではない。仕事も一通りできるようになった。後輩に教えたり、トラブルが起きたときに頼られたりすることも増えた。 でも、その一方で「本当は違う仕事もやってみたい」という気持ちが出てくる。 そこで「30代 未経験 転職」と検索してみると、IT、営業、Webマーケティング、介護、コンサルタントなど、「未経験でも目指せる仕事」がたくさん出てきます。 でも、読めば読むほど迷う人もいるのではないでしょうか。 20代の頃なら「やってみたいから挑戦する」…",
+        "title": "30代で未経験職種に転職したい。「おすすめ職種」を探す前に確認したい3つのこと",
+        "url": "https://note.com/career30navi/n/n53a2342f30f0"
       },
       {
-        "id": "68c5c7837ba1f99e7005681d90141b73782c7882",
-        "published": "2026-09-27T23:17:11+00:00",
+        "id": "19fd492d468cbee9c0c73c589c504185e4de28f5",
+        "published": "2026-09-28T02:01:33+00:00",
         "source": "note",
-        "summary": "「転職35歳の壁」は、まだあるのか｜約6万人のデータでは、40歳以上の転職者が3年で3.6ポイント増えていた この記事でわかること 続きをみる",
-        "title": "転職の壁 35歳",
-        "url": "https://note.com/nanabann/n/n37fd1c0845ad"
+        "summary": "登録してから「合わないかも」と気づくのでは、正直遅いと思いませんか。 この記事では、実際に「合わない」と感じた担当者との初回面談を振り返ったとき、最初の5分にすでにサインが出ていたことに気づいた私の経験を、そのまま公開します。読み終える頃には、登録・初回面談の段階で見抜くべきポイントがわかっているはずです。 続きをみる",
+        "title": "合わないエージェントを登録前に見抜く3つのサイン ― 初回面談5分で分かった実例",
+        "url": "https://note.com/rainman46/n/nfe7548c4bc90"
       },
       {
-        "id": "c61cac957cce00ec8369bac4c866950a8419217a",
-        "published": "2026-09-27T23:17:09+00:00",
+        "id": "253d506eda9e9f9b0b5b1198f6add93a1b740acb",
+        "published": "2026-09-28T02:01:31+00:00",
         "source": "note",
-        "summary": "書類選考はそれなりに通る。 でも、一次面接になるとなぜか落ちる。 続きをみる",
-        "title": "書類は通るのに一次面接で落ちる人に共通する3つのこと",
-        "url": "https://note.com/u_uuusuke_note/n/n465dfc4d1d5f"
+        "summary": "会社を辞めるとき、多くの人が気にするのは「どうやって退職を伝えるか」です。 でも退職したあとになって、 「前の会社で働いていたことを証明する書類が必要になった」 という場面が出てくることがあります。 そこで知っておきたいのが「退職証明書」です。 労働基準法第22条では、退職した労働者が一定事項について証明を請求した場合、使用者は遅滞なく証明書を交付しなければならないとされています。 対象となるのは、使用期間、業務の種類、会社での地位、賃金、退職の事由などです。 さらに大切なのが、会社は本人が請求していない事項まで勝手に記載してはいけないという点です。 退…",
+        "title": "会社を辞めたあと「働いていた証明」が必要になったら｜退職証明書という書類",
+        "url": "https://note.com/taisyokudream358/n/n2e94328aba8c"
       },
       {
-        "id": "b18cc2f0aa5cc595996cd95591dc650c0f580a1c",
-        "published": "2026-09-27T23:11:44+00:00",
+        "id": "3fd3c534862d6146b10d816526c828721bc6e5cf",
+        "published": "2026-09-28T02:00:26+00:00",
         "source": "note",
-        "summary": "新卒の就活でSPIを受けてから5年。転職の書類選考が通り、受検案内のメールが届きました。残業の多い週に、対策本を1冊目から読み直す時間はありません。5年前の記憶のまま受けていいのかが、まず気になります。 続きをみる",
-        "title": "転職のSPIとWebテスト、新卒の就活の記憶とずれる所を公式ページで4つ数えてみた",
-        "url": "https://note.com/haibokusyazyake/n/n62fe54427809"
+        "summary": "「自分に向いてる仕事って何？」 これ、私はずっと分かりませんでした。 求人を見ても、 「この仕事ならできそう」 「こっちの方が楽しそう」 と思って応募する。 でも、実際に働いてみると、 「あれ、思ってたのと違う……」 となる。 そしてまた転職。 そんなことを何度も繰り返してきました。 ⸻ 「できる仕事」と「続けられる仕事」は違った 昔の私は、仕事を選ぶときに 「自分にできるかどうか」 ばかり考えていました。 でも、何度も仕事を経験して気づいたのが、 できる仕事＝自分に合っている仕事 ではないということ。 たとえば、仕事内容自体はできても、 ・人間関係で疲…",
+        "title": "「向いてる仕事が分からない」私が、仕事選びで大事にするようになったこと",
+        "url": "https://note.com/nunn_2525/n/ndfa82ca5224c"
       },
       {
-        "id": "7096835a00ab4b029760a3a87f9e8ccb05e45db1",
-        "published": "2026-09-27T23:10:51+00:00",
+        "id": "06e5b17d9766e916c0e631e6a49cacfdc2122977",
+        "published": "2026-09-28T02:00:00+00:00",
         "source": "note",
-        "summary": "私が気になる企業ニュースをいくつかピックアップするシリーズです！ スキマーク（ハートマーク）が安定的に40〜50を超えているうちはニーズがあるということで不定期でも続けようと思います。 SNSでの宣伝・拡散のご協力もよろしくお願いします！ 続きをみる",
-        "title": "きょうの気になる企業ニュース（2026/9/28）",
-        "url": "https://note.com/s_ikeda/n/nfbcb8a0723c5"
+        "summary": "こんにちは。SP.LINKSの採用広報チームです。 SP.LINKSで働くエンジニアが技術的な取り組みや開発の裏側を発信する 【SP.LINKS Tech Notes】 第２回目となる今回は、ITチームのメンバー全員で参加した『AWS Summit Japan 2026』について、その背景と考えを ITチームのマネジャーに聞いてみました。 エンジニアが「外で学ぶ」ことを当たり前にしたい。 そんな、SP.LINKSのエンジニア育成に対する考えに迫ります。 続きをみる",
+        "title": "「外で学ぶ」を、エンジニアの当たり前に。AWS Summitをメンバー全員参加とした理由【SP.LINKS Tech Notes】#02",
+        "url": "https://note.com/splinks/n/n9ba83d0d17fd"
       },
       {
-        "id": "41e918adba7db33733ae7b6a90ab31f7d3879f13",
-        "published": "2026-09-27T23:09:36+00:00",
+        "id": "852f5d29767037ad069714516776ba29adcc6423",
+        "published": "2026-09-28T01:56:54+00:00",
         "source": "note",
-        "summary": "「なんで俺だけ、こんなに頑張ってるのに評価されないんだろう」 深夜、スマホでそう検索したことがある人へ。同期はどんどん昇進していく。自分は毎日誰より遅くまで残業して、資料の質にもこだわって、頼まれたことは一つも断らずにやってきた。それなのに、評価面談ではまた「もう少し様子を見よう」。 続きをみる",
-        "title": "【頑張り屋なのに評価されない人へ】昇進が遅れる本当の理由は「努力の質」じゃなく「見え方」だった",
-        "url": "https://note.com/sugutsuka_lab/n/nad8a3636996a"
+        "summary": "ガクチカのテンプレは、多くの就活生が最初につまずく「何から書けばいいか分からない」という悩みを解消するための型です。結論・エピソード・学びという基本の骨組みに沿って書けば、初めて書く人でも短時間で読みやすいガクチカに仕上げられます。 型を知らないまま書き始めると、状況説明が長くなりすぎたり、伝えたい結論がぼやけてしまったりしがちです。逆に型さえ押さえておけば、部活動でもアルバイトでも学業でも、同じ手順に当てはめて書き進められるようになります。 続きをみる",
+        "title": "ガクチカのテンプレとSTAR・PREP法｜書き方の型まとめ",
+        "url": "https://note.com/ken_tamura365/n/n093f9ee0e62b"
       },
       {
-        "id": "3f53532e95decb781743d002b8895603851500d0",
-        "published": "2026-09-27T23:09:12+00:00",
+        "id": "17f6ecfe79f714be7edad8ec1720865fa221e03f",
+        "published": "2026-09-28T01:55:38+00:00",
         "source": "note",
-        "summary": "薬剤師の転職を考え始めると、多くの人がまず「転職エージェントに相談してみようかな」と考えるのではないでしょうか。私も初めてエージェントと面談したとき、希望条件があいまいなまま話を進めてしまい、後になって「もっと準備しておけばよかった」と感じた経験があります。今回は、エージェントに相談する前に整理しておくと面談がぐっとスムーズになる5つのポイントをご紹介します。 ■ 転職理由を言語化しておく 「なんとなく今の職場が合わない」で終わらせず、できるだけ具体的に書き出しておきましょう。たとえば「残業が月20時間を超える」「有給消化率が3割程度」「人間関係で相談で…",
-        "title": "転職エージェントに相談する前に準備しておきたい5つのこと",
-        "url": "https://note.com/piroshiki_p/n/n9b4f2e928e56"
+        "summary": "内定辞退の連絡を送った。 送信ボタンを押すだけでも、ものすごく勇気が必要だった。 それなのにスマホを見ると、会社から返信が届いている。 「一度お電話いただけますか」 その一文を見て、また心臓がドキッとする。 そんなことがあります。 内定辞退は、「辞退します」と伝えれば気持ちまですぐに楽になるとは限りません。 むしろ、 「怒られるのかな」 「理由を聞かれたらどうしよう」 「説得されたら断れないかもしれない」 と、新しい不安が出てくることがあります。 そんなときは、まず返信の内容を整理してください。 会社は何を確認したいのか。 辞退理由なのか。 入社手続きに…",
+        "title": "内定辞退を伝えたあと、会社から返信が来るのが怖いあなたへ",
+        "url": "https://note.com/taisyokudream358/n/n7023cdf5a28c"
+      },
+      {
+        "id": "f9c47b255fcdb7aba85fcd56a701d927ce294f0b",
+        "published": "2026-09-28T01:54:30+00:00",
+        "source": "note",
+        "summary": "総合商社の面接で、ほぼ必ず聞かれる質問があります。 「他の商社も受けていますよね。なぜうちですか」 続きをみる",
+        "title": "【28卒】「他の商社じゃダメなの？」に詰まる人へ。5大商社の違いを、志望動機にする【三菱商事・三井物産・伊藤忠・住友商事・丸紅】",
+        "url": "https://note.com/kessancareerlab/n/n6262f68e2410"
+      },
+      {
+        "id": "be65b1683e86accb00a085fcca8f3882dd6e9dd4",
+        "published": "2026-09-28T01:47:46+00:00",
+        "source": "note",
+        "summary": "自己PRが難しいと感じる人は、エピソードを一つに絞れなかったり、強みが平凡に見えて自信を持てなかったりする場合がほとんどです。難しさの正体は文章力ではなく、伝えたい要素が多すぎて結論がぼやけている状態にあることが多いとされます。まず何を一番伝えたいかを一つに決め、そこから逆算してエピソードを選ぶ手順に切り替えるだけで、書きやすさは大きく変わります。 この記事では、自己PRが難しいと感じる原因の整理から、結論から書く手順、書いた自己PRを声に出して確認する方法までを整理します。声に出して自己PRの伝わり方を確認する方法の一つとして、AI面接練習というアプリ…",
+        "title": "自己PRが難しいと感じる人へ｜原因整理・書く手順・声出し確認法",
+        "url": "https://note.com/haruto_miura88/n/nb7c4d0fcab04"
+      },
+      {
+        "id": "7087e24e9ac4c2a3160800dacd5c50a5ad79d321",
+        "published": "2026-09-28T01:47:13+00:00",
+        "source": "note",
+        "summary": "AI-200 の勉強時間は、問題集を基準に数えると30時間前後が計画の目安になります。 続きをみる",
+        "title": "AI-200 勉強時間は何時間いるのか。資格勉強を250問から逆算する",
+        "url": "https://note.com/brave_aster403/n/neff3f3846f7a"
+      },
+      {
+        "id": "2e215ed71228ce17f4237990c42c95ad6a6e8e88",
+        "published": "2026-09-28T01:45:55+00:00",
+        "source": "note",
+        "summary": "最近、人事の方から「応募書類がAIで書かれているかどうか見抜けない」という相談を受けることが増えた。 そこで、AIを使った文章を見抜く方法やツールの話になりがちだ。しかし、考えるべきなのは「AIを使ったかどうか」ではなく、選考で何を確認するのかだ。 続きをみる",
+        "title": "志望動機は、「AIを使ったか」ではなく「本人の言葉があるか」を見る",
+        "url": "https://note.com/tani_masana/n/n9466535e61af"
+      },
+      {
+        "id": "4eb8faa4efd87bfd6492d14ca0e3a843340acf4a",
+        "published": "2026-09-28T01:44:07+00:00",
+        "source": "note",
+        "summary": "こんにちは！ 中野製薬 広報の細川理菜です。 最近のヘアカラーのトレンドとしてすっかり定着した「ナチュラル感」や「透け感」。 今回は、弊社のヘアカラーブランド『キャラデコ』に2年前ラインアップした「シアーナチュラル」のシリーズからリリースする 追加色 について、開発のきっかけやこだわりのポイント、サロン現場での活用方法まで、開発担当者に詳しくお話を聞きました。 続きをみる",
+        "title": "多様化する髪の悩みに応える！『キャラデコ シアーナチュラル』追加色開発インタビュー",
+        "url": "https://note.com/sdc_sdc/n/n814b06f1a5b5"
+      },
+      {
+        "id": "4752941238b7a6bf2413118e4e00c124fe99e1e8",
+        "published": "2026-09-28T01:38:27+00:00",
+        "source": "note",
+        "summary": "このシリーズではNTT・中部電力といった通信・電力インフラの会社を扱ってきたが、今回取り上げるバンダイナムコホールディングスは、まったく異なる性質の会社だ。玩具の「バンダイ」とゲームの「ナムコ」が2005年9月29日に経営統合してから、2025年9月でちょうど20周年を迎えた、日本を代表する総合エンターテインメント企業である。 続きをみる",
+        "title": "【28卒】バンダイナムコホールディングス完全攻略｜経営統合20周年、ガンプラ静岡新工場の自動化とIP軸戦略×バンダイナムコIDを技術者採用の視点で徹底解説",
+        "url": "https://note.com/quirky_bee6349/n/nf943a39b67cd"
+      },
+      {
+        "id": "0eaecf498520d6d410f1040b4a9c6f37e0dbc1eb",
+        "published": "2026-09-28T01:17:33+00:00",
+        "source": "note",
+        "summary": "前回は、周りに止められた転職のことを書きました。反対してくる人がいて、それに返す言葉を探す側の分岐です。今日は反対側を書きます。誰も止めてこない転職のほうです。 先に言っておくと、知り合いの誘いで移った人がうまくいかない、と書くつもりはありません。声をかけられて動いて、そこから伸びた人を自分は何人も見ています。そのときの縁が、いまも続いている人もいます。声のかかり方が軽い、という筋で書く記事ではないです。 続きをみる",
+        "title": "知り合いに誘われた転職で、エンジニアが止まるところ #はじめてのnote",
+        "url": "https://note.com/yuto_mizuno/n/n5d97ee623455"
+      },
+      {
+        "id": "d093807b843b1b70361d6e5280611b101374fab3",
+        "published": "2026-09-28T01:00:14+00:00",
+        "source": "note",
+        "summary": "⌛この記事は約9〜12分で読むことが出来ます。 ✅この転職体験記のポイント 続きをみる",
+        "title": "【転職体験記】文系SE42歳。11年培った経理とDX推進の経験活かし、スタンダード上場 卸会社からプライム上場 総合物流企業の会計システム推進副長へ",
+        "url": "https://note.com/elitenetwork/n/nb2a218a181c7"
+      },
+      {
+        "id": "fe5427c5b8f78911792de2db3da97da95eb8878f",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "note",
+        "summary": "株式会社ジェニュインでは、未経験インフラエンジニアを募集しています！ この記事では、「ジェニュインに入ったらどんな感じで働いていくんだろう？🤔」という疑問に答えるために、 入社してからの1年のイメージ・未経験転職でよくある不安への答え・どんな会社なのか をまとめました。給与や福利厚生などの条件面は、記事の最後にある求人ページで確認できます。 続きをみる",
+        "title": "【未経験歓迎】はじめてのIT転職、研修から配属先まで安心の体制で迎えます！インフラエンジニア募集◎",
+        "url": "https://note.com/from_genuine/n/n8c3a3cc1e3db"
+      },
+      {
+        "id": "563299cc59a80bd67490f54f9fade7bcd48237e1",
+        "published": "2026-09-27T23:30:52+00:00",
+        "source": "note",
+        "summary": "30代後半になって、気づけば打ち合わせと調整でカレンダーが埋まり、エディタを開けるのは夕方から。そんな毎日になっていませんか？ <blockquote>設計やレビューは好きなのに、調整だけはどうしても気が重い 管理職にならないなら、転職するしかないのかな でも30代後半で技術一本の転職って、本当にできるの？</blockquote> 続きをみる",
+        "title": "管理職になりたくない30代後半エンジニアの転職戦略、開発を手放さない線引きを考えた",
+        "url": "https://note.com/hidehiko_career/n/n8c30114f2476"
       },
       {
         "id": "a97e6f33b7a04a3b1542008c7f628335cb1fa1dd",
@@ -120,54 +200,6 @@
         "summary": "💡 「転職サイトに登録していないのに、なぜかスカウトが来る人」の正体 転職サイトには登録していない。ヘッドハンターに会ったこともない。それなのに、ある日突然、企業の採用担当者やヘッドハンターから「一度お話しできませんか」というダイレクトメッセージが届く——。 続きをみる",
         "title": "🐦X（旧Twitter）での発信を続けることで、思わぬ企業の採用担当から声がかかることもある📩目に留まりやすい投稿の続け方と、プロフィール欄の整え方について具体的に伝授していきます📲",
         "url": "https://note.com/headhunt/n/nee3c339bed03"
-      },
-      {
-        "id": "fba4cf9a4235fedbf45e3685cc448eda2b30d0b6",
-        "published": "2026-09-27T23:02:57+00:00",
-        "source": "note",
-        "summary": "1. はじめに：なぜ今の就職活動は「苦しい」のか 「将来、何がやりたいの？」という問いに、胸が締め付けられるような思いをしていませんか？ 続きをみる",
-        "title": "「やりたいこと」を育てる：無理なく自分を活かす「2〜5年間の体験型キャリア形成」ガイド",
-        "url": "https://note.com/magurenooto/n/n09ca45e547e7"
-      },
-      {
-        "id": "1a3d4b87f43d3d49310f4e2dfba0d179c9e8883b",
-        "published": "2026-09-27T22:59:37+00:00",
-        "source": "note",
-        "summary": "面接で逆質問がなかった場合、それだけを理由に即不採用になることは基本的にないというのが実情です。逆質問は熱意や理解度を測る材料の一つではありますが、評価項目全体からすればウェイトはそれほど大きくなく、面接官の時間配分の都合で逆質問の時間自体が用意されないケースも珍しくありません。逆質問できなかったことを気にしすぎて他の受け答えの記憶まで悪化させてしまう方が、結果的には惜しいと言えます。 一方で、逆質問の時間はあったのに何も思いつかず沈黙してしまった場合と、そもそも時間がなくて機会自体がなかった場合とでは、面接官側の受け取り方が変わります。前者は準備不足と…",
-        "title": "逆質問がなかった・できなかった面接での評価と合格の対処法",
-        "url": "https://note.com/yuma_ogawa927/n/n0a3f5c4dccf1"
-      },
-      {
-        "id": "d596fa12de4534edd88332c737c0ee9bade4d382",
-        "published": "2026-09-27T22:57:44+00:00",
-        "source": "note",
-        "summary": "最近、自分が「甘えている」ことに気づいた。 就活のことで業界やらガクチカやらを考えたり調べたりしている。 続きをみる",
-        "title": "わからないんじゃない。仕事なんかしたくないんだ。",
-        "url": "https://note.com/tyatora60/n/n32320f9e0aed"
-      },
-      {
-        "id": "bad3e98d3c8876ff616ee7b5f7ea02aac5c29aba",
-        "published": "2026-09-27T22:56:39+00:00",
-        "source": "note",
-        "summary": "自己PRを自由形式で書くときは、A4一枚の中でまず結論を一文で示し、そのあとに具体的なエピソードと数字を添える構成にすると評価されやすくなります。指定のフォーマットがない分、文章だけで埋めるか、見出しや余白を使って整理するかによって、同じ内容でも読みやすさが大きく変わってきます。 この記事では、自由形式の自己PRで評価されやすいレイアウトの型と、テーマ別の実例、面接で聞かれたときの答え方までを扱います。書いた自己PRを声に出して確認しておきたい人向けに、AI面接練習というアプリがあります。新卒・転職・バイトと企業タイプを選んで話しかけると、AI面接官が声…",
-        "title": "自己PRを自由形式で書く方法｜A4用紙の実例とレイアウトのコツ",
-        "url": "https://note.com/rin_ikeda640/n/n4c72a46a63f3"
-      },
-      {
-        "id": "759e84cd92cc45f419ab4fdede8c613d8dde5061",
-        "published": "2026-09-27T22:40:02+00:00",
-        "source": "note",
-        "summary": "こんにちは。おさぼり人事です。 普段、SNSにて、 大手企業に内定した就活生の ESや面接質問などの回答例を投稿しております。 続きをみる",
-        "title": "【28卒版：アビームコンサルティング】就活無双まで引き上げる面接想定問答【就活TOP企業対策シリーズ Vol.28/180】",
-        "url": "https://note.com/osaboly_zinzi/n/n6ec3d8a18927"
-      },
-      {
-        "id": "ed62a84b68a361e6c9988f10c604addd81de6095",
-        "published": "2026-09-27T22:35:20+00:00",
-        "source": "note",
-        "summary": "履歴書をデータで提出する場合、多くの企業はPDF形式のファイルをメール添付するか、応募先が用意したWeb提出フォームからアップロードする形で受け取ります。手書きの用紙を郵送する提出方法とは違い、データ提出では拡張子の選び方やファイル名の付け方、メールの書き方といった細かい部分で印象が左右されやすいのが特徴です。ここでは提出方法とファイル形式の基本から、メール添付とWeb提出それぞれのマナー、写真や日付の入力で迷いやすいポイントまで、順番に確認していきます。 入力フォームに沿って項目を埋めるだけでJIS規格の書式に整うスマホ履歴書を使えば、データ提出に必要…",
-        "title": "履歴書データ提出の正しい方法・ファイル形式とメール添付マナー",
-        "url": "https://note.com/taiki_kikuchi45/n/n519ceeaf7b87"
       },
       {
         "id": "6132214984630c6c2b2e0c314fbd797de3b21206",
@@ -192,46 +224,6 @@
         "summary": "給与明細を開いて、去年とほとんど変わらない数字にため息をついたのは、エンジニアになって二年目の冬でした。未経験からIT業界に飛び込んだきっかけをくれたのは 明光キャリアパートナーズ(エンジニア転職) でしたが、まさかその先に「頭打ち」という壁が待っているとは思っていませんでした。 私は26歳です。前職は接客業で、数字よりも笑顔と根性で評価される世界にいました。頑張っても頑張らなくても、時給換算するとそう変わらない給料明細を見るたびに、このままでいいのかと漠然とした焦りを感じていたのを覚えています。 続きをみる",
         "title": "エンジニアなのに給料が頭打ち。26歳の私が感じた「経験と評価のズレ」",
         "url": "https://note.com/nikonikonomi/n/nac2fae0850bc"
-      },
-      {
-        "id": "ee832f61863e607578905d47715b6339fec926d1",
-        "published": "2026-09-27T14:30:47+00:00",
-        "source": "note",
-        "summary": "エンジニアで転職回数が多いと、選考で不利になるのではと不安になる人は多いと思います。私自身、4回の転職を重ねてきましたが、それは能力より「自分に合う職場環境」を探し続けた結果でした。その道のりを振り返ってみます。 続きをみる",
-        "title": "エンジニアの転職回数が多いのは不利なのか実体験で考える",
-        "url": "https://note.com/jazzy_cosmos8048/n/n5432189c9fa7"
-      },
-      {
-        "id": "59aa02054baa11a0bba49dfa45641609136c4874",
-        "published": "2026-09-27T14:30:06+00:00",
-        "source": "note",
-        "summary": "「未経験からエンジニア」で検索して、結局何から手をつければいいのか分からず疲れてしまった人へ。ゲーム運営職から独学と Geekly を使ってエンジニアに転職した私の実体験から、順番を整理してお伝えします。 続きをみる",
-        "title": "未経験からエンジニアになるとき何から学ぶべきか",
-        "url": "https://note.com/glossy_okapi9573/n/n6cbec2ed4433"
-      },
-      {
-        "id": "f558d9768f6e4ebd80fa70b741900f7c2f897a1b",
-        "published": "2026-09-27T14:27:01+00:00",
-        "source": "note",
-        "summary": "SIerのシステムエンジニアからITコンサルタントへ転職して、仕事内容がどれくらい変わったのか、よく聞かれます。 コンコードエグゼクティブグループ に相談して転職した経験も交えながら、良かった面もギャップも正直に書いてみます。 続きをみる",
-        "title": "ITコンサルの仕事内容のリアルをSE出身の私が振り返る",
-        "url": "https://note.com/dandy_canna3299/n/n3711f6261384"
-      },
-      {
-        "id": "1aa21a062ae393947abc4470551210adb8738eef",
-        "published": "2026-09-27T14:01:28+00:00",
-        "source": "note",
-        "summary": "はじめまして、かずきです。 新卒でSIerに入って6年目になりました。最初の2年はアプリ開発、その後インフラに移って4年目です。 20代後半になり、自分のキャリアを考えることが増え、市場価値を真剣に調べ始めています。 この記事では、「なぜ今それを始めたのか」「このnoteで何を発信していくのか」について書こうと思います。 同じような悩みを持っている方に届いたら幸いです。 私について 続きをみる",
-        "title": "SIer6年目、アプリからインフラに移った20代の私が転職市場を調べ始めた理由",
-        "url": "https://note.com/kaz_it_engineer/n/n1eeae9fbc1f3"
-      },
-      {
-        "id": "b341a1bc9aa4727341ea78fba56769718f53eb92",
-        "published": "2026-09-27T14:00:33+00:00",
-        "source": "note",
-        "summary": "転職するかどうか迷っているとき、一番しんどいのは判断基準がないことです。 今の会社に大きな不満があるわけではない。 でも、このまま残っていいのかは分からない。 周りの若手が転職していく。上司も転職した。部署の中堅層を見ても、自分の10年後を前向きに想像できない。 私も子会社SIerで働いていたとき、まさにそういう感覚がありました。働きやすさはありましたが、親会社依存、将来性、年収や成長の限界を考えると、このまま残るのは不安でした。 この記事では、SIer若手が現職に残るべきか、転職活動を始めるべきかを判断するためのチェックポイントを整理します。 いきなり…",
-        "title": "SIer若手は転職すべき？｜現職に残るか判断する5つのチェック項目",
-        "url": "https://note.com/penguin37/n/n512a1ec08c93"
       },
       {
         "id": "cb2ad69eeea1ded602681a63949a713f053866ad",
@@ -380,12 +372,20 @@
     ],
     "tech_global": [
       {
-        "id": "ed2d733d9cfe37de49a2666bb2711a01e5b26c32",
-        "published": "2026-09-27T23:10:57+00:00",
+        "id": "e60622d8a1ddd5054bbe7aa9e41d0f79c2366414",
+        "published": "2026-09-28T01:21:32+00:00",
         "source": "Hacker News (front page)",
-        "summary": "And I don't mean the doomerism nonsense. From rogue AI, doomerism, AGI. I mean real regulation: 1) Fair accounting of input/output tokens. Where is the weights and measures department to enforce fair counting of usage? If I pay for a gallon of gas, that is what I expect. When I p…",
-        "title": "Ask HN: Why do we let the AI companies dominate regulation discussion?",
-        "url": "https://news.ycombinator.com/item?id=49871747"
+        "summary": "Article URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/ Comments URL: https://news.ycombinator.com/item?id=49872472 Points: 10 # Comments: 2",
+        "title": "Self-parking car using genetic algorithm (2021)",
+        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/"
+      },
+      {
+        "id": "54685a75817dc8422f91c69433f2417ed3086a26",
+        "published": "2026-09-28T01:00:45+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7 Comments URL: https://news.ycombinator.com/item?id=49872365 Points: 8 # Comments: 2",
+        "title": "Every Household in This Rural Town Receives $10k If a Data Center Gets Built",
+        "url": "https://www.wsj.com/real-estate/every-household-in-this-rural-town-receives-10-000-if-a-data-center-gets-built-86554cb7"
       },
       {
         "id": "693e5cd1382ced14da5fbaa8f758385d3d93a27c",
@@ -396,18 +396,10 @@
         "url": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
       },
       {
-        "id": "1c012a1ce1bf4ccc4a3c6b852be97b6cb720e0b8",
-        "published": "2026-09-27T21:15:33+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs Comments URL: https://news.ycombinator.com/item?id=49870928 Points: 25 # Comments: 20",
-        "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs"
-      },
-      {
         "id": "13524bf38b9d351638e897f6d8c94d32072a9691",
         "published": "2026-09-27T21:06:17+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 29 # Comments: 17",
+        "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html Comments URL: https://news.ycombinator.com/item?id=49870837 Points: 43 # Comments: 28",
         "title": "Lunar Terminator Paradox",
         "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
       },
@@ -431,31 +423,31 @@
         "id": "53be348340f13bd7956152bc304f68664351680e",
         "published": "2026-09-27T20:33:55+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://news.ycombinator.com/item?id=49870541 Points: 9 # Comments: 2",
+        "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://news.ycombinator.com/item?id=49870541 Points: 29 # Comments: 13",
         "title": "My Recent Woodworking Projects",
         "url": "https://notoriousbfg.com/recent-woodworking-projects/"
-      },
-      {
-        "id": "d8c68920a0d624e25e41b7bd87f9be73eaadb970",
-        "published": "2026-09-27T20:14:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://code.garage44.eu/jeroen/cartopolis Comments URL: https://news.ycombinator.com/item?id=49870394 Points: 6 # Comments: 0",
-        "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
-        "url": "https://code.garage44.eu/jeroen/cartopolis"
       },
       {
         "id": "c90beaa345be4db4bd186c1440ed3a4d139967c2",
         "published": "2026-09-27T20:12:54+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 516 # Comments: 274",
+        "summary": "Article URL: https://sancho.bearblog.dev/google-weird/ Comments URL: https://news.ycombinator.com/item?id=49870367 Points: 778 # Comments: 417",
         "title": "When did Google get so weird?",
         "url": "https://sancho.bearblog.dev/google-weird/"
+      },
+      {
+        "id": "54189ffd9ec84568d0579e215b02ca5407fc3aba",
+        "published": "2026-09-27T20:04:37+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://zachholman.com/posts/you-should-have-an-llc Comments URL: https://news.ycombinator.com/item?id=49870304 Points: 31 # Comments: 18",
+        "title": "Have an LLC",
+        "url": "https://zachholman.com/posts/you-should-have-an-llc"
       },
       {
         "id": "97f7725daf42334ca4e58973782e203c0e386e16",
         "published": "2026-09-27T20:03:36+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 11 # Comments: 1",
+        "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 57 # Comments: 21",
         "title": "Self-Hosting on the Dark Web",
         "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/"
       },
@@ -471,7 +463,7 @@
         "id": "08749a2165eb0c78c534e526c4dba1cbcfa1aac9",
         "published": "2026-09-27T19:37:05+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 Comments URL: https://news.ycombinator.com/item?id=49870070 Points: 55 # Comments: 19",
+        "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 Comments URL: https://news.ycombinator.com/item?id=49870070 Points: 70 # Comments: 28",
         "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
         "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11"
       },
@@ -479,7 +471,7 @@
         "id": "22159f2ce87279c5264d3a6775f297db7ae09f11",
         "published": "2026-09-27T19:28:23+00:00",
         "source": "Hacker News (front page)",
-        "summary": "https://hex.pm/packages/imp https://dspy.ai/current/ Comments URL: https://news.ycombinator.com/item?id=49869995 Points: 35 # Comments: 5",
+        "summary": "https://hex.pm/packages/imp https://dspy.ai/current/ Comments URL: https://news.ycombinator.com/item?id=49869995 Points: 48 # Comments: 5",
         "title": "Imp is a full port of DSPy to the BEAM",
         "url": "https://github.com/deepfates/imp"
       },
@@ -487,7 +479,7 @@
         "id": "b234a83c652b755ce0ee79f2bcadeb52b1a1a9f1",
         "published": "2026-09-27T19:04:19+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://thill.me/2026/09/11/what-i-did-at-rc.html Comments URL: https://news.ycombinator.com/item?id=49869773 Points: 42 # Comments: 14",
+        "summary": "Article URL: https://thill.me/2026/09/11/what-i-did-at-rc.html Comments URL: https://news.ycombinator.com/item?id=49869773 Points: 71 # Comments: 18",
         "title": "What I did at Recurse Center",
         "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html"
       },
@@ -702,36 +694,164 @@
     ],
     "tech_japan": [
       {
-        "id": "053c9cfdd89987acb1bd46667f28d47b8419f609",
-        "published": "2026-09-27T23:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "FIXERが伊賀市と共同開発した黒塗りアプリを、オンプレミス型生成AI「Sovereign GaiXer」の標準機能として9月25日から提供開始。自治体の情報公開請求業務で必要となる黒塗り作業を、閉域環境でAIが支援する。",
-        "title": "FIXER、伊賀市と共同開発した「黒塗りアプリ」をSovereign GaiXerに標準搭載",
-        "url": "https://ascii.jp/elem/000/004/437/4437499/?rss"
+        "id": "42101a1a4c31f46aab6db98731977b4fc58814a1",
+        "published": "2026-09-28T01:58:41+00:00",
+        "source": "PC Watch",
+        "summary": "人間より長く働けるAIのはずなのに、5時間制限が来たら「定時なんでお先に失礼します」なんて、生意気なヤツめ――そう思うことが「Claude Code」では減る。Anthropicは9月25日、Claudeの開発者向け公式Xアカウント(@ClaudeDevs)にて、Claude Codeが、タスクの途中で5時間の制限に達した際、編集の途中で突然中断されるのではなく、キリの良いタイミングを探して終了するようになったことを発表した。",
+        "title": "Claude Code、「残業」が可能に。週次制限から差し引き",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2143606.html"
       },
       {
-        "id": "e554f1a891096cb8e94350c9e98f991f54a0226c",
-        "published": "2026-09-27T23:00:00+00:00",
+        "id": "93686c102258769c8a61a77676057b9c9623bcb7",
+        "published": "2026-09-28T01:35:00+00:00",
         "source": "ASCII.jp",
-        "summary": "今回（2026年9月19日～9月25日）は、ソフトウェア開発現場のAI活用における品質影響やROIにまつわる課題、AIとウェルビーイングに関する生活者調査、10月から義務化されるカスハラ対策の現状、全世界規模のセキュリティ／プライバシー知識テストの結果についてのデータを紹介します。",
-        "title": "開発業務へのAI適用、「品質やROIの把握」は未成熟／10月義務化のカスハラ対策、遅れる現状／AI利用で「幸福感が向上」は2割未満、ほか",
-        "url": "https://ascii.jp/elem/000/004/437/4437467/?rss"
+        "summary": "米ホワイトハウスは9月25日、トランプ大統領と中国の習近平国家主席が「Artificial Intelligence（AI）」ではなく「Super Intelligence（SI）」という言葉を使うことで合意したと発表した。",
+        "title": "AIではなく“SI”、米中首脳が新呼称で合意？ 訳すと「超知能」だけど、ASIとは別",
+        "url": "https://ascii.jp/elem/000/004/437/4437533/?rss"
       },
       {
-        "id": "77d3366ca2297a81544042050f40cff42cbdda47",
-        "published": "2026-09-27T22:30:00+00:00",
+        "id": "a72ba9babc8638698e4464803059072ef349c4c4",
+        "published": "2026-09-28T01:30:00+00:00",
         "source": "ASCII.jp",
-        "summary": "「Microsoft IQ」は、AIエージェントが企業の中で高い生産性を発揮することを支える“コンテキストプラットフォーム”と位置付けられている。高品質なコンテキスト基盤を整備することが、AIを通じた次世代のビジネス価値を生む鍵を握っているというのが、マイクロソフトの考えだ。具体的にどんなものか、米マイクロソフト幹部のアルーン・ウラグ氏が解説した。",
-        "title": "Microsoft IQとは？ AIエージェントが必要とする理由は？ マイクロソフトの担当幹部が解説",
-        "url": "https://ascii.jp/elem/000/004/437/4437493/?rss"
+        "summary": "SteelSeriesが限定ゲーミングキーボード「Apex Pro TKL Gen 3 Cyber」「Apex Pro TKL Gen 3 Steel」を10月2日から順次発売する。OmniPoint 3.0やHall Effect Gen 3センサー、Rapid Triggerなどを搭載し、速度と操作感の異なる2モデルを展開する。参考価格は45,530円だ。",
+        "title": "Apex Pro TKL Gen 3に限定「Cyber」「Steel」登場！ 押下荷重35Gと50Gで選べる2モデル",
+        "url": "https://ascii.jp/elem/000/004/437/4437504/?rss"
       },
       {
-        "id": "fc7ed8d332ca3073bd76d24462ec64c56cb0d31b",
-        "published": "2026-09-27T22:30:00+00:00",
+        "id": "2179f1345fe7d16a2c7b4525d6ff5937e67b6852",
+        "published": "2026-09-28T01:19:03+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、スナック菓子が安くなっている。カルビー「ポテトチップス うすしお味」(55g)×16袋セットは、250円引きクーポンで1,932円。「ポテトチップス コンソメパンチ」(55g)×16袋セットは、120円引きクーポンで1,690円にて購入可能だ。",
+        "title": "【本日みつけたお買い得品】カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html"
+      },
+      {
+        "id": "bbea2a2bbf9f1573b8f4757fe7db7da3b2b0f466",
+        "published": "2026-09-28T01:12:00+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "Gyazoは不正アクセスの影響で14日に画像配信を停止。24日からサービスを一時停止していた。",
+        "title": "「Gyazo」再開 不正アクセス発生前の全画像に閲覧制限",
+        "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001782/"
+      },
+      {
+        "id": "6fa4139409133d4b55aa8da305598f8a2797aafc",
+        "published": "2026-09-28T01:09:21+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、ブラウンの電動シェーバー「シリーズ5 52-M1200s」が直近価格から6,853円引き(43%オフ)で、8,947円にて購入できる。",
+        "title": "【本日みつけたお買い得品】ブラウンの電動シェーバーが43%オフで8,947円にて購入可能",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html"
+      },
+      {
+        "id": "f40d59bf10703d7cbf4bf4af27c3359d71294ee1",
+        "published": "2026-09-28T01:06:12+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、14型ノートPCの富士通(FCCL)「FMV Note U WU5-K3」が直近価格から2万3,800円引きで、27万3,400円にて購入できる。",
+        "title": "【本日みつけたお買い得品】約634gと超軽量！32GBメモリの富士通製モバイルノートが約2万3千円オフ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143597.html"
+      },
+      {
+        "id": "4719e8b0d912858b5b15aa787156702b9f8c1452",
+        "published": "2026-09-28T01:00:00+00:00",
         "source": "ASCII.jp",
-        "summary": "フィジカルAIの進展に伴い、IoTデバイスのさらなる増加が見込まれている。一方で、セキュリティの担保や運用管理の負荷増が大きな課題となっていく。こうした未来を見据えNTTドコモビジネスは、IoTやAI活用を支えるNaaS「docomo business SIGN」の機能拡充や新プランを発表した。",
-        "title": "フィジカルAI時代を見据え、NTTドコビジがNaaS基盤を強化 数万台のIoTデバイスをセキュアに管理",
-        "url": "https://ascii.jp/elem/000/004/437/4437354/?rss"
+        "summary": "Razer Japanが9月24日に発表した、RazerとBLAST Premierのパートナーシップを紹介する。",
+        "title": "RazerがBLAST Premierの公式ヘッドセットパートナーに BlackShark V3 Proが2028年まで12大会に登場",
+        "url": "https://ascii.jp/elem/000/004/437/4437498/?rss"
+      },
+      {
+        "id": "f611596a85fb70e6797af1bb0bf533e82f62403f",
+        "published": "2026-09-28T00:46:39+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、GARMINのスマートウォッチ「Forerunner 265」が9月15日の価格から5,715円引きで、5万1,376円にて購入可能だ。",
+        "title": "【本日みつけたお買い得品】GARMINのスマートウォッチが5,715円引き。Suica対応",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143602.html"
+      },
+      {
+        "id": "deb1a79a74c24629c56131643d8466543a537107",
+        "published": "2026-09-28T00:30:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "MSIが「Z890 GAMING PLUS WIFI6E」を10月2日に発売。Core Ultra（シリーズ2）対応で、5G LAN、Wi-Fi 6E、PCIe 5.0を搭載。M.2 SSDを指1本で着脱できる設計も特徴。価格は4万5980円。",
+        "title": "MSI「Z890 GAMING PLUS WIFI6E」10月2日発売、5G LAN搭載で4万5980円",
+        "url": "https://ascii.jp/elem/000/004/437/4437502/?rss"
+      },
+      {
+        "id": "89dc516e963eb7d69c040ba9d185f6f0a520f60a",
+        "published": "2026-09-28T00:28:15+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "漏えいした可能性があるのは、会員と退会済みの会員の氏名、住所、生年月日、電話番号、メールアドレス、会員番号、免許情報、本人確認書類、法人会員情報、連携サービスIDなど。",
+        "title": "タイムズカー、会員の免許情報や本人確認書類が漏えいの可能性 不正アクセスで",
+        "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001780/"
+      },
+      {
+        "id": "24bb3e883d36d50bd85a50c15e630da939e7e3d3",
+        "published": "2026-09-28T00:11:20+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "京王ストアでのカード決済やポイント付与、京王プラザホテルの問い合わせフォーム、京王プレッソインの予約、京王バスの定期券販売などに影響。",
+        "title": "京王グループにランサム攻撃、京王ストアの決済やホテル予約などに影響……鉄道は影響なし",
+        "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001779/"
+      },
+      {
+        "id": "7b88dc588a4ed3016ed02c7a5e3234ee60055071",
+        "published": "2026-09-28T00:09:33+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、GMKtecのミニPC「K13」が9月15日の価格から4万6,401円引きで、9万5,598円にて購入可能となっている。",
+        "title": "【本日みつけたお買い得品】5GbE搭載のCore Ultra 7 256VミニPCが約4万6千円オフ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2143593.html"
+      },
+      {
+        "id": "19cb29b28bdc2c0e237c0a8e74af3b8b8c7e3629",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "QommonsAI活用研修を沖縄県与那原町（よなばるちょう）で実施 「使ってみたい」から「答弁づくりに活用」まで、広がる庁内の生成AI",
+        "title": "QommonsAI活用研修を沖縄県与那原町（よなばるちょう）で実施 「使ってみたい」から「答弁づくりに活用」まで、広がる庁内の生成AI",
+        "url": "https://ascii.jp/elem/000/004/437/4437543/?rss"
+      },
+      {
+        "id": "b3afc93b87dbdcbe0df6a866dc114e785844d07a",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "注文住宅の「実際いくらかかった？」がわかる。先輩施主のリアルな家づくりデータを集めた「みんなの家づくり」を提供開始",
+        "title": "注文住宅の「実際いくらかかった？」がわかる。先輩施主のリアルな家づくりデータを集めた「みんなの家づくり」を提供開始",
+        "url": "https://ascii.jp/elem/000/004/437/4437542/?rss"
+      },
+      {
+        "id": "bca98ec2b6384fc2d03d5ab14b3501b59b1f8bde",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "【業界特化調査 第9弾】AI検索パートナーズ（TechSuite株式会社）、顧問弁護士選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位5事務所でも全言及の27%にとどまる",
+        "title": "【業界特化調査 第9弾】AI検索パートナーズ（TechSuite株式会社）、顧問弁護士選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位5事務所でも全言及の27%にとどまる",
+        "url": "https://ascii.jp/elem/000/004/437/4437541/?rss"
+      },
+      {
+        "id": "7949992b4e294e52ebd27d675e6a3e6cd0c04f7f",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "【業界特化調査 第12弾】AI検索パートナーズ（TechSuite株式会社）、経営・業務効率化コンサル選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は33.3%",
+        "title": "【業界特化調査 第12弾】AI検索パートナーズ（TechSuite株式会社）、経営・業務効率化コンサル選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率は33.3%",
+        "url": "https://ascii.jp/elem/000/004/437/4437540/?rss"
+      },
+      {
+        "id": "e6eb336e5da2ceacda1727de8038519387b2c3e8",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "自治体プロポーザルの提案書をAIが仮想評価する「提案書くんPlus」を提供開始。募集要項・評価基準と照合し、改善点を根拠と該当ページ付きで提示",
+        "title": "自治体プロポーザルの提案書をAIが仮想評価する「提案書くんPlus」を提供開始。募集要項・評価基準と照合し、改善点を根拠と該当ページ付きで提示",
+        "url": "https://ascii.jp/elem/000/004/437/4437539/?rss"
+      },
+      {
+        "id": "0e0e010d9c9c0c045896b4c9663e2b5f97c659cb",
+        "published": "2026-09-28T00:00:00+00:00",
+        "source": "ASCII.jp",
+        "summary": "コンカフェ、ホスト、推し活・・・夜の世界と接点を持つ若者の孤立と依存とは？ 精神科医・松本俊彦氏×NPO法人風テラスが、家族・支援者向け講演会を11月22日に開催",
+        "title": "コンカフェ、ホスト、推し活・・・夜の世界と接点を持つ若者の孤立と依存とは？ 精神科医・松本俊彦氏×NPO法人風テラスが、家族・支援者向け講演会を11月22日に開催",
+        "url": "https://ascii.jp/elem/000/004/437/4437538/?rss"
+      },
+      {
+        "id": "90db3eef41ac5509d17c472cca5905b0387154fe",
+        "published": "2026-09-27T23:46:53+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "メトロを装った不審なメールに注意するよう呼びかけている。",
+        "title": "東京メトロ、不正アクセスで会員メアド約5万9000件漏えいのおそれ 海外からか",
+        "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001778/"
       },
       {
         "id": "be5d712bdc9364a4895f6d14cb9ffff974f872a7",
@@ -756,54 +876,6 @@
         "summary": "放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。 続きを読む...",
         "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
         "url": "https://gigazine.net/news/20260928-damo-radar/"
-      },
-      {
-        "id": "1aa2863d9d724964e79c12e63197019e8a1e6e6f",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "低コスト・低遅延で判断するAI「Jev」が話題。自作ゲームに実装したところ、シューティングでは人間らしい動きを見せ、騎馬戦では勝率の変化を確認することができた。",
-        "title": "AIが人間のようにゲームをプレイ 話題の「Jev」を試してわかったこと",
-        "url": "https://ascii.jp/elem/000/004/437/4437496/?rss"
-      },
-      {
-        "id": "a055fb83107fbf5d45d9e3dd48def8b11defd96d",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！",
-        "title": "「アスキーグルメNEWS」生放送（2026年10月2日号）",
-        "url": "https://ascii.jp/elem/000/004/437/4437490/?rss"
-      },
-      {
-        "id": "9fd93daed11a055512eac419d6857cc2e0b53074",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "iPhone 18 Proの実機が登場！ 話題のカメラの可変絞りのほか、気になる重量アップはどのくらいの感じなのか、スマホ総研の3人が根掘り葉掘りチェックしたいと思います！",
-        "title": "iPhone 18 Proがきた！可変絞りっていい？重いの？分厚い？全部調べる！の巻：スマホ総研定例会393",
-        "url": "https://ascii.jp/elem/000/004/437/4437418/?rss"
-      },
-      {
-        "id": "307b1511fec781f8475e66102903961c844b0474",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "2026年10月9日、東京のTokyo Innovation Baseにて、日欧のスタートアップと企業・支援団体が一堂に会するイベント「TechBIZKON X: LifeTECH+ Innovations for a better life」が開催される。",
-        "title": "10月9日に東京で日欧の医療・介護スタートアップイベント開催。欧州進出支援を賭けたピッチ登壇企業を募集",
-        "url": "https://ascii.jp/elem/000/004/437/4437263/?rss"
-      },
-      {
-        "id": "d068960a6d0b2be3d9182ef941e211fcc96eabe3",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "広島県公立大学法人叡啓大学ソーシャルデザインセンター（SDC）が主催するイベント「AI時代における企業の価値創造戦略―『地方』から見えてくる事業開発と人材開発の未来―」が、10月6日に開催される。",
-        "title": "冨山和彦氏らが登壇！AI時代の価値創造戦略と地方での事業・人材開発を学ぶ無料イベントを10月6日に開催",
-        "url": "https://ascii.jp/elem/000/004/437/4437208/?rss"
-      },
-      {
-        "id": "644ae3356d7adae9df8cf40263bbd8988fcae047",
-        "published": "2026-09-27T22:00:00+00:00",
-        "source": "ASCII.jp",
-        "summary": "株式会社TIMEWELLは9月14日、輸出管理AIエージェント「TRAFEED」において、大学・研究機関向けの研究セキュリティ対応機能の提供を順次開始したと発表した。2025年12月に内閣府が策定した「手順書」に基づき、防衛装備庁や科学技術振興機構（JST）などの公募審査において、研究者や共同研究先に関するリスク確認結果の提出が求められるようになったことが背景にある。",
-        "title": "大学の研究費申請で求められる「海外リスク調査」を自動化、研究セキュリティ対応AIエージェント",
-        "url": "https://ascii.jp/elem/000/004/436/4436207/?rss"
       },
       {
         "id": "3c6dd93faf736219c5d400ce40a50b96725cc717",
@@ -842,7 +914,7 @@
         "published": "2026-09-27T21:03:00+00:00",
         "source": "PC Watch",
         "summary": "「1995年8月24日。米ワシントン州レドモンドにあるMicrosoftのキャンパスにぼくはいた。言うまでもなく、この日は、Windows 95が出荷された記念すべき日だ。キャンパスの広大な中庭には、巨大なテントが設営され、そこで、出荷開始のイベントが開催された。キャンパスの建物の中を見せてもらったときに、廊下の壁に無造作にはりつけられたニュースペーパーに気がついた。Appleが全面広告としてWindows 95出荷当日の朝刊に掲載したものらしい。“C:＼ONGRTLNS.W95”と、画期的なオペレーティングシステムの登場を讃えながらも、アルファベットの…",
-        "title": "Windows 95発売日にレドモンドにいた筆者が振り返るスタートボタン31年",
+        "title": "Windows 95から11まで――僕たちのPCライフを変えた「スタートボタン30年全史」",
         "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2143431.html"
       },
       {
@@ -857,7 +929,7 @@
         "id": "4bed9eda400a141c4ef06bed647e1ec09e52c7c5",
         "published": "2026-09-27T14:55:00+00:00",
         "source": "GIGAZINE",
-        "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。 続きを読む...",
+        "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はないものの実質的に消滅したことが明らかになりました。 続きを読む...",
         "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
         "url": "https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/"
       },
@@ -940,88 +1012,8 @@
         "summary": "日本のアニメのクレジットには、外国出身のスタッフの名前が数多く並ぶ。しかし永住許可の手数料は10月から一気に20倍へ引き上げられる。ロシア出身で来日20年近いベテラン声優と、フランスから来て7カ月の新人アニメーター。2人に話を聞くと、AIへの向き合い方も、日本の制度への思いも、それぞれの立場から浮かび上がってきた。",
         "title": "アニメを支える外国人材に“逆風” 日本在住の声優・アニメーターが抱く「不安の正体」とは",
         "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001672/"
-      },
-      {
-        "id": "c6f1c96c05101917d4f73c3146b86b0643534c0d",
-        "published": "2026-09-26T03:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "オーストラリアのモナシュ大学に所属する研究者らが発表した論文「Nut consumption, cognitive function and brain health markers in individuals with and without stroke: cross-sectional and longitudinal findings from the Framingham heart study」は、ナッツ類の摂取が認知機能や脳の健康に与える影響を調査した研究報告だ。",
-        "title": "ナッツを多く食べる人、認知テストで高成績の傾向 豪州チームが1700人以上を分析",
-        "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/"
-      },
-      {
-        "id": "c37fa62d060239aec5d8e78c9717cfd632f259a6",
-        "published": "2026-09-26T03:00:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "ベルギーのルーヴェン・カトリック大学や中国の浙江大学などに所属する研究者らが発表した論文「Temporal patterning of trigeminal nerve stimulation gates hippocampal plasticity across species」は、独自のリズムで顔の神経を電気刺激する手法が、記憶の定着に与える影響を調査した研究報告だ。",
-        "title": "顔面に電気を流すと記憶力アップ？ あごにパッチ電極を貼り人間で実験、結果は……",
-        "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001710/"
-      },
-      {
-        "id": "69ae17eaca5bdc9aba449f33a4c0824222e60a2c",
-        "published": "2026-09-25T23:31:00+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "キーボードに近づくとき、画面を見上げるとき、少し休憩して背もたれに身を預けるとき……そのたびに腰当てを手で直すのではなく、チェア側が人の動きについてくる。これが、Razer「Iskur V2 NewGen」の設計上のポイントです。",
-        "title": "ずっと座っている人ほど椅子には“動いて”ほしい Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す",
-        "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001759/"
-      },
-      {
-        "id": "2d804fa5564e9e447bb2ca990408a12e84d1b955",
-        "published": "2026-09-25T22:48:32+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "Microsoftは「Microsoft Copilot」アプリの大幅な刷新を発表した。「Home」「Code」「Autopilot」の3タブ構成とし、Officeを直接統合する。自然言語でのアプリ構築や自律的な業務代行エージェントを導入し、日常機能は月額課金、高度なエージェントや最新モデルは従量課金に移行する。",
-        "title": "Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO",
-        "url": "https://www.itmedia.co.jp/news/article/2609/26/2000001773/"
-      },
-      {
-        "id": "f33a05c5fac04890d6221962a1791398263497e8",
-        "published": "2026-09-25T22:48:08+00:00",
-        "source": "PC Watch",
-        "summary": "コンパクトで軽く、持ち運びもしやすいミニPCを、モバイル環境で使ってみたいと考えるユーザーもいるだろう。特に自宅やオフィスで使っているメインPCをそのまま持ち出すなら、今までのように複数台のPCで環境を揃えたり、データを同期して作業を継続しやすくする手間もいらない。",
-        "title": "【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器 - PC Watch",
-        "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143508.html"
-      },
-      {
-        "id": "ef3242d99aa4e753fa2efcc8ebfe84b192d7a13d",
-        "published": "2026-09-25T22:42:48+00:00",
-        "source": "PC Watch",
-        "summary": "自宅でのテレワークがメインだけれど、狭いデスクでがんばって仕事している人もいるのではないだろうか。もっと広々としたデスクで作業したい。でも、部屋の広さを考えると大きなデスクに変えるのは難しい、みたいな事情もあるかもしれない。",
-        "title": "【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた - PC Watch",
-        "url": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2143507.html"
-      },
-      {
-        "id": "0aec12a5b103d09b9b212e9503b16bc310ea5e48",
-        "published": "2026-09-25T12:00:00+00:00",
-        "source": "PC Watch",
-        "summary": "WordやExcelのファイル作成からアプリのコード開発まで、1つの「Copilot」アプリの中で行なえるようになる。Microsoftは「Copilot September Event」というCopilotの新戦略に関する記者会見を開催し、CopilotをMicrosoft 365、Microsoft 365 Apps、Dynamics 365、Agent 365などといったさまざまな業務システムの入り口として展開していくと説明した。",
-        "title": "Copilot内でWordもExcelもコード作成も。名称統一でChatGPT対抗",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2143444.html"
-      },
-      {
-        "id": "785127a7420601f076ffe34fd8af7c4bb4d1f9a7",
-        "published": "2026-09-25T09:19:52+00:00",
-        "source": "PC Watch",
-        "summary": "Webカメラだけど、スタジオ品質。Razerは9月24日(米国時間)、ゲーマーやストリーマー、クリエイターといったプロ向けの4K Webカメラ「Razer Kiyo V2 Pro」を発売した。直販価格は5万1,980円。",
-        "title": "Webカメラなのにスタジオ品質、Razer「Kiyo V2 Pro」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2143327.html"
-      },
-      {
-        "id": "e298fae406bad80d8c0d9139753cc4e74d3cb2c5",
-        "published": "2026-09-25T05:08:45+00:00",
-        "source": "PC Watch",
-        "summary": "文字のにじみを抑えるRGBストライプ構造のQD-OLEDパネルを採用した、ウルトラワイドモニターが登場した。エムエスアイコンピュータージャパンは、34型ウルトラワイドモニター「PRO MAX 341QPXW14G」を10月1日に発売する。価格はオープンプライスで、実売予想価格は19万2,300円前後の見込み。",
-        "title": "MSI、RGBストライプの第5世代QD-OLED採用34型ウルトラワイドモニター",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2143263.html"
-      },
-      {
-        "id": "2819e9c0ffd6ef7298163c79fa7e79772a28f0ae",
-        "published": "2026-09-25T04:58:06+00:00",
-        "source": "PC Watch",
-        "summary": "コンセントを備えながら、飛行機にも持ち込めるモバイルバッテリが登場。サンワサプライは、リン酸鉄リチウムイオン電池を採用した24,000mAh(76.8Wh)のモバイルバッテリ「BTL-RDC46」を発売した。サンワダイレクトでの直販価格は3万2,880円。",
-        "title": "コンセントが持ち歩ける、リン酸鉄のモバイルバッテリ",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2143250.html"
       }
     ]
   },
-  "generated_at": "2026-09-27T23:26:15.839445+00:00"
+  "generated_at": "2026-09-28T02:04:53.400123+00:00"
 }
