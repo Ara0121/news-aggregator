@@ -2,228 +2,236 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "541e8d7ef8ac7f0b939152dd146c5e5713f5e67e",
-        "published": "2026-10-09T00:41:35+00:00",
+        "id": "9d68d278bf127dfb54720db2aac1916ab66aa5c5",
+        "published": "2026-10-09T09:40:34+00:00",
         "source": "note",
-        "summary": "わが家の話です。 私は、朝早く家を出て、夜遅くに帰ってくる人間でした。休みの日も、ほとんど家にいません。 「家族のために働いている」。そう信じていました。 妻は、そんな私の仕事への思いを、分かってくれていたのだと思います。不満を口にすることは、ほとんどありませんでした。 でも、家のことも子育ても、ほとんど妻ひとりに任せきりでした。 ある夜のこと 私「ただいま。子どもたちは？」 妻「もう寝たよ。おかえり、ご飯あるよ」 私「ごめん、明日も早いから、風呂入って寝るわ」 妻「…うん、わかった」 あの日、子どもがはじめて逆上がりができたこと。 妻は、私に言えなかっ…",
-        "title": "「仕事がすべて」だった私が倒れて、はじめて妻と話せたこと",
-        "url": "https://note.com/life_partners/n/nd74782078bee"
+        "summary": "社内SE求人を見ても、実際の仕事の割合が分からないこと、ないですか？ 社内SEの求人に「クラウド基盤の設計・構築」と書かれている。でも、入社後も本当に自分で構築できるのか、問い合わせや申請対応が大半なのか分からない。面接で聞きたいけれど、何をどう質問すればよいか迷っていませんか。 続きをみる",
+        "title": "社内SE求人の業務割合を面接前後で見抜く手順｜「構築したかったのに問い合わせばかり」を防ぐ",
+        "url": "https://note.com/umeko_itcareer/n/n2d8c3fca2896"
       },
       {
-        "id": "7c7cea0fce36d000166e9753a385a88d94729cc1",
-        "published": "2026-10-09T00:40:51+00:00",
+        "id": "cc4999653d4307eefba1703fd998c3f88e473231",
+        "published": "2026-10-09T09:39:34+00:00",
         "source": "note",
-        "summary": "「もっと注意してください」 「確認を徹底しましょう」 「同じミスを繰り返さないようにしてください」 医療現場では、医療事故やインシデントが発生した際、このような言葉を耳にすることがあります。 もちろん、医療従事者一人ひとりが安全を意識し、必要な確認を行うことは重要です。 しかし、それだけで医療事故を防ぐことはできるのでしょうか。 注意喚起を行い、マニュアルを整備し、研修を繰り返しても、似たようなインシデントが発生することがあります。 もし同じような問題が繰り返されているのであれば、個人の努力だけでは解決できない何かが、その職場に存在しているのかもしれませ…",
-        "title": "医療安全に必要なのは個人の努力？医療事故を防ぐ「仕組み」の考え方",
-        "url": "https://note.com/nilyamaguchi/n/nbe21422e5b49"
+        "summary": "AWSを使っているのに、職務経歴書へうまく書けないこと、ないですか？ AWSを仕事で使っているのに、職務経歴書には「EC2、VPC、IAMを使用」としか書けない。面接で担当範囲を聞かれると、チームの仕事と自分の仕事が混ざってしまう。そんな人向けの手順です。 続きをみる",
+        "title": "AWS経験を「転職で伝わる実績」に変える手順｜サービス名の羅列から卒業する",
+        "url": "https://note.com/umeko_itcareer/n/nb4aaf5f2254e"
       },
       {
-        "id": "714f143fe1baef65a8b55f0d759351e26315b932",
-        "published": "2026-10-09T00:39:43+00:00",
+        "id": "576d53183b80ff6c418e2c7d034100d80aa547f8",
+        "published": "2026-10-09T09:39:17+00:00",
         "source": "note",
-        "summary": "30代で転職を考えたときに最初にやるべき5つのこと 「今の会社でこのまま働いていていいのかな？」 30代になると、仕事や将来について考える機会が増えてきます。 年収、働き方、人間関係、将来のキャリア。 転職したい気持ちはあるけれど、何から始めればいいかわからない。 そんな人に向けて、転職を考えたときに最初にやっておきたい5つのことを紹介します。 ① 今の仕事の不満を整理する まずは、なぜ転職したいのかを考えてみましょう。 ・年収が低い ・残業が多い ・人間関係に悩んでいる ・将来の成長が見込めない ・仕事内容が合っていない 不満を整理すると、次の職場に求…",
-        "title": "30代で転職を考えたときに最初にやるべき5つのこと",
-        "url": "https://note.com/sou_career30/n/ne83bcebe3b17"
+        "summary": "【年収アップ】空調設備業界で高収入を狙うための転職のコツとは？ 続きをみる",
+        "title": "高収入を獲得する空調設備業者の転職のコツ｜年収600万円以上を実現する企業選びとアピール術",
+        "url": "https://note.com/hitechno1007/n/n957038a3d043"
       },
       {
-        "id": "237e53c0784f3e34656a2c713b9c76ff7e31422b",
-        "published": "2026-10-09T00:38:20+00:00",
+        "id": "44829abcb9f43692a255497a3f541e716ce83c75",
+        "published": "2026-10-09T09:38:37+00:00",
         "source": "note",
-        "summary": "「アクセス就活LIVE 大阪会場」📢 📅 日程 2026年10月14日(水)14:00～17:00 📍開催場所 大阪府 アクセス梅田フォーラム 💡対象 2027年新卒 🤝主催 アクセス就活 ✅●2027年3月卒業予定者対象 ☆27卒積極採用中の優良企業が参加する合同企業説明会♪ ☆選考試験ワンステップ免除あり！就活初心者大歓迎！ 🚀詳細はこちら↓↓↓ アクセス就活LIVE 大阪会場(大阪府) | 合説・就活イベント・転職フェア日程一覧【2026年開催】 - 合説どっとこむ ●2027年3月卒業予定者対象 ☆27卒積極採用中の優良企業が参加する合同企業説明…",
-        "title": "2026年10月14日(水)開催「アクセス就活LIVE 大阪会場」",
-        "url": "https://note.com/gosetsu/n/nd5435db08b9b"
+        "summary": "はじめに 続きをみる",
+        "title": "未経験から経理を目指すなら",
+        "url": "https://note.com/calm_cosmos185/n/nb3c8d01e76b1"
       },
       {
-        "id": "e80f0862dde33363d7e01e514c1bb5da4e43a789",
-        "published": "2026-10-09T00:37:23+00:00",
+        "id": "7946208e9b32e224cdeeae735f558a059ba55477",
+        "published": "2026-10-09T09:38:35+00:00",
         "source": "note",
-        "summary": "勉強することが、こんなに楽しいなんて 続きをみる",
-        "title": "47歳、私はもう一度学生になった②",
-        "url": "https://note.com/mona51life/n/nb0ac9a68a040"
+        "summary": "SES脱出の転職先として、冠婚葬祭・終活テック系SE・ペット・動物医療テック系SEに続いて紹介したいのが「鉄道・運行管理/券売システム系SE」だ。JR東日本・JR西日本・私鉄各社・地下鉄事業者といった鉄道事業者自身の情報システム部門、そして日立製作所・東芝・三菱電機・日本信号・京三製作所・大同信号のような鉄道事業者向けに運行管理・信号・券売システムを納入するベンダー企業を中心に、「列車を安全かつ高密度に走らせ続ける」というミッションクリティカルな社会インフラをテクノロジーで支える開発全般を指す。この業界は今、構造的な転換点を迎えている。国土交通省の調査で…",
+        "title": "【SES脱出】鉄道・運行管理/券売システム系SE完全攻略｜運転士不足が加速させるATO自動運転化とタッチ決済乗車を面接35問・職務経歴書例文5本で徹底解説",
+        "url": "https://note.com/lucky_duck906/n/ndda9552cbd41"
       },
       {
-        "id": "6043e4119701a4b0aba3f35e63ec82e932629a61",
-        "published": "2026-10-09T00:36:04+00:00",
+        "id": "f05776a8a21a16ed6678836fe94da45042ebcf9e",
+        "published": "2026-10-09T09:35:02+00:00",
         "source": "note",
-        "summary": "「転職したい気持ちはあるけれど、人手が足りない職場で言い出しにくい」「引き止められたらどうしよう」——登録販売者として働いていると、退職の切り出し方に悩む方は少なくありません。 店舗には登録販売者の配置が必要な時間帯もあり、一人抜けることの影響が大きいと感じやすい職種です。だからこそ、段取りを整えて、できるだけ円満に次のステップへ進みたいところ。今回は、退職を考え始めてから実際に辞めるまでの流れと、伝え方のポイントを整理します。 続きをみる",
-        "title": "登録販売者が退職・転職するとき、円満に辞めて次へ進むための段取りと伝え方",
-        "url": "https://note.com/touhanwork91/n/nb5299d15afec"
+        "summary": "お仕事図鑑 No.023 管理栄養士 食事という力で、健康を支える仕事 続きをみる",
+        "title": "管理栄養士とは？仕事内容となるにはを解説",
+        "url": "https://note.com/nigumo8/n/n7e5252173cae"
       },
       {
-        "id": "d503112ba85d84e2706480650cd71c60b6aea825",
-        "published": "2026-10-09T00:35:30+00:00",
+        "id": "55b5bbb79878b252bede9cfa0ab8667eb21226c9",
+        "published": "2026-10-09T09:34:19+00:00",
         "source": "note",
-        "summary": "前職は18年勤めた 役職も着いて、部下も居た 上司との云々で先が見えなくなったから （前記事に記載） もう嫌になっていた 続きをみる",
-        "title": "転職",
-        "url": "https://note.com/mizu76tr/n/nec33a710e04d"
+        "summary": "今月末が期限のテスト案件（ソフトウェアの動作確認）がある。 正直に言う。 終わりそうにない。 続きをみる",
+        "title": "30代未経験でIT転職して4か月。初めて「仕事が終わらない」と思った",
+        "url": "https://note.com/ngmt_05k/n/n7fe9992cd22d"
       },
       {
-        "id": "3598bc4c2783a6e152c165ea11ad9a0064b1b851",
-        "published": "2026-10-09T00:34:47+00:00",
+        "id": "dd8917c5c97824d49be041fb19ee1da4e6624eb6",
+        "published": "2026-10-09T09:33:48+00:00",
         "source": "note",
-        "summary": "その１で、新卒２年目の私の「通常業務」は １日12時間45分労働と書きました。 この投稿では、詳細を計算していきます。 それでは計算してみましょう。 初めての試みのため、どんな結果になるのか楽しみです。 ３０日ある月を基準にして、年末年始の休みは含めいなとします。 「２か月に１日の休み」を月平均０.５日として、 月２９.５日勤務で計算。 夜８時前後の退社は２０時、昼休憩は毎日１時間です。 続きをみる",
-        "title": "その２【約２.36倍だった私の労働時間】",
-        "url": "https://note.com/munou__black/n/n1a8cfd935341"
+        "summary": "求人票を読み込み、面接の対策も万全。それでも、「入ってみたら全然違った」という失敗はなくなりません。 なぜなら、 求人票も面接も、施設側が一番「見せたい自分」を見せる場 だからです。 では、どこで施設の本当の姿が見えるのか。答えは「職場見学」です。 見学時の数十分間には、面接では絶対に出てこない現場のリアルが、そこかしこに滲み出ています。 今回は、現役介護福祉士の視点から、見学で絶対にチェックすべきポイントと、本音を引き出す質問テクニックをお伝えします。 この記事で分かること 求人票や面接では分からない、現場の本当の雰囲気を見抜く観察ポイント 続きをみる",
+        "title": "内定前に施設の「本性」はバレる。現役介護福祉士が明かす、職場見学で絶対に見るべき7つの裏側",
+        "url": "https://note.com/crisp_squid3529/n/n91dd4d145d8e"
       },
       {
-        "id": "22e34213254b3dec4ceadbbd5632880910bd95de",
-        "published": "2026-10-09T00:34:33+00:00",
+        "id": "60f51724045aa79af1ba3e2030d136c5721af0a8",
+        "published": "2026-10-09T09:32:22+00:00",
         "source": "note",
-        "summary": "SESで働いていた頃、自分にはそんなに「強い経験」がないと思っていました。 大きなサービスを立ち上げたわけでもない。 続きをみる",
-        "title": "SESを出てから気づいた。「何もしてない」と思っていた経験が、意外と使えた。",
-        "url": "https://note.com/_skilllog/n/n226c7688b237"
+        "summary": "エマ・スリープ エマ・ハイブリッドV2n (シングル)【ハイブリッドマットレス】のレビュー比較をまとめます。 朝起きた時に腰や肩に違和感があり、ぐっすり眠れた気がしないことはありませんか？ 続きをみる",
+        "title": "エマ・スリープ エマ・ハイブリッドV2n (シングル)【ハイブリッドマットレス】 レビュー比較まとめ",
+        "url": "https://note.com/startupm/n/n17a9117a396c"
       },
       {
-        "id": "9b461b6b1ec13da0a68d166ea08aa3be7532400a",
-        "published": "2026-10-09T00:32:53+00:00",
+        "id": "4aad65b3f7249ea1e8b54cc901807824cb159b1f",
+        "published": "2026-10-09T09:31:18+00:00",
         "source": "note",
-        "summary": "そのルール、本当に必要ですか？ おはようございます。 トラちゃんです🐯 介護施設で働いていると、こんなことはありませんか？ 「昔からこうだから」 「前任者もこうしていたから」 「みんなそうしているから」 「決まりだから仕方ない」 でも、ちょっと待ってください。 そのルール、本当に今も必要ですか？ 介護施設は、利用者さんの生活を支える場所です。 安全を守るためのルールは必要です。 記録も必要です。 情報共有も必要です。 ただし、何年も前につくられた仕組みが、今の利用者さんや職員に合っているとは限りません。 今回は、現役施設長の視点から、介護施設で一度見直し…",
-        "title": "【介護施設で見直したいこと10選】",
-        "url": "https://note.com/_kaigo/n/n78e46976a260"
+        "summary": "▶︎ 【 ESの超裏技 】全企業で選考通過率が爆上がりする 超裏技 はこちら ブルボンの選考で差がつくのは、ルマンドやアルフォートへの愛着ではない。商品を生み、量産し、売場で選ばれるまでを説明できるかだ。 続きをみる",
+        "title": "【ブルボン企業研究】ES・面接対策・聞かれることは？｜インターン・製品開発・職種別選考＋想定質問100問 内定直結",
+        "url": "https://note.com/right_thyme4271/n/nce3fd51cf8ef"
       },
       {
-        "id": "cf67349b1b7282cf31c411222d7f8dddab3bc480",
-        "published": "2026-10-09T00:30:40+00:00",
+        "id": "86cb4cb69ba670cde5b33980bc095b39bf6ec53a",
+        "published": "2026-10-09T09:30:25+00:00",
         "source": "note",
-        "summary": "私が気になる企業ニュースをいくつかピックアップするシリーズです！ スキマーク（ハートマーク）が安定的に40〜50を超えているうちはニーズがあるということで不定期でも続けようと思います。 SNSでの宣伝・拡散のご協力もよろしくお願いします！ ＊すみません、今朝体調不良で投稿が遅れました･･･🙏 続きをみる",
-        "title": "きょうの気になる企業ニュース（2026/10/9）",
-        "url": "https://note.com/s_ikeda/n/n1ad2e7747985"
+        "summary": "リモートワークの転職は、未経験だと難しい面があります。ただし、順番を間違えなければ、可能性はゼロではありません。 私は元看護師で、いまは都内でAIエンジニアとして働いています。三交代の病棟勤務から、未経験でIT企業に移りました。「家で働ける仕事がしたい」という気持ちは、転職を考えた最初の動機のひとつでした。 続きをみる",
+        "title": "リモートワークへ転職は未経験でも狙える?元看護師が考えた現実的な順番",
+        "url": "https://note.com/jiujiu__/n/n1271f725caaf"
       },
       {
-        "id": "6c5fc602b5abfe465efdd71e935ac122b1e06f49",
-        "published": "2026-10-09T00:26:47+00:00",
+        "id": "2722f4b72100d3254c106c8d9967f533fc949419",
+        "published": "2026-10-09T09:24:19+00:00",
         "source": "note",
-        "summary": "Google Cloud Professional Cloud Developer の難易度は、実務のない大学生には高めです。 続きをみる",
-        "title": "Google Cloud Professional Cloud Developer 難易度を、就活生の私が出題範囲53項目で数えてみた",
-        "url": "https://note.com/syukatusyousya/n/n6c69014caefa"
+        "summary": "ドラッグストア店長は「小さな経営者」だった。そして転職して憧れのSNSマーケターへ どうも～折原です！ 続きをみる",
+        "title": "入社前には教えてくれない話 ～ドラッグストア店長～",
+        "url": "https://note.com/nect_5021/n/nfe3875c568aa"
       },
       {
-        "id": "27a3ddc94ae0442bb530e8c69b2e135c996d52bf",
-        "published": "2026-10-09T00:23:55+00:00",
+        "id": "7933185ffe4d6db9093cf4d0b7c477f0aa013cff",
+        "published": "2026-10-09T09:20:44+00:00",
         "source": "note",
-        "summary": "※本記事には広告・PRが含まれています。求人の数字は、公開求人を会員登録なしで読んで数えたものです。会社名は伏せています。 「PMになってから、もう何年もコードを書いていない。 このまま外に出て、通用するんだろうか」 続きをみる",
-        "title": "SIerのPMの転職先は、技術がなくても見つかる！｜ただし、若手のころの実装は必ず書くべき",
-        "url": "https://note.com/career_tenshoku_/n/ne0cad4e17181"
+        "summary": "▶︎ 【 ESの超裏技 】全企業で選考通過率が爆上がりする 超裏技 はこちら コーヒーが好きな学生と、UCCで採用される学生。その決定的な違いを徹底解説 続きをみる",
+        "title": "【UCC上島珈琲企業研究】ES・面接対策・聞かれることは？｜インターン・GD・職種別選考＋想定質問100問 内定直結",
+        "url": "https://note.com/right_thyme4271/n/nc9aff7bd3e13"
       },
       {
-        "id": "f3d847f0ce4161bd1937425c81919f28a8cea93e",
-        "published": "2026-10-09T00:22:36+00:00",
+        "id": "a0767b20cba35e7b4b555c81779d5473b949a6d8",
+        "published": "2026-10-09T09:19:00+00:00",
         "source": "note",
-        "summary": "Google Cloud Professional Cloud Developer の過去問は、Google から公開されていません。 続きをみる",
-        "title": "Google Cloud Professional Cloud Developer 過去問の代わりは無料50問。就活中の資格勉強は週5時間",
-        "url": "https://note.com/syukatusyousya/n/nb246e6db5ad5"
+        "summary": "一番頑張ったこと！といえるようなことがなくて困っているのでいくつか候補を上げたいと思います。 候補1 中学校までの皆勤賞 続きをみる",
+        "title": "頑張ったと言えることが欲しい！",
+        "url": "https://note.com/ryu_930/n/n777236a8c66e"
       },
       {
-        "id": "c53d4548a24bc22cab4826c8096685ba909a78c6",
-        "published": "2026-10-09T00:19:23+00:00",
+        "id": "d997013a8828f22ae5fc8a75ac00e842fe253c5f",
+        "published": "2026-10-09T09:14:17+00:00",
         "source": "note",
-        "summary": "※この記事には広告（アフィリエイトリンク）が含まれます。 転職面接で生成AIについて聞かれたとき、 続きをみる",
-        "title": "転職面接で「生成AIをどう使った？」に詰まる人へ｜場面・AIの役割・人の確認・変化を60秒にする「4マス回答」",
-        "url": "https://note.com/joyous_phlox1177/n/nd71dc4eb1a48"
+        "summary": "\\週休三日（水土日）！年間休日150日以上/ アプリ開発の会社 株式会社アンドエーアイ 広報です！ 👇前回の記事はこちらから👇 続きをみる",
+        "title": "【オフィスツアー】週休3日のアプリ開発会社、オフィスをご紹介！｜年間休日150日｜働きやすい会社",
+        "url": "https://note.com/official_andai/n/n129cf271c613"
       },
       {
-        "id": "f29aa9b83be66800bf208792e6305bf7ed016c41",
-        "published": "2026-10-09T00:18:15+00:00",
+        "id": "a7594a6041b3ecfe46f8f3462a802165cf93ce5d",
+        "published": "2026-10-09T09:11:43+00:00",
         "source": "note",
-        "summary": "企業SNSやWebメディアの運用を続けてきた人が、音楽会社の面接に向けて実績を振り返ると、「どんな成果につながりましたか」という質問への答えに迷うことがあるだろう。 投稿文や記事を工夫した経験はあっても、売上や楽曲の再生数に結びつく大きな数字を示せなければ、強みとして伝わらないのではないかと感じるためだ。 続きをみる",
-        "title": "音楽宣伝の面接で「成果は？」と聞かれたら SNSの改善経験を具体的に伝える方法",
-        "url": "https://note.com/eveningmusic/n/nb5185b6079a3"
+        "summary": "Google Cloud Professional Cloud Security Engineer の過去問は、公開されていません。Google が公式ページで出しているのは、出題の形を見るためのサンプル問題。だから大学生がこの資格を就活と並行して取るなら、本番に近い問題を一度通して解きましょう。その正答数で、受験する月を決めます。 続きをみる",
+        "title": "Google Cloud Professional Cloud Security Engineer 過去問がない試験は、就活中の大学生が200ドルで受けてよいのか",
+        "url": "https://note.com/syukatusyousya/n/na76f07b1c14f"
       },
       {
-        "id": "fb692c016a1aee17cf2be71490687233c8b0da14",
-        "published": "2026-10-09T00:18:15+00:00",
+        "id": "39d2ba30ddc32afe80134305d4a5fbb048fe77bc",
+        "published": "2026-10-09T09:07:46+00:00",
         "source": "note",
-        "summary": "高校生の子ども、卒業後は就職予定である 続きをみる",
-        "title": "ふと思うこと…なんだかなぁ〜って",
-        "url": "https://note.com/hina5kazu12/n/n9e8cd2464d8e"
+        "summary": "▶︎ 【 ESの超裏技 】全企業で選考通過率が爆上がりする 超裏技 はこちら ミツカンの選考は、食への熱意だけでは突破できない。内定を左右するのは、自考自動・コース選択・商品価値を変える発想力 続きをみる",
+        "title": "【ミツカン企業研究】ES・面接対策・聞かれることは？｜インターン・GD・5つの採用コース・志望動機＋想定質問100問 内定直結",
+        "url": "https://note.com/right_thyme4271/n/n2d4c951eeeb2"
       },
       {
-        "id": "e59409e92d8e298a38673ef0afd3cc148e1723e7",
-        "published": "2026-10-09T00:18:11+00:00",
+        "id": "ddff7cbb26e8356720aaa8c377c4bb0a5c6c9ed6",
+        "published": "2026-10-09T09:07:20+00:00",
         "source": "note",
-        "summary": "エイプリルフールまでのビジネス 第7話「早く始めた人は、早く終われるのか」 早く始めれば、早く終わる。 水城遼は、それを疑ったことがなかった。 仕事も、勉強も、旅行の準備も。 早く始めれば余裕ができる。 だから就職活動だって、きっと同じだ。 少なくとも、昨日まではそう思っていた。 ⸻ 1．十月一日、まだ迷っている 十月一日。 午前九時二十分。 都内のホテル。 大きなシャンデリアの下に、紺色のスーツを着た学生たちが集まっていた。 受付では、人事担当者が笑顔で名前を確認している。 「本日はおめでとうございます」 「ありがとうございます」 「こちらが会場になり…",
-        "title": "第7話「早く始めた人は、早く終われるのか」",
-        "url": "https://note.com/fair_willet5560/n/nf7cf1a3b71df"
+        "summary": "※本記事にはプロモーション(PR)が含まれます。 この記事でわかること 続きをみる",
+        "title": "【AIで面接練習】ChatGPTを面接官役に｜深掘り質問を出させる3つの指定",
+        "url": "https://note.com/haruikntv0312/n/n2ca98f8a19aa"
       },
       {
-        "id": "7994a05dfe87d3db9107766da6bb8fcce0966831",
-        "published": "2026-10-09T00:17:59+00:00",
+        "id": "4d2679633a4725b0750bcf5ba8ca27d48b3fd73f",
+        "published": "2026-10-09T09:06:33+00:00",
         "source": "note",
-        "summary": "みなさん、こんにちは！ 就労移行支援事業所に通っている利用者Eです。 私は今、これまでの訓練をしっかり振り返りながら、就職活動に向けた応募書類作りに取り組んでいます。 振り返ってみると、「自分ってこんなにがんばってきたんだな」と気づくことがたくさんありました。 続きをみる",
-        "title": "私が事業所で「がんばってきたこと」〜気づきと成長の振り返り〜【利用者Eの就活日誌 #1】【利用者さんブログ】",
-        "url": "https://note.com/current_lph/n/n2c50f2de0105"
+        "summary": "Google Cloud Professional Cloud Security Engineer の問題集は、公式の5分野の配分どおりに問題が入っているかで選びます。大学生が就活と並べて受けるなら、量も見ます。受験料200ドルを1回で通したいから。私は公式の5分野の配分と、問題集の中身を並べて数えてみました。 続きをみる",
+        "title": "Google Cloud Professional Cloud Security Engineer 問題集を、就活中の大学生が公式の5分野と並べて数えてみた",
+        "url": "https://note.com/syukatusyousya/n/n6a2956ca7564"
       },
       {
-        "id": "c3bea9e19efcd774e982ac3a7a6fd13008143a26",
-        "published": "2026-10-09T00:16:41+00:00",
+        "id": "73199c4e5dd2c2caac165970cb7e7416bc5dc4b4",
+        "published": "2026-10-09T09:01:22+00:00",
         "source": "note",
-        "summary": "Google Cloud Professional Cloud Developer の勉強時間は、実務経験のない大学生なら90時間が目安です。 続きをみる",
-        "title": "Google Cloud Professional Cloud Developer 勉強時間は、就活中の大学生なら90時間で足りるのか",
-        "url": "https://note.com/syukatusyousya/n/nc87dadca4624"
+        "summary": "Google Cloud Professional Cloud Network Engineer（PNE）の難易度は、大学生にとって高めです。 続きをみる",
+        "title": "【大学生】Google Cloud Professional Cloud Network Engineer 難易度は実務3年が目安。就活中の私は7週間62時間で受かった",
+        "url": "https://note.com/syukatusyousya/n/nefe1a8e4c9b3"
       },
       {
-        "id": "bca53aa4b9cc698c3cdf49468622fce648213364",
-        "published": "2026-10-09T00:03:50+00:00",
+        "id": "ede2356568a2f346d4e213a1c3a57d0876e57a6d",
+        "published": "2026-10-09T09:00:51+00:00",
         "source": "note",
-        "summary": "こんにちは。 N4Kのイメージキャラクター、めぐみです。 続きをみる",
-        "title": "本当にいた!?SES業界で噂の妖怪8選",
-        "url": "https://note.com/n4k_inc/n/n3e09f6b114ee"
+        "summary": "採用通知が届きました😆✨ 【ご送付】採用内定通知書・入社誓約書／〇〇食品 〇〇食品株式会社 新卒採用グループ ×× ＜info@〇〇-partner.jp＞ To 自分、info@〇〇-partner.jp 〇〇 〇〇 様 こんにちは、〇〇食品株式会社 新卒採用担当の〇〇でございます。 この度はご内定おめでとうございます！ 改めまして、今後ともどうぞよろしくお願いいたします。 内定通知書ならびに入社承諾誓約書を添付ファイルにてお送りいたしますので、以下ご確認のうえ、期日までにご対応いただきますようお願い申し上げます。 【ご対応いただきたいこと】 1）内定…",
+        "title": "大手食品の内定通知が偽造！？怪しい求人紹介の誘導がポンコツな件【Bug #008】",
+        "url": "https://note.com/qail_debug/n/n96aa095541e3"
       },
       {
-        "id": "2bad681725d34a17151d6ed5d8609784dc813c16",
-        "published": "2026-10-08T23:38:44+00:00",
+        "id": "1477536837349fcf07c659de1040288bce721851",
+        "published": "2026-10-09T08:51:04+00:00",
         "source": "note",
-        "summary": "🌱 名刺を100枚集めるより、社内の1人と食べる1回のランチ。出世の扉は「いつもの昼休み」の先にあります 「早く出世したい」「いつかは社長の椅子に座りたい」。 続きをみる",
-        "title": "🔑異業種交流会に出るより、社内のランチ1on1のほうが出世への近道になりやすい。社内で味方をこつこつ増やしていく誘い方の型🍱誘う際に選ぶべき言葉と、タイミングを見極めるための視点の持ち方",
-        "url": "https://note.com/career100/n/n22eeea5e64f0"
+        "summary": "FDE総研編集部です。FDE（Forward Deployed Engineer）について調べ始めた方、とくにAIエンジニアとして働いている方が最初に抱くのが「結局、AIエンジニアと何が違うのか」という疑問だと私たちは考えています。今回はこの問いを、スキルの一覧表とは別の角度から考えてみます。 なぜ今、この違いを取り上げるのか 続きをみる",
+        "title": "FDEとAIエンジニアを分けるのは技術力ではなく「何をもって完成とするか」",
+        "url": "https://note.com/fdesouken/n/n283fad075bb7"
       },
       {
-        "id": "6683af6578303b3a1af4de7c9802ff9d36906d33",
-        "published": "2026-10-08T23:23:15+00:00",
+        "id": "d9ac1f9d79645227101d60410fdd23218eb786ee",
+        "published": "2026-10-09T08:48:03+00:00",
         "source": "note",
-        "summary": "システム設計の経験を職務経歴書に書こうとすると、最後に「どれだけ改善したか」を添えたくなる。けれども、数字を測っていない判断もある。 私がP/LとB/Sのレポート用テーブルを設計したときは、二つに分けるとテーブル数が多くなり、ユーザー企業側のストレージが枯渇する可能性を考えた。そこで、一つのテーブルにまとめ、フラグでレポートの種類を管理した。 続きをみる",
-        "title": "成果の数字がない設計経験を、職務経歴書にどう書くか",
-        "url": "https://note.com/funda_mental/n/n8f62b4be5f81"
+        "summary": "FDE総研編集部です。私たちはFDE（Forward Deployed Engineer）のキャリアと実務を扱うメディアを運営しています。そのなかで、何度も話題に上がる問いがあります。「業界経験がないのに、顧客の現場に入って大丈夫だろうか」というものです。 今回は、この不安について編集部なりの考えをまとめます。先に結論を書くと、FDEに求められるのは業界全体に詳しくなることではありません。目の前の顧客の、目の前の業務に詳しくなることだと私たちは考えています。 続きをみる",
+        "title": "業界未経験のFDEはどこから学ぶか データの違和感を業務理解の入口にする",
+        "url": "https://note.com/fdesouken/n/n769dbc7e2d40"
       },
       {
-        "id": "0caf956383ddafc83f216f5eee226df26a348799",
-        "published": "2026-10-08T22:17:18+00:00",
+        "id": "f30e5bcb8de3316ad5dc533805db6769f656ffa7",
+        "published": "2026-10-09T07:58:23+00:00",
         "source": "note",
-        "summary": "あーそうでした、前回はえーっと 確か、、 自分自身を知ることが大事の続きでしたね！ あってますか？？ あってる、OK👌 （認知症を免れた気持ち） 自分自身？？えーっと私の好きなテレビ番組はワンピースで、大好きなのは息子で、苦手な人は妻で、、違います 妻も子どもも大好きです （今記事を見るのを止めた人が大多数） 続きをみる",
-        "title": "AIを活用して仕事のスピードと精度を両立するには②",
-        "url": "https://note.com/umioyaji/n/na47e48b6c063"
+        "summary": "■ 「暗号化されてるから安心」は本当？ハッシュ化との決定的な違い。 昨日も少し触れましたが、最近本当に個人情報漏洩やサイバー攻撃のニュースが多いですよね……。 続きをみる",
+        "title": "「暗号化されてるから安心」は本当？ニュースを見る目が変わる「ハッシュ化」との決定的な違い。",
+        "url": "https://note.com/proper_iris4198/n/n55307eb9b959"
       },
       {
-        "id": "47ef6710a81cafed4f8118c68c804a28a4e19add",
-        "published": "2026-10-08T21:15:18+00:00",
+        "id": "5e167b0346fceb309f2329f1664805afa0af5c5c",
+        "published": "2026-10-09T04:07:11+00:00",
         "source": "note",
-        "summary": "エンジニアの評価制度は実力主義と聞くと身構えますが、実際に評価されていたのは、技術力の高さそのものより「任された範囲をやり切ったか」でした。市役所から転職した私が、3年目の今に感じていることを書きます。職務経歴の整理で レバテックキャリア のエージェントに相談した経験も交えます。 続きをみる",
-        "title": "エンジニア 評価制度 実力主義の会社で、元公務員の私が見られていたこと",
-        "url": "https://note.com/super_wolf541/n/nf331af1905f6"
+        "summary": "こんにちは！SIGNPOST採用広報です！ 今回は、現場エンジニアからキャリアをスタートし、現在は人事執行役員として組織づくりを牽引する 三戸部さん のインタビューをお届けします！🎤 続きをみる",
+        "title": "【経営陣紹介】元上流エンジニア、現人事執行役員の三戸部さんが、カジュアル面談で「エンジニアのキャリア」に本気で向き合う理由",
+        "url": "https://note.com/signpost_pr/n/na205dfd9c885"
       },
       {
-        "id": "8bcd05594dc07743fb812990b0fe893c06460043",
-        "published": "2026-10-08T17:26:13+00:00",
+        "id": "388581267887c6fd166b8e4627a0e74555b25089",
+        "published": "2026-10-09T03:56:54+00:00",
         "source": "note",
-        "summary": "※本記事にはアフィリエイト広告（PR）が含まれます。 35歳。年収500万円。 続きをみる",
-        "title": "【転職の現実 #01】年収500万円の35歳エンジニア。同期の年収を聞いた夜、会社への忠誠心が消えた。",
-        "url": "https://note.com/ai_shigoto_1/n/n47f8b10e4747"
+        "summary": "※この記事は、2026年9月にWantedlyで公開した記事を、一部編集して掲載しています。 はじめまして、エイジィでエンジニアをしています、ハルくんです！ （エイジィでは「あだ名制度」があり、お互いに親しみを込めてニックネームで呼び合っています！） 現在エイジィでは、『HOTEL SMART』の開発を一緒に担っていただけるエンジニアを募集しています。 でも、ホテル業界のシステムって、普段ホテルで働いていないとなかなか想像しづらいですよね。 「HOTEL SMARTって、そもそも何？」 「どんな課題を解決しているの？」 「エンジニアはどんなふうに開発して…",
+        "title": "『HOTEL SMART』とエイジィの開発環境をご紹介！｜Engineer Entrance Book",
+        "url": "https://note.com/xxx_az_saiyo/n/n346c57139328"
       },
       {
-        "id": "af281c0571e3858f84fbfbbc3fe6bfb92340d952",
-        "published": "2026-10-08T15:30:51+00:00",
+        "id": "b21f1fc27911099ba8ec4b9770240b989029d4de",
+        "published": "2026-10-09T03:47:07+00:00",
         "source": "note",
-        "summary": "「30代未経験からITエンジニアになるのは、やっぱり無理なのか…」 先日、そんな投稿を見かけました。 続きをみる",
-        "title": "30代未経験からITエンジニアは無理？30社受けた僕が伝えたい現実",
-        "url": "https://note.com/katte1031/n/n57dfd5da6b52"
+        "summary": "【PR】この記事はプロモーションを含みます。 続きをみる",
+        "title": "【エンジニアからの飛躍】年収1000万も！BIG4・総合系コンサルへ転職して市場価値を最大化するキャリア戦略 AXIS Agent",
+        "url": "https://note.com/ses_dasshutsu/n/n5fd123d6c0ae"
       },
       {
-        "id": "256b5d79409c2049cb88b1c5e04d77f7ea080a7e",
-        "published": "2026-10-08T14:31:56+00:00",
+        "id": "714cbea79622814501955cc2a0c6f9c88a28f9a8",
+        "published": "2026-10-09T03:41:52+00:00",
         "source": "note",
-        "summary": "「このアドバイザーさん、私の話を聞いてくれていないかも」。未経験でIT転職を目指していた頃、面談の帰り道にそう感じたことがあります。そのとき最終的に頼ったのが 明光キャリアパートナーズ(エンジニア転職) でした。 続きをみる",
-        "title": "IT転職エージェントが合わないと感じた夜に、私が変えた三つのこと",
-        "url": "https://note.com/nikonikonomi/n/n130d29c50aa3"
+        "summary": "当社のアドバイザーが担当した事例です。 別の転職エージェント経由で15社に応募して、1社も通らなかった。20代後半のインフラエンジニアの方が、そんな状態で相談に来てくれました。経験は約2年半。官公庁系のシステムで、サーバーのリプレース（入れ替え）を中心に、要件定義から構築、結合テストまで担当していた方です。 続きをみる",
+        "title": "他社経由で15社全部落ちたインフラエンジニアが、2週間で複数内定を取れた理由",
+        "url": "https://note.com/career_accompany/n/n294e5b4a9933"
+      },
+      {
+        "id": "bcde7b62f54fd4bb01ba51f14b3c9b199bd8e72f",
+        "published": "2026-10-09T03:38:21+00:00",
+        "source": "note",
+        "summary": "未経験からエンジニアを目指して求人を見始めると、ほぼ必ずぶつかるのが「SES・SIer・自社開発、どれがいいの？」という疑問です。 ネットでは「SESはやめとけ」「自社開発が最強」といった声をよく見かけます。でも、 未経験の最初の1社として見ると、話はそう単純ではありません。 続きをみる",
+        "title": "SES・SIer・自社開発、未経験の「最初の1社」としてどう違うか",
+        "url": "https://note.com/career_accompany/n/n071f25932a7f"
       },
       {
         "id": "f1d4957c056d830692e363c561ba37cefd579d2f",
@@ -372,36 +380,84 @@
     ],
     "tech_global": [
       {
-        "id": "bc645e50c62e493217dcee4474c3e60c62cd4fde",
-        "published": "2026-10-09T00:02:19+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/edrisranjbar/lifeos Comments URL: https://news.ycombinator.com/item?id=50014150 Points: 5 # Comments: 0",
-        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-        "url": "https://github.com/edrisranjbar/lifeos"
+        "id": "225886f79cf3e8172c6289051a8ddd4d3e0276a9",
+        "published": "2026-10-09T07:14:32+00:00",
+        "source": "The Verge",
+        "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and…",
+        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
       },
       {
-        "id": "a9e1b223ddb82b8ec99e645034635cad08a4c76f",
-        "published": "2026-10-08T23:32:49+00:00",
+        "id": "3f93c5a252d82868d61238bd2829b901df6a13f1",
+        "published": "2026-10-09T06:54:45+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://svg-spark.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50013931 Points: 11 # Comments: 0",
-        "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
-        "url": "https://svg-spark.vercel.app/"
+        "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/ Comments URL: https://news.ycombinator.com/item?id=50016974 Points: 39 # Comments: 7",
+        "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+        "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/"
+      },
+      {
+        "id": "64f9c6473924d17fc9ec93bf8af8bc34218b694b",
+        "published": "2026-10-09T06:40:14+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use. Comments URL: https://news.ycombinator.com/item?id=50016840 Points: 8 # Comments: 1",
+        "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+        "url": "https://www.oldroll.io/"
+      },
+      {
+        "id": "1f785e46a47efefb6ac902903b1e0179e20b2732",
+        "published": "2026-10-09T05:51:29+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/microsoft/mxc Comments URL: https://news.ycombinator.com/item?id=50016489 Points: 23 # Comments: 7",
+        "title": "MXC - a sandboxed code execution system",
+        "url": "https://github.com/microsoft/mxc"
+      },
+      {
+        "id": "8d9f1e3e567c06e11bdbc7ecff0c8bda2a62e9b2",
+        "published": "2026-10-09T05:22:58+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://quake-srp.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50016312 Points: 153 # Comments: 123",
+        "title": "Show HN: Quake ported to safe Rust, playable in browser",
+        "url": "https://quake-srp.pages.dev/"
+      },
+      {
+        "id": "682176ab391e2fc128c8a3dd4760574b5392a2fd",
+        "published": "2026-10-09T03:08:05+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/ Comments URL: https://news.ycombinator.com/item?id=50015515 Points: 136 # Comments: 122",
+        "title": "Keyboard differences between Windows and Macs",
+        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/"
+      },
+      {
+        "id": "d3408ae8fe12f42faa8c0b110c0fb982bfded8ba",
+        "published": "2026-10-09T02:27:45+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/ Comments URL: https://news.ycombinator.com/item?id=50015236 Points: 114 # Comments: 128",
+        "title": "What should we tell our students?",
+        "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/"
+      },
+      {
+        "id": "c5176666cc32c248effd83f37280c6444bc43a17",
+        "published": "2026-10-09T02:02:53+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://lwn.net/Articles/1095811/ Comments URL: https://news.ycombinator.com/item?id=50015074 Points: 113 # Comments: 99",
+        "title": "Reducing undefined behavior in the C language",
+        "url": "https://lwn.net/Articles/1095811/"
       },
       {
         "id": "945f139596d0e67da25a1d96d8f46fb02d642722",
         "published": "2026-10-08T23:29:43+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 42 # Comments: 32",
+        "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 116 # Comments: 166",
         "title": "OpenAI, the Partition Principle, and Mathematics",
         "url": "https://karagila.org/2026/openai-pp/"
       },
       {
-        "id": "8162f878bfd3f6fe3f0426fbac719e90402db02c",
-        "published": "2026-10-08T22:48:30+00:00",
+        "id": "c16d7cf9dfcfb266a50f133986864949c3e4825f",
+        "published": "2026-10-08T22:57:50+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://spinal.sh/ Comments URL: https://news.ycombinator.com/item?id=50013525 Points: 4 # Comments: 0",
-        "title": "Spinal: A near-instant, predictive surface for any codebase",
-        "url": "https://spinal.sh/"
+        "summary": "Article URL: https://bevy.org/news/bevy-0-20/ Comments URL: https://news.ycombinator.com/item?id=50013610 Points: 161 # Comments: 31",
+        "title": "Bevy 0.20",
+        "url": "https://bevy.org/news/bevy-0-20/"
       },
       {
         "id": "702dc8dff2b51ef358daf50bb17e6cf6f35805f0",
@@ -428,6 +484,14 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
       },
       {
+        "id": "f1ae7b0e7583b969371bbdc4f85846356b34454a",
+        "published": "2026-10-08T21:37:32+00:00",
+        "source": "Ars Technica",
+        "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+        "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+      },
+      {
         "id": "be1de6b9c2b5bf0e06acea8f84620621762d52d4",
         "published": "2026-10-08T21:23:31+00:00",
         "source": "The Verge",
@@ -452,20 +516,28 @@
         "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"
       },
       {
+        "id": "d18c9e11ef571f7ebeba0e3f1dfb276abbb5350c",
+        "published": "2026-10-08T20:53:01+00:00",
+        "source": "Ars Technica",
+        "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+        "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+        "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/"
+      },
+      {
         "id": "008a26599983ed29b6dbf83c539c4857eedd072a",
         "published": "2026-10-08T20:46:25+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 56 # Comments: 4",
+        "summary": "Article URL: https://biohub.org/news/virtual-biology-initiative-expansion/ Comments URL: https://news.ycombinator.com/item?id=50011999 Points: 123 # Comments: 18",
         "title": "AI-ready biological data: $1.8B global commitment",
         "url": "https://biohub.org/news/virtual-biology-initiative-expansion/"
       },
       {
-        "id": "497aa58319b869656291f598454974633767c2ac",
-        "published": "2026-10-08T20:42:16+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full Comments URL: https://news.ycombinator.com/item?id=50011928 Points: 139 # Comments: 107",
-        "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-        "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full"
+        "id": "785366c28218b54d1e12d907920ba30796c38e2e",
+        "published": "2026-10-08T20:39:31+00:00",
+        "source": "Ars Technica",
+        "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+        "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+        "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/"
       },
       {
         "id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
@@ -476,11 +548,19 @@
         "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
       },
       {
+        "id": "22e5fe6fb5ac8542e5d0248754c51f0f9c3fdc12",
+        "published": "2026-10-08T20:26:13+00:00",
+        "source": "Ars Technica",
+        "summary": "Reducing glare and allowing modern light technologies will be two goals.",
+        "title": "Feds get ready to rewrite car headlight rules",
+        "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
+      },
+      {
         "id": "87023935733fbc8e0fe848151354b9c28f9648e9",
         "published": "2026-10-08T20:15:53+00:00",
         "source": "Ars Technica",
         "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-        "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+        "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
         "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/"
       },
       {
@@ -535,7 +615,7 @@
         "id": "de81479b4675a0a591ccc7d6fbafe44e454ce3b1",
         "published": "2026-10-08T19:26:32+00:00",
         "source": "Ars Technica",
-        "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
+        "summary": "\"[T]he Trump-RFK Jr. anti-vax agenda keeps getting more corrupt and dangerous.\"",
         "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
         "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/"
       },
@@ -546,22 +626,6 @@
         "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di B…",
         "title": "Paramount is making a Cyberpunk 2077 film",
         "url": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie"
-      },
-      {
-        "id": "0d510cd37f0dc3bfa4af6d730a73dc94f381d55f",
-        "published": "2026-10-08T19:04:56+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/ Comments URL: https://news.ycombinator.com/item?id=50010470 Points: 103 # Comments: 35",
-        "title": "The value of not getting to the point (2015)",
-        "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/"
-      },
-      {
-        "id": "9580f0abbfa9ba73126afa64562fa5c03fd34c83",
-        "published": "2026-10-08T18:48:36+00:00",
-        "source": "The Verge",
-        "summary": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White Hous…",
-        "title": "Tim Cook says Im not meddling in the new Apple CEOs business",
-        "url": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo"
       },
       {
         "id": "26eaa63657f70e8f437ddd0a4e9d7381f8d37df8",
@@ -620,14 +684,6 @@
         "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
       },
       {
-        "id": "ff4abefec338ea97704f8bab8dfe1de53da07f2d",
-        "published": "2026-10-08T18:11:52+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done. I made this in anger/desperation for the latter half of my recent paternity leave. Nap traps…",
-        "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-        "url": "https://pocketty.app/"
-      },
-      {
         "id": "6e4822f6702393acbe94e15d3ab9706ac4426d11",
         "published": "2026-10-08T18:10:55+00:00",
         "source": "TechCrunch",
@@ -636,384 +692,336 @@
         "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
       },
       {
-        "id": "f60f4e33788def015af306ef8458718d3903efea",
-        "published": "2026-10-08T17:51:49+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 243 # Comments: 110",
-        "title": "Theranos.world",
-        "url": "https://www.theranos.world/"
-      },
-      {
-        "id": "f9a7f01f513e16ea73247b44e10f8d38a511f975",
-        "published": "2026-10-08T16:59:39+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://cactuscompute.com/blog/whistle Comments URL: https://news.ycombinator.com/item?id=50008427 Points: 496 # Comments: 115",
-        "title": "Whistle: Speech to Text in 16.9 MB",
-        "url": "https://cactuscompute.com/blog/whistle"
-      },
-      {
         "id": "30dbaa4e51a177780604151cc3c4331193fd0be3",
         "published": "2026-10-08T16:32:46+00:00",
         "source": "Ars Technica",
         "summary": "Amazon killed its app store, so Google Play it is.",
         "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
         "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/"
-      },
-      {
-        "id": "97755cab19db4e8b13f17d329b30cb601b5af841",
-        "published": "2026-10-08T15:28:36+00:00",
-        "source": "Ars Technica",
-        "summary": "\"If this was easy, everybody else would be doing it.\"",
-        "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-        "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
-      },
-      {
-        "id": "9523a2fdd9f2139a858f94c627e4ca0a258a6240",
-        "published": "2026-10-08T14:04:42+00:00",
-        "source": "Ars Technica",
-        "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
-        "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-        "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
-      },
-      {
-        "id": "5387f8e8d5e8c2a4f67ff01d6fa8a9fa1837cfdb",
-        "published": "2026-10-08T11:15:33+00:00",
-        "source": "Ars Technica",
-        "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-      },
-      {
-        "id": "4b27c28ad65735ddd995ec480f3876da7a614234",
-        "published": "2026-10-08T11:00:14+00:00",
-        "source": "Ars Technica",
-        "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
-        "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-        "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
       }
     ],
     "tech_japan": [
       {
-        "id": "eafec8fcf1d37574edd67ec4000d76a1a6ba3ae3",
-        "published": "2026-10-09T00:30:00+00:00",
+        "id": "3edd9f2468dce9180038b0733649ee23602e782d",
+        "published": "2026-10-09T09:30:00+00:00",
         "source": "ASCII.jp",
-        "summary": "ローソンは10月8日、ローソンIDへの不正アクセスなどにより、個人情報215万5345件が漏えいしたと発表した。",
-        "title": "ローソン、不正アクセスで215万件超の情報漏えい",
-        "url": "https://ascii.jp/elem/000/004/441/4441351/?rss"
+        "summary": "ゲーミングPCのデスク周りは、ディスプレーや入出力機器のみがあるわけではありません。充電機器や周辺機器を接続するUSBハブなどを導入して効率アップしましょう！",
+        "title": "ゲーム環境は“周辺”まで整えて完成！ デスクを快適にする便利アクセサリー【紹介製品はすべてプレゼント】",
+        "url": "https://ascii.jp/elem/000/004/440/4440733/?rss"
       },
       {
-        "id": "5aaa765a31ee45dcc02a9622b765b6ae3c210b26",
-        "published": "2026-10-09T00:26:53+00:00",
+        "id": "5d5f9ae264ccf56450e712f6c815c2b611c5b47d",
+        "published": "2026-10-09T09:27:19+00:00",
         "source": "ITmedia NEWS",
-        "summary": "流出した可能性があるのは、氏名、生年月日、性別、メールアドレス、電話番号、郵便番号・住所、パスワードのハッシュ値、ポイントカード番号、会員番号。",
-        "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出 氏名、住所、ハッシュ化パスワードなど",
-        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/"
+        "summary": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
+        "title": "韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/"
       },
       {
-        "id": "804b1fcf89ebc67211ad0d39697acea504aee45f",
-        "published": "2026-10-09T00:07:24+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
-        "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
-        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/"
-      },
-      {
-        "id": "738ae276466650eb02817d243ab8cec2dfbfdece",
-        "published": "2026-10-09T00:00:00+00:00",
+        "id": "b23f9419300740f5e0193b9b5ca681fa80b0d73a",
+        "published": "2026-10-09T09:10:00+00:00",
         "source": "ASCII.jp",
-        "summary": "ASUSが9.2インチ液晶搭載のフルタワーPCケース「ROG CRONOX ARGB」と、30mm厚の120mmファン「ROG Eurux GR120 ARGB」を発表。ケースは最大14基のファンと400mm GPUに対応。両製品は10月9日発売。",
-        "title": "ASUS、9.2インチ液晶搭載PCケース「ROG CRONOX ARGB」発表 30mm厚ファンも登場",
-        "url": "https://ascii.jp/elem/000/004/441/4441348/?rss"
+        "summary": "STM Duxは、ノートPCやタブレットを安全に持ち運ぶことを前提に設計されたバックパックで、収納部の作りだけでなく、普段使う小物を取り出しやすいポケットもしっかり用意されています。",
+        "title": "ノートPCを安全に持ち運ぶ！ 16インチMacBook Proにも対応するSTM goodsのバックパック",
+        "url": "https://ascii.jp/elem/000/004/440/4440138/?rss"
       },
       {
-        "id": "6587f2c793ca169e9fe3720e468b9cb3277b45cf",
-        "published": "2026-10-09T00:00:00+00:00",
+        "id": "6d1428f99d311182ac66452245bf626138e1fc95",
+        "published": "2026-10-09T09:10:00+00:00",
         "source": "ASCII.jp",
-        "summary": "AIマニュアルを提供するスタディストは、Teachme BizのAI対応を強化するTeachmeシリーズの新機能である「Teachmeスタジオ」と、マニュアルの自動更新を可能にする新構想「CONNECT」および新製品「Teachme Knowledge」を発表した。メインターゲットとなる製造業での技能の継承やオペレーション改善を実現すべく、AI前提で製品を強化する。",
-        "title": "マニュアルが自動更新される世界へ 技術の継承に不安を抱える現場にスタディストが新構想",
-        "url": "https://ascii.jp/elem/000/004/441/4441340/?rss"
+        "summary": "この秋も話題作多すぎでどれも見逃せない！ 今クールはなんと90本以上の作品を紹介予定です！",
+        "title": "【2026秋アニメまとめ】この秋も話題作多すぎ！ 90作品以上の秋アニメを全チェック！",
+        "url": "https://ascii.jp/elem/000/004/439/4439810/?rss"
       },
       {
-        "id": "be46e7550c1590c178b99909114aa1e45eee2893",
-        "published": "2026-10-09T00:00:00+00:00",
+        "id": "6ba0a030114cc828d4115782b5f61483c4e67e6a",
+        "published": "2026-10-09T09:06:33+00:00",
+        "source": "PC Watch",
+        "summary": "カタログに載っているバッテリ動作時間と、実際に使ったときの持ち時間はなぜ違うのか――そんな疑問に業界団体が答えるコンテンツが登場した。電子情報技術産業協会(JEITA)のPC・タブレット事業委員会は10月9日、Webコンテンツ「JEITA バッテリ動作時間測定法ガイド」を公開した。ノートPCのバッテリ動作時間の測定法や数値の見方を解説するものだ。",
+        "title": "カタログのバッテリ時間はなぜ実際と違う？JEITAが解説ガイド公開",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147237.html"
+      },
+      {
+        "id": "c232ea737c00553af61914b928b706c2996e657c",
+        "published": "2026-10-09T09:05:09+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "ユーザベースは10月9日、「NewsPicks」の管理ツールへの不正アクセスについて、漏えいした可能性のある情報の最大件数を公表した。クレジットカード情報の一部が約36万2000件、メールアドレスが約32万3000件に上り、氏名や住所、勤務先も含まれる。",
+        "title": "NewsPicks、最大117万件漏えいか クレカ情報も一部対象に",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002175/"
+      },
+      {
+        "id": "be8a352bc72f0ca6f265f3e963e51b9cb458dea9",
+        "published": "2026-10-09T09:05:00+00:00",
         "source": "ASCII.jp",
-        "summary": "サイボウズは、kintoneユーザーの事例イベントである「kintone hive 2026 tokyo」を開催。3番手として登壇した新日本ニーズの佐藤良介さんと管原百世さんが披露したのは、社員が何人いるのかもわからず、横のつながりもない環境からコミュニティを育て、kintoneからチームワークを育んだ事例だ。",
-        "title": "辞めるつもりだった社員が挙げた3つの問題 社長が定例会から外れて動き出した社員の自主性とチームワーク",
-        "url": "https://ascii.jp/elem/000/004/426/4426336/?rss"
+        "summary": "秋アニメ特集第11回は、甲子園に向けてついに西東京大会決勝戦が始まる『ダイヤのA actⅡ -Second Season-』に、『ケロロ軍曹☆』『彼方から』など、5作品を紹介。",
+        "title": "【2026秋アニメ】ついに西東京大会決勝戦が始まる『ダイヤのA actⅡ -Second Season-』に、『ケロロ軍曹☆』『彼方から』",
+        "url": "https://ascii.jp/elem/000/004/441/4441639/?rss"
       },
       {
-        "id": "e112e938cc02160a6089a366c1eaaa4a56563bc1",
-        "published": "2026-10-08T23:08:55+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "本来、アプリ上でユーザー本人に情報を表示するためのセキュリティ機構が第三者による不正アクセスを受け、情報が漏えいしたという。",
-        "title": "ローソン、215万件の個人情報漏えい 「ユーザー本人に情報を表示する機構」に不正アクセス",
-        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002148/"
-      },
-      {
-        "id": "836016ca01ea4a86a82b23df80ae1dbd30bdd62f",
-        "published": "2026-10-08T23:00:00+00:00",
+        "id": "b43ef1b063b2f873fb792994a68093593118e03c",
+        "published": "2026-10-09T09:00:00+00:00",
         "source": "ASCII.jp",
-        "summary": "be quiet!の360mm水冷CPUクーラー「LIGHT LOOP IO LCD 360mm」が発売。2.1インチIPS画面でCPU温度や動画を表示でき、価格は39,580円。900×500mmの大型マウスパッド「MOUSEPAD XL」も5,920円で登場。",
-        "title": "be quiet!「LIGHT LOOP IO LCD 360mm」発売、2.1インチIPS搭載の水冷CPUクーラー",
-        "url": "https://ascii.jp/elem/000/004/441/4441344/?rss"
+        "summary": "サッポロ一番の「塩カルビ味焼そば 110g×12個」がAmazonでセール販売中です。30％オフの2,234円で販売されています。",
+        "title": "ビーフのうまみとレモンの酸味が決め手！ 「サッポロ一番 塩カルビ味焼そば」12個が30％オフ",
+        "url": "https://ascii.jp/elem/000/004/441/4441527/?rss"
       },
       {
-        "id": "6b6e352d363487ffb9663a90f8c4acd68ab46cd3",
-        "published": "2026-10-08T22:43:55+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "",
-        "title": "IDCFクラウド障害、顧客データ「取り出し・復元困難」 復元は顧客側のバックアップ頼み",
-        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/"
-      },
-      {
-        "id": "b36ad22ed4d41d6a317e1b6aca8e02988edc8a00",
-        "published": "2026-10-08T22:37:41+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "Appleの役員がXで「Welcome home. October 13.」と投稿し、同日にニューヨークで体験イベントを開催することが判明した。スマートホーム関連の発表とみられ、新AIエージェント「Siri AI」搭載のディスプレイ付きハブやHomePod miniとApple TVの新モデルなどが期待されている。",
-        "title": "Apple、10月13日に「Welcome home.」イベント開催",
-        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002146/"
-      },
-      {
-        "id": "abff724e816afb7e5035849e1ec0be7210cb0a2a",
-        "published": "2026-10-08T22:20:00+00:00",
+        "id": "dce80184e556c00831e22c9bad2292f2121ed0b6",
+        "published": "2026-10-09T09:00:00+00:00",
         "source": "ASCII.jp",
-        "summary": "ソニーのワイヤレスヘッドホン「WH-CH530」がAmazonで割引対象。参考価格7,700円から9％オフの7,000円で販売中。9月発売の新モデルで、約147gの軽量設計ながら最大約55時間の音楽再生に対応する。3分の充電で約1.5時間再生できるクイック充電も備え、軽さと長時間再生を両立した一台だ。",
-        "title": "ソニーの新型ヘッドホンが7000円！ 9月発売の「WH-CH530」は約147gの軽さで最大55時間再生",
-        "url": "https://ascii.jp/elem/000/004/441/4441027/?rss"
+        "summary": "PCパーツセールを10月19日まで開催。GeForce RTX 3050搭載グラフィックボードが29,800円、PCIe 4.0対応の500GB NVMe SSDが15,480円。ASUSのマザーボードやPCケースも対象で、自作PCの構築やアップグレードに活用できます。",
+        "title": "RTX 3050搭載グラボが29,800円、500GB SSDが15,480円 PCパーツセール開催！",
+        "url": "https://ascii.jp/elem/000/004/441/4441343/?rss"
       },
       {
-        "id": "57d67ff075d334237e82aefe88fb897fc1af1cd2",
-        "published": "2026-10-08T22:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "AnyPS5はPlayStation 5(PS5)のゲームをLinuxおよびWindowsでプレイ可能にすることを目的としたツールです。AnyPS5はエミュレーションや独立したランタイムプロセスを必要とせず、PS5のゲームをターゲットシステムのネイティブフォーマットに変換するリリンカーと、動的リンクに適したシステムPRXライブラリによって構成されています。 続きを読む...",
-        "title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
-        "url": "https://gigazine.net/news/20261009-anyps5/"
-      },
-      {
-        "id": "01227a4c1057c4dd283156bad98638e0c571820c",
-        "published": "2026-10-08T22:00:00+00:00",
+        "id": "e0ab122075902268649f258586b5c981c35283ac",
+        "published": "2026-10-09T09:00:00+00:00",
         "source": "ASCII.jp",
-        "summary": "頻発する個人情報漏えい事件。ついには運転免許証など本人確認書類の漏えいも。ローン契約や口座開設など金銭に直結するサービスへの成りすましが危惧されるなか、対抗策がいま注目を集めています。",
-        "title": "運転免許証の画像が流出！ 勝手に借金される前に知っておきたい「不正利用防止の届け出」",
-        "url": "https://ascii.jp/elem/000/004/440/4440933/?rss"
+        "summary": "ココスは10月13日より「マロンフェア」を開催します。",
+        "title": "栗～！ ココスに「しぼりたてモンブラン」など5種！ ミニパフェは539円から",
+        "url": "https://ascii.jp/elem/000/004/440/4440418/?rss"
       },
       {
-        "id": "d6751c002fc80685b750de6550d5ba4537a40a00",
-        "published": "2026-10-08T22:00:00+00:00",
+        "id": "97007a5f9adfed55ee5fd5977fe528e284f95a26",
+        "published": "2026-10-09T09:00:00+00:00",
+        "source": "PC Watch",
+        "summary": "※毎週木曜日にプロ格闘ゲームプレイヤーであるガチくんをパーソナリティに迎え、ストリートファイター6攻略企画「ガチくんに!」をTwitchとYouTubeで配信しています。レギュラー出演者はぷげら、奥村茉実。ここでは当日放送したおおまかな内容を紹介するとともに、YouTubeにアップロードした切り抜きとアーカイブの動画を掲載しています。",
+        "title": "ガチくんに! 第433回切り抜き「ガチくんにマーベル闘魂で対戦させてみた結果…」",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147241.html"
+      },
+      {
+        "id": "4c57fdb5008b7e6a60368cc0570405e07da31e74",
+        "published": "2026-10-09T08:58:28+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "JR東日本は10月9日、列車予約サービス「えきねっと」と会員制サービス「大人の休日倶楽部」のにおいて、最大約206万件の利用者情報が漏えいした可能性があると発表した。7日にIDCフロンティアが公表した不正アクセスが原因で、メール配信用の外部サービスに保存していた利用者の情報が第三者に閲覧・取得された恐れがあるという。",
+        "title": "JR東日本、「えきねっと」「ビューカード」などで漏えいか メルアドなど最大609万件 IDCFへの不正アクセスで【追記あり】",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002171/"
+      },
+      {
+        "id": "37ab8407e8cc0ae99106fc1c0c4a06e555e23743",
+        "published": "2026-10-09T08:50:00+00:00",
         "source": "ASCII.jp",
-        "summary": "株式会社KAKEAIは10月5日、1on1支援ツール「Kakeai」に生成AI機能を搭載した「Kakeai AI 1on1」の提供を開始したと発表した。",
-        "title": "1on1ツールに生成AI機能を実装、事前助言から文字起こし・記録管理まで対応",
-        "url": "https://ascii.jp/elem/000/004/440/4440888/?rss"
+        "summary": "COSORIの4.7Lノンフライヤー「CAF-L501-KJP」がAmazonで割引対象。参考価格16,038円から13％オフの13,980円で販売中。最高230℃の高温調理に対応し、ステーキなどの肉料理も作れる。従来の電気フライヤーやオーブンと比べて油分を約85％カット。バスケットは食洗機にも対応し、後片付けも手軽な一台だ。",
+        "title": "ステーキも焼けるノンフライヤー！ 最高230℃、4.7LのCOSORIが13％オフで1万3980円",
+        "url": "https://ascii.jp/elem/000/004/441/4441164/?rss"
       },
       {
-        "id": "57667bf3523a715d16da332007e058c3b064acb0",
-        "published": "2026-10-08T22:00:00+00:00",
+        "id": "c4239c29c24879cb822957fd535f50ab2116f669",
+        "published": "2026-10-09T08:41:50+00:00",
         "source": "ASCII.jp",
-        "summary": "株式会社BSMOホールディングスは9月25日、ECサイトなどで商品を購入した際の還元を暗号資産やステーブルコインで受け取れるリワードバックサービス「BITCOMMERCE（ビットコマース）」を開始したと発表した。",
-        "title": "オンライン買い物還元が暗号資産で戻ってくるリワードバックサービス",
-        "url": "https://ascii.jp/elem/000/004/439/4439746/?rss"
+        "summary": "GenerativeX、AIを活用したサイバーセキュリティ支援サービスを提供開始",
+        "title": "GenerativeX、AIを活用したサイバーセキュリティ支援サービスを提供開始",
+        "url": "https://ascii.jp/elem/000/004/441/4441641/?rss"
       },
       {
-        "id": "3d9700f924cfdc441e20594ecd722693197fddc2",
-        "published": "2026-10-08T21:48:20+00:00",
+        "id": "58d9b147a86442a332525019fa42f4389a0bdde2",
+        "published": "2026-10-09T08:38:49+00:00",
         "source": "ASCII.jp",
-        "summary": "Xエナジーは、ヘリウムで冷却する小型モジュール炉を開発し、化石燃料に頼る重工業の高温の熱を原子力で置き換えることを目指している。",
-        "title": "気候テック10：ヘリウム冷却炉で産業用熱の脱炭素化に挑むXエナジー",
-        "url": "https://ascii.jp/elem/000/004/441/4441347/?rss"
+        "summary": "「福利厚生でプロテインを飲む時代へ」オフィスODEKO、ピープルソフトウェア株式会社で“健康診断の数値改善”を目指す健康経営プログラムを開始",
+        "title": "「福利厚生でプロテインを飲む時代へ」オフィスODEKO、ピープルソフトウェア株式会社で“健康診断の数値改善”を目指す健康経営プログラムを開始",
+        "url": "https://ascii.jp/elem/000/004/441/4441642/?rss"
       },
       {
-        "id": "01ad551abc1abfd010800552a31d5b19061d16cf",
-        "published": "2026-10-08T21:30:00+00:00",
+        "id": "40589e2bbcb8b21d2da8903e1be210c8a5e8a315",
+        "published": "2026-10-09T08:06:33+00:00",
         "source": "PC Watch",
-        "summary": "東京ゲームショウ2026において、マウスコンピューターのG TUNE/NEXTGEARのブースで「Reboot the Memories シージ紅白戦 Powered by G TUNE」が開催され、10名のレジェンドプレイヤーが腕を競った。その熱戦を支えていたのが、マウスコンピューターのゲーミングPC「G TUNE FG-A7G80(eスポーツ国際基準公式競技モデル)」(以下、G TUNE FG-A7G80)だ。",
-        "title": "けんきさんら、名だたるレジェンドが集結したシージ紅白戦が開催！ ～イベントを支えたG TUNEをがっつり実機検証[Sponsored]",
-        "url": "https://pc.watch.impress.co.jp/docs/topic/special/2143991.html"
+        "summary": "SpaceXAIが提供するAIエージェント「Grok Bot」は10月8日、X上の投稿の検索や読み込み、監視に対応した。",
+        "title": "Grok BotでXの投稿を検索/閲覧/監視できるように",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147147.html"
       },
       {
-        "id": "4dd5f68ef0260751633453b1ba019b09e349a1a0",
-        "published": "2026-10-08T21:07:00+00:00",
+        "id": "547570422a86dd64a834e13938f5cdcbf6f96303",
+        "published": "2026-10-09T08:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "人気バーチャルライバーグループ「にじさんじ」に所属するラーメン好きの5人「社築」「舞元啓介」「ジョー・力一」「レオス・ヴィンセント」「一橋綾人」が結成した「にじさんじスーパーカップ部」がスーパーカップの人気商品「豚キムチ」に次ぐ最強メニューとして考案した「スーパーカップ1.5倍×にじさんじ 牛キムチチゲ味ラーメン」が2026年10月12日に発売されます。発売に先駆けてGIGAZINE編集部に送られてきたので、どんな味わいなのか実際に食べてみました。 続きを読む...",
+        "title": "にじさんじメンバーがカップ麺の味を考案した「スーパーカップ1.5倍×にじさんじ牛キムチチゲ味ラーメン」試食レビュー",
+        "url": "https://gigazine.net/news/20261009-acecook-beef-kimchi-chige/"
+      },
+      {
+        "id": "2557923e424430dc43c2da0e83eb869ac69c745e",
+        "published": "2026-10-09T07:00:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "URLのドメイン名の最後に付く「.com」や「.org」などのトップレベルドメイン(TLD)を管理するICANNが、2026年度に申請を受け付けた新ドメインの一覧を発表しました。MetaやOpenAIなど13の申請者が「.agent」を申請したほか、「.agi」「asi」などの「人工知能(AI)」や「超知能(SI)」に関連するドメインに多数の申請が寄せられています。 続きを読む...",
+        "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
+        "url": "https://gigazine.net/news/20261009-icann-reveals-bids-new-domains-ai/"
+      },
+      {
+        "id": "48949ba6cd51feb638a5cec7fb0d3d0153c9e4cb",
+        "published": "2026-10-09T06:23:06+00:00",
         "source": "PC Watch",
-        "summary": "",
-        "title": "【西川和久の不定期コラム】USB Type-C 1本でつながるミニPC「GEEKOM IT13」、Panther Lake内蔵NPUでLLMも",
-        "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2146875.html"
+        "summary": "Amazonにおいて、レグザ(REGZA)ブランドの23.8型ゲーミングモニター「RM-G244RE」がタイムセール中。直近価格の2,640円引きとなる1万9,800円で購入可能だ。",
+        "title": "【本日みつけたお買い得品】Amazonで2万円切り！レグザの200Hzゲーミングモニター",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147149.html"
       },
       {
-        "id": "de68d2174fe9f3d5cd0fe71773941c10256a1c88",
-        "published": "2026-10-08T21:00:00+00:00",
+        "id": "006684af44c72946fe927c292214fea149a1de62",
+        "published": "2026-10-09T06:15:00+00:00",
         "source": "GIGAZINE",
-        "summary": "2026年10月6日、イギリスのファッション通販サイト「ASOS」の公式アプリから、同社を脅迫するプッシュ通知が一部の顧客に届きました。通知はASOSの担当部署に宛てたもので、連絡に応じなければデータを公開すると脅す内容でした。 続きを読む...",
-        "title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
-        "url": "https://gigazine.net/news/20261009-asos-hacked-app-push-notifications/"
+        "summary": "ロシアのIT大手「Yandex(ヤンデックス)」が運営するデータセンターが2026年10月8日にウクライナのドローン攻撃を受け、大規模な火災が発生しました。データセンターは稼働停止に追い込まれ、ロシア国内の多数のオンラインサービスで障害が報告されています。攻撃を受けた施設にはAI開発に使用するスーパーコンピューター2基も設置されており、被害が懸念されています。 続きを読む...",
+        "title": "ロシアのIT大手・Yandexのデータセンターがウクライナのドローン攻撃で大規模炎上、AI開発用スパコン2基も被災の可能性",
+        "url": "https://gigazine.net/news/20261009-yandex-drone-attack/"
       },
       {
-        "id": "c986882228a71a4dce72ccb34d940b86e9d86311",
-        "published": "2026-10-08T15:15:00+00:00",
+        "id": "19914ebc791b7814a245b259e2e4a4d12e19cf28",
+        "published": "2026-10-09T06:07:00+00:00",
         "source": "GIGAZINE",
-        "summary": "メッセージをURLの「#」の後ろに入力するだけで全画面表示の目立つメッセージを作成できる上にリンクとして共有可能で、、さらにフォントや色なども変更できるサービスが「BIGWORDS.PAGE」です。 続きを読む...",
-        "title": "フルスクリーン表示のメッセージを簡単に作成してリンクで共有可能な「BIGWORDS.PAGE」",
-        "url": "https://gigazine.net/news/20261009-bigwords-page/"
+        "summary": "現地時間の2026年10月8日、ドナルド・トランプ大統領が科学技術分野における卓越した業績とリーダーシップに対して授与されるアメリカ国家科学賞およびアメリカ国家技術賞を、SpaceXやテスラのCEOを務めるイーロン・マスク氏、Googleの共同創業者であるセルゲイ・ブリン氏、NVIDIAの共同創業者でありCEOでもあるジェンスン・フアン氏、AMDのCEOを務めるリサ・スー氏、デルの創業者兼CEOを務めるマイケル・デル氏、MicrosoftのCEOを務めるサティア・ナデラ氏の6名に授与したと発表しました。 続きを読む...",
+        "title": "トランプ大統領がイノベーション推進のためのホワイトハウスサミットでイーロン・マスク、ジェンセン・フアン、リサ・スー、セルゲイ・ブリンに国家科学勲章を授与",
+        "url": "https://gigazine.net/news/20261009-president-trump-presents-national-medals-science-technology-innovation/"
       },
       {
-        "id": "99b938c87fdc2d611d4c75cc72d733c8721996d6",
-        "published": "2026-10-08T13:51:00+00:00",
+        "id": "67a7cc29b98bbe53096c819dc7bb2120c5e13c0a",
+        "published": "2026-10-09T06:00:00+00:00",
         "source": "GIGAZINE",
-        "summary": "Metaのマーク・ザッカーバーグCEOと妻のプリシラ・チャン氏の出資によって誕生した非営利研究組織・Biohubが手がける、生命の予測モデル構築に向けた5カ年計画「Virtual Biology Initiative」に、アメリカのエネルギー省やGoogleも合流することが発表されました。 続きを読む...",
-        "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
-        "url": "https://gigazine.net/news/20261008-virtual-biology-initiative/"
+        "summary": "2026年10月、OpenAIが社内の最先端AIモデルを使って生成した722件に及ぶ「数学的成果」を発表しました。これに対し、世界各国の数学者らにより構成されているThe Association for Human Mathematics(人間のための数学協会)が、「一度に700以上の成果を公開することは学術的な成果を示すものではなく、権力の誇示に過ぎない」と批判しています。 続きを読む...",
+        "title": "OpenAIがAIで大量の数学的成果を発表したのは「学術的成果ではなく権力の誇示に過ぎない」との指摘",
+        "url": "https://gigazine.net/news/20261009-openais-math-solutions-human-ahm/"
       },
       {
-        "id": "86b2c8ee03f962f5a41661b15f9ae9a81eae42dd",
-        "published": "2026-10-08T12:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "ウェブブラウザ「Google Chrome」がバージョン155で、ロイヤリティフリーの画像フォーマットであるJPEG XL形式に一部対応しました。一度はJPEG XL形式のサポート廃止を検討したChromeがなぜJPEG XL形式のサポートを導入したのかについて、Googleの開発チームが公式ブログで説明しています。 続きを読む...",
-        "title": "Google Chromeが一度断念した「JPEG XL形式のサポート」を改めて導入した理由とは？",
-        "url": "https://gigazine.net/news/20261008-google-chrome-155-jpeg-xl/"
-      },
-      {
-        "id": "63c2b6855c269eaca0d4cbd9ace33aad7b7d7ee0",
-        "published": "2026-10-08T11:41:05+00:00",
-        "source": "PC Watch",
-        "summary": "CPUにCore Ultra X7 358Hを搭載し、16型の大画面ながら1.2kgを切る軽さのノートPCが登場した。LGエレクトロニクス・ジャパンは、16型ノートPC「LG gram Pro 16(16Z90U-KUB4J)」を10月中旬より順次発売する。価格はオープンプライスで、実売予想価格は50万円前後の見込み。",
-        "title": "Core Ultra X7搭載で1,199gの16型有機ELノート",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2146856.html"
-      },
-      {
-        "id": "9299837e9f48499e3e2faec2e129aa3145d0366c",
-        "published": "2026-10-08T11:35:44+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、ASUSのWi-Fi 7ルーター「RT-BE92U(A)/E」がタイムセールで、直近価格から6,990円引きの3万9,000円にて購入可能になっている。",
-        "title": "【本日みつけたお買い得品】最大9,700Mbps/10GbE対応のASUS製Wi-Fi 7ルーターが6,990円引き",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146916.html"
-      },
-      {
-        "id": "4e97c34aaa368a36222d2e29af2a3c59818a565d",
-        "published": "2026-10-08T11:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。 続きを読む...",
-        "title": "AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿",
-        "url": "https://gigazine.net/news/20261008-agent-reviews/"
-      },
-      {
-        "id": "46db1504196fc626e8efb551e61b026c71ebb8dd",
-        "published": "2026-10-08T10:59:08+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、NECのRyzen搭載15.6型ノートPC「YZ-3R765H-N15RW」がタイムセールで、直近価格から3万6,215円引きの15万4,800円にて購入可能になっている。",
-        "title": "【本日みつけたお買い得品】NECのRyzen 7搭載15.6型ノートPCが約3万6千円引き",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146908.html"
-      },
-      {
-        "id": "99030646567845b34188e4634fcbd8f08c7c75eb",
-        "published": "2026-10-08T10:37:02+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、MSIの26.5型ゲーミングモニター「MAG 272UP QD-OLED X24」が、直近価格から5万5,000円オフの9万9,800円で購入可能となっている。",
-        "title": "【本日みつけたお買い得品】MSIの26.5型4K/240Hz QD-OLEDゲーミングモニターが5万5千円オフ",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146895.html"
-      },
-      {
-        "id": "23fd54fb88492899822081722a1dbe28f0069ac2",
-        "published": "2026-10-08T10:23:21+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、ASUSの24.5型ゲーミングモニター「VG259QMR5A」が、過去価格から8,311円オフの2万2,800円で購入可能となっている。",
-        "title": "【本日みつけたお買い得品】ASUSの310Hz対応24.5型ゲーミングモニターが8,311円オフ",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146892.html"
-      },
-      {
-        "id": "794a6da80730f2563d65c89a633e63dd068ec8d1",
-        "published": "2026-10-08T10:07:53+00:00",
-        "source": "PC Watch",
-        "summary": "Amazonにおいて、MSIのゲーミングノートPC「Cyborg-15-B13WFKG-1172JP」がタイムセールで、直近価格から2万2,100円引きの19万7,700円にて購入可能になっている。",
-        "title": "【本日みつけたお買い得品】Core i7/GeForce RTX 5060搭載のMSIゲーミングノートが約2万2千円オフ",
-        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2146887.html"
-      },
-      {
-        "id": "1525e6a3fda9b0f8b2e34f81fe662cf7003f7d80",
-        "published": "2026-10-08T10:00:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "2024年、数十万曲ものAI生成楽曲を音楽ストリーミングサービスで配信し、ボットを使って再生させてロイヤリティを荒稼ぎしたアメリカ在住の男が逮捕されました。そして2026年10月6日、音楽ストリーミングサービスやミュージシャンから不当にロイヤリティを詐取したとして、男に18カ月の拘禁刑が科されました。 続きを読む...",
-        "title": "大量のAI生成楽曲をストリーミング配信＆ボットで数十億回再生して12億円以上のロイヤリティを荒稼ぎした男に18カ月の拘禁刑が科される",
-        "url": "https://gigazine.net/news/20261008-ai-music-streaming-fraud-bots-prison/"
-      },
-      {
-        "id": "a71c18bf95d7318295c68c33bf58da6ca2992d95",
-        "published": "2026-10-08T09:50:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "マクドナルドの新レギュラーメニューとして、「ザクザクジューシーマック」「スパイシーザクザクジューシーマック」「てりやきチキンジューシーマック」のバーガー3種と、サイドメニューの「ザクザクジューシーももチキン」が2026年10月21日(水)から登場します。いずれもジューシーな「もも1枚肉」をこだわりの波状衣で包み、ザクザクとした食感と満足感のある食べ応えを実現したとのことです。 続きを読む...",
-        "title": "2026年10月8日のヘッドラインニュース",
-        "url": "https://gigazine.net/news/20261008-headline/"
-      },
-      {
-        "id": "ef307cee26efcdbbfb62ff9256cd8c70744a23de",
-        "published": "2026-10-08T09:10:00+00:00",
-        "source": "GIGAZINE",
-        "summary": "PlayStation 5(PS5)で本来は動作しないソフトウェアを実行するための脱獄ツール「PS5 Relapse Exploit」が話題となっています。 続きを読む...",
-        "title": "多くのPS5で使用可能な脱獄ツールが登場＆PS5でWii Uと3DSのソフトを動かすツールも登場",
-        "url": "https://gigazine.net/news/20261008-ps5-jailbreak/"
-      },
-      {
-        "id": "693e8a2310cab1655ede1eef77ab760aa84739b9",
-        "published": "2026-10-08T08:44:40+00:00",
+        "id": "66c4a27cc384089fd642f9c8569f44dd7968cf57",
+        "published": "2026-10-09T05:48:36+00:00",
         "source": "ITmedia NEWS",
-        "summary": "取材の録音はAIで文字起こしする時代になったが、複数人が入り乱れる立ち話は、話者を分けられずにうまく文字にならないことが多い。そんな録音をスウェーデン発の「Klang」にかけてみると、8人の声を正しく切り分けた。愛用する「Plaud」と比べて見えた得意分野の違いと、雑談を“宝の山”に変えうる話者分離技術の可能性を探る。",
-        "title": "立ち話が“宝の山”に 8人の声を聞き分けられたAI文字起こし「Klang」の実力",
-        "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002130/"
+        "summary": "旅行予約サイト「skyticket」（スカイチケット）を運営するアドベンチャー（東京都渋谷区）は10月9日、サーバ、業務管理システム、バス予約サービスの計3件で不正アクセスがあったと発表した。流出・閲覧の恐れがあるものを含め、公表された対象件数は単純合算で計約1467万件に上る。対象には返金先の口座情報やバス予約情報も含まれる。",
+        "title": "「スカイチケット」に不正アクセス、計1467万件の個人情報流出 ハッシュ化されたパスワードも",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002168/"
       },
       {
-        "id": "ce45436d031178e9314d7e04a9e392ef75181422",
-        "published": "2026-10-08T08:25:00+00:00",
+        "id": "1c4faaeae1bb9f6bcd31bf8570c0087d82355d0c",
+        "published": "2026-10-09T05:44:53+00:00",
+        "source": "PC Watch",
+        "summary": "ChatGPTは、単なるチャットではなくインタラクティブなものになる――OpenAIは10月7日(現地時間)、ChatGPTに最新モデル「GPT-6」を全プランで順次展開すると発表した。有料のPlus、Pro、Business、Enterpriseプランでは同日から、FreeプランとGoプランでも10月8日から提供が始まる。なお、アップデートが適用されるのはChatGPTのチャットだけで、WorkとCodexの基盤モデルに変更はない。Enterpriseプランでの利用可否は、管理者の設定によって異なる。",
+        "title": "無料版ChatGPTにもGPT-6導入！回答に操作できるUIを生成",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147113.html"
+      },
+      {
+        "id": "9562227c7b0646a1ba9fb8ceb771a6f48ef3fa43",
+        "published": "2026-10-09T05:35:00+00:00",
         "source": "GIGAZINE",
-        "summary": "職員の個人情報が大量に流出した問題で、FBIが請負業者を契約解除措置としたことがわかりました。情報筋によると、当該業者はアクセンチュアで、人事管理プラットフォーム向けに配布されていたセキュリティパッチを適用していなかったため、情報流出につながったとのこと。 続きを読む...",
-        "title": "FBIが職員の個人情報流出事件に関係したとして請負業者を契約解除、人事管理プラットフォームのセキュリティパッチを適用せずリスクに",
-        "url": "https://gigazine.net/news/20261008-fbi-data-breach-accenture-contractor-removed/"
+        "summary": "Microsoft 365 FamilyおよびPremiumサブスクリプションに登録している場合、最大5人まで他のユーザーとサブスクリプションを共有することが可能で、各ユーザー1TBずつ合計6TBのOneDriveクラウドストレージが利用できました。Microsoftは2026年10月8日にサポート文書を変更し、Microsoft 365 FamilyまたはPremiumのユーザーは「全体で2TBのストレージプールを共有する」という形に変更しました。 続きを読む...",
+        "title": "Microsoft 365の「Family」と「Premium」プランでOneDriveの容量が「1人1TB×最大6人」から「全員で2TB」に減少",
+        "url": "https://gigazine.net/news/20261009-microsoft-cloud-storage/"
       },
       {
-        "id": "fb90a7a69bdb4b4baeb6b947d25f85ad81404b7f",
-        "published": "2026-10-08T08:20:08+00:00",
+        "id": "c42f7011689b56ee6a32e8a55464da0d81409b53",
+        "published": "2026-10-09T05:34:39+00:00",
         "source": "PC Watch",
-        "summary": "日本エイサーは10月7日、14型ノートPC「Aspire Lite 14」の新製品4モデルを発売した。Ryzen AI搭載の「AL14-61P-N56Y」「AL14-61P-N76Y」と、Core Ultra搭載の「AL14-74P-N56Y」「AL14-74P-N76Y」を用意する。価格は17万6,800円から。",
-        "title": "日本エイサー、Ryzen AI/Core Ultra搭載で17万円台からの14型ノート",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2146815.html"
+        "summary": "Opus 4.6 Maxに匹敵するとされる「Qwen3.8-27B」を、8GB未満に収めた量子化モデルが登場した。Underdogは10月8日(米国時間)、Alibabaの「Qwen3.8-27B」をベースに約2bitまで量子化したLLM「Underdog Saluki 27B 1.0」をオープンウェイト(モデルの重み)として公開した。Apache 2.0ライセンスを採用し、Hugging Faceからダウンロードできる。",
+        "title": "Qwen3.8-27Bを8GBに凝縮！メモリ16GBのノートで動く「Saluki 27B」",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147095.html"
       },
       {
-        "id": "1a0d6b5497bf75e350918708829612cfda83fb2f",
-        "published": "2026-10-08T08:10:34+00:00",
+        "id": "a7b0d5149cad3c1164ab0e7c0a3d22a58410e307",
+        "published": "2026-10-09T05:32:32+00:00",
         "source": "ITmedia NEWS",
-        "summary": "「SBI証券の口座で被害があった」と断定するXポストが拡散。誤解が広がっていた。",
-        "title": "SBI証券、Google・Appleパスキー乗っ取り被害「確認されていない」 注意喚起は他社事案",
-        "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002137/"
+        "summary": "米国防総省の国防人事データセンター（DMDC）のサーバが不正アクセスされ、軍人や元軍人など300万人余りの個人情報が何者かに閲覧されていたことが分かった。米国では連邦捜査局（FBI）もサイバー攻撃を受け、捜査官らの個人情報が流出したと伝えられたばかりだった。",
+        "title": "米国防総省にも不正アクセス 個人情報300万人分が平文で漏えいか……発覚までに9カ月",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002158/"
       },
       {
-        "id": "f6fb81bf3ef85c06cfecab05a86191ad1d2bf702",
-        "published": "2026-10-08T08:02:35+00:00",
+        "id": "65fa6bd653bd84c7dea797ef881f745c3fe59307",
+        "published": "2026-10-09T05:28:52+00:00",
         "source": "PC Watch",
-        "summary": "Microsoftは10月7日(米国時間)に、米国カリフォルニア州サンフランシスコ市内の会場で発表会を行ない、同社のSurfaceシリーズの最新製品となる「Surface Laptop Ultra」を発表した。Surface Laptop Ultraは、SoCにNVIDIA RTX Spark(N1X)を採用し、メモリは24GB～128GB、ストレージは512GBないしは1TB(M.2 2280)で、15型PixelSense Ultra(3,270×2,180ドット/120Hz)のディスプレイを採用しており、重量は約2kgとなる。",
-        "title": "Surface Laptop Ultraの「マグネット式USB-C」、通常ケーブルも使える",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2146820.html"
+        "summary": "データ分析用のダッシュボードや、プレゼン用のちょっとした説明動画も、Claudeに依頼するだけで作れるようになった。Anthropicは10月8日、Claudeの新機能として「Claude Dashboards」および「Claude Motion」を発表した。前者は有料プラン向けに、後者はTeamおよびEnterpriseプラン向けにそれぞれベータ版で提供している。",
+        "title": "Claudeにダッシュボードや説明用動画の作成機能。Designは無料でも利用可能に",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147110.html"
       },
       {
-        "id": "e55325908cee0a9db95a7ce7a7b71d763cb4355c",
-        "published": "2026-10-08T05:52:40+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "他社プロバイダの担当者を装って顧客から個人情報を聞き出し、マイページに不正ログインして乗り換えを勧誘したとして、警視庁が光回線代理店の従業員2人を逮捕した。約2500件の契約解除につながったとみられる。",
-        "title": "ライバル社に不正アクセス、顧客名簿入手し営業活動 容疑の光回線代理店従業員を逮捕",
-        "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002129/"
+        "id": "aaa766be8850e3365a1a44fe176ecffcf8887149",
+        "published": "2026-10-09T04:57:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答などを、クラウドに接続せずに実行できるのが特徴です。 続きを読む...",
+        "title": "GoogleがGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
+        "url": "https://gigazine.net/news/20261009-google-ai-edge-foresight/"
       },
       {
-        "id": "5163dda78d59d05ba3516d11a9207cd500d90d9b",
-        "published": "2026-10-08T04:25:25+00:00",
-        "source": "ITmedia NEWS",
-        "summary": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
-        "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
-        "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/"
+        "id": "7ae89dcddf8855ed61863138ab22b1cf1dc03420",
+        "published": "2026-10-09T04:45:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む...",
+        "title": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
+        "url": "https://gigazine.net/news/20261009-gemini-agent/"
       },
       {
-        "id": "d507fbcf3e8a29a70298b01f773e0cec418d0e80",
-        "published": "2026-10-08T04:11:50+00:00",
+        "id": "d73c99ba3da5074e211582b6c877eb317f0383ae",
+        "published": "2026-10-09T04:37:33+00:00",
         "source": "ITmedia NEWS",
-        "summary": "相次ぐ不正アクセスに、専門家は「個々のインシデントについて、攻撃にAIが使われているかどうかを外部から断定はできない」としつつ、攻撃の特徴から「使われていないと考える方が不自然」との見方を示す。",
-        "title": "止まらない不正アクセス、背景にAIの“超高速攻撃”か 識者「使われていない方が不自然」",
-        "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/"
+        "summary": "金融庁は10月9日、不正アクセスによる顧客情報の漏えいが相次いでいるとして、金融機関などに注意喚起した。本人確認書類の画像送信による本人確認について、廃止の施行日である27年4月1日を待たず、ICチップ情報の読み取りへ速やかに移行するよう求めている。",
+        "title": "金融庁、本人確認の「ICチップ一本化」へ早期移行を要請 免許証画像の漏えい相次ぎ",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002166/"
+      },
+      {
+        "id": "5b975dd9beef4588b9e4bbacf1d394bb3b8278b5",
+        "published": "2026-10-09T04:27:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "アメリカのドナルド・トランプ大統領が、「SI(超知能)」表記ではなく「AI(人工知能)」表記を使っている人のことを「敵」とみなすことを表明しました。 続きを読む...",
+        "title": "トランプ大統領が「SIではなくAI表記を使う者はすべて『敵』とみなす」と表明",
+        "url": "https://gigazine.net/news/20261009-trump-ai-user-enemy/"
+      },
+      {
+        "id": "227dc3069dd1b8cccfd784e1738b27623b704cea",
+        "published": "2026-10-09T04:24:24+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "全国で不正アクセスによる情報漏えい問題が拡大する中、東京都内の自治体でもシステム障害が相次いでいる。小平市は公式Webサイトが閲覧できず、三鷹市や足立区でも一部サイトに影響が出ている。",
+        "title": "都内自治体でシステム障害相次ぐ 小平市はHP閲覧できず 復旧の見込み立たず",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002165/"
+      },
+      {
+        "id": "8d2cc811563989edb6376cd9eb077c9df8c1815a",
+        "published": "2026-10-09T04:20:56+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+        "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/"
+      },
+      {
+        "id": "f6e0fd8eadacbee427e6f747d6898634c2add519",
+        "published": "2026-10-09T03:20:15+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
+        "title": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査 依存強まる傾向に",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/"
+      },
+      {
+        "id": "6441f6fed09da4d9fda38d9e60d29203e640be5f",
+        "published": "2026-10-09T03:14:06+00:00",
+        "source": "ITmedia NEWS",
+        "summary": "募集は14年ぶり。日本からは84件の申請があった。海外ではAI関連のドメインの申請が目立ち、「.agent」は米Meta、米OpenAIなど13の申請者が争う。",
+        "title": "新gTLD申請、日本からも多数 講談社「.manga」、東映アニメ「.anime」、ドコモ「.docomo」など",
+        "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002160/"
+      },
+      {
+        "id": "47e92aad13968dc4802b07bd185f401ace4fb7bd",
+        "published": "2026-10-09T03:13:00+00:00",
+        "source": "GIGAZINE",
+        "summary": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
+        "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
+        "url": "https://gigazine.net/news/20261009-anthropic-oss-scanner/"
+      },
+      {
+        "id": "dce38f21e40b173f9f674f1ab5b202c3d665c3b7",
+        "published": "2026-10-09T03:02:44+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、老舗コーヒー専門店「澤井珈琲」のドリップパック型インスタントコーヒー「澤井珈琲 ドリップコーヒー ドリップパック ルナブレンド 50袋(8g)」が直近価格から3,091円引きとなる3,086円で販売されている。1杯あたりの価格は約62円。",
+        "title": "【本日みつけたお買い得品】老舗「澤井珈琲」のドリップパック型インスタントコーヒーが3,091円引き",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147058.html"
+      },
+      {
+        "id": "3a3ed22a55136a6e0507160c780b6103746dbb77",
+        "published": "2026-10-09T02:37:21+00:00",
+        "source": "PC Watch",
+        "summary": "Amazonにおいて、ソニーのワイヤレスゲーミングイヤフォン「INZONE Buds:WF-G700N」が、直近価格から5,200円引きとなる2万800円で販売されている。",
+        "title": "【本日みつけたお買い得品】ソニーのワイヤレスゲーミングイヤフォンが5,200円引きセール中",
+        "url": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2147040.html"
+      },
+      {
+        "id": "50a52f40f7735c3a0637d742ba7eb5cff82d64e7",
+        "published": "2026-10-09T02:33:14+00:00",
+        "source": "PC Watch",
+        "summary": "GeForce RTX 50シリーズ搭載のゲーミングノートPCが、ホワイト統一の限定モデルから薄型/軽量の新筐体まで、3機種そろって登場する。エムエスアイコンピュータージャパン(MSI)は、ゲーミングノートPCとして「Crosshair A16 HX MLG Edition E8W」を10月14日に、「Cyborg 15 Max C2W」と「Katana 15 HX C14W」を10月15日に発売する。価格はいずれもオープンプライス。",
+        "title": "ホワイトのマウス/ヘッドセットが付属したRTX 50搭載ゲーミングノート",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2147014.html"
       }
     ]
   },
-  "generated_at": "2026-10-09T00:43:00.071135+00:00"
+  "generated_at": "2026-10-09T09:41:22.710293+00:00"
 }
