@@ -2,156 +2,164 @@
   "categories": {
     "jobs_japan": [
       {
-        "id": "1bf2cbda6cd85f310e4d6ed42aaee0fa2c12cead",
-        "published": "2026-10-14T15:57:25+00:00",
-        "source": "note",
-        "summary": "TL;DR AWSジャパンの新卒採用ページには、営業、サポートエンジニアリング、ソリューションアーキテクト（SA）、プロフェッショナルサービス、データセンターの5職種が並んでいる。 このうちSAは「2028年卒対象」の本選考の応募受付が始まったと公式ページに出ている。28卒で技術寄りの外資ITを考えている人は、いま動く必要がある。 応募書類は履歴書と、100〜200字の短い作文3本。これまでの募集では、書類のあとに説明会、オンラインテスト、面接と進む形が示されていた。 続きをみる",
-        "title": "【28卒】AWSジャパンの新卒採用を公式情報だけで整理した（5職種・SA本選考・応募書類）",
-        "url": "https://note.com/lovely_lotus4471/n/ne267b0fa3b5b"
-      },
-      {
-        "id": "b434cfe114852ac7be3ee1cd98e9d3eb983cdb34",
-        "published": "2026-10-14T15:57:19+00:00",
-        "source": "note",
-        "summary": "KDDIの面接で聞かれそうな質問と答え方、志望動機とコースの選び方、本選考までの準備をまとめた、2028年卒向けの対策本です。 答えの例は、文系でパートナーコンサル（代理店営業）のコースをめざす学生が軸です。 ほかのコースを受ける人には、コース別の志望理由の例を7問付けています。PDFで全89ページ、文字数は約7万4千字あります。 書き手は元人事・元キャリアアドバイザーです。6年間で、面接と転職相談会を合わせて約800人を見てきました。 続きをみる",
-        "title": "【28卒】KDDIの面接対策｜「なぜドコモ・ソフトバンクでなくKDDIか」とコースの選び方に崩れず答える63問（元人事）",
-        "url": "https://note.com/moto_jinji_note/n/n8410bbf4a5e1"
-      },
-      {
-        "id": "437176784076593dc8a02b09358d154b57a136b1",
-        "published": "2026-10-14T15:57:11+00:00",
-        "source": "note",
-        "summary": "こんにちは、Atsuです。 今回はPwCコンサルティングのケース面接を想定した過去問を60問まとめました。Strategy&（PwCの戦略部隊）は以前に単独の記事を出しているので、今回はPwCコンサルティング全体、つまり戦略以外のユニットに応募する人も使える形にしています。 続きをみる",
-        "title": "PwCコンサルティングのケース面接過去問（60問）",
-        "url": "https://note.com/tom_mba/n/nf349522cc0f8"
-      },
-      {
-        "id": "99ec80639a2302690fd9d25436e5f3bb44b51657",
-        "published": "2026-10-14T15:56:01+00:00",
-        "source": "note",
-        "summary": "「CAとグランドスタッフ、どちらも受けてもいいのかな」「何がどう違うの？」。航空会社の就活をはじめると、多くの方がこの2つの仕事で迷います。 どちらも「空港や機内でお客さまを迎える仕事」ですが、働く場所も、会社も、応募の条件も違います。この記事では、27卒向けに出ていた各社の募集要項をもとに、2つの仕事の違いと、併願を考えるときのポイントを整理しました。28卒の要項が出たら、条件が変わっていないか必ず確認してください。 続きをみる",
-        "title": "【28卒】CAとグランドスタッフの違い｜仕事・勤務地・英語の条件を募集要項で比べて、併願の組み方を考える",
-        "url": "https://note.com/ca_mensetsu_note/n/n43f378231686"
-      },
-      {
-        "id": "6f5a5e3088a2bf2f262c014a9b373454d9a10ff5",
-        "published": "2026-10-14T15:54:56+00:00",
-        "source": "note",
-        "summary": "総合商社を受ける28卒の方から、「グループディスカッション（GD）で何を見られているのか分からない」という声をよく聞きます。インターンの選考や本選考でGDが課されるかどうかは、会社・コース・年度で変わります。受ける会社の募集要項やマイページの案内で、必ず確認してください。 このノートでは、GDが課された場合に備えて、商社らしいテーマの型と、評価につながりやすい動き方をまとめました。会社名や「実際の出題」は書いていません。テーマはどれも、商社の仕事の論点から組み立てた練習用です。 続きをみる",
-        "title": "【28卒】総合商社のグループディスカッション対策｜よく出るテーマの5つの型と、評価につながる動き方",
-        "url": "https://note.com/wise_arnica472/n/n83402c785d00"
-      },
-      {
-        "id": "a89b1f14161d5ddb69a7f658edaa148acc502a05",
-        "published": "2026-10-14T15:54:35+00:00",
-        "source": "note",
-        "summary": "要点 M&A仲介の報酬は、着手金・中間金・月額報酬・成功報酬などの組み合わせで決まる。中心になる成功報酬は、取引の規模に応じて段階的に料率を掛ける「レーマン方式」で計算されることが多い。 同じレーマン方式でも、料率を掛ける「基準の金額」をどう取るかで、手数料は大きく変わる。 中小企業庁の「中小M&Aガイドライン」は、手数料や業務内容を契約前に説明することなどを、仲介者・FAに求めている。仲介会社の面接では、この仕組みとルールを自分の言葉で説明できると強い。 続きをみる",
-        "title": "M&A仲介の手数料はどう決まるか｜レーマン方式と中小M&Aガイドラインを、面接で話せる形に整理する",
-        "url": "https://note.com/mild_moose5632/n/nc458e1359ca4"
-      },
-      {
-        "id": "bda33766a69816ad8efd758b9f492ea374f02bd9",
-        "published": "2026-10-14T15:54:10+00:00",
-        "source": "note",
-        "summary": "「CAって、毎年どのくらい採用されているの？」。狭き門のイメージが強いCAですが、実は会社ごとに募集の人数はかなり違います。 この記事では、2026年に行われた27卒（2027年度入社）の新卒CA採用について、各社の発表と報道をもとに、募集人数と時期を一覧にしました。28卒の募集はまだ発表されていません。「去年はこうだった」という目安として読み、受ける会社の候補を広げるのに使ってください。 続きをみる",
-        "title": "【28卒】CAは何人採用される？27卒の新卒CA募集人数を会社別にまとめました｜JAL・ANA・スカイマーク・ピーチほか",
-        "url": "https://note.com/ca_mensetsu_note/n/n6d92a1a7fead"
-      },
-      {
-        "id": "b56a243224d5bac7b020ebe96aa80fdd3207bbc9",
-        "published": "2026-10-14T15:54:05+00:00",
-        "source": "note",
-        "summary": "私は今、独立を考えています。しかし最近、もう一つの選択肢として「転職」も考えるようになりました。 これまで約10年間、一つの業界で仕事をしてきましたが、果たして自分の経験は他の業界でも通用するのでしょうか？ 続きをみる",
-        "title": "私は転職できるのか？",
-        "url": "https://note.com/kenchan_think/n/n1f32106aa20b"
-      },
-      {
-        "id": "c4748dee45487d03a4f07fa8444cf011c457d767",
-        "published": "2026-10-14T15:52:26+00:00",
-        "source": "note",
-        "summary": "私の就活について。 まず最初に、ラクしたかったので父に頼んで知り合いの方の会社でコネ入社をしようとしていました( ᐛ ) 内定は確定ですが全工程は踏んでください、とのことで英語の軽い筆記試験、グループワーク、面接が何回かでした。 私は英語が唯一の取り柄なのに点数が悪かったんです😇終わりです。 担当の面接官に目をつけられてしまいまして、あなたが入社してコネだって知られるんだから()この資格を取らないとみんなに認めてもらえないからね、あなたはコネなんだから頑張らないと、と脅されました🙃あれ、コネって秘匿じゃ…とは思いつつ、試験の点数悪かった私が悪いし本気で資…",
-        "title": "就活についての考え",
-        "url": "https://note.com/bold_honest159/n/n71477e8b58ed"
-      },
-      {
-        "id": "e97ed0b5009407974597d9cd82af8f8a0fab0eac",
-        "published": "2026-10-14T15:51:29+00:00",
-        "source": "note",
-        "summary": "成人して少し経った頃から始めた仕事も気づけばもう20年近くになる。 同僚にも部下にも恵まれていると思う。 今は子育て中なので時短勤務をさせてもらっている。 以前に比べてフルタイムで頼れる社員が増えたこともあり、上司はフルタイム社員を優先しているなと感じる場面が増えた。今までは時短でも色々任せてもらえてたので正直寂しい。 頼られていない？ 私は必要とされていないのかな？ 役に立てていないのかな？ そんなふうに感じる出来事があると、胸がギュッとなって悲しくなる。 最近、上司は特に忙しい。 細かい配慮をする余裕がないだけなのかもしれないし、私より有能な社員が増…",
-        "title": "違うんだよなー、これじゃない。仕事でやりがい感じたい。",
-        "url": "https://note.com/eri_ka1122/n/n0eba7255f9e9"
-      },
-      {
-        "id": "ee84d4504295477b80bda3e5dffb8015f9090c6c",
-        "published": "2026-10-14T15:49:31+00:00",
-        "source": "note",
-        "summary": "「楽天の二次面接受けた方、何聞かれたか教えてくれませんか？」という声をよく見かけます。一次は通ったものの、次で何を深掘りされるのか分からず、不安なまま日程が近づいている方も多いはずです。 この記事では、受けた人の話を探し回る前に、今日から自分で進められる準備をまとめました。 続きをみる",
-        "title": "楽天の二次面接、何聞かれた？よく出る質問の方向性と答え方【28卒】",
-        "url": "https://note.com/shosya_lab3637/n/nd8e814af0686"
-      },
-      {
-        "id": "85feda884620264e0dde38e4bf30d652443c6118",
-        "published": "2026-10-14T15:42:08+00:00",
-        "source": "note",
-        "summary": "自己PRというと、売上や成約数といった、数字で示せる成果ばかりに意識が向きがちです。ですが、実際の評価面談や転職面接では、数字にできない強みこそが、相手の印象に残ることも少なくありません。 今回は、AIと一緒に、数字で語れない強みを掘り出す方法を解説します。 続きをみる",
-        "title": "面談で使える「数字で語れない強み」を、AIと一緒に探す方法",
-        "url": "https://note.com/cheeky_knot7562/n/n53f905c800f2"
-      },
-      {
-        "id": "bfac1a836c082c010140b2e467c97d4adfc8d64c",
-        "published": "2026-10-14T15:36:51+00:00",
+        "id": "2f6a5ceaffcefa9280e2d2bfd26037c97c1e3042",
+        "published": "2026-10-14T20:59:14+00:00",
         "source": "note",
         "summary": "続きをみる",
-        "title": "「オンボーディング制度があります」を鵜呑みにしてはいけない理由 ― 制度と現場の温度差",
-        "url": "https://note.com/visa_career/n/n3e88a1ae5b8d"
+        "title": "【2027年度採用】秋田市 保育士（公立保育所）面接対策・想定質問100問｜採用1人・面接2回に備える・回答例つきPDF",
+        "url": "https://note.com/jichitai_senmon/n/n17905c80571c"
       },
       {
-        "id": "91535312d07714fdf373250c295407cc93c2a37e",
-        "published": "2026-10-14T15:32:10+00:00",
+        "id": "4e5618b0b5ce43f3c5b3027ce5099bede167a4ff",
+        "published": "2026-10-14T20:53:34+00:00",
         "source": "note",
-        "summary": "「どんな環境で働きたいですか」と聞かれて、就活の軸がまだ決まらないことに気づく。試しに企業選びの軸の例をのぞいても、「風通しのいい職場」のような言葉が並ぶばかりで、どれが自分に合うかは書いていない。だから、就活の軸がないまま、人気のありそうな条件を書いてしまう。 ただ、苦にならない働き方は、好きなことより苦手なことの側から見えてくるかもしれない。 続きをみる",
-        "title": "企業選びの軸の例がしっくりこないときの、苦にならない環境の見つけ方",
-        "url": "https://note.com/sanctuary_os/n/n8ef0bfe681bf"
+        "summary": "ゼンショーホールディングスの有価証券報告書に載る平均年間給与は 830.2万円 （平均39.4歳、平均勤続8.5年）ですが、この数字の対象は単体の1,129人です。連結従業員20,626人の 5.47% にあたる本社・サポート機能の社員で、すき家、ココス、ビッグボーイ、はま寿司などの店舗で働く社員を含む、連結全体の水準ではありません。パートタイマーなどの臨時雇用者は、連結で76,437人（1人1日8時間換算の平均人員、外数）います。 一方で、業績は拡大を続けています。2026年3月期の連結売上高は12,640億円で、前の期より11.2%増え、営業利益は…",
+        "title": "ゼンショーで働くとどうなるか？｜年収・昇進・働き方・キャリアを徹底分析【2026年10月更新】",
+        "url": "https://note.com/corerise/n/n30f80dca784a"
       },
       {
-        "id": "1072ef918f1d5ad3b99d5f1947c70e1520a36728",
-        "published": "2026-10-14T15:29:42+00:00",
+        "id": "f114150e1018151ef84019234f8f429cd913d73a",
+        "published": "2026-10-14T20:53:30+00:00",
         "source": "note",
-        "summary": "現在 29卒就活生が「 ビズリーチ・キャンパス 」に登録し、学生認証をするだけで、1500円分PayPayポイント をもらえる登録キャンペーンが実施されています！ ビズリーチキャンパスでは、OB・OG訪問や企業からのスカウト機能など、就活を進める上で役立つ機能がそろっているサービスです。 そのほかにも、人気企業のインターン情報やスカウトを受け取れたり、就活対策講座や先輩の体験記などのコンテンツも充実しており、就活の情報収集を効率的に進めることができます。 続きをみる",
-        "title": "29卒ビズリーチキャンパス登録だけでPayPayポイント1500円プレゼント! 友達紹介 OB訪問",
-        "url": "https://note.com/genkaidaaaaa/n/n8eb8308d866c"
+        "summary": "私は短大卒業後、委託給食会社の栄養士として病院で働き、その後転職して、保育園で3年以上勤務してきました。 保育園の栄養士と聞くと、給食を作る仕事というイメージが強いかもしれません。 もちろん調理も大切な仕事ですが、実際には献立作成や保護者対応、園の行事への参加など、さまざまな業務があります。 今回は、実際に保育園栄養士として働いて感じたメリット・デメリットをまとめてみました。 これから保育園栄養士を目指す方や、転職を考えている方の参考になればうれしいです！ 1. 保育園栄養士の仕事内容 続きをみる",
+        "title": "保育園栄養士を3年以上経験してわかったメリット・デメリット【実体験】",
+        "url": "https://note.com/latte_snst622/n/nca6c04249e45"
       },
       {
-        "id": "1884fc0bb570e108512da2b983063e15dae17483",
-        "published": "2026-10-14T15:27:49+00:00",
+        "id": "adfece35d3150dc67205b2b73edf2d1da35f8b7c",
+        "published": "2026-10-14T20:51:17+00:00",
         "source": "note",
-        "summary": "旭化成株式会社が第135期（2025年4月1日〜2026年3月31日）の有価証券報告書を提出しました。 続きをみる",
-        "title": "【有報解剖】旭化成（3407）｜転職・社員向け｜いちばん稼いだのは化学ではなく住宅。マテリアル2万377人の1人あたり営業利益は335万円——社員と中途志望者のための決算の読み方",
-        "url": "https://note.com/yamashantoushi/n/n98e29a0e6ba1"
+        "summary": "今でも後悔していることがあります。 続きをみる",
+        "title": "【しくじりポスティング】僕みたいになるな！求人選びで後悔した3つの理由",
+        "url": "https://note.com/dapper_cosmos705/n/nb896c52de728"
       },
       {
-        "id": "970fe1ddf24cff37009f0e570d52ed21fbea1444",
-        "published": "2026-10-14T15:26:07+00:00",
+        "id": "09162c4f00400438c5bfc4a16583289eecb68d77",
+        "published": "2026-10-14T20:51:01+00:00",
         "source": "note",
-        "summary": "前回より。 続きをみる",
-        "title": "いざ、起業。したい。",
-        "url": "https://note.com/regular__shop/n/nea022fe24ed4"
+        "summary": "50代になると、仕事について考える時間が少し増えるような気がします。 若い頃は、 続きをみる",
+        "title": "50代になって気づいた キャリアは「辞めるか、残るか」だけではない",
+        "url": "https://note.com/clean_llama823/n/nca4c091016b5"
       },
       {
-        "id": "8b96f86914823ce4f1118af6bb42fe3951a568fe",
-        "published": "2026-10-14T15:24:50+00:00",
+        "id": "3e79eeb03b23f644de9ad10806e7b78205484079",
+        "published": "2026-10-14T20:44:35+00:00",
         "source": "note",
-        "summary": "大きな経験値を得ることができる 自治体職員における出向とは 続きをみる",
-        "title": "「自治体職員こそ、一度は外に出た方がいい」104日後に無職のおじさんを夢見る、44歳地方公務員｜Day 33",
-        "url": "https://note.com/first_penguin44/n/n30b8c9651455"
+        "summary": "0章｜休日は寝て終わり。あなたは何のために働いているのですか？ 「休日は疲れて寝ているだけです」 続きをみる",
+        "title": "【人事歴約10年が見た】休日に寝てばかりいた会社員3人の末路――精神疾患・休職・退職へ追い込まれる人に共通する3つの特徴と最悪の未来を避けるたった3つの方法【35歳以上・40代・50代でうつ病や躁鬱病、適応障害で悩む人へ】",
+        "url": "https://note.com/hiroki69/n/n3d39185c06e3"
       },
       {
-        "id": "ea3414e15b7894db8a328070190edadf3a7dec1b",
-        "published": "2026-10-14T15:21:53+00:00",
+        "id": "e41de3fde49296f768fc1ce6999ea5333540b591",
+        "published": "2026-10-14T20:38:16+00:00",
         "source": "note",
-        "summary": "「今の自分って、市場価値があるんだろうか？」 SESで働いていると、 続きをみる",
-        "title": "【第5部｜次を考える】SESの「今の自分に市場価値はある？」担当工程・直近経験・役割・求人から、次に増やす経験を決めた話",
-        "url": "https://note.com/sakuranohanami/n/n3d9a39e3b0f8"
+        "summary": "はじめに。 数学は中３で挫折しています。 「100人から\"優秀な1人\"を確実に選ぶ方法 37人目までは無条件に不採用にする」2019/07/04 PRESIDENT Online 続きをみる",
+        "title": "「100人から\"優秀な1人\"を確実に選ぶ方法」を年齢に当てはめる話",
+        "url": "https://note.com/long_sable9985/n/na228731c90c1"
+      },
+      {
+        "id": "bd8f91853a09c0bb40e7c55d8e58e363a2e9b7fc",
+        "published": "2026-10-14T20:35:49+00:00",
+        "source": "note",
+        "summary": "転職サイトで「月給25万円」の求人を見たとき、いまの給与明細の総支給額と比べていないでしょうか。 同じ「月給25万円」でも、求人票と給与明細では、入っているものが違うことがあります。 続きをみる",
+        "title": "求人票の月給25万円。でも明細の25万円とは中身が違います",
+        "url": "https://note.com/hatarakuokane/n/nfdeadb0c9f13"
+      },
+      {
+        "id": "79ed93c63a9dde4081c876c0e6dae8cb35501c6f",
+        "published": "2026-10-14T20:33:32+00:00",
+        "source": "note",
+        "summary": "今回は、 私がうつ病にいたった経緯と、 寛解するまで闘いの記録です。 あの頃の私は、まだ若くて、真面目で、 正義感ばかり強かった。 「人をあげつらう」「陰口を言う」 「誰かの不幸さえ笑いにする」 それが日常になっている職場に、 なじめるはずもなかった。 続きをみる",
+        "title": "6th ～泣き虫莉珠の30年闘争～",
+        "url": "https://note.com/nakamoririju/n/n128503600d27"
+      },
+      {
+        "id": "0ffce4fca0ab10de407653de2502a76f1d8bb00c",
+        "published": "2026-10-14T20:32:06+00:00",
+        "source": "note",
+        "summary": "EF ECOFLOW EcoFlow DELTA 3 Ultra +400W軽量両面ソーラーパネル ポータブル電源のレビュー比較をまとめます。 停電などの災害時に、IH調理器やドライヤーといった高出力家電が使えずに困ったことはありませんか？ 続きをみる",
+        "title": "EF ECOFLOW EcoFlow DELTA 3 Ultra +400W軽量両面ソーラーパネル ポータブル電源 レビュー比較まとめ",
+        "url": "https://note.com/startupm/n/n895e5c6d666a"
+      },
+      {
+        "id": "55deb35b08c57d339e9143777b926712abaeaf10",
+        "published": "2026-10-14T20:18:51+00:00",
+        "source": "note",
+        "summary": "​ 続きをみる",
+        "title": "変容する日本企業の採用戦略",
+        "url": "https://note.com/hakutaka_express/n/n9ebf95462ab1"
+      },
+      {
+        "id": "8c10131afd1e7a0d98afc4c8f98dfdecb6948996",
+        "published": "2026-10-14T20:18:14+00:00",
+        "source": "note",
+        "summary": "なぜ今、表面的な株価ではなく「本物の稼ぐ力」を見るべきなのか 続きをみる",
+        "title": "【四季報を読む】荒れ相場でも資金が集中する「業績絶好調」銘柄――連続最高益と上方修正ラッシュを見抜く",
+        "url": "https://note.com/rei_blog/n/nb8e6fba45999"
+      },
+      {
+        "id": "4c32ae433398fe2e283e22ce39fcbab9f6e8b3a0",
+        "published": "2026-10-14T19:42:59+00:00",
+        "source": "note",
+        "summary": "トヨタの志望動機を書こうとすると、 だいたい同じところで手が止まります。 「安定しているから」。 続きをみる",
+        "title": "トヨタを受けるなら、「安定しているから」を数字で言い直す。いちばん売れた北米は、赤字だった",
+        "url": "https://note.com/kessancareerlab/n/na85f5af85517"
+      },
+      {
+        "id": "e766dc4983cd9facd5b4148a1a8a6c75e8e2fa58",
+        "published": "2026-10-14T19:33:40+00:00",
+        "source": "note",
+        "summary": "「はじめに」 はじめまして！ ゲームクリエイターを目指している専門学生のはるです！ 続きをみる",
+        "title": "「Unityで3DアクションRPGを制作開始！6本目のゲーム制作に挑戦」 はる日記#265",
+        "url": "https://note.com/ha_03ru_01/n/n19dec73264c5"
+      },
+      {
+        "id": "3a739bbabe8d7103a48dc384abf54fb8b09a1f60",
+        "published": "2026-10-14T17:11:01+00:00",
+        "source": "note",
+        "summary": "最近、AIが発展、普及していく中で、就活生の方やキャリア相談の現場ではこのようなことが起きてるんじゃないかと思うんです。 「ChatGPTやClaudeでエントリーシート（ES）を作ったんですけど、これって人事にAIってバレますか？」という事です。 続きをみる",
+        "title": "就活ESのAIバレを完全回避！【専用ツール配布】通過率を上げる裏技",
+        "url": "https://note.com/aitukuru/n/nb77008105c16"
+      },
+      {
+        "id": "b274d73b6c81ae7abeeea35ae016cfe0df8bebee",
+        "published": "2026-10-14T16:59:56+00:00",
+        "source": "note",
+        "summary": "就職活動をしているときに私はずっと違和感を持っていた。明日もまたエントリーシート書いたり面接の対策をしなくては、、、そう考えながら就寝しようと目を瞑っていたとき、私なりの持論が頭を駆け巡ったので、それを忘れないうちに記しておこう。 続きをみる",
+        "title": "この世の就職活動に対する私なりの持論",
+        "url": "https://note.com/koukyou_47/n/n7621243ccaa7"
+      },
+      {
+        "id": "75d8dcf3f49b0a52b2f41d68d8b29df1cb5fabe9",
+        "published": "2026-10-14T16:39:51+00:00",
+        "source": "note",
+        "summary": "ああ就活いやだ 自分に学歴も、資格も、やりたいことも、熱量も、何もない そのくせ仕事にやりがいとか、給料とか、責任とか求めてるのも自分嫌すぎる 中学生か高校生の時に「バリキャリOLになって丸の内で働くんだ」なんて言ってたのをおじいちゃんはいまだに覚えてるし、その夢を諦めきれない自分もいる 続きをみる",
+        "title": "午後1時34分",
+        "url": "https://note.com/imwwwww/n/n9b1149ac037f"
+      },
+      {
+        "id": "e23b6c3d9c349af49c4571bed17bd514e4ece0e4",
+        "published": "2026-10-14T16:27:19+00:00",
+        "source": "note",
+        "summary": "夜の11時。電気を消した部屋で、天井のシミを眺めていた。 明日も、いつも通りの1日が来る。それが嫌なわけじゃない。ただ、5年後も10年後もこのままなんじゃないか、と思った瞬間、急に息が苦しくなった。 「このままでいいのかな」 誰に聞かれたわけでもないのに、その言葉だけが頭の中をぐるぐる回る。 スマホを開くと、同世代の「将来の話」が流れてくる。起業した人、資格を取った人、海外に行った人。みんな、ちゃんと前に進んでいるように見えた。 私の1日は、起きて、働いて、帰って、寝る。それだけ。 「何者にもなれていない」 そんな言葉が、ふと浮かんだ。 眠れなくて、台所…",
+        "title": "『このままでいいのかな』と思った夜、天井を見つめて気づいたこと」",
+        "url": "https://note.com/agile_hebe7729/n/na778f0277898"
+      },
+      {
+        "id": "a64b1434a22b62216b530ca1129d44d5a6aa68b3",
+        "published": "2026-10-14T16:06:38+00:00",
+        "source": "note",
+        "summary": "はじめまして！会計学徒です。 今回が初投稿のnote記事になります。 続きをみる",
+        "title": "【人生】商業高校（偏差値50）から東証プライム本社経理に受かった話",
+        "url": "https://note.com/gakuto_lifetime/n/n0d4ae0b97469"
+      },
+      {
+        "id": "6886cfccdae3209a8af320c78f7fff3c265e733a",
+        "published": "2026-10-14T16:02:15+00:00",
+        "source": "note",
+        "summary": "早速の、企業分析シリーズの2回目です。 前回の楽天グループに続いて、今回はJALグループの商社、JALUX（ジャルックス）を調べました。 続きをみる",
+        "title": "【企業分析 - JALUX】日本の価値を「届く商品」にする。JALグループの商社は、何で稼いでいるのか",
+        "url": "https://note.com/gaika_inc/n/n8968d2d29e10"
       },
       {
         "id": "dbbce1e1f81c8ca9d9414b4d74ae65beede03b35",
@@ -380,148 +388,276 @@
     ],
     "tech_global": [
       {
-        "id": "7627a3f490957e441362104c4aaba02a3864bf88",
-        "published": "2026-10-14T15:19:02+00:00",
-        "source": "The Verge",
-        "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult…",
-        "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
-      },
-      {
-        "id": "9c18b5e1b4bfcb8e69dbf2eb34becdc39d55bff3",
-        "published": "2026-10-14T15:16:04+00:00",
+        "id": "13af8901117402e587475c7d6c24aeb340dde901",
+        "published": "2026-10-14T21:00:00+00:00",
         "source": "TechCrunch",
-        "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-        "title": "Deezer will soon let you filter out AI-generated music",
-        "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/"
+        "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"
       },
       {
-        "id": "730309a8798eb57fa7ef9548553dfee491074809",
-        "published": "2026-10-14T15:15:45+00:00",
+        "id": "e72a95f279e3e4027cbf16b3e1953c621390fda5",
+        "published": "2026-10-14T20:30:54+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/ Comments URL: https://news.ycombinator.com/item?id=50088935 Points: 161 # Comments: 156",
-        "title": "Passkeys Are Not a Trap",
-        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/"
+        "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 13 # Comments: 1",
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/"
       },
       {
-        "id": "c16911033b3182b5b71fc0815b460bd299f818e7",
-        "published": "2026-10-14T15:13:24+00:00",
-        "source": "TechCrunch",
-        "summary": "Get 50% discount on the last two days of TechCrunch Disrupt 2026, Oct. 14-25, in San Francisco's Moscone West. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco’s Moscone West",
-        "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/"
-      },
-      {
-        "id": "f2535895caca834a58a51938d981e1bdb1bd7a21",
-        "published": "2026-10-14T15:12:58+00:00",
-        "source": "The Verge",
-        "summary": "Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according t…",
-        "title": "Netflix is laying off around 1,000 employees",
-        "url": "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees"
-      },
-      {
-        "id": "a63fe7ee226d525637d9536c6d8594d1c8be70c2",
-        "published": "2026-10-14T15:10:12+00:00",
-        "source": "The Verge",
-        "summary": "Apple says HomeView is \"the perfect way\" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Appl…",
-        "title": "HomeView doesn’t natively support any video apps yet — not even Apple’s",
-        "url": "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming"
-      },
-      {
-        "id": "ecdf723c0581a8308530bd155ceac8c7541b7ed0",
-        "published": "2026-10-14T15:08:00+00:00",
-        "source": "TechCrunch",
-        "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-        "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-        "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
-      },
-      {
-        "id": "f71544d6a2c1e3df19f5a2ab9a170b2dc6f27477",
-        "published": "2026-10-14T15:06:12+00:00",
-        "source": "The Verge",
-        "summary": "Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that…",
-        "title": "Ukraine claims Starlink is suddenly disrupting service for its military",
-        "url": "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions"
-      },
-      {
-        "id": "40dbf46b638448503956713b1fca558f4b80c0ca",
-        "published": "2026-10-14T15:00:00+00:00",
-        "source": "TechCrunch",
-        "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-        "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-        "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
-      },
-      {
-        "id": "d02ea2927cb1aa96b52fb3dbf9228289e1c28dcb",
-        "published": "2026-10-14T14:55:47+00:00",
-        "source": "TechCrunch",
-        "summary": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
-        "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-        "url": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/"
-      },
-      {
-        "id": "862427856471e61d6f248709f0f7922f999b6592",
-        "published": "2026-10-14T14:55:19+00:00",
+        "id": "aad24f89887b4ec0d6aebaece5e9e7c3641ab319",
+        "published": "2026-10-14T20:29:13+00:00",
         "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation Comments URL: https://news.ycombinator.com/item?id=50088643 Points: 14 # Comments: 4",
-        "title": "Running Windows desktop tests from Linux with disposable VMs",
-        "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation"
+        "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 22 # Comments: 0",
+        "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+        "url": "https://blog.cloudflare.com/yandex-outage/"
       },
       {
-        "id": "4c107a973ceeda1ba4a9b312979e7889792eb7ef",
-        "published": "2026-10-14T14:47:44+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/ Comments URL: https://news.ycombinator.com/item?id=50088534 Points: 12 # Comments: 5",
-        "title": "AI is mass decompiling games. That's both awesome and scary",
-        "url": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/"
-      },
-      {
-        "id": "5bb36a88e5b52f5a02264c56d696d6ef8129feff",
-        "published": "2026-10-14T14:45:45+00:00",
-        "source": "The Verge",
-        "summary": "There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per month service is offering subscribers Like A Dragon: Pirate Yakuza in Hawaii, Pric…",
-        "title": "$15 gets you Psychonauts 2, the latest Like a Dragon game, and more",
-        "url": "https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale"
-      },
-      {
-        "id": "d889d5e650efa8f101572ab1a8a5ab2f68248198",
-        "published": "2026-10-14T14:39:32+00:00",
-        "source": "The Verge",
-        "summary": "You don't need to buy the new Apple TV 4K just to get the updated Siri Remote with Find My and a built-in speaker, as it works with every model released going back to the Apple TV HD and is available to buy standalone for $59. Previous Siri Remotes had a basic iOS feature to []",
-        "title": "Apples new Find My-compatible remote will also work with your old Apple TV",
-        "url": "https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my"
-      },
-      {
-        "id": "15d18554dbbc7dedca88cc2710033a9f5e4ac188",
-        "published": "2026-10-14T14:38:55+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/ Comments URL: https://news.ycombinator.com/item?id=50088430 Points: 75 # Comments: 54",
-        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
-      },
-      {
-        "id": "62cbe095b5166b3d5e278c873c0a04002093543e",
-        "published": "2026-10-14T14:30:00+00:00",
+        "id": "720cb8abffa15f50c5f7a0e6df47a2ae0f384a0a",
+        "published": "2026-10-14T20:26:25+00:00",
         "source": "TechCrunch",
-        "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
-        "title": "TechCrunch Disrupt 2026: Day 2",
-        "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/"
+        "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+        "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/"
       },
       {
-        "id": "f3ebef654f96f8e47f80f7bc950728610547f85e",
-        "published": "2026-10-14T14:00:00+00:00",
+        "id": "bd128c907a091dcd2c09b91907ba18a5ac70b26b",
+        "published": "2026-10-14T20:12:07+00:00",
         "source": "TechCrunch",
-        "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-        "title": "NTangible bets it can predict how athletes will perform under pressure",
-        "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/"
+        "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+        "title": "Electric vehicle sales in the US are showing signs of life",
+        "url": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/"
       },
       {
-        "id": "84f3b00e65693cc6aa35b0a2b140a3f5ee6619ff",
-        "published": "2026-10-14T14:00:00+00:00",
+        "id": "76d41b2d51455f4bfbca7ea69937174ee6d51fb9",
+        "published": "2026-10-14T20:03:43+00:00",
         "source": "The Verge",
-        "summary": "Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing about AI taking over t…",
-        "title": "Halos co-creator wrote a novel about AI taking over the world",
-        "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny"
+        "summary": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the world. Through an investigati…",
+        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown"
+      },
+      {
+        "id": "99e62f16e61ad48695d4c19a8a58b505db29e08d",
+        "published": "2026-10-14T20:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+        "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+        "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/"
+      },
+      {
+        "id": "10bff8f3b6e46876b67da9ec8a67ff9464951e17",
+        "published": "2026-10-14T19:51:34+00:00",
+        "source": "TechCrunch",
+        "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+        "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+        "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"
+      },
+      {
+        "id": "5e14a6272e448c1392a5ad7cabbef959b79de2b7",
+        "published": "2026-10-14T19:29:12+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 19 # Comments: 5",
+        "title": "Fancy Curl Sites",
+        "url": "https://nytpu.com/gemlog/2026-03-18"
+      },
+      {
+        "id": "0c1a0ba99d14638d2538bba7aee56bf1647a4d33",
+        "published": "2026-10-14T19:26:30+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 202 # Comments: 31",
+        "title": "Things to know if you get cancer in 2026",
+        "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"
+      },
+      {
+        "id": "b946321ef1f27d4226e79836f92daa20cfcb3129",
+        "published": "2026-10-14T19:10:58+00:00",
+        "source": "Ars Technica",
+        "summary": "\"Have you ever seen a world born?\"",
+        "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+        "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/"
+      },
+      {
+        "id": "2fac9b600466967a6bad110370da6a27809bcbb1",
+        "published": "2026-10-14T19:06:03+00:00",
+        "source": "The Verge",
+        "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, h…",
+        "title": "The AI race is back on",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+      },
+      {
+        "id": "a68dc80e585c06c6e76b221204baeb5a39b73a09",
+        "published": "2026-10-14T19:03:58+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/ Comments URL: https://news.ycombinator.com/item?id=50093180 Points: 118 # Comments: 105",
+        "title": "Suicide rates highest ever among middle-aged men",
+        "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"
+      },
+      {
+        "id": "cd125d255ea32951fecf1fd1a742949ce42b69ec",
+        "published": "2026-10-14T19:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+        "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+        "url": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/"
+      },
+      {
+        "id": "738aed8dcc6e54fbd0502166c103c03f2b6bd746",
+        "published": "2026-10-14T18:47:54+00:00",
+        "source": "The Verge",
+        "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Charact…",
+        "title": "Now that Character.AI is going bankrupt, what happens to all of its users data?",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+      },
+      {
+        "id": "95589d620ddd85432dbc49d6f9ea241dcdba572f",
+        "published": "2026-10-14T18:38:59+00:00",
+        "source": "The Verge",
+        "summary": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV…",
+        "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
+        "url": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
+      },
+      {
+        "id": "22eabf132ca297326e9c145caf9d13954c09cb12",
+        "published": "2026-10-14T18:37:21+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ Comments URL: https://news.ycombinator.com/item?id=50092730 Points: 201 # Comments: 123",
+        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+        "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/"
+      },
+      {
+        "id": "ffc9c8f827572cd954465df741cba791c0e73942",
+        "published": "2026-10-14T18:32:52+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycombinator.com/item?id=50092664 Points: 162 # Comments: 135",
+        "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+        "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/"
+      },
+      {
+        "id": "55222f29942f90101ec111a9a8d59a0bcaf3b8a7",
+        "published": "2026-10-14T18:23:46+00:00",
+        "source": "TechCrunch",
+        "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+      },
+      {
+        "id": "9bf5ebea18efb04149701f5f48ffc09bdbbdb7af",
+        "published": "2026-10-14T18:23:14+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by thos…",
+        "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+        "url": "https://petal.live/"
+      },
+      {
+        "id": "939ecdfa504040eb97b221ce27033ad04b2a3c83",
+        "published": "2026-10-14T18:22:56+00:00",
+        "source": "The Verge",
+        "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but accordin…",
+        "title": "YouTube sticks new labels on AI-generated songs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+      },
+      {
+        "id": "ddf812ab21d1a2f8edbb33afeb0636e217951721",
+        "published": "2026-10-14T18:20:55+00:00",
+        "source": "The Verge",
+        "summary": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google…",
+        "title": "Save up to 20 percent on gift cards for REI, Barnes Noble, and more",
+        "url": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale"
+      },
+      {
+        "id": "619d87b09b01324adb7b8fd2d6e49d049e66653e",
+        "published": "2026-10-14T18:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+      },
+      {
+        "id": "c9e50374f0bb1e73fa9960fd18a250f8213480a4",
+        "published": "2026-10-14T17:50:26+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it Comments URL: https://news.ycombinator.com/item?id=50091875 Points: 86 # Comments: 31",
+        "title": "America didn't lose its rare earth industry, it sold it",
+        "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it"
+      },
+      {
+        "id": "87d81e4c6bad220234a95620e67646c018ab2a6f",
+        "published": "2026-10-14T17:45:34+00:00",
+        "source": "Hacker News (front page)",
+        "summary": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.com/item?id=50091794 Points: 50 # Comments: 28",
+        "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+        "url": "https://github.com/bealesh/neckbeard"
+      },
+      {
+        "id": "006fb5835ce7963e9a39e81bf14711958360d9ac",
+        "published": "2026-10-14T17:24:42+00:00",
+        "source": "The Verge",
+        "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure…",
+        "title": "Apples new HomeView smart display is $10 cheaper at Amazon",
+        "url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale"
+      },
+      {
+        "id": "e776b3f92ca90692f9910e4315feed37975b3eb2",
+        "published": "2026-10-14T17:19:11+00:00",
+        "source": "The Verge",
+        "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playbac…",
+        "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+        "url": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod"
+      },
+      {
+        "id": "a85aaa3f10be5d3ceda76b90297ccc6de61f292a",
+        "published": "2026-10-14T17:13:27+00:00",
+        "source": "The Verge",
+        "summary": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced i…",
+        "title": "Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS",
+        "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds"
+      },
+      {
+        "id": "224ee0818768ef5f618e20e48aa0befcae4cf0d9",
+        "published": "2026-10-14T17:10:15+00:00",
+        "source": "Ars Technica",
+        "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+        "title": "Researchers use AI to design proteins that cut up other proteins",
+        "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+      },
+      {
+        "id": "4ad5fe2916b301ad17d1a657d09b99f1c228119f",
+        "published": "2026-10-14T17:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+        "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+        "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/"
+      },
+      {
+        "id": "bba11107a8fb9839ffd4e88f8e8027bfc344997a",
+        "published": "2026-10-14T17:00:00+00:00",
+        "source": "The Verge",
+        "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm.…",
+        "title": "My AI doppelganger tells me what to eat",
+        "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
+      },
+      {
+        "id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5",
+        "published": "2026-10-14T16:41:49+00:00",
+        "source": "Ars Technica",
+        "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+        "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+        "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+      },
+      {
+        "id": "2e641857ea29d9f4f142bba59f665fbd87ec4e8f",
+        "published": "2026-10-14T16:02:08+00:00",
+        "source": "Ars Technica",
+        "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+        "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+        "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
+      },
+      {
+        "id": "ea15db722113b21e9153b965785ae1c181375fec",
+        "published": "2026-10-14T16:00:00+00:00",
+        "source": "TechCrunch",
+        "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+        "title": "Prismm helps banks keep inherited money in-house",
+        "url": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/"
       },
       {
         "id": "0bcda70fdea0b4a8b2c0d78d58e02cf763f57a59",
@@ -532,68 +668,12 @@
         "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
       },
       {
-        "id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
-        "published": "2026-10-14T13:55:02+00:00",
-        "source": "The Verge",
-        "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe cod…",
-        "title": "Epics new games launcher is ‘vibe coded’",
-        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux"
-      },
-      {
-        "id": "37c39d71527e2e7c6ce4c94debc3f56d3976b303",
-        "published": "2026-10-14T13:54:58+00:00",
-        "source": "The Verge",
-        "summary": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part of the reason Fortnit…",
-        "title": "Epic is bringing Fortnite to Linux",
-        "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat"
-      },
-      {
-        "id": "cabfe58af7f112d1244a7c6cce106f1f01bac91b",
-        "published": "2026-10-14T13:43:36+00:00",
-        "source": "The Verge",
-        "summary": "Continuing the analog approach of the Instax Square SQ6 that launched in 2018 and follow-ups like the Square SQ1 and SQ40, the new Fujifilm Instax Square 2 skips digital functionality while still introducing the ability to customize the look and feel of instant photos. A new mood…",
-        "title": "Fujifilm’s new square format instant camera adds analog color filters",
-        "url": "https://www.theverge.com/tech/1010990/fujifilm-instax-square-2-analog-instant-film-camera-filters"
-      },
-      {
-        "id": "5675ff9825e9c6f4ab87a4284fce9fb6b3c385ea",
-        "published": "2026-10-14T13:31:27+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://mastodon.social/@marioguzman/117436264149891011 Comments URL: https://news.ycombinator.com/item?id=50087524 Points: 33 # Comments: 3",
-        "title": "Apple Keynote now showing ads in its UI",
-        "url": "https://mastodon.social/@marioguzman/117436264149891011"
-      },
-      {
-        "id": "8bc92728a709eed1ee1b19be7e8b15d5e1d9c477",
-        "published": "2026-10-14T12:58:32+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://ma.tt/2026/10/rip-eric/ Comments URL: https://news.ycombinator.com/item?id=50087044 Points: 70 # Comments: 30",
-        "title": "Eric Binnion has died",
-        "url": "https://ma.tt/2026/10/rip-eric/"
-      },
-      {
         "id": "7923e9fedadd3085c8aa42d792aaac0ee32c8fa9",
         "published": "2026-10-14T12:55:06+00:00",
         "source": "Ars Technica",
         "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
         "title": "Anthropic warns small AI models could self-replicate through IoT devices",
         "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
-      },
-      {
-        "id": "e5da7347cc510d24ab3eaa04cab2949f999d277c",
-        "published": "2026-10-14T12:16:35+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://aaronsonoracle.com/ Comments URL: https://news.ycombinator.com/item?id=50086484 Points: 35 # Comments: 32",
-        "title": "The Aaronson Oracle",
-        "url": "https://aaronsonoracle.com/"
-      },
-      {
-        "id": "be362ab16722e13d698b655a7552f04cac4d56c9",
-        "published": "2026-10-14T11:47:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://github.com/timescale/pg_vectorsearch Comments URL: https://news.ycombinator.com/item?id=50086165 Points: 110 # Comments: 34",
-        "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-        "url": "https://github.com/timescale/pg_vectorsearch"
       },
       {
         "id": "f92f8a3e1d761b5860be1e02aebc58f1aad68fba",
@@ -612,46 +692,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
       },
       {
-        "id": "ca567069ecbf16ad27e5e0d3970ab0ed2a996afc",
-        "published": "2026-10-14T11:00:00+00:00",
-        "source": "TechCrunch",
-        "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-        "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
-      },
-      {
-        "id": "8404278126762b91f6fe8ee9032764b2d39defe4",
-        "published": "2026-10-14T10:28:26+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 88 # Comments: 56",
-        "title": "TV4 postpones show after AI agent erases edited material",
-        "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
-      },
-      {
-        "id": "c34c3483990179e7b4c2fc6912da1a2ca3638805",
-        "published": "2026-10-14T10:26:53+00:00",
-        "source": "Hacker News (front page)",
-        "summary": "Article URL: https://blog.lorenzano.eu/pulsar-at-esug-2026/ Comments URL: https://news.ycombinator.com/item?id=50085306 Points: 59 # Comments: 9",
-        "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-        "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/"
-      },
-      {
-        "id": "018d1b6a7724532c6f94999e615698ac1cc73308",
-        "published": "2026-10-14T01:30:42+00:00",
-        "source": "TechCrunch",
-        "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-        "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-        "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"
-      },
-      {
-        "id": "a2d00ff109e7d12fae1c4f8cc525a5eda4ea8a2c",
-        "published": "2026-10-13T23:13:31+00:00",
-        "source": "TechCrunch",
-        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
-      },
-      {
         "id": "de63a5b31e17e0ee9dbef15df1c0d5bc0d3f60c9",
         "published": "2026-10-13T22:48:12+00:00",
         "source": "Ars Technica",
@@ -666,38 +706,6 @@
         "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
         "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
         "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
-      },
-      {
-        "id": "a61134e8630a6937ec15d9c1c5de7935c9359420",
-        "published": "2026-10-13T21:33:43+00:00",
-        "source": "Ars Technica",
-        "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-        "title": "Topgolf saved over $11.3 million after leaving VMware",
-        "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
-      },
-      {
-        "id": "93ecef6966889274da75a161079128adb28d190e",
-        "published": "2026-10-13T19:50:37+00:00",
-        "source": "Ars Technica",
-        "summary": "US attorney apologized to court, said government has stopped running Trump ads.",
-        "title": "Trump commercial railing against his enemies kept airing after court blocked it",
-        "url": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/"
-      },
-      {
-        "id": "63b1605b51b19bf5324eced1107cd332345f0ec3",
-        "published": "2026-10-13T18:23:33+00:00",
-        "source": "Ars Technica",
-        "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-        "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-        "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
-      },
-      {
-        "id": "282555699f36f0731e924b892a44c7e2251c2c8c",
-        "published": "2026-10-13T18:06:06+00:00",
-        "source": "Ars Technica",
-        "summary": "The higher prices are said to be unrelated to the Skydance merger.",
-        "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-        "url": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/"
       }
     ],
     "tech_japan": [
@@ -1023,5 +1031,5 @@
       }
     ]
   },
-  "generated_at": "2026-10-14T16:00:25.366874+00:00"
+  "generated_at": "2026-10-14T21:00:53.750328+00:00"
 }
